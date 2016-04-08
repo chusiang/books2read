@@ -7,6 +7,7 @@
 1. [版本控制使用 Git](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
 1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635?item_id=452884) / 30%
 1. [Git 權威指南](http://www.books.com.tw/products/CN10770222) / 30%
+1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
 1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334?item_id=892753) / 40%
 1. [AWS 雲端企業實戰聖經](https://play.google.com/store/books/details/%E6%9E%97%E5%85%81%E6%BA%A5_AWS%E9%9B%B2%E7%AB%AF%E4%BC%81%E6%A5%AD%E5%AF%A6%E6%88%B0%E8%81%96%E7%B6%93?id=IpirAAAAQBAJ) / 100%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
@@ -26,3 +27,8 @@
 1. [大話重構](http://www.tenlong.com.tw/items/9864340468?item_id=1007025) / 0%
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 0%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696?item_id=1004283) / 0%
+
+
+## 他人的讀書清單
+
+* [lyhcode 的資訊人一生必讀的三十本經典書籍](http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3)
