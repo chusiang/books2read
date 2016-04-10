@@ -2,9 +2,7 @@
 
 希望每天分享一本好書，讓我們一起透過閱讀的力量，重新發現身為資訊人，此生追尋的永恆目標及價值。這個主題希望透過拋磚引玉的方式，讓更多人參與討論及分享，相信大家口袋裡都有不少好書清單，歡迎不吝分享～～～
 
-<div style="text-align: right;">
-  <a href="http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3">» more</a>
-</div>
+[» more](http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3)
 
 1. [世紀末軟體革命、資訊人文化出版的三部經典](http://ithelp.ithome.com.tw/question/10101848)
 1. [Peopleware 腦力密集產業的人才管理之道](http://ithelp.ithome.com.tw/question/10102183)
