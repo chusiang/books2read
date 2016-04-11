@@ -5,6 +5,7 @@
 
 ## 待讀書單
 
+1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 4%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
 1. [版本控制使用 Git](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
@@ -14,7 +15,6 @@
 1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702?item_id=998176) / 80%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
-1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 1%
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878?item_id=17491) / 0%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 0%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771?item_id=495188) / 40%
