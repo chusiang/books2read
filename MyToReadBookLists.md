@@ -5,7 +5,7 @@
 
 ## 待讀書單
 
-1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 4%
+1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 40%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
 1. [版本控制使用 Git](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
@@ -45,4 +45,5 @@
 ## 他人的讀書清單
 
 * [lyhcode 的資訊人一生必讀的三十本經典書籍](http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3)
+* [每位認真的程式設計師都要讀的10本經典書 | Soft & Share](https://softnshare.wordpress.com/2016/02/24/%e6%af%8f%e4%bd%8d%e8%aa%8d%e7%9c%9f%e7%9a%84%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88%e5%b8%ab%e9%83%bd%e8%a6%81%e8%ae%80%e7%9a%8410%e6%9c%ac%e7%b6%93%e5%85%b8%e6%9b%b8/)
 
