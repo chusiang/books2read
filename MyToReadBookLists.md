@@ -5,7 +5,8 @@
 
 ## 待讀書單
 
-1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 40%
+1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387?item_id=1007473) / 5%
+1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 60%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
 1. [版本控制使用 Git](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
