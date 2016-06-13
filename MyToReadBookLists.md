@@ -5,6 +5,7 @@
 
 ## 待讀書單
 
+1. [鳳凰項目：一個 IT 運維的傳奇故事](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 70%
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 65%
