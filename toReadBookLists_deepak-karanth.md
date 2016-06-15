@@ -1,6 +1,6 @@
 # 每位認真的程式設計師都要讀的 10 本經典書 | Deepak Karanth 
 
-[Deepak Karanth](http://softwareyoga.com/author/deepak-karanth/) 是有 12 年經驗的 Averda/Citybin/Ericsson/IBM 等知名公司的首席架構師、顧問與軟體開發的輔導。在這篇文章，建議程式設計師需要讀的不只是 code 或網路上找的答案，有些程式開發過程會遇到的問題多年來都類似，且也有很棒的解決智慧。這些多年來的智慧經典，身為認真的程式設計師都不可錯過。
+[Deepak Karanth](http://softwareyoga.com/author/deepak-karanth/) 是有 12 年經驗的 Averda / Citybin / Ericsson / IBM 等知名公司的首席架構師、顧問與軟體開發的輔導。在這篇文章，建議程式設計師需要讀的不只是 code 或網路上找的答案，有些程式開發過程會遇到的問題多年來都類似，且也有很棒的解決智慧。這些多年來的智慧經典，身為認真的程式設計師都不可錯過。
 
 [» more](https://softnshare.wordpress.com/2016/02/24/每位認真的程式設計師都要讀的10本經典書/)
 
@@ -12,7 +12,7 @@
 1. [修改代碼的藝術](http://www.books.com.tw/products/CN11126323)
 1. [代碼大全 2](http://product.china-pub.com/58522)
 1. [深入淺出設計模式](http://www.tenlong.com.tw/items/9867794524?item_id=33235)
-1. [Peopleware：腦力密集產業的人才管理之道(增訂版)](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941327018)
+1. [Peopleware：腦力密集產業的人才管理之道 (增訂版)](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2014941327018)
 1. [軟體開發團隊工具心得分享](https://www.facebook.com/softdevtools/?ref=hl)
 
 ## 正修圖書館藏書
