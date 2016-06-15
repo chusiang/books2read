@@ -34,7 +34,6 @@
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 0%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696?item_id=1004283) / 0%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
-
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](http://www.tenlong.com.tw/items/0002161311?item_id=889207) / 0%
 
 ## 已讀書單
