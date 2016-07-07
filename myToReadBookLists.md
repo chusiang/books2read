@@ -5,9 +5,14 @@
 
 ## 待讀書單
 
+1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780?item_id=1012293) / 0%
+1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
+1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807?item_id=1021576) / 0%
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 65%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 0%
+1. [建構微服務｜設計細微化的系統 (Building Microservices)](http://www.tenlong.com.tw/items/9864760785?item_id=1021577) / 0%
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
+1. [笑談軟體工程：例外處理設計的逆襲](http://www.tenlong.com.tw/items/9865740389?item_id=891531) / 0%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
@@ -18,8 +23,6 @@
 1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334?item_id=892753) / 40%
 1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702?item_id=998176) / 80%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
-1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780?item_id=1012293) / 0%
-1. [Docker 即学即用](https://about.ac/books/docker-up-and-running/) / 0%
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878?item_id=17491) / 0%
 1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 0%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771?item_id=495188) / 40%
@@ -45,7 +48,7 @@
 1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587?item_id=1004900) / 100%
 1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](http://www.tenlong.com.tw/items/986276256X?item_id=338410) / 100%
 1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074?item_id=1010334) / 100%
-1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387?item_id=1007473) / 100%
+1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387?item_id=1007473) / 105%
 1. [鳳凰項目：一個 IT 運維的傳奇故事](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 100%
 
 ## 他人的讀書清單
