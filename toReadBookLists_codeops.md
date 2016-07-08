@@ -29,3 +29,7 @@
   - [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807?item_id=1021576) / 繁體中文
 1. [Docker in Action](http://www.tenlong.com.tw/items/1633430235?item_id=1013389)
 1. [Using Docker: Developing and Deploying Software with Containers](http://www.tenlong.com.tw/items/1491915765?item_id=1011536)
+
+## Reference
+
+* [五本 DevOps 必讀書目 ...... | DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/permalink/1040640342689678/)
