@@ -5,9 +5,10 @@
 
 ## 待讀書單
 
-1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 28%
-1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807?item_id=1021576) / 4%
-1. [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 2%
+1. [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
+1. [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1%
+1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
+1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807?item_id=1021576) / 21%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 2%
 1. [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1%
 1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780?item_id=1012293) / 15%
