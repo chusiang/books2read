@@ -16,7 +16,7 @@
 
 ## 待讀書單
 
-1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 2%
+1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
 1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 1%
 1. [工作愈換愈好，得有這些本事](http://www.books.com.tw/products/0010733434) / 43%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 2%
