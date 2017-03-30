@@ -16,12 +16,12 @@
 
 ## 待讀書單
 
-1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 3%
+1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 10%
 1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 34%
+1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 3%
 1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [工作愈換愈好，得有這些本事](http://www.books.com.tw/products/0010733434) / 43%
-1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 2%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 2%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1%
