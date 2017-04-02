@@ -16,7 +16,7 @@
 
 ## 待讀書單
 
-1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 10%
+1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 17%
 1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 34%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 3%
 1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
@@ -62,6 +62,7 @@
 1. [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
 1. [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
 1. [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1%
+1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
 
 ## 已讀書單
 
