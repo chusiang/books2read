@@ -74,7 +74,7 @@
 1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](http://www.tenlong.com.tw/items/986276256X?item_id=338410) / 100%
 1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074?item_id=1010334) / 105%
 1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387?item_id=1007473) / 106%
-1. [鳳凰項目：一個 IT 運維的傳奇故事](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 100%
+1. [鳳凰項目：一個 IT 運維的傳奇故事](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 190%
 1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702?item_id=998176) / 100%
 1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
 
