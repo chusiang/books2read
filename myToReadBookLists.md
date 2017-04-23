@@ -16,7 +16,6 @@
 
 ## 待讀書單
 
-1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 65%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](http://www.tenlong.com.tw/items/0002161311?item_id=889207) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 20%
 1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 34%
@@ -31,6 +30,7 @@
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 2%
 1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
+1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 65%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development)](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
@@ -46,6 +46,7 @@
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
+1. [Selenium 2自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
 1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php?id=a202) / 1%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
 1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought)](http://www.tenlong.com.tw/items/7115338698?item_id=891689) / 1%
@@ -77,6 +78,7 @@
 
 ## 已讀書單
 
+1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
 1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974?item_id=35875) / 100%
 1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754?item_id=5718) / 100%
 1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
