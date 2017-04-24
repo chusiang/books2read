@@ -27,7 +27,7 @@
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e)](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
-1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 2%
+1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 6%
 1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 65%
