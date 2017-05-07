@@ -16,8 +16,9 @@
 
 ## 待讀書單
 
-1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](http://www.tenlong.com.tw/items/0002161311?item_id=889207) / 1%
-1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 20%
+1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](http://www.tenlong.com.tw/items/0002161311?item_id=889207) / 24%
+1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 23%
+1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 34%
 1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
@@ -40,7 +41,6 @@
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)](https://www.tenlong.com.tw/products/9789862017050) / 1%
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers)](https://www.tenlong.com.tw/products/9789862017883) / 1%
-1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [笑談軟體工程：例外處理設計的逆襲](http://www.tenlong.com.tw/items/9865740389?item_id=891531) / 1%
 1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334?item_id=892753) / 40%
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
