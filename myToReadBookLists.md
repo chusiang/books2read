@@ -16,7 +16,7 @@
 
 ## 待讀書單
 
-1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 18%
+1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 61%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 1%
