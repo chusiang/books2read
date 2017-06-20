@@ -16,12 +16,11 @@
 
 ## 待讀書單
 
-1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 61%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
-1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
-1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 23%
 1. [Agile 學習手冊 | Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
+1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
+1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 1%
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 34%
 1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
@@ -58,6 +57,10 @@
 1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635?item_id=452884) / 31%
 1. [Git 權威指南](http://www.books.com.tw/products/CN10770222) / 30%
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878?item_id=17491) / 1%
+1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance)](https://www.tenlong.com.tw/products/9789862764763) / 1%
+1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think)](https://www.tenlong.com.tw/products/9789862764213) / 1%
+1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software)](https://www.tenlong.com.tw/products/9789862763445) / 1%
+1. [Infrastructure as Code: Managing Servers in the Cloud](https://www.tenlong.com.tw/products/9781491924358) / 1%
 1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 0%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771?item_id=495188) / 40%
 1. [搜尋模式 (Search Patterns: Design for Discovery)](http://www.tenlong.com.tw/items/9862763116?item_id=369594) / 1%
@@ -72,12 +75,14 @@
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696?item_id=1004283) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
+1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds)](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
 1. [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1%
 1. [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
 1. [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1%
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程](https://www.tenlong.com.tw/products/9789864341757) / 0%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
+1. [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1%
 
 ## 已讀書單
 
@@ -95,10 +100,10 @@
 1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
 1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780?item_id=1012293) / 100%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
+1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 100%
 
 ## 他人的讀書清單
 
 - [lyhcode 的資訊人一生必讀的三十本經典書籍](http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3)
 - [每位認真的程式設計師都要讀的10本經典書 | Soft & Share](https://softnshare.wordpress.com/2016/02/24/%e6%af%8f%e4%bd%8d%e8%aa%8d%e7%9c%9f%e7%9a%84%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88%e5%b8%ab%e9%83%bd%e8%a6%81%e8%ae%80%e7%9a%8410%e6%9c%ac%e7%b6%93%e5%85%b8%e6%9b%b8/)
 - [Topper's booklist](https://gist.github.com/Topperchi/217ac16d27bf56fad52045aa2d6ed0df)
-
