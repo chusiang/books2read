@@ -16,7 +16,6 @@
 
 ## 待讀書單
 
-1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 28%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
 1. [Agile 學習手冊 | Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
@@ -87,6 +86,7 @@
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
 1. [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1%
 
+
 ## 已讀書單
 
 1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
@@ -104,6 +104,8 @@
 1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780?item_id=1012293) / 100%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
 1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 100%
+1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 100%
+
 
 ## 他人的讀書清單
 
