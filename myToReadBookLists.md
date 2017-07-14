@@ -17,16 +17,24 @@
 ## 待讀書單
 
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
+1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 1%
+1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 1%
+1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
+1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
 1. [Agile 學習手冊 | Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
-1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 34%
 1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
+1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
 1. [一隻企鵝教我的事](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018560215688) / 1%
 1. [工作愈換愈好，得有這些本事](http://www.books.com.tw/products/0010733434) / 43%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 15%
+1. [軟技能代碼之外的生存指南 \(Soft Skills : The software developer's life manual\)](https://www.tenlong.com.tw/products/9787115429476) / 1%
+1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 \(Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust\)](https://www.tenlong.com.tw/products/9789862019542) / 1%
+1. [用戶故事與敏捷方法](https://www.tenlong.com.tw/products/9787302223405) / 1%
+1. [使用者故事對照 \(User Story Mapping: Discover the Whole Story, Build the Right Product\)](https://www.tenlong.com.tw/products/9789863479468) / 1%
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e)](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
@@ -78,6 +86,7 @@
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
 1. [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
+1. [成長駭客行銷：引爆集客瘋潮的新實戰力 \(Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising\)](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南](https://www.tenlong.com.tw/products/9789866348365) / 1%
 1. [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1%
 1. [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
@@ -92,6 +101,7 @@
 1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
 1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974?item_id=35875) / 100%
 1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754?item_id=5718) / 100%
+1. [Linux 紅帽旋風](http://www.books.com.tw/products/0010071706) / 100%
 1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
 1. [AWS 雲端企業實戰聖經](https://play.google.com/store/books/details/%E6%9E%97%E5%85%81%E6%BA%A5_AWS%E9%9B%B2%E7%AB%AF%E4%BC%81%E6%A5%AD%E5%AF%A6%E6%88%B0%E8%81%96%E7%B6%93?id=IpirAAAAQBAJ) / 100%
 1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587?item_id=1004900) / 100%
@@ -105,6 +115,7 @@
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
 1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 100%
 1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 100%
+1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 100%
 
 
 ## 他人的讀書清單
