@@ -16,9 +16,9 @@
 
 ## 待讀書單
 
+1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 28%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 1%
-1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
