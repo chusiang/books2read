@@ -14,9 +14,10 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+
 ## 待讀書單
 
-1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 28%
+1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 35%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
@@ -116,6 +117,8 @@
 1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 100%
 1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 100%
 1. [工作愈換愈好，得有這些本事](http://www.books.com.tw/products/0010733434) / 100%
+1. [小企鵝波波 (Bobo the Baby Penguin)](http://www.books.com.tw/products/0010752185) /100%
+
 
 ## 他人的讀書清單
 
