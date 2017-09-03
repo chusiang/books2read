@@ -20,8 +20,12 @@
 1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 35%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 1%
+1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
+1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
+1. [Ansible: Up and Running (2/e)](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
+1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
 1. [Agile 學習手冊 | Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
@@ -40,6 +44,7 @@
 1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
 1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
+1. [Effective DevOps](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 65%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development)](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
@@ -64,6 +69,7 @@
 1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635?item_id=452884) / 31%
 1. [Git 權威指南](http://www.books.com.tw/products/CN10770222) / 30%
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878?item_id=17491) / 1%
+1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders)](https://www.tenlong.com.tw/products/9789862763834) /1%
 1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance)](https://www.tenlong.com.tw/products/9789862764763) / 1%
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think)](https://www.tenlong.com.tw/products/9789862764213) / 1%
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software)](https://www.tenlong.com.tw/products/9789862763445) / 1%
@@ -71,6 +77,7 @@
 1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 0%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771?item_id=495188) / 40%
 1. [搜尋模式 (Search Patterns: Design for Discovery)](http://www.tenlong.com.tw/items/9862763116?item_id=369594) / 1%
+1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization)](https://www.tenlong.com.tw/products/9789864764433) / 1%
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age)](https://www.tenlong.com.tw/items/9867794699?item_id=29319) / 0%
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197?item_id=587095) / 0%
 1. [深入淺出 Python (Head First Python)](http://www.tenlong.com.tw/items/9862763485?item_id=384628) / 2%
