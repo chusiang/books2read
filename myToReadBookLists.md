@@ -130,7 +130,7 @@
 1. [小企鵝波波 (Bobo the Baby Penguin)](http://www.books.com.tw/products/0010752185) /100%
 1. [鳳凰項目 (沙盤特別版)：一個 IT 運維的傳奇故事](http://www.ibestpractice.org/index.php?m=content&c=index&a=show&catid=14&id=62) / 100%
 1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 100%
-1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 100%
+1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://m.sanmin.com.tw/product/index/004504779) / 100%
 
 
 ## 他人的讀書清單
