@@ -17,12 +17,15 @@
 
 ## 待讀書單
 
+1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 1%
+1. [精實開發與看板方法](https://www.tenlong.com.tw/products/9789865617028) / 1%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
+1. [PostgreSQL 即學即用 (2/e)](https://www.tenlong.com.tw/products/9787115411280) / 1%
 1. [Ansible: Up and Running (2/e)](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
@@ -58,6 +61,7 @@
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
+1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [Selenium 2自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
 1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php?id=a202) / 1%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
@@ -88,6 +92,7 @@
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696?item_id=1004283) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
 1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds)](https://www.tenlong.com.tw/products/9789861342313) / 1%
+1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
 1. [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
