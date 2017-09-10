@@ -44,7 +44,6 @@
 1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
 1. [Effective DevOps](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
-1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 65%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development)](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
@@ -126,6 +125,8 @@
 1. [小企鵝波波 (Bobo the Baby Penguin)](http://www.books.com.tw/products/0010752185) /100%
 1. [鳳凰項目 (沙盤特別版)：一個 IT 運維的傳奇故事](http://www.ibestpractice.org/index.php?m=content&c=index&a=show&catid=14&id=62) / 100%
 1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 100%
+1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://www.tenlong.com.tw/items/7111462823?item_id=891713) / 100%
+
 
 ## 他人的讀書清單
 
