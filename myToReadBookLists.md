@@ -17,11 +17,15 @@
 
 ## 待讀書單
 
+1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
-1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 1%
 1. [精實開發與看板方法](https://www.tenlong.com.tw/products/9789865617028) / 1%
+1. [持續改善：TOC 生產管理指南](http://www.books.com.tw/products/CN11193077) / 1%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
+1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 0%
+1. [戰爭遊戲](http://www.books.com.tw/products/0010581224) / 3™%
+1. [戰爭遊戲外傳：安德闇影](http://www.books.com.tw/products/0010683723) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
@@ -52,6 +56,10 @@
 1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
 1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807?item_id=1021576) / 21%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
+1. [遊戲人生：有效有趣的破冰遊戲](http://www.books.com.tw/products/0010651863) / 1%
+1. [引導反思的第一本書](http://www.books.com.tw/products/0010618831) /1%
+1. [獨角獸與牠的產地：矽谷新創公司歷險記](http://www.books.com.tw/products/0010757639) / 1%
+1. [熱血仁醫：開創新局的臺大醫院駐院醫學團隊](http://www.books.com.tw/products/0010611754) / 1%
 1. [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)](https://www.tenlong.com.tw/products/9789862017050) / 1%
