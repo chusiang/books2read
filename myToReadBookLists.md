@@ -17,7 +17,6 @@
 
 ## 待讀書單
 
-1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 88%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [精實開發與看板方法](https://www.tenlong.com.tw/products/9789865617028) / 1%
@@ -139,6 +138,7 @@
 1. [鳳凰項目 (沙盤特別版)：一個 IT 運維的傳奇故事](http://www.ibestpractice.org/index.php?m=content&c=index&a=show&catid=14&id=62) / 100%
 1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 100%
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://m.sanmin.com.tw/product/index/004504779) / 100%
+1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 100%
 
 
 ## 他人的讀書清單
@@ -146,3 +146,4 @@
 - [lyhcode 的資訊人一生必讀的三十本經典書籍](http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3)
 - [每位認真的程式設計師都要讀的10本經典書 | Soft & Share](https://softnshare.wordpress.com/2016/02/24/%e6%af%8f%e4%bd%8d%e8%aa%8d%e7%9c%9f%e7%9a%84%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88%e5%b8%ab%e9%83%bd%e8%a6%81%e8%ae%80%e7%9a%8410%e6%9c%ac%e7%b6%93%e5%85%b8%e6%9b%b8/)
 - [Topper's booklist](https://gist.github.com/Topperchi/217ac16d27bf56fad52045aa2d6ed0df)
+
