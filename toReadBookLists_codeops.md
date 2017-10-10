@@ -13,7 +13,7 @@
     - [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 繁體中文 ✔
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](http://www.tenlong.com.tw/items/0988262509?item_id=1007593) ✔
     - [鳳凰項目：一個IT運維的傳奇故事](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 簡體中文 ✔
-    - [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 繁體中文
+    - [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 繁體中文 ✔
 1. [DevOps: A Software Architect's Perspective](http://www.tenlong.com.tw/items/0134049845?item_id=1005244)
 
 
