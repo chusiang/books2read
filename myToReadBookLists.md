@@ -23,7 +23,6 @@
 1. [持續改善：TOC 生產管理指南](http://www.books.com.tw/products/CN11193077) / 1%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 0%
-1. [戰爭遊戲](http://www.books.com.tw/products/0010581224) / 3™%
 1. [戰爭遊戲外傳：安德闇影](http://www.books.com.tw/products/0010683723) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
@@ -139,6 +138,7 @@
 1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 100%
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://m.sanmin.com.tw/product/index/004504779) / 100%
 1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 100%
+1. [戰爭遊戲](http://www.books.com.tw/products/0010581224) / 100%
 
 
 ## 他人的讀書清單
@@ -146,4 +146,3 @@
 - [lyhcode 的資訊人一生必讀的三十本經典書籍](http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3)
 - [每位認真的程式設計師都要讀的10本經典書 | Soft & Share](https://softnshare.wordpress.com/2016/02/24/%e6%af%8f%e4%bd%8d%e8%aa%8d%e7%9c%9f%e7%9a%84%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88%e5%b8%ab%e9%83%bd%e8%a6%81%e8%ae%80%e7%9a%8410%e6%9c%ac%e7%b6%93%e5%85%b8%e6%9b%b8/)
 - [Topper's booklist](https://gist.github.com/Topperchi/217ac16d27bf56fad52045aa2d6ed0df)
-
