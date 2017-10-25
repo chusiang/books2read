@@ -18,13 +18,13 @@
 ## 待讀書單
 
 1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 13%
+1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow)](http://www.books.com.tw/products/0010683723) / 38%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [精實開發與看板方法](https://www.tenlong.com.tw/products/9789865617028) / 1%
 1. [持續改善：TOC 生產管理指南](http://www.books.com.tw/products/CN11193077) / 1%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 0%
-1. [戰爭遊戲外傳：安德闇影](http://www.books.com.tw/products/0010683723) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
