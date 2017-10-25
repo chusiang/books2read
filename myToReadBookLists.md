@@ -18,58 +18,59 @@
 ## 待讀書單
 
 1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 13%
+1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds)](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow)](http://www.books.com.tw/products/0010683723) / 38%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
+1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
+1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation)](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
+1. [Agile 學習手冊 | Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [精實開發與看板方法](https://www.tenlong.com.tw/products/9789865617028) / 1%
+1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 \(Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust\)](https://www.tenlong.com.tw/products/9789862019542) / 1%
+1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
+1. [用戶故事與敏捷方法](https://www.tenlong.com.tw/products/9787302223405) / 1%
+1. [使用者故事對照 \(User Story Mapping: Discover the Whole Story, Build the Right Product\)](https://www.tenlong.com.tw/products/9789863479468) / 1%
 1. [持續改善：TOC 生產管理指南](http://www.books.com.tw/products/CN11193077) / 1%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
-1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 0%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
-1. [PostgreSQL 即學即用 (2/e)](https://www.tenlong.com.tw/products/9787115411280) / 1%
+1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
 1. [Ansible: Up and Running (2/e)](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
-1. [Agile 學習手冊 | Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
-1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
-1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
-1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
-1. [一隻企鵝教我的事](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018560215688) / 1%
+1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
+1. [PostgreSQL 即學即用 (2/e)](https://www.tenlong.com.tw/products/9787115411280) / 1%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 15%
-1. [軟技能代碼之外的生存指南 \(Soft Skills : The software developer's life manual\)](https://www.tenlong.com.tw/products/9787115429476) / 1%
-1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 \(Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust\)](https://www.tenlong.com.tw/products/9789862019542) / 1%
-1. [用戶故事與敏捷方法](https://www.tenlong.com.tw/products/9787302223405) / 1%
-1. [使用者故事對照 \(User Story Mapping: Discover the Whole Story, Build the Right Product\)](https://www.tenlong.com.tw/products/9789863479468) / 1%
+1. [一隻企鵝教我的事](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018560215688) / 1%
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e)](https://www.tenlong.com.tw/products/9789862766194) / 1%
+1. [軟技能代碼之外的生存指南 \(Soft Skills : The software developer's life manual\)](https://www.tenlong.com.tw/products/9787115429476) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [SRE: Google 運維解密](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
-1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
+1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 0%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
 1. [Effective DevOps](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development)](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
 1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807?item_id=1021576) / 21%
-1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
 1. [遊戲人生：有效有趣的破冰遊戲](http://www.books.com.tw/products/0010651863) / 1%
 1. [引導反思的第一本書](http://www.books.com.tw/products/0010618831) /1%
 1. [獨角獸與牠的產地：矽谷新創公司歷險記](http://www.books.com.tw/products/0010757639) / 1%
 1. [熱血仁醫：開創新局的臺大醫院駐院醫學團隊](http://www.books.com.tw/products/0010611754) / 1%
-1. [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)](https://www.tenlong.com.tw/products/9789862017050) / 1%
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers)](https://www.tenlong.com.tw/products/9789862017883) / 1%
-1. [笑談軟體工程：例外處理設計的逆襲](http://www.tenlong.com.tw/items/9865740389?item_id=891531) / 1%
 1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334?item_id=892753) / 40%
+1. [笑談軟體工程：例外處理設計的逆襲](http://www.tenlong.com.tw/items/9865740389?item_id=891531) / 1%
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
-1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
+1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
+1. [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1%
 1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
-1. [Selenium 2自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
+1. [Selenium 2 自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
 1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php?id=a202) / 1%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
 1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought)](http://www.tenlong.com.tw/items/7115338698?item_id=891689) / 1%
@@ -95,20 +96,19 @@
 1. [It's Django--用 Python 迅速打造 Web 應用](http://www.tenlong.com.tw/items/9863475467?item_id=1004939) / 4%
 1. [王者歸來 : 自己動手寫網路爬蟲, 2/e](https://www.tenlong.com.tw/products/9789863793335) / 0%
 1. [大話重構](http://www.tenlong.com.tw/items/9864340468?item_id=1007025) / 1%
-1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696?item_id=1004283) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
-1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds)](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
 1. [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
-1. [成長駭客行銷：引爆集客瘋潮的新實戰力 \(Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising\)](https://www.tenlong.com.tw/products/9789863981503) / 1%
+1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising)](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南](https://www.tenlong.com.tw/products/9789866348365) / 1%
 1. [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1%
 1. [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
 1. [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1%
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程](https://www.tenlong.com.tw/products/9789864341757) / 0%
+1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
 1. [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1%
 
