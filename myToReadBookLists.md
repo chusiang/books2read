@@ -17,7 +17,6 @@
 
 ## 待讀書單
 
-1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 13%
 1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds)](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow)](http://www.books.com.tw/products/0010683723) / 38%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
@@ -140,6 +139,7 @@
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://m.sanmin.com.tw/product/index/004504779) / 100%
 1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 100%
 1. [戰爭遊戲](http://www.books.com.tw/products/0010581224) / 100%
+1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 100%
 
 
 ## 他人的讀書清單
