@@ -17,7 +17,7 @@
 
 ## 待讀書單
 
-1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 43%
+1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 58%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640)
