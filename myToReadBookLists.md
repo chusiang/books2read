@@ -123,19 +123,12 @@
 
 ## 已讀書單
 
-1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
-1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974?item_id=35875) / 100%
-1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754?item_id=5718) / 100%
-1. [Linux 紅帽旋風](http://www.books.com.tw/products/0010071706) / 100%
-1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
-1. [AWS 雲端企業實戰聖經](https://play.google.com/store/books/details/%E6%9E%97%E5%85%81%E6%BA%A5_AWS%E9%9B%B2%E7%AB%AF%E4%BC%81%E6%A5%AD%E5%AF%A6%E6%88%B0%E8%81%96%E7%B6%93?id=IpirAAAAQBAJ) / 100%
-1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587?item_id=1004900) / 100%
-1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](http://www.tenlong.com.tw/items/986276256X?item_id=338410) / 100%
-1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074?item_id=1010334) / 105%
-1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387?item_id=1007473) / 106%
-1. [鳳凰項目：一個 IT 運維的傳奇故事](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 205%
-1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702?item_id=998176) / 100%
-1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
+### 2018
+
+None.
+
+### 2017
+
 1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780?item_id=1012293) / 100%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
 1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 100%
@@ -151,6 +144,27 @@
 1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 100%
 1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow)](http://www.books.com.tw/products/0010683723) / 100%
 
+### 2016
+
+1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](http://www.tenlong.com.tw/items/986276256X?item_id=338410) / 100%
+1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074?item_id=1010334) / 105%
+1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387?item_id=1007473) / 106%
+1. [鳳凰項目：一個 IT 運維的傳奇故事](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 205%
+1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702?item_id=998176) / 100%
+1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
+
+### 2015
+
+1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
+1. [AWS 雲端企業實戰聖經](https://play.google.com/store/books/details/%E6%9E%97%E5%85%81%E6%BA%A5_AWS%E9%9B%B2%E7%AB%AF%E4%BC%81%E6%A5%AD%E5%AF%A6%E6%88%B0%E8%81%96%E7%B6%93?id=IpirAAAAQBAJ) / 100%
+1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587?item_id=1004900) / 100%
+
+### ~ 2014
+
+1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
+1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974?item_id=35875) / 100%
+1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754?item_id=5718) / 100%
+1. [Linux 紅帽旋風](http://www.books.com.tw/products/0010071706) / 100%
 
 ## 他人的讀書清單
 
