@@ -17,7 +17,7 @@
 
 ## 待讀書單
 
-1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 75%
+1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 86%
 1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
