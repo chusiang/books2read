@@ -37,8 +37,8 @@
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners)](https://www.tenlong.com.tw/products/9789864763153) / 1%
 1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 (Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust)](https://www.tenlong.com.tw/products/9789862019542) / 1%
-1. [一鍵安裝數百軟體於數千電腦：魔術般的 Ansible](https://www.tenlong.com.tw/products/9789863795759) / 0%
-1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 0%
+1. [一鍵安裝數百軟體於數千電腦：魔術般的 Ansible](https://www.tenlong.com.tw/products/9789863795759) / 1%
+1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 1%
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [用戶故事與敏捷方法](https://www.tenlong.com.tw/products/9787302223405) / 1%
 1. [使用者故事對照 (User Story Mapping: Discover the Whole Story, Build the Right Product)](https://www.tenlong.com.tw/products/9789863479468) / 1%
@@ -97,7 +97,7 @@
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think)](https://www.tenlong.com.tw/products/9789862764213) / 1%
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software)](https://www.tenlong.com.tw/products/9789862763445) / 1%
 1. [Infrastructure as Code: Managing Servers in the Cloud](https://www.tenlong.com.tw/products/9781491924358) / 1%
-1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 0%
+1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771?item_id=495188) / 40%
 1. [搜尋模式 (Search Patterns: Design for Discovery)](http://www.tenlong.com.tw/items/9862763116?item_id=369594) / 1%
 1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization)](https://www.tenlong.com.tw/products/9789864764433) / 1%
@@ -112,6 +112,7 @@
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696?item_id=1004283) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
+1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
 1. [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
@@ -123,8 +124,7 @@
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程](https://www.tenlong.com.tw/products/9789864341757) / 0%
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
-1. [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1%
-1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
+1. [~~10 天學會 Ruby on Rails：Web 2.0 網站架設速成~~](https://www.tenlong.com.tw/products/9789864341351) / 1%
 
 ## 已讀書單
 
