@@ -18,6 +18,7 @@
 ## 待讀書單
 
 1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 21%
+1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
 1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
