@@ -7,7 +7,7 @@
 1. [世紀末軟體革命、資訊人文化出版的三部經典](http://ithelp.ithome.com.tw/question/10101848)
 1. [Peopleware 腦力密集產業的人才管理之道](http://ithelp.ithome.com.tw/question/10102183)
 1. [人月神話，軟體專案管理之道](http://ithelp.ithome.com.tw/question/10102537) ✔
-1. [駭客與畫家](http://ithelp.ithome.com.tw/question/10102881)
+1. [駭客與畫家](http://ithelp.ithome.com.tw/question/10102881) ✔
 1. [與熊共舞：軟體專案的風險管理](http://ithelp.ithome.com.tw/question/10103261)
 1. [網路不斷革命論](http://ithelp.ithome.com.tw/question/10103549)
 1. [約耳趣談軟體、約耳續談軟體](http://ithelp.ithome.com.tw/question/10103815)
