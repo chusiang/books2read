@@ -19,6 +19,10 @@
 
 1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 21%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
+1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
+1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
+1. [蔡康永的說話之道 2](http://www.books.com.tw/products/0010632643) / 1%
+1. [囧星人的人生百想妙答](http://www.books.com.tw/products/0010765506) / 1%
 1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
 1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
@@ -26,6 +30,7 @@
 1. [持续集成: 软件质量改进和风险降低之道 by Paul M.Duvall, Steve Matyas, Andrew Glover](https://book.douban.com/subject/2580604/) / 1%
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 1%
+1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
 1. [心態致勝: 全新成功心理學 by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考](http://www.books.com.tw/products/0010728251) / 1%
@@ -36,6 +41,7 @@
 1. [資安風險評估指南 (Network Security Assessment, 3/e) by Chris McNab](https://www.tenlong.com.tw/products/9789864765478) / 1%
 1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds) by Carmine Gallo](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
+1. [一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術 by 土井英司](http://www.books.com.tw/products/0010762830) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners)](https://www.tenlong.com.tw/products/9789864763153) / 1%
@@ -49,6 +55,7 @@
 1. [抉擇 (The Choice)](http://www.books.com.tw/products/CN11283168) / 1%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
+1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
 1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
