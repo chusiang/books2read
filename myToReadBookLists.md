@@ -17,7 +17,7 @@
 
 ## 待讀書單
 
-1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 49%
+1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 59%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
