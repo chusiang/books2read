@@ -182,6 +182,7 @@
 1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974?item_id=35875) / 100%
 1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754?item_id=5718) / 100%
 1. [Linux 紅帽旋風](http://www.books.com.tw/products/0010071706) / 100%
+1. [大教堂和市集 by Eric Steven Raymond](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%B8%82%E9%9B%86) / 100%
 
 ## 他人的讀書清單
 
