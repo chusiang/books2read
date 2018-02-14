@@ -125,9 +125,27 @@
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/11135) / 1%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/12148) / 1%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/14871) / 1%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/2325) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/2326) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/2327) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/2740) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (5) by 愛七ひろ](http://www.bookwalker.com.tw/product/3021) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (6) by 愛七ひろ](http://www.bookwalker.com.tw/product/6232) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (7) by 愛七ひろ](http://www.bookwalker.com.tw/product/8277) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (8) by 愛七ひろ](http://www.bookwalker.com.tw/product/11136) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (9) by 愛七ひろ](http://www.bookwalker.com.tw/product/14315) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (10) by 愛七ひろ](http://www.bookwalker.com.tw/product/21841) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (11) by 愛七ひろ](http://www.bookwalker.com.tw/product/32130) / 1%
+1. [[輕小說] 前進吧！！高捷少女：禮贈](http://www.bookwalker.com.tw/product/8550) / 1%
+1. [[輕小說] 前進吧！！高捷少女：日常](http://www.bookwalker.com.tw/product/8953) / 1%
+1. [[輕小說] 前進吧！！高捷少女：音躍](http://www.bookwalker.com.tw/product/8954) / 1%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
-1. [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
+1. [~~精通 Linux (How Linux Works)~~](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising)](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南](https://www.tenlong.com.tw/products/9789866348365) / 1%
 1. [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1%
