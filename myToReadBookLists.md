@@ -19,7 +19,10 @@
 
 1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 59%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
+1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
+1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
+1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
 1. [蔡康永的說話之道 2](http://www.books.com.tw/products/0010632643) / 1%
@@ -125,10 +128,6 @@
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/11135) / 1%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/12148) / 1%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/14871) / 1%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/2325) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/2326) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/2327) / 1%
@@ -161,6 +160,10 @@
 ### 2018
 
 1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 100%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/11135) / 100%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/12148) / 100%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/14871) / 100%
+1. [[漫畫] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 100%
 
 ### 2017
 
