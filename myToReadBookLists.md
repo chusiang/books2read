@@ -128,7 +128,6 @@
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/2325) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/2326) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/2327) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/2740) / 1%
@@ -164,6 +163,7 @@
 1. [[漫畫] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/12148) / 100%
 1. [[漫畫] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/14871) / 100%
 1. [[漫畫] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/2325) / 100%
 
 ### 2017
 
