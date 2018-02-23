@@ -38,6 +38,7 @@
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
 1. [心態致勝: 全新成功心理學 by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
+1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考](http://www.books.com.tw/products/0010728251) / 1%
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
