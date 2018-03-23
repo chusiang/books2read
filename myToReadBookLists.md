@@ -17,7 +17,6 @@
 
 ## 待讀書單
 
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (11) by 愛七ひろ](http://www.bookwalker.com.tw/product/32130) / 53%
 1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 59%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
@@ -165,6 +164,7 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (8) by 愛七ひろ](http://www.bookwalker.com.tw/product/11136) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (9) by 愛七ひろ](http://www.bookwalker.com.tw/product/14315) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (10) by 愛七ひろ](http://www.bookwalker.com.tw/product/21841) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (11) by 愛七ひろ](http://www.bookwalker.com.tw/product/32130) / 100%
 
 ### 2017
 
