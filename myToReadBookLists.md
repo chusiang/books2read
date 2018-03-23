@@ -17,6 +17,7 @@
 
 ## 待讀書單
 
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (11) by 愛七ひろ](http://www.bookwalker.com.tw/product/32130) / 53%
 1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 59%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
@@ -129,15 +130,6 @@
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/2327) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/2740) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (5) by 愛七ひろ](http://www.bookwalker.com.tw/product/3021) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (6) by 愛七ひろ](http://www.bookwalker.com.tw/product/6232) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (7) by 愛七ひろ](http://www.bookwalker.com.tw/product/8277) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (8) by 愛七ひろ](http://www.bookwalker.com.tw/product/11136) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (9) by 愛七ひろ](http://www.bookwalker.com.tw/product/14315) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (10) by 愛七ひろ](http://www.bookwalker.com.tw/product/21841) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (11) by 愛七ひろ](http://www.bookwalker.com.tw/product/32130) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈](http://www.bookwalker.com.tw/product/8550) / 1%
 1. [[輕小說] 前進吧！！高捷少女：日常](http://www.bookwalker.com.tw/product/8953) / 1%
 1. [[輕小說] 前進吧！！高捷少女：音躍](http://www.bookwalker.com.tw/product/8954) / 1%
@@ -165,6 +157,14 @@
 1. [[漫畫] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/2325) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/2326) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/2327) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/2740) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (5) by 愛七ひろ](http://www.bookwalker.com.tw/product/3021) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (6) by 愛七ひろ](http://www.bookwalker.com.tw/product/6232) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (7) by 愛七ひろ](http://www.bookwalker.com.tw/product/8277) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (8) by 愛七ひろ](http://www.bookwalker.com.tw/product/11136) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (9) by 愛七ひろ](http://www.bookwalker.com.tw/product/14315) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (10) by 愛七ひろ](http://www.bookwalker.com.tw/product/21841) / 100%
 
 ### 2017
 
