@@ -17,6 +17,7 @@
 
 ## 待讀書單
 
+1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC&pg=PA259&lpg=PA259&dq=linux+server+hacks+%E9%A7%AD%E5%AE%A2%E4%B8%80%E7%99%BE%E6%8B%9B&source=bl&ots=I8zS_U9QTe&sig=NV7IPnoqG53I9rOzEQ5oyLs_ufg&hl=zh-TW&sa=X&ved=0ahUKEwja2rGlrIXaAhUR6bwKHRvUBfAQ6AEIVDAI#v=onepage&q&f=false) / 17%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
