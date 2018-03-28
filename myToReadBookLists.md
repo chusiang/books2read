@@ -17,8 +17,8 @@
 
 ## 待讀書單
 
-1. [改變人生的時間規劃術 | 經理人特刊 No.13 @ 2017-11-16](https://www.managertoday.com.tw/magazines/view/127388) / 16%
-1. [社交高手說話術 | 經理人特刊 No.14 @ 2018-01-17](https://www.managertoday.com.tw/magazines/view/127457) / 1%
+1. [改變人生的時間規劃術 | 經理人特刊 No.13](https://www.managertoday.com.tw/magazines/view/127388) / 16%
+1. [鬼速ＰＤＣＡ | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201703270001) / 1%
 1. [魔術般的 Ansible：一鍵安裝數百軟體於數千電腦](https://www.tenlong.com.tw/products/9789863795759) / 8%
 1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 8%
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
@@ -26,7 +26,7 @@
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
-1. [刻意練習 | 經理人 No.158 @ 2017-12-29](https://www.managertoday.com.tw/magazines/view/127424) / 1%
+1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
 1. [心態致勝: 全新成功心理學 by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
@@ -36,15 +36,18 @@
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
 1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 0%
+1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
 1. [蔡康永的說話之道 2](http://www.books.com.tw/products/0010632643) / 1%
 1. [囧星人的人生百想妙答](http://www.books.com.tw/products/0010765506) / 1%
-1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
-1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
+1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
+1. [向阿德勒提問](https://www.businesstoday.com.tw/book/category/80435/detail/201608030001) / 1%
+1. [被討厭的勇氣：自我啟發之父「阿德勒」的教導 by 岸見一郎, 古賀史健](http://www.books.com.tw/products/0010653153) / 1%
+1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [持续集成: 软件质量改进和风险降低之道 by Paul M.Duvall, Steve Matyas, Andrew Glover](https://book.douban.com/subject/2580604/) / 1%
-1. [圖解 SCRUM 工作法 | 經理人 No.160 @ 2018-02-28](https://www.managertoday.com.tw/magazines/view/127485) / 2%
+1. [圖解 SCRUM 工作法 | 經理人 No.160](https://www.managertoday.com.tw/magazines/view/127485) / 2%
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
@@ -54,6 +57,7 @@
 1. [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
 1. [資訊架構學, 4/e (Information Architecture: For the Web and Beyond, 4/e) by Louis Rosenfeld, Peter Morville, Jorge Arango](https://www.tenlong.com.tw/products/9789864766734) / 1%
 1. [資安風險評估指南 (Network Security Assessment, 3/e) by Chris McNab](https://www.tenlong.com.tw/products/9789864765478) / 1%
+1. [TED X 邏輯思維 | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201710240002) / 1%
 1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds) by Carmine Gallo](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術 by 土井英司](http://www.books.com.tw/products/0010762830) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
@@ -114,7 +118,7 @@
 1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635?item_id=452884) / 31%
 1. [Git 權威指南](http://www.books.com.tw/products/CN10770222) / 30%
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878?item_id=17491) / 1%
-1. [團隊管理 | 經理人 No.154 @ 2017-09-01](https://www.managertoday.com.tw/magazines/view/127299) / 1%
+1. [團隊管理 | 經理人 No.154](https://www.managertoday.com.tw/magazines/view/127299) / 1%
 1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders)](https://www.tenlong.com.tw/products/9789862763834) /1%
 1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance)](https://www.tenlong.com.tw/products/9789862764763) / 1%
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think)](https://www.tenlong.com.tw/products/9789862764213) / 1%
