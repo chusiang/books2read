@@ -17,6 +17,8 @@
 
 ## 待讀書單
 
+1. [改變人生的時間規劃術 | 經理人特刊 No.13 @ 2017-11-16](https://www.managertoday.com.tw/magazines/view/127388) / 16%
+1. [社交高手說話術 | 經理人特刊 No.14 @ 2018-01-17](https://www.managertoday.com.tw/magazines/view/127457) / 1%
 1. [魔術般的 Ansible：一鍵安裝數百軟體於數千電腦](https://www.tenlong.com.tw/products/9789863795759) / 8%
 1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 8%
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
@@ -24,6 +26,7 @@
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
+1. [刻意練習 | 經理人 No.158 @ 2017-12-29](https://www.managertoday.com.tw/magazines/view/127424) / 1%
 1. [心態致勝: 全新成功心理學 by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
@@ -41,6 +44,7 @@
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [持续集成: 软件质量改进和风险降低之道 by Paul M.Duvall, Steve Matyas, Andrew Glover](https://book.douban.com/subject/2580604/) / 1%
+1. [圖解 SCRUM 工作法 | 經理人 No.160 @ 2018-02-28](https://www.managertoday.com.tw/magazines/view/127485) / 2%
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
@@ -110,6 +114,7 @@
 1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635?item_id=452884) / 31%
 1. [Git 權威指南](http://www.books.com.tw/products/CN10770222) / 30%
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878?item_id=17491) / 1%
+1. [團隊管理 | 經理人 No.154 @ 2017-09-01](https://www.managertoday.com.tw/magazines/view/127299) / 1%
 1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders)](https://www.tenlong.com.tw/products/9789862763834) /1%
 1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance)](https://www.tenlong.com.tw/products/9789862764763) / 1%
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think)](https://www.tenlong.com.tw/products/9789862764213) / 1%
