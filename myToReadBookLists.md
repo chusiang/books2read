@@ -14,7 +14,6 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-
 ## 待讀書單
 
 1. [改變人生的時間規劃術 | 經理人特刊 No.13](https://www.managertoday.com.tw/magazines/view/127388) / 16%
@@ -107,8 +106,6 @@
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
-1. [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1%
-1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [Selenium 2 自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
 1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php?id=a202) / 1%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
@@ -131,7 +128,6 @@
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age)](https://www.tenlong.com.tw/items/9867794699?item_id=29319) / 1%
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197?item_id=587095) / 0%
 1. [深入淺出 Python (Head First Python)](http://www.tenlong.com.tw/items/9862763485?item_id=384628) / 2%
-1. [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10%
 1. [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) / 1%
 1. [It's Django--用 Python 迅速打造 Web 應用](http://www.tenlong.com.tw/items/9863475467?item_id=1004939) / 4%
 1. [王者歸來 : 自己動手寫網路爬蟲, 2/e](https://www.tenlong.com.tw/products/9789863793335) / 0%
@@ -145,15 +141,18 @@
 1. [[輕小說] 前進吧！！高捷少女：音躍](http://www.bookwalker.com.tw/product/8954) / 1%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
-1. [~~精通 Linux (How Linux Works)~~](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising)](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南](https://www.tenlong.com.tw/products/9789866348365) / 1%
-1. [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1%
-1. [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
-1. [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1%
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程](https://www.tenlong.com.tw/products/9789864341757) / 0%
+1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
+1. [~~Rancher 實戰紅寶書~~](http://rancher.hidocker.io) / 1%
+1. [~~Jenkins 權威指南~~](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1%
+1. [~~學習 Chef：雲時代的配置管理與自動化運維技術~~](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
+1. [~~入門 Chef Solo - Infrastructure as Code~~](http://tatsu-zine.com/books/chef-solo) / 1%
+1. [~~Unix 與 Linux 自動化管理~~](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10%
+1. [~~精通 Linux (How Linux Works)~~](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
 1. [~~10 天學會 Ruby on Rails：Web 2.0 網站架設速成~~](https://www.tenlong.com.tw/products/9789864341351) / 1%
 
 ## 已讀書單
@@ -221,5 +220,5 @@
 ## 他人的讀書清單
 
 - [lyhcode 的資訊人一生必讀的三十本經典書籍](http://ithelp.ithome.com.tw/ironman5/player/lyhcode/life/3)
-- [每位認真的程式設計師都要讀的10本經典書 | Soft & Share](https://softnshare.wordpress.com/2016/02/24/%e6%af%8f%e4%bd%8d%e8%aa%8d%e7%9c%9f%e7%9a%84%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88%e5%b8%ab%e9%83%bd%e8%a6%81%e8%ae%80%e7%9a%8410%e6%9c%ac%e7%b6%93%e5%85%b8%e6%9b%b8/)
+- [每位認真的程式設計師都要讀的 10 本經典書 | Soft & Share](https://softnshare.wordpress.com/2016/02/24/%e6%af%8f%e4%bd%8d%e8%aa%8d%e7%9c%9f%e7%9a%84%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88%e5%b8%ab%e9%83%bd%e8%a6%81%e8%ae%80%e7%9a%8410%e6%9c%ac%e7%b6%93%e5%85%b8%e6%9b%b8/)
 - [Topper's booklist](https://gist.github.com/Topperchi/217ac16d27bf56fad52045aa2d6ed0df)
