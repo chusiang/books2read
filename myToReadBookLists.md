@@ -16,7 +16,7 @@
 
 ## 待讀書單
 
-1. [改變人生的時間規劃術 | 經理人特刊 No.13](https://www.managertoday.com.tw/magazines/view/127388) / 16%
+1. [改變人生的時間規劃術 | 經理人特刊 No.13](https://www.managertoday.com.tw/magazines/view/127388) / 17%
 1. [鬼速ＰＤＣＡ | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201703270001) / 1%
 1. [魔術般的 Ansible：一鍵安裝數百軟體於數千電腦](https://www.tenlong.com.tw/products/9789863795759) / 8%
 1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 8%
