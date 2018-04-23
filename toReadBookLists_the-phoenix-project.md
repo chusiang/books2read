@@ -1,4 +1,6 @@
-# The Phoenix Project 相關書籍
+# 《The Phoenix Project》
+
+## 相關書籍
 
 [《The Phoenix Project》](https://en.wikipedia.org/wiki/The_Phoenix_Project_(novel))是一本寫給 IT 從業人員的小說，書本分為 2 個部份：IT 營運的傳奇故事 (小說) 和 DevOps (開發營運) 的最佳實踐。凍仁將會藉此收集書中所提到的相關書籍。
 
@@ -29,6 +31,27 @@
     - [繁中] [搞定！：工作效率大師教你:事情再多照樣做好的搞定 5 步驟](http://www.books.com.tw/products/0010731198)
 1. [Kanban: Successful Evolutionary Change for Your Technology Business by ](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402?ie=UTF8&tag=itrev-20)
     - [簡中] [看板方法：科技企业渐进变革成功之道](https://www.tenlong.com.tw/products/9787560994048) ✔
+
+
+## Random
+
+### Apr 23, 2018
+
+自從 2016 接觸此書至今，凍仁前後已前後送出 12 本簡中和繁中譯本，然後幫自己留本未拆封的沙盤特別版做紀念了！
+
+### Jun 13, 2016
+
+真心認為 IT 從業人員的都應該要人手一本鳳凰項目 (The Phoenix Project)，還未被此書感動過的伙伴可以先看看底下這些篇文章。
+- [作者访谈及书评 —《凤凰项目：关于 IT、DevOps 及帮助业务成功的小说》| InfoQ](http://www.infoq.com/cn/articles/phoenix-project-book-review)
+
+### Dec 25, 2017
+
+Ruddy 老師在 [Agile Tour Kaohsiung 2017](https://www.accupass.com/event/1709111042501613360068) 的第一場議程中，用了短短 58 分，述說了整個 DevOps 的全貌。這場「DevOps 的敏捷化思維 」演講，說是追求《鳳凰專案》書中那美好世界，並踏上 DevOps 航道的人，都會想一看再看的主題分享！
+
+* 線上影片：https://youtu.be/Kb33AveRfD4
+* 線上簡報：https://goo.gl/Qekjua
+* 完整檔案：https://1drv.ms/f/s!AtlpfGB0RrJoiIAJrSFMjR-XA46hiw
+
 
 ## Reference
 
