@@ -24,6 +24,10 @@
 1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 8%
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
 1. [Linux Kernel Hacks：改善效能, 提昇開發效率及節能的技巧與工具 by 池田宗広, 大岩尚宏, 島本裕志, 竹部晶雄, 平松雅巳](https://books.google.com.tw/books?id=aMSuoQEACAAJ) / 1%
+1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 1%
+1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
+1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
+1. [看板方法：科技企业渐进变革成功之道 (Successful Evolutionary Change for Your Technology Business) by David J.Anderson](https://www.tenlong.com.tw/products/9787560994048) / 1%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
@@ -47,12 +51,10 @@
 1. [持续集成: 软件质量改进和风险降低之道 by Paul M.Duvall, Steve Matyas, Andrew Glover](https://book.douban.com/subject/2580604/) / 1%
 1. [圖解 SCRUM 工作法 | 經理人 No.160](https://www.managertoday.com.tw/magazines/view/127485) / 2%
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
-1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 1%
-1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考](http://www.books.com.tw/products/0010728251) / 1%
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
-1. [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3%
+1. [網站可靠性工程：Google 的系統管理之道 (Site Reliability Engineering: How Google Runs Production Systems) by Betsy Beyer, Jennifer Petoff, Chris Jone](https://www.tenlong.com.tw/products/9789864766253) / 1%
 1. [資訊架構學, 4/e (Information Architecture: For the Web and Beyond, 4/e) by Louis Rosenfeld, Peter Morville, Jorge Arango](https://www.tenlong.com.tw/products/9789864766734) / 1%
 1. [資安風險評估指南 (Network Security Assessment, 3/e) by Chris McNab](https://www.tenlong.com.tw/products/9789864765478) / 1%
 1. [TED X 邏輯思維 | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201710240002) / 1%
@@ -67,7 +69,6 @@
 1. [使用者故事對照 (User Story Mapping: Discover the Whole Story, Build the Right Product)](https://www.tenlong.com.tw/products/9789863479468) / 1%
 1. [持續改善：TOC 生產管理指南](http://www.books.com.tw/products/CN11193077) / 1%
 1. [抉擇 (The Choice)](http://www.books.com.tw/products/CN11283168) / 1%
-1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
@@ -146,13 +147,14 @@
 1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
-1. [~~Rancher 實戰紅寶書~~](http://rancher.hidocker.io) / 1%
-1. [~~Jenkins 權威指南~~](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1%
-1. [~~學習 Chef：雲時代的配置管理與自動化運維技術~~](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38%
-1. [~~入門 Chef Solo - Infrastructure as Code~~](http://tatsu-zine.com/books/chef-solo) / 1%
-1. [~~Unix 與 Linux 自動化管理~~](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10%
-1. [~~精通 Linux (How Linux Works)~~](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0%
-1. [~~10 天學會 Ruby on Rails：Web 2.0 網站架設速成~~](https://www.tenlong.com.tw/products/9789864341351) / 1%
+1. ~~ [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3% ~~
+1. ~~ [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1% ~~
+1. ~~ [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1% ~~
+1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38% ~~
+1. ~~ [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1% ~~
+1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
+1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0% ~~
+1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
 
 ## 已讀書單
 
