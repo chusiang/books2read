@@ -28,7 +28,7 @@
 1. [ITIL Service Support Book v2](https://www.amazon.com/Service-Support-Infrastructure-Library-Part/dp/0113300158?ie=UTF8&camp=1789&creative=9325&creativeASIN=0884271951&linkCode=as2&tag=itrevpre-20)
 1. [Personal Kanban: Mapping Work | Navigating Life](https://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266?ie=UTF8&tag=itrev-20)
 1. [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280?ie=UTF8&tag=itrev-20)
-    - [繁中] [搞定！：工作效率大師教你:事情再多照樣做好的搞定 5 步驟](http://www.books.com.tw/products/0010731198)
+    - [繁中] [搞定！：工作效率大師教你，事情再多照樣做好的搞定 5 步驟](http://www.books.com.tw/products/0010731198) ✔
 1. [Kanban: Successful Evolutionary Change for Your Technology Business by ](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402?ie=UTF8&tag=itrev-20)
     - [簡中] [看板方法：科技企业渐进变革成功之道](https://www.tenlong.com.tw/products/9787560994048) ✔
 
