@@ -1,8 +1,6 @@
 # 凍仁的讀書清單
 
-看了《學徒模式》一書後，凍仁試著用 [Gist](https://gist.github.com/chusiang/7b8a1db696ef31ab5192a88573a97765) 管理自己的**待讀書單**，並不時修改其閱讀順序。
-
-> 您可以在 [revisions](https://gist.github.com/chusiang/7b8a1db696ef31ab5192a88573a97765/revisions) 找到編修記錄。
+看了《學徒模式》一書後，凍仁試著用 [GitLab](https://gitlab.com/chusiang/books2read/) 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [Commits](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。
 
 目錄：
 
