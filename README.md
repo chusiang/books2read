@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [心態致勝: 全新成功心理學 by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 8.9%
+1. [心態致勝: 全新成功心理學 by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 32%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [鬼速ＰＤＣＡ | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201703270001) / 1%
@@ -37,6 +37,8 @@
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
+1. [但願你因工作而閃亮：「獵頭的日常」給你的求職真心提醒，盤點自身技能，放大個人優勢，擁抱那些令你不安的變化！ by 林沂萱](https://play.google.com/store/books/details?id=LWdNDwAAQBAJ) / 1%
+1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
 1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 0%
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
@@ -145,6 +147,7 @@
 1. [給網管人的 Postfix 建置與維護指南](https://www.tenlong.com.tw/products/9789866348365) / 1%
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程](https://www.tenlong.com.tw/products/9789864341757) / 0%
 1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
+1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
 1. ~~ [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3% ~~
