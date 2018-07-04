@@ -14,7 +14,8 @@
 
 ## 待讀書單
 
-1. [心態致勝: 全新成功心理學 (Mindset：The New Psychology of Success) by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 47%
+1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
+1. [心態致勝: 全新成功心理學 (Mindset：The New Psychology of Success) by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 51%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
@@ -163,6 +164,8 @@
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
 1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
+1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
+1. [汽車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_汽車防禦駕駛手冊_新編?id=qz83DwAAQBAJ) / 1%
 1. ~~ [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3% ~~
 1. ~~ [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1% ~~
 1. ~~ [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1% ~~
