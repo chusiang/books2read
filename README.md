@@ -16,6 +16,7 @@
 
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
 1. [心態致勝: 全新成功心理學 (Mindset：The New Psychology of Success) by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 51%
+1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 1%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
