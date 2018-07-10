@@ -139,6 +139,7 @@
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software)](https://www.tenlong.com.tw/products/9789862763445) / 1%
 1. [Infrastructure as Code: Managing Servers in the Cloud](https://www.tenlong.com.tw/products/9781491924358) / 1%
 1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
+1. [誰說我們不能一起做決定：參與式決策引導寶典 by Sam Kaner](https://www.taaze.tw/sing.html?pid=11100243769) / 0%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771?item_id=495188) / 40%
 1. [搜尋模式 (Search Patterns: Design for Discovery)](http://www.tenlong.com.tw/items/9862763116?item_id=369594) / 1%
 1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization)](https://www.tenlong.com.tw/products/9789864764433) / 1%
