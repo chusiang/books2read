@@ -14,10 +14,10 @@
 
 ## 待讀書單
 
-1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
-1. [心態致勝: 全新成功心理學 (Mindset：The New Psychology of Success) by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 51%
-1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 1%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 1%
+1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
+1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
+1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
@@ -42,7 +42,6 @@
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [看板方法：科技企业渐进变革成功之道 (Successful Evolutionary Change for Your Technology Business) by David J.Anderson](https://www.tenlong.com.tw/products/9787560994048) / 1%
-1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 16%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [超級好！用遊戲打倒生命裡的壞東西: 50 萬人親身見證的心理奇蹟 by Jane McGonigal](https://play.google.com/store/books/details?id=YKv-DQAAQBAJ) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
@@ -200,6 +199,7 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (11) by 愛七ひろ](http://www.bookwalker.com.tw/product/32130) / 100%
 1. [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) / 100%
 1. [改變人生的時間規劃術 | 經理人特刊 No.13](https://www.managertoday.com.tw/magazines/view/127388) / 100%
+1. [心態致勝: 全新成功心理學 (Mindset：The New Psychology of Success) by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 100%
 
 ### 2017
 
