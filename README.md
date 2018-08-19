@@ -22,7 +22,7 @@
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
-1. [Deep Work 深度工作力: 淺薄時代，個人成功的關鍵能力 (Deep Work: Rules for Focused Success in a Distracted World) by Cal Newport](https://play.google.com/store/books/details/%E5%8D%A1%E7%88%BE_%E7%B4%90%E6%B3%A2%E7%89%B9_Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B?id=c_sxDwAAQBAJ) / 0%
+1. [Deep Work 深度工作力: 淺薄時代，個人成功的關鍵能力 (Deep Work: Rules for Focused Success in a Distracted World) by Cal Newport](https://play.google.com/store/books/details/%E5%8D%A1%E7%88%BE_%E7%B4%90%E6%B3%A2%E7%89%B9_Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B?id=c_sxDwAAQBAJ) / 1%
 1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵 (Focus: The Hidden Driver of Excellence) by Daniel Goleman](http://www.books.com.tw/products/0010631218) / 1%
@@ -42,9 +42,11 @@
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [看板方法：科技企业渐进变革成功之道 (Successful Evolutionary Change for Your Technology Business) by David J.Anderson](https://www.tenlong.com.tw/products/9787560994048) / 1%
+1. [精益开发实战：用看板管理大型項目 by Henrik Kniberg](https://www.tenlong.com.tw/products/9787115291776) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [超級好！用遊戲打倒生命裡的壞東西: 50 萬人親身見證的心理奇蹟 by Jane McGonigal](https://play.google.com/store/books/details?id=YKv-DQAAQBAJ) / 1%
+1. [關係界限 by 吳姵瑩](https://play.google.com/store/books/details?id=1q9dDwAAQBAJ) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
@@ -53,6 +55,7 @@
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
 1. [但願你因工作而閃亮：「獵頭的日常」給你的求職真心提醒，盤點自身技能，放大個人優勢，擁抱那些令你不安的變化！ by 林沂萱](https://play.google.com/store/books/details?id=LWdNDwAAQBAJ) / 1%
 1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
+1. [窮查理的智慧語錄 by David Clark](https://play.google.com/store/books/details?id=Ch9iDwAAQBAJ) / 1%
 1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 0%
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
@@ -156,6 +159,7 @@
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
+1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈](http://www.bookwalker.com.tw/product/8550) / 1%
 1. [[輕小說] 前進吧！！高捷少女：日常](http://www.bookwalker.com.tw/product/8953) / 1%
 1. [[輕小說] 前進吧！！高捷少女：音躍](http://www.bookwalker.com.tw/product/8954) / 1%
