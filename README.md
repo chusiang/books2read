@@ -75,6 +75,7 @@
 1. [TED X 邏輯思維 | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201710240002) / 1%
 1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds) by Carmine Gallo](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術 by 土井英司](http://www.books.com.tw/products/0010762830) / 1%
+1. [赋能：打造应对不确定性的敏捷团队](https://read.douban.com/ebook/43738282/) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners)](https://www.tenlong.com.tw/products/9789864763153) / 1%
