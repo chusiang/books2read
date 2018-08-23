@@ -2,10 +2,14 @@
 
 ## 相關書籍
 
-[《The Phoenix Project》](https://en.wikipedia.org/wiki/The_Phoenix_Project_(novel))是一本寫給 IT 從業人員的小說，書本分為 2 個部份：IT 營運的傳奇故事 (小說) 和 DevOps (開發營運) 的最佳實踐。凍仁將會藉此收集書中所提到的相關書籍。
+[《The Phoenix Project》](https://en.wikipedia.org/wiki/The_Phoenix_Project_(novel))是一本寫給 IT 從業人員的小說，書本分為 2 個部份：IT 營運的傳奇故事 (小說) 和 DevOps 最佳實踐。凍仁將會藉此收集書中所提到的相關書籍。
 
-* [繁中] [鳳凰專案](https://www.tenlong.com.tw/products/9789864765867)
-* [簡中] [鳳凰項目](https://www.tenlong.com.tw/products/9787115403650)
+以下依出版日期進行排序：
+
+1. 2013.01.10 / 原文 / [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/)
+1. 2014.08.12 / 日文 / [The DevOps 逆転だ！究極の継続的デリバリ](https://www.amazon.co.jp/DevOps-%25E9%2580%2586%25E8%25BB%25A2%25E3%2581%25A0-%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25AD%25E3%2583%25A0/dp/4822285359/)
+1. 2015.09.01 / 簡中 / [凤凰项目：一个 IT 运维的传奇故事](https://www.tenlong.com.tw/products/9787115403650)
+1. 2017.09.22 / 繁中 / [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867)
 
 [» more](http://www.tenlong.com.tw/items/7115403651?item_id=1013544)
 
@@ -22,7 +26,7 @@
     - [繁中] [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈](http://www.tenlong.com.tw/items/986201962X?item_id=999062) ✔
     - [簡中] [持续交付:发布可靠软件的系统方法](https://www.amazon.cn/dp/B005V9BB1M)
 1. [Release It! Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it)
-    - [簡中] [发布！软件的设计与部署](https://www.amazon.cn/dp/B0153178XM)
+    - [簡中] [发布！软件的设计与部署](https://www.amazon.cn/dp/B0153178XM) ✔
 1. [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](https://www.amazon.com/Visible-Ops-Handbook-Implementing-Practical/dp/0975568612)
 1. [Visible Ops Security: Achieving Common Security And IT Operations Objectives In 4 Practical Steps](https://www.amazon.com/Visible-Ops-Security-Operations-Objectives/dp/097556868X/ref=pd_sim_14_1?ie=UTF8&dpID=41FVHzq6CvL&dpSrc=sims&preST=_AC_UL320_SR200%2C320_&psc=1&refRID=NHSWVP8BZC4C6E8SZT84)
 1. [ITIL Service Support Book v2](https://www.amazon.com/Service-Support-Infrastructure-Library-Part/dp/0113300158?ie=UTF8&camp=1789&creative=9325&creativeASIN=0884271951&linkCode=as2&tag=itrevpre-20)
