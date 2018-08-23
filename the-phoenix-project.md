@@ -6,10 +6,10 @@
 
 以下依出版日期進行排序：
 
-1. 2013.01.10 / 原文 / [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/)
+1. 2013.01.10 / 原文 / [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/) ✔
 1. 2014.08.12 / 日文 / [The DevOps 逆転だ！究極の継続的デリバリ](https://www.amazon.co.jp/DevOps-%25E9%2580%2586%25E8%25BB%25A2%25E3%2581%25A0-%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25AD%25E3%2583%25A0/dp/4822285359/)
-1. 2015.09.01 / 簡中 / [凤凰项目：一个 IT 运维的传奇故事](https://www.tenlong.com.tw/products/9787115403650)
-1. 2017.09.22 / 繁中 / [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867)
+1. 2015.09.01 / 簡中 / [凤凰项目：一个 IT 运维的传奇故事](https://www.tenlong.com.tw/products/9787115403650) ✔
+1. 2017.09.22 / 繁中 / [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) ✔
 
 [» more](http://www.tenlong.com.tw/items/7115403651?item_id=1013544)
 
