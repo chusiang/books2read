@@ -19,7 +19,7 @@
     - [繁中] [絕不是靠運氣：創造事業與人生的雙贏](http://www.books.com.tw/products/0010588043)
 1. [Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints](https://www.amazon.com/Beyond-Goal-Eliyahu-Goldratt-Constraints/dp/1596590238?ie=UTF8&camp=1789&creative=9325&creativeASIN=0884271951&linkCode=as2&tag=itrevpre-20)
 1. [The Five Dysfunctions of A Team - A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1524496448&sr=1-1&keywords=The+Five+Dysfunctions+of+A+Team+-+A+Leadership+Fable)
-    - [繁中] [團隊領導的五大障礙](http://www.books.com.tw/products/0010259881) ✔
+    - [繁中] [克服團隊領導的 5 大障礙](http://www.books.com.tw/products/0010647956) ✔
 1. [Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238/ref=sr_1_1?s=books&ie=UTF8&qid=1524496490&sr=1-1&keywords=Toyota+Kata%3A+Managing+People+for+Improvement%2C+Adaptiveness+and+Superior+Results)
     - [繁中] [豐田形學：持續改善與教育式領導的關鍵智慧](http://www.books.com.tw/products/0010471926) ✔
 1. [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble, David Farley (](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/ref=sr_1_1?s=books&ie=UTF8&qid=1524496565&sr=1-1&keywords=Continuous+Delivery%3A+Reliable+Software+Releases+through+Build%2C+Test%2C+and+Deployment+Automation)
