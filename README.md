@@ -17,9 +17,12 @@
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 22%
 1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 67%
-1. [第五項修練 (全新增訂版)：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 1%
+1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
+1. [知識內容寫作課：寫一篇真材實料的網路爆紅好文章 by 鄭國威](https://play.google.com/store/books/details?id=xm9ZDwAAQBAJ) / 1%
+1. [拒絕生病：無病生活從 65 件日常小事開始 (A SHORT GUIDE TO A LONG LIFE) by Dr. David B. Agus](https://play.google.com/store/books/details?id=7UEyDwAAQBAJ) / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
+1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 17%
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
@@ -42,6 +45,7 @@
 1. [Ansible：建置與執行, 2/e (Ansible: Up and Running - Automating Configuration Management and Deployment the Easy Way, 2/e) by Lorin Hochstein, Rene Moser](https://www.tenlong.com.tw/products/9789864768264) / 1%
 1. [魔術般的 Ansible：一鍵安裝數百軟體於數千電腦](https://www.tenlong.com.tw/products/9789863795759) / 8%
 1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 8%
+1. [內向心理學：享受一個人的空間，安靜地發揮影響力，內向者也能在外向的世界嶄露鋒芒！ by Marti Olsen Laney](https://play.google.com/store/books/details?id=bi9pDwAAQBAJ) / 1%
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
 1. [Linux Kernel Hacks：改善效能, 提昇開發效率及節能的技巧與工具 by 池田宗広, 大岩尚宏, 島本裕志, 竹部晶雄, 平松雅巳](https://books.google.com.tw/books?id=aMSuoQEACAAJ) / 1%
 1. [搞定！：工作效率大師教你，事情再多照樣做好的搞定 5 步驟 by Allen‧David](http://www.books.com.tw/products/0010731198) / 1%
