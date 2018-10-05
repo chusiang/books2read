@@ -193,6 +193,7 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [[漫畫] 關於我轉生變成史萊姆這檔事 (6)](https://www.books.com.tw/products/0010785210) / 0%
 
 ## 已讀書單
 
@@ -218,6 +219,11 @@
 1. [改變人生的時間規劃術 | 經理人特刊 No.13](https://www.managertoday.com.tw/magazines/view/127388) / 100%
 1. [心態致勝: 全新成功心理學 (Mindset：The New Psychology of Success) by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 100%
 1. [第五項修練 | ~~管理與創新~~ 大師輕鬆讀 NO.613](https://www.kobo.com/tw/zh/ebook/no-613) / 100%
+1. [[漫畫] 關於我轉生變成史萊姆這檔事 (1)](https://www.books.com.tw/products/0010720429) / 100%
+1. [[漫畫] 關於我轉生變成史萊姆這檔事 (2)](https://www.books.com.tw/products/0010734995) / 100%
+1. [[漫畫] 關於我轉生變成史萊姆這檔事 (3)](https://www.books.com.tw/products/0010747640) / 100%
+1. [[漫畫] 關於我轉生變成史萊姆這檔事 (4)](https://www.books.com.tw/products/0010762686) / 100%
+1. [[漫畫] 關於我轉生變成史萊姆這檔事 (5)](https://www.books.com.tw/products/0010776299) / 100%
 1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 100%
 
 ### 2017
