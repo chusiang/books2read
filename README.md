@@ -34,6 +34,7 @@
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
 1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by 珍 ‧ 博克 (Jane B. Burka)、萊諾、 袁 (Lenora M\. Yuen\)(https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
+1. [與成功有約 by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
