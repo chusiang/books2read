@@ -18,11 +18,14 @@
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 22%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 1%
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
+1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
 1. [ 窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
+1. [精準學習：「羅輯思維」最受歡迎的個人知識管理精進指南 by 成甲](https://www.kobo.com/tw/zh/book/dc24912f-0a55-4165-b266-6f7a1a76f3ef) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
 1. [知識內容寫作課：寫一篇真材實料的網路爆紅好文章 by 鄭國威](https://play.google.com/store/books/details?id=xm9ZDwAAQBAJ) / 1%
 1. [拒絕生病：無病生活從 65 件日常小事開始 (A SHORT GUIDE TO A LONG LIFE) by Dr. David B. Agus](https://play.google.com/store/books/details?id=7UEyDwAAQBAJ) / 1%
+1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
 1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
@@ -31,8 +34,9 @@
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/ebook/ucla) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 17%
+1. [給力 by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 1%
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
-1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by 珍 ‧ 博克 (Jane B. Burka)、萊諾、 袁 (Lenora M\. Yuen\)(https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
+1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by Jane B. Burka、Lenora M. Yuen](https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
 1. [與成功有約 by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
@@ -100,6 +104,8 @@
 1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds) by Carmine Gallo](https://www.tenlong.com.tw/products/9789861342313) / 1%
 1. [一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術 by 土井英司](http://www.books.com.tw/products/0010762830) / 1%
 1. [赋能：打造应对不确定性的敏捷团队](https://read.douban.com/ebook/43738282/) / 1%
+1. [有錢人想的和你不一樣 by T. Harv Eker](https://www.kobo.com/tw/zh/book/81dc70e8-2983-45c2-acf9-8a76bcc4e295) / 1%
+1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/book/02fb8311-bc7c-4514-8069-7be05e6a1df0) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners)](https://www.tenlong.com.tw/products/9789864763153) / 1%
