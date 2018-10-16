@@ -12,7 +12,7 @@
 1. [網路不斷革命論](http://ithelp.ithome.com.tw/question/10103549)
 1. [約耳趣談軟體、約耳續談軟體](http://ithelp.ithome.com.tw/question/10103815)
 1. [團隊之美 - 資深團隊領導人物陳述發人深省並引以為鑑的經歷](http://ithelp.ithome.com.tw/question/10104193) ✔
-1. [溫伯格的軟體管理學](http://ithelp.ithome.com.tw/question/10104534)
+1. [溫伯格的軟體管理學](http://ithelp.ithome.com.tw/question/10104534) ✔
 1. [編程的頂尖對話：閱讀 15 位軟體大師的核心思維](http://ithelp.ithome.com.tw/question/10104849)
 1. [學徒模式：優秀軟體開發者的養成之路](http://ithelp.ithome.com.tw/question/10105257) ✔
 1. [視覺溝通：讓簡報與聽眾形成一種對話](http://ithelp.ithome.com.tw/question/10105513)
