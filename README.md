@@ -27,8 +27,10 @@
 1. [拒絕生病：無病生活從 65 件日常小事開始 (A SHORT GUIDE TO A LONG LIFE) by Dr. David B. Agus](https://play.google.com/store/books/details?id=7UEyDwAAQBAJ) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
+1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
 1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
+1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 1%
 1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/ebook/ucla) / 1%
@@ -210,7 +212,7 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[漫畫] 關於我轉生變成史萊姆這檔事 (6)](https://www.books.com.tw/products/0010785210) / 0%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (12) by 愛七ひろ](https://www.kobo.com/tw/zh/book/7c836623-c576-488d-8c50-85518d6c4559) / 1%
 
 ## 已讀書單
 
@@ -242,6 +244,7 @@
 1. [[漫畫] 關於我轉生變成史萊姆這檔事 (4)](https://www.books.com.tw/products/0010762686) / 100%
 1. [[漫畫] 關於我轉生變成史萊姆這檔事 (5)](https://www.books.com.tw/products/0010776299) / 100%
 1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 100%
+1. [[漫畫] 關於我轉生變成史萊姆這檔事 (6)](https://www.books.com.tw/products/0010785210) / 100%
 
 ### 2017
 
