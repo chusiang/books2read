@@ -1,4 +1,4 @@
-# 凍仁的讀書清單
+# 凍仁的待讀清單
 
 看了《學徒模式》一書後，凍仁試著用 [GitLab](https://gitlab.com/chusiang/books2read/) 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [Commits](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。
 
@@ -219,10 +219,6 @@
 ### 2018
 
 1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 100%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/11135) / 100%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/12148) / 100%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/14871) / 100%
-1. [[漫畫] 爆肝工程師的異世界狂想曲 (4) by 愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/2325) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/2326) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/2327) / 100%
@@ -238,13 +234,7 @@
 1. [改變人生的時間規劃術 | 經理人特刊 No.13](https://www.managertoday.com.tw/magazines/view/127388) / 100%
 1. [心態致勝: 全新成功心理學 (Mindset：The New Psychology of Success) by 卡蘿 ‧ 杜維克 博士 Carol S. Dweck, Ph.D.](https://books.google.com.tw/books?id=XTEkDwAAQBAJ&hl=zh-TW&num=10) / 100%
 1. [第五項修練 | ~~管理與創新~~ 大師輕鬆讀 NO.613](https://www.kobo.com/tw/zh/ebook/no-613) / 100%
-1. [[漫畫] 關於我轉生變成史萊姆這檔事 (1)](https://www.books.com.tw/products/0010720429) / 100%
-1. [[漫畫] 關於我轉生變成史萊姆這檔事 (2)](https://www.books.com.tw/products/0010734995) / 100%
-1. [[漫畫] 關於我轉生變成史萊姆這檔事 (3)](https://www.books.com.tw/products/0010747640) / 100%
-1. [[漫畫] 關於我轉生變成史萊姆這檔事 (4)](https://www.books.com.tw/products/0010762686) / 100%
-1. [[漫畫] 關於我轉生變成史萊姆這檔事 (5)](https://www.books.com.tw/products/0010776299) / 100%
 1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 100%
-1. [[漫畫] 關於我轉生變成史萊姆這檔事 (6)](https://www.books.com.tw/products/0010785210) / 100%
 
 ### 2017
 
