@@ -15,6 +15,7 @@
 ## 待讀書單
 
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 11%
+1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
