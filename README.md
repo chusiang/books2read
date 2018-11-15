@@ -15,6 +15,7 @@
 ## 待讀書單
 
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 11%
+1. [系統思考 Systems One by Draper L. Kauffman. Jr.](https://www.taaze.tw/sing.html?pid=11307034596) / 2%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
@@ -54,6 +55,8 @@
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 4 卷：擁抱變革 (Quality Software Management, Volume 4：Anticipating Change) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
+1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
+1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
 1. [Effective DevOps 中文版](https://www.tenlong.com.tw/products/9789864767793) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
 1. [DevOps 三十六计 by DevOps 時代社區](https://www.tenlong.com.tw/products/9787121328572) / 1%
@@ -65,7 +68,9 @@
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
 1. [Linux Kernel Hacks：改善效能, 提昇開發效率及節能的技巧與工具 by 池田宗広, 大岩尚宏, 島本裕志, 竹部晶雄, 平松雅巳](https://books.google.com.tw/books?id=aMSuoQEACAAJ) / 1%
 1. [搞定！：工作效率大師教你，事情再多照樣做好的搞定 5 步驟 by Allen‧David](http://www.books.com.tw/products/0010731198) / 1%
+1. [文案力 | 經理人月刊 No.162](https://www.kobo.com/tw/zh/book/e4070bf3-7009-432a-a71c-c46e16a176c8) / 1%
 1. [中階主管帶人學 | 經理人特刊 No.16](https://www.managertoday.com.tw/magazine/view/127566) / 1%
+1. [OKR 目標與關鍵成果法 | 大師輕鬆讀 No.679](https://www.kobo.com/tw/zh/book/46a6d0f6-4795-43e7-a311-23884349dbd7) / 1%
 1. [哈佛教你領導學：打造扭轉變局、再創高峰的卓越領導力](http://www.books.com.tw/products/0010678458) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
@@ -92,6 +97,7 @@
 1. [囧星人的人生百想妙答](http://www.books.com.tw/products/0010765506) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
+1. [精準提問的力量: 問對問題, 就解決一半的問題! 風靡美國政商學界的 11 種提問思考教你挖掘真相 × 扭轉逆勢 × 創造全新格局 by Frank Sesno](https://www.kobo.com/tw/zh/book/58aea75b-fff9-4156-97fc-3073f02fdc82) / 1%
 1. [向阿德勒提問](https://www.businesstoday.com.tw/book/category/80435/detail/201608030001) / 1%
 1. [被討厭的勇氣：自我啟發之父「阿德勒」的教導 by 岸見一郎, 古賀史健](http://www.books.com.tw/products/0010653153) / 1%
 1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
