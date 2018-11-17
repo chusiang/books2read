@@ -15,7 +15,6 @@
 ## 待讀書單
 
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 11%
-1. [系統思考 Systems One by Draper L. Kauffman. Jr.](https://www.taaze.tw/sing.html?pid=11307034596) / 2%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
@@ -242,6 +241,7 @@
 1. [第五項修練 | ~~管理與創新~~ 大師輕鬆讀 NO.613](https://www.kobo.com/tw/zh/ebook/no-613) / 100%
 1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (12) by 愛七ひろ](https://www.kobo.com/tw/zh/book/7c836623-c576-488d-8c50-85518d6c4559) / 100%
+1. [系統思考 Systems One by Draper L. Kauffman. Jr.](https://www.taaze.tw/sing.html?pid=11307034596) / 100%
 
 ### 2017
 
