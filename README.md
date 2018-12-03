@@ -26,6 +26,7 @@
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
 1. [知識內容寫作課：寫一篇真材實料的網路爆紅好文章 by 鄭國威](https://play.google.com/store/books/details?id=xm9ZDwAAQBAJ) / 1%
 1. [拒絕生病：無病生活從 65 件日常小事開始 (A SHORT GUIDE TO A LONG LIFE) by Dr. David B. Agus](https://play.google.com/store/books/details?id=7UEyDwAAQBAJ) / 1%
+1. [80/20 法則 by Richard Koch](https://www.kobo.com/tw/zh/ebook/F68QdmIU3zmEfLEnIZT4Aw) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
 1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
