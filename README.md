@@ -140,7 +140,6 @@
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用 (2/e)](https://www.tenlong.com.tw/products/9787115411280) / 1%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 15%
-1. [一隻企鵝教我的事](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018560215688) / 1%
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e)](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
@@ -243,6 +242,7 @@
 1. [人生沒有平衡，只有取捨 by 謝文憲](https://play.google.com/store/books/details/%E4%BA%BA%E7%94%9F%E6%B2%92%E6%9C%89%E5%B9%B3%E8%A1%A1_%E5%8F%AA%E6%9C%89%E5%8F%96%E6%8D%A8?id=DfJDDwAAQBAJ) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (12) by 愛七ひろ](https://www.kobo.com/tw/zh/book/7c836623-c576-488d-8c50-85518d6c4559) / 100%
 1. [系統思考 Systems One by Draper L. Kauffman. Jr.](https://www.taaze.tw/sing.html?pid=11307034596) / 100%
+1. [一隻企鵝教我的事 by Tom Michell](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018560215688) / 100%
 
 ### 2017
 
