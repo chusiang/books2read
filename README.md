@@ -23,7 +23,7 @@
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
-1. [ 窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
+1. [窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
 1. [精準學習：「羅輯思維」最受歡迎的個人知識管理精進指南 by 成甲](https://www.kobo.com/tw/zh/book/dc24912f-0a55-4165-b266-6f7a1a76f3ef) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
 1. [知識內容寫作課：寫一篇真材實料的網路爆紅好文章 by 鄭國威](https://play.google.com/store/books/details?id=xm9ZDwAAQBAJ) / 1%
@@ -33,6 +33,7 @@
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
 1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
 1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
+1. [可複製的領導力：300 萬付費會員推崇，樊登的九堂商業課 by 樊登](https://www.kobo.com/tw/zh/book/4d7b00d2-20d6-42ec-8b66-8a64bdd682aa) / 1%
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 1%
