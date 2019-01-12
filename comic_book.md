@@ -22,6 +22,7 @@
 1. [OVERLORD (6) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010773992) / 1%
 1. [OVERLORD (7) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010792392) / 1%
 1. [OVERLORD (8) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010800365) / 0%
+1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.books.com.tw/products/0010808033) / 0%
 1. [爆肝工程師的異世界狂想曲 (5) by あやめぐむ、愛七ひろ](https://www.kadokawa.com.tw/product_detail9122.htm) / 0%
 1. [夏日大作戰 (1) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010473543) / 1%
 1. [夏日大作戰 (2) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010476510) / 1%
