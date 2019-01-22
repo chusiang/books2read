@@ -14,13 +14,6 @@
 
 ## 待讀書單
 
-1. [OVERLORD (1) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010708460) / 1%
-1. [OVERLORD (2) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010718011) / 1%
-1. [OVERLORD (3) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010728093) / 1%
-1. [OVERLORD (4) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010748715) / 1%
-1. [OVERLORD (5) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010755993) / 1%
-1. [OVERLORD (6) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010773992) / 1%
-1. [OVERLORD (7) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010792392) / 1%
 1. [OVERLORD (8) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010800365) / 0%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.books.com.tw/products/0010808033) / 0%
 1. [爆肝工程師的異世界狂想曲 (5) by あやめぐむ、愛七ひろ](https://www.kadokawa.com.tw/product_detail9122.htm) / 0%
@@ -28,8 +21,8 @@
 1. [夏日大作戰 (2) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010476510) / 1%
 1. [夏日大作戰 (3) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010485337) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (6) by 比村奇石、川原礫、abec](https://www.books.com.tw/products/0010792391) / 0%
-1. 神奇寶貝特別篇 (13) by 日下秀憲、山本智 / 1%
-1. 神奇寶貝特別篇 (14) by 日下秀憲、山本智 / 1%
+1. 神奇寶貝特別篇 (13) by 日下秀憲、山本智 / 100%
+1. 神奇寶貝特別篇 (14) by 日下秀憲、山本智 / 100%
 1. 神奇寶貝特別篇 (15) by 日下秀憲、山本智 / 1%
 1. 神奇寶貝特別篇 (16) by 日下秀憲、山本智 / 1%
 1. 神奇寶貝特別篇 (17) by 日下秀憲、山本智 / 1%
@@ -74,6 +67,13 @@
 ### 2019
 
 1. [關於我轉生變成史萊姆這檔事 (8) by 伏瀬](https://www.books.com.tw/products/0010802834) / 100%
+1. [OVERLORD (1) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010708460) / 100%
+1. [OVERLORD (2) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010718011) / 100%
+1. [OVERLORD (3) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010728093) / 100%
+1. [OVERLORD (4) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010748715) / 100%
+1. [OVERLORD (5) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010755993) / 100%
+1. [OVERLORD (6) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010773992) / 100%
+1. [OVERLORD (7) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010792392) / 100%
 
 ### 2018
 
