@@ -21,8 +21,6 @@
 1. [夏日大作戰 (2) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010476510) / 1%
 1. [夏日大作戰 (3) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010485337) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (6) by 比村奇石、川原礫、abec](https://www.books.com.tw/products/0010792391) / 0%
-1. 神奇寶貝特別篇 (13) by 日下秀憲、山本智 / 100%
-1. 神奇寶貝特別篇 (14) by 日下秀憲、山本智 / 100%
 1. 神奇寶貝特別篇 (15) by 日下秀憲、山本智 / 1%
 1. 神奇寶貝特別篇 (16) by 日下秀憲、山本智 / 1%
 1. 神奇寶貝特別篇 (17) by 日下秀憲、山本智 / 1%
@@ -74,6 +72,8 @@
 1. [OVERLORD (5) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010755993) / 100%
 1. [OVERLORD (6) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010773992) / 100%
 1. [OVERLORD (7) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010792392) / 100%
+1. 神奇寶貝特別篇 (13) by 日下秀憲、山本智 / 100%
+1. 神奇寶貝特別篇 (14) by 日下秀憲、山本智 / 100%
 
 ### 2018
 
