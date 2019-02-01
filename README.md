@@ -15,6 +15,8 @@
 ## 待讀書單
 
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 34%
+1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
+1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [【經濟大預言】2019 財富 4 大拐點 | 商業周刊 No.1625](https://www.kobo.com/tw/zh/book/62e88bbc-c456-4986-863b-6677e026ea35) / 1%
 1. [深度工作力 | 經理人 No.170](https://www.kobo.com/tw/zh/book/40dd2411-e107-47a0-acf5-610a90e0bdbe) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 1%
@@ -24,6 +26,9 @@
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 13%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
+
+
+
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
@@ -44,6 +49,8 @@
 1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/ebook/ucla) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
+1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
+1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
 1. [鳳凰專案｜看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 17%
 1. [給力 by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 1%
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
@@ -58,6 +65,7 @@
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵 (Focus: The Hidden Driver of Excellence) by Daniel Goleman](http://www.books.com.tw/products/0010631218) / 1%
 1. [專注力，就是你的超能力：掌控自我、提升成績的18個學習武器 (自分を操る超集中力) by DaiGo](http://www.books.com.tw/products/0010755805) / 1%
+1. [五秒法則 by Mel Robbins](https://www.kobo.com/tw/zh/ebook/e81d8522-f414-430c-9652-fd5017dcb672) / 1%
 1. [溫伯格的軟體管理學 - 第 1 卷：系統化思考 (Quality Software Management, Volume 1: Systems Thinking) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
@@ -66,6 +74,7 @@
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
 1. [Effective DevOps 中文版](https://www.tenlong.com.tw/products/9789864767793) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
+1. [數學大觀念：從數字到微積分，全面理解數學的 12 大觀念 by Arthur Benjamin](https://www.kobo.com/tw/zh/ebook/3940aca4-c700-4e67-bb85-dcd4ab8f9db9) / 1%
 1. [DevOps 三十六计 by DevOps 時代社區](https://www.tenlong.com.tw/products/9787121328572) / 1%
 1. [鬼速ＰＤＣＡ | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201703270001) / 1%
 1. [Ansible：建置與執行, 2/e (Ansible: Up and Running - Automating Configuration Management and Deployment the Easy Way, 2/e) by Lorin Hochstein, Rene Moser](https://www.tenlong.com.tw/products/9789864768264) / 1%
@@ -92,6 +101,7 @@
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
+1. [打造圖像腦：學會擊敗 90% 職場競爭者的視覺思考工作術 by Dan Roam](https://www.kobo.com/tw/zh/ebook/64a0876d-972a-400e-a12d-5f0415fdb66a) / 1%
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
 1. [但願你因工作而閃亮：「獵頭的日常」給你的求職真心提醒，盤點自身技能，放大個人優勢，擁抱那些令你不安的變化！ by 林沂萱](https://play.google.com/store/books/details?id=LWdNDwAAQBAJ) / 1%
 1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
