@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (13) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/ea2YxeKeczKxNJPMMC4lUQ) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 34%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
@@ -26,9 +27,6 @@
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 13%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
-
-
-
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
@@ -242,6 +240,7 @@
 ### 2018
 
 1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (12) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/zOOuIbjWpTmOwgumHmxf9w) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (1) by 愛七ひろ](http://www.bookwalker.com.tw/product/2325) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (2) by 愛七ひろ](http://www.bookwalker.com.tw/product/2326) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (3) by 愛七ひろ](http://www.bookwalker.com.tw/product/2327) / 100%
@@ -278,6 +277,17 @@
 1. [戰爭遊戲](http://www.books.com.tw/products/0010581224) / 100%
 1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 100%
 1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow)](http://www.books.com.tw/products/0010683723) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (01) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/Y26lgU3uFTy3vk8Rd96nGA) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (02) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/xLl993PEXTCKptMYDBlzeQ) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (03) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/53zjy_DZpzS1Zvd6BAAmnA) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (04) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/pUW7nZfzEzecs-5SFVRn3Q) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (05) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/SGvKfd0Rrjma9BncUFmYaw) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (06) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/NZ4XrpKlhzWzFju1EgoaHQ) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (08) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/-S-CXbWLpjGlqpLKoNhHww) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (09) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/lXxtQH6T6DS-WTvE3Te3cg) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (10) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/v4eovSi04D2RsvOYJY4cPA) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (11) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/t-lDo8ThjTiphXbXeo3u5Q) / 100%
 
 ### 2016
 
