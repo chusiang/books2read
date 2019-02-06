@@ -1,6 +1,6 @@
 # 凍仁的待讀清單 (漫畫區)
 
-看了《學徒模式》一書後，凍仁試著用 [GitLab](https://gitlab.com/chusiang/books2read/) 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [Commits](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。
+看了《學徒模式》一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/master) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。[^1]
 
 目錄：
 
