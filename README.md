@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (13) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/ea2YxeKeczKxNJPMMC4lUQ) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 34%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
@@ -236,6 +235,10 @@
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
 
 ## 已讀書單
+
+### 2019
+
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (13) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/ea2YxeKeczKxNJPMMC4lUQ) / 100%
 
 ### 2018
 
