@@ -21,6 +21,7 @@
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
+1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
 1. [深度工作力 | 經理人 No.170](https://www.kobo.com/tw/zh/book/40dd2411-e107-47a0-acf5-610a90e0bdbe) / 1%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 13%
@@ -32,13 +33,19 @@
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
 1. [窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
+1. [江湖在走，法律要懂：法律白話文小學堂 by 法律白話文運動](https://www.kobo.com/tw/zh/ebook/0be5d1cb-b3d7-4a97-89e0-6481432a7209) / 1%
+1. [有錢人才知道的「精準閒聊」by 田口智隆](https://www.kobo.com/tw/zh/ebook/dba1a351-9d21-4c71-8193-886f5f75466a) / 1%
 1. [精準學習：「羅輯思維」最受歡迎的個人知識管理精進指南 by 成甲](https://www.kobo.com/tw/zh/book/dc24912f-0a55-4165-b266-6f7a1a76f3ef) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
 1. [知識內容寫作課：寫一篇真材實料的網路爆紅好文章 by 鄭國威](https://play.google.com/store/books/details?id=xm9ZDwAAQBAJ) / 1%
 1. [拒絕生病：無病生活從 65 件日常小事開始 (A SHORT GUIDE TO A LONG LIFE) by Dr. David B. Agus](https://play.google.com/store/books/details?id=7UEyDwAAQBAJ) / 1%
 1. [80/20 法則 by Richard Koch](https://www.kobo.com/tw/zh/ebook/F68QdmIU3zmEfLEnIZT4Aw) / 1%
+1. [為什麼我們這樣生活，那樣工作？by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/1a02fff2-81e3-4032-bf83-57849dcca8b0) / 1%
+1. [為什麼這樣工作會快、準、好 by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/dd9c0ac2-e8ad-4062-8f85-19c0cc015996) / 1%
+1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
+1. [解決問題最簡單的方法 by 渡邊健介](https://www.kobo.com/tw/zh/ebook/a69cad87-60e8-44d6-8900-f5fa2f7e56fe) / 1%
 1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
 1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
 1. [可複製的領導力：300 萬付費會員推崇，樊登的九堂商業課 by 樊登](https://www.kobo.com/tw/zh/book/4d7b00d2-20d6-42ec-8b66-8a64bdd682aa) / 1%
@@ -90,6 +97,7 @@
 1. [看板方法：科技企业渐进变革成功之道 (Successful Evolutionary Change for Your Technology Business) by David J.Anderson](https://www.tenlong.com.tw/products/9787560994048) / 1%
 1. [精益开发实战：用看板管理大型項目 by Henrik Kniberg](https://www.tenlong.com.tw/products/9787115291776) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
+1. [這一生，你想留下什麼？：史丹佛的 10 堂領導課 by John L. Hennessy](https://www.kobo.com/tw/zh/ebook/dcf4f90d-2713-4764-80e8-df426f69a1b9) / 1%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [超級好！用遊戲打倒生命裡的壞東西: 50 萬人親身見證的心理奇蹟 by Jane McGonigal](https://play.google.com/store/books/details?id=YKv-DQAAQBAJ) / 1%
 1. [關係界限 by 吳姵瑩](https://play.google.com/store/books/details?id=1q9dDwAAQBAJ) / 1%
@@ -102,6 +110,8 @@
 1. [但願你因工作而閃亮：「獵頭的日常」給你的求職真心提醒，盤點自身技能，放大個人優勢，擁抱那些令你不安的變化！ by 林沂萱](https://play.google.com/store/books/details?id=LWdNDwAAQBAJ) / 1%
 1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
 1. [窮查理的智慧語錄 by David Clark](https://play.google.com/store/books/details?id=Ch9iDwAAQBAJ) / 1%
+1. [不當行為：行為經濟學之父教你更聰明的思考、理財、看世界 by Richard H. Thaler](https://www.kobo.com/tw/zh/ebook/0b43aedf-0eab-4af4-81f6-76632e944e05) / 1%
+1. [金錢心理學：打破你對金錢的迷思，學會聰明花費 by Dan Ariely, Jeff Kreisler](https://www.kobo.com/tw/zh/ebook/6875ede0-f00a-4466-bf50-6ec0055e5e62) / 1%
 1. [關鍵行銷：消費心理學大師的 10 大黃金行銷課 by Adam Ferrier, Jennifer Fleming](https://play.google.com/store/books/details/亞當_費里爾_Adam_Ferrier_珍妮佛_佛萊明_Jennifer_Fleming_關鍵行銷?id=071mDwAAQBAJ) / 1%
 1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 0%
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
@@ -109,10 +119,12 @@
 1. [蔡康永的說話之道 2](http://www.books.com.tw/products/0010632643) / 1%
 1. [囧星人的人生百想妙答](http://www.books.com.tw/products/0010765506) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
+1. [反脆弱 by Nassim Nicholas Taleb](https://www.kobo.com/tw/zh/ebook/1c388bc8-e428-4501-bdae-c3f478899356) / 1%
 1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
 1. [精準提問的力量: 問對問題, 就解決一半的問題! 風靡美國政商學界的 11 種提問思考教你挖掘真相 × 扭轉逆勢 × 創造全新格局 by Frank Sesno](https://www.kobo.com/tw/zh/book/58aea75b-fff9-4156-97fc-3073f02fdc82) / 1%
 1. [向阿德勒提問](https://www.businesstoday.com.tw/book/category/80435/detail/201608030001) / 1%
 1. [被討厭的勇氣：自我啟發之父「阿德勒」的教導 by 岸見一郎, 古賀史健](http://www.books.com.tw/products/0010653153) / 1%
+1. [被討厭的勇氣 二部曲完結篇：人生幸福的行動指南 by 岸見一郎, 古賀史健](https://www.kobo.com/tw/zh/ebook/a9206878-78aa-4587-abc1-99e0ef15eeb4) / 1%
 1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [持续集成: 软件质量改进和风险降低之道 by Paul M.Duvall, Steve Matyas, Andrew Glover](https://book.douban.com/subject/2580604/) / 1%
 1. [圖解 SCRUM 工作法 | 經理人 No.160](https://www.managertoday.com.tw/magazines/view/127485) / 2%
@@ -232,6 +244,23 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (01) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/SHpqUJLGYzu-ROVbMkLKEA) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (02) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/FFKAwqMWQzaml16h6krIMA) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (03) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/Ssz4qjkVDjCVnh-YTRfK0A) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (04) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/4I8VrkmwQjegMhKpLYwfNQ) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (05) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/VB0n5G8TMj6UvwbDpu_MmA) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (06) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/O9zaUu7L2jSNOyTzqITnTQ) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (07) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/ZhQkpynJTDqfYkZBPFkVcw) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (08) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/wc1gHILJ2zCWjf0CwHod7w) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (04) by 夏海公司](https://www.kobo.com/tw/zh/ebook/61GMMggjPDi-JrMmzZEETQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (05) by 夏海公司](https://www.kobo.com/tw/zh/ebook/l47q7ki7qDCpCNmoop4odQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (06) by 夏海公司](https://www.kobo.com/tw/zh/ebook/I30w0kV0aTOT0MQuFzUPRA) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (07) by 夏海公司](https://www.kobo.com/tw/zh/ebook/IcRqkL7TMz6XK7x-yg4cRw) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (08) by 夏海公司](https://www.kobo.com/tw/zh/ebook/fgQTIl9BxjSvpckA7D2Fzw) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (09) by 夏海公司](https://www.kobo.com/tw/zh/ebook/ttZR6qzWtz6jDVW3Gcdq1A) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (03)](https://play.google.com/store/books/details?id=XnguDwAAQBAJ) / 1%
