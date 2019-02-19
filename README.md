@@ -48,6 +48,13 @@
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
+1. [目标 by Eliyahu Goldratt, Jeff Cox](https://www.tenlong.com.tw/products/9787121161483) / 1%
+1. [目标 Ⅱ：绝不是靠运气 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161476) / 1%
+1. [关键链 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161469) / 1%
+1. [仍然不足够 by Eliyahu Goldratt, Eli Schragenheim, Carol Ptak](https://www.tenlong.com.tw/products/9787121161438) / 1%
+1. [抉擇 (The Choice)](https://www.tenlong.com.tw/products/9787121255588) / 1%
+1. [醒悟 by Eliyahu M. Goldratt, Ilan Eshkoli, Joe BrownLeer](https://www.tenlong.com.tw/products/9787121255571) / 1%
+1. [持续改善：TOC 生产管理指南](https://www.books.com.tw/products/CN11193077) / 1%
 1. [解決問題最簡單的方法 by 渡邊健介](https://www.kobo.com/tw/zh/ebook/a69cad87-60e8-44d6-8900-f5fa2f7e56fe) / 1%
 1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
 1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
@@ -152,8 +159,6 @@
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [用戶故事與敏捷方法](https://www.tenlong.com.tw/products/9787302223405) / 1%
 1. [使用者故事對照 (User Story Mapping: Discover the Whole Story, Build the Right Product)](https://www.tenlong.com.tw/products/9789863479468) / 1%
-1. [持續改善：TOC 生產管理指南](http://www.books.com.tw/products/CN11193077) / 1%
-1. [抉擇 (The Choice)](http://www.books.com.tw/products/CN11283168) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%

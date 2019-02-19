@@ -15,8 +15,10 @@
 
 1. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610)
     - [繁中] [目標：簡單有效的常識管理](http://www.tenlong.com.tw/items/0002161311?item_id=889207) ✔
+    - [簡中] [目标](https://www.tenlong.com.tw/products/9787121161483) ✔
 1. [It's Not Luck](https://www.amazon.com/Its-Not-Luck-Eliyahu-Goldratt/dp/0884271153)
     - [繁中] [絕不是靠運氣：創造事業與人生的雙贏](http://www.books.com.tw/products/0010588043)
+    - [簡中] [目标 Ⅱ：绝不是靠运气](https://www.tenlong.com.tw/products/9787121161476) ✔
 1. [Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints](https://www.amazon.com/Beyond-Goal-Eliyahu-Goldratt-Constraints/dp/1596590238?ie=UTF8&camp=1789&creative=9325&creativeASIN=0884271951&linkCode=as2&tag=itrevpre-20)
 1. [The Five Dysfunctions of A Team - A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=sr_1_1?s=books&ie=UTF8&qid=1524496448&sr=1-1&keywords=The+Five+Dysfunctions+of+A+Team+-+A+Leadership+Fable)
     - [繁中] [克服團隊領導的 5 大障礙](http://www.books.com.tw/products/0010647956) ✔
