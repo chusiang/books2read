@@ -14,7 +14,7 @@
 [» more](http://www.tenlong.com.tw/items/7115403651?item_id=1013544)
 
 1. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610)
-    - [繁中] [目標：簡單有效的常識管理](http://www.tenlong.com.tw/items/0002161311?item_id=889207) ✔
+    - [繁中] [目標：簡單有效的常識管理](http://www.tenlong.com.tw/items/0002161311) ✔
     - [簡中] [目标](https://www.tenlong.com.tw/products/9787121161483) ✔
 1. [It's Not Luck](https://www.amazon.com/Its-Not-Luck-Eliyahu-Goldratt/dp/0884271153)
     - [繁中] [絕不是靠運氣：創造事業與人生的雙贏](http://www.books.com.tw/products/0010588043)
