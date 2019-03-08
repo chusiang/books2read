@@ -16,7 +16,7 @@
 
 1. [OVERLORD (8) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010800365) / 0%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.books.com.tw/products/0010808033) / 0%
-1. [爆肝工程師的異世界狂想曲 (5) by あやめぐむ、愛七ひろ](https://www.kadokawa.com.tw/product_detail9122.htm) / 0%
+1. [爆肝工程師的異世界狂想曲 (5) by あやめぐむ、愛七ひろ](https://www.bookwalker.com.tw/product/39134) / 0%
 1. [夏日大作戰 (1) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010473543) / 1%
 1. [夏日大作戰 (2) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010476510) / 1%
 1. [夏日大作戰 (3) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010485337) / 1%
@@ -76,6 +76,9 @@
 1. 神奇寶貝特別篇 (15) by 日下秀憲、山本智 / 100%
 1. 銃夢 (1) by 木城幸人 / 100%
 1. 銃夢 (2) by 木城幸人 / 100%
+1. 銃夢 (3) by 木城幸人 / 100%
+1. 銃夢 (4) by 木城幸人 / 100%
+1. 銃夢 (5) by 木城幸人 / 100%
 
 ### 2018
 
