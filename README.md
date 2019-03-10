@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [給力 (Powerful) by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 52%
+1. [給力 (Powerful) by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 71%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
@@ -24,6 +24,7 @@
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
+1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
 1. [深度工作力 | 經理人 No.170](https://www.kobo.com/tw/zh/book/40dd2411-e107-47a0-acf5-610a90e0bdbe) / 1%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 13%
@@ -102,6 +103,7 @@
 1. [文案力 | 經理人月刊 No.162](https://www.kobo.com/tw/zh/book/e4070bf3-7009-432a-a71c-c46e16a176c8) / 1%
 1. [中階主管帶人學 | 經理人特刊 No.16](https://www.managertoday.com.tw/magazine/view/127566) / 1%
 1. [OKR 目標與關鍵成果法 | 大師輕鬆讀 No.679](https://www.kobo.com/tw/zh/book/46a6d0f6-4795-43e7-a311-23884349dbd7) / 1%
+1. [OKR：做最重要的事 by John Doerr](https://www.kobo.com/tw/en/ebook/okr-2) / 1%
 1. [哈佛教你領導學：打造扭轉變局、再創高峰的卓越領導力](http://www.books.com.tw/products/0010678458) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
