@@ -18,6 +18,7 @@
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
 1. [給力 (Powerful) by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 71%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
+1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
 1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
@@ -60,6 +61,7 @@
 1. [解決問題最簡單的方法 by 渡邊健介](https://www.kobo.com/tw/zh/ebook/a69cad87-60e8-44d6-8900-f5fa2f7e56fe) / 1%
 1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
 1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
+1. [領導，不需要頭銜：如何讓奇葩怪傑為你效力？by Warren Bennis](https://www.taaze.tw/goods/11100158482.html) / 1%
 1. [可複製的領導力：300 萬付費會員推崇，樊登的九堂商業課 by 樊登](https://www.kobo.com/tw/zh/book/4d7b00d2-20d6-42ec-8b66-8a64bdd682aa) / 1%
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
