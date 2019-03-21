@@ -14,26 +14,27 @@
 
 ## 待讀書單
 
+1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 30%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 23%
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
 1. [給力 (Powerful) by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 71%
+1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
-1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
+1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
+1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
+1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
 1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
 1. [深度工作力 | 經理人 No.170](https://www.kobo.com/tw/zh/book/40dd2411-e107-47a0-acf5-610a90e0bdbe) / 1%
-1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
-1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [【經濟大預言】2019 財富 4 大拐點 | 商業周刊 No.1625](https://www.kobo.com/tw/zh/book/62e88bbc-c456-4986-863b-6677e026ea35) / 1%
 1. [企鵝鐵道失物招領課 by 名取佐和子](https://www.kobo.com/my/en/ebook/g9z8nqozitw9dtukuiq7fw) / 1%
-1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
 1. [康乃爾最經典的思考邏輯課：大數據時代，你一定要避開的自以為是 by Thomas Gilovich](https://www.kobo.com/tw/en/ebook/49e64850-4345-4a4b-b713-da2d5e486e66) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
@@ -66,7 +67,6 @@
 1. [可複製的領導力：300 萬付費會員推崇，樊登的九堂商業課 by 樊登](https://www.kobo.com/tw/zh/book/4d7b00d2-20d6-42ec-8b66-8a64bdd682aa) / 1%
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
-1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 1%
 1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/ebook/ucla) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
@@ -189,30 +189,30 @@
 1. [為你自己學 Git by 高見龍](https://www.tenlong.com.tw/products/9789864342662) / 1%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
-1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807?item_id=1021576) / 21%
+1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807) / 21%
 1. [引導反思的第一本書](http://www.books.com.tw/products/0010618831) /1%
 1. [遊戲人生：有效有趣的破冰遊戲](http://www.books.com.tw/products/0010651863) / 1%
-1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？](http://www.books.com.tw/products/0010703860?loc=P_011_1_001) / 1%
+1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？](http://www.books.com.tw/products/0010703860) / 1%
 1. [獨角獸與牠的產地：矽谷新創公司歷險記](http://www.books.com.tw/products/0010757639) / 1%
 1. [熱血仁醫：開創新局的臺大醫院駐院醫學團隊](http://www.books.com.tw/products/0010611754) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)](https://www.tenlong.com.tw/products/9789862017050) / 1%
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers)](https://www.tenlong.com.tw/products/9789862017883) / 1%
 1. [單元測試的藝術, 2/e (The Art of Unit Testing: with examples in C#, 2/e)](https://www.tenlong.com.tw/products/9789864342471) / 1%
-1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334?item_id=892753) / 40%
-1. [笑談軟體工程：例外處理設計的逆襲](http://www.tenlong.com.tw/items/9865740389?item_id=891531) / 1%
+1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334) / 40%
+1. [笑談軟體工程：例外處理設計的逆襲](http://www.tenlong.com.tw/items/9865740389) / 1%
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
-1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606?item_id=621252) / 80%
+1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606) / 80%
 1. [Selenium 2 自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
-1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php?id=a202) / 1%
+1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php) / 1%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
-1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought)](http://www.tenlong.com.tw/items/7115338698?item_id=891689) / 1%
+1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought)](http://www.tenlong.com.tw/items/7115338698) / 1%
 1. [版本控制使用 Git](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
-1. [建構微服務｜設計細微化的系統 (Building Microservices)](http://www.tenlong.com.tw/items/9864760785?item_id=1021577) / 1%
-1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635?item_id=452884) / 31%
+1. [建構微服務｜設計細微化的系統 (Building Microservices)](http://www.tenlong.com.tw/items/9864760785) / 1%
+1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635) / 31%
 1. [Git 權威指南](http://www.books.com.tw/products/CN10770222) / 30%
-1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878?item_id=17491) / 1%
+1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878) / 1%
 1. [團隊管理 | 經理人 No.154](https://www.managertoday.com.tw/magazines/view/127299) / 1%
 1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders)](https://www.tenlong.com.tw/products/9789862763834) /1%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
@@ -221,19 +221,19 @@
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software)](https://www.tenlong.com.tw/products/9789862763445) / 1%
 1. [Infrastructure as Code: Managing Servers in the Cloud](https://www.tenlong.com.tw/products/9781491924358) / 1%
 1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
-1. [誰說我們不能一起做決定：參與式決策引導寶典 by Sam Kaner](https://www.taaze.tw/sing.html?pid=11100243769) / 0%
-1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771?item_id=495188) / 40%
-1. [搜尋模式 (Search Patterns: Design for Discovery)](http://www.tenlong.com.tw/items/9862763116?item_id=369594) / 1%
+1. [誰說我們不能一起做決定：參與式決策引導寶典 by Sam Kaner](https://www.taaze.tw/sing.html) / 0%
+1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771) / 40%
+1. [搜尋模式 (Search Patterns: Design for Discovery)](http://www.tenlong.com.tw/items/9862763116) / 1%
 1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization)](https://www.tenlong.com.tw/products/9789864764433) / 1%
-1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age)](https://www.tenlong.com.tw/items/9867794699?item_id=29319) / 1%
-1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197?item_id=587095) / 0%
-1. [深入淺出 Python (Head First Python)](http://www.tenlong.com.tw/items/9862763485?item_id=384628) / 2%
+1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age)](https://www.tenlong.com.tw/items/9867794699) / 1%
+1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197) / 0%
+1. [深入淺出 Python (Head First Python)](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) / 1%
-1. [It's Django--用 Python 迅速打造 Web 應用](http://www.tenlong.com.tw/items/9863475467?item_id=1004939) / 4%
+1. [It's Django--用 Python 迅速打造 Web 應用](http://www.tenlong.com.tw/items/9863475467) / 4%
 1. [王者歸來 : 自己動手寫網路爬蟲, 2/e](https://www.tenlong.com.tw/products/9789863793335) / 0%
-1. [大話重構](http://www.tenlong.com.tw/items/9864340468?item_id=1007025) / 1%
-1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696?item_id=1004283) / 1%
-1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170?item_id=588762) / 0%
+1. [大話重構](http://www.tenlong.com.tw/items/9864340468) / 1%
+1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696) / 1%
+1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
@@ -247,17 +247,17 @@
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程](https://www.tenlong.com.tw/products/9789864341757) / 0%
 1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
-1. [網管員面試寶典](https://www.tenlong.com.tw/items/foobar?item_id=49527) / 1%
+1. [網管員面試寶典](https://www.tenlong.com.tw/products/9787121065231) / 1%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 1. [汽車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_汽車防禦駕駛手冊_新編?id=qz83DwAAQBAJ) / 1%
-1. ~~ [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264?item_id=1023589) / 3% ~~
+1. ~~ [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264) / 3% ~~
 1. ~~ [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1% ~~
-1. ~~ [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062?item_id=1024829) / 1% ~~
-1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909?item_id=1022313) / 38% ~~
+1. ~~ [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062) / 1% ~~
+1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909) / 38% ~~
 1. ~~ [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1% ~~
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
-1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X?item_id=1021053) / 0% ~~
+1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (01) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/SHpqUJLGYzu-ROVbMkLKEA) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (02) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/FFKAwqMWQzaml16h6krIMA) / 1%
@@ -313,7 +313,7 @@
 
 ### 2017
 
-1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780?item_id=1012293) / 100%
+1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780) / 100%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
 1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 100%
 1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 100%
@@ -341,24 +341,24 @@
 
 ### 2016
 
-1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](http://www.tenlong.com.tw/items/986276256X?item_id=338410) / 100%
-1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074?item_id=1010334) / 105%
-1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387?item_id=1007473) / 106%
-1. [鳳凰項目：一個 IT 運維的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](http://www.tenlong.com.tw/items/7115403651?item_id=1013544) / 205%
-1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702?item_id=998176) / 100%
+1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](https://www.tenlong.com.tw/products/9789862762561) / 100%
+1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074) / 105%
+1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387) / 106%
+1. [鳳凰項目：一個 IT 運維的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](http://www.tenlong.com.tw/items/7115403651) / 205%
+1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702) / 100%
 1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
 
 ### 2015
 
 1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
 1. [AWS 雲端企業實戰聖經](https://play.google.com/store/books/details/%E6%9E%97%E5%85%81%E6%BA%A5_AWS%E9%9B%B2%E7%AB%AF%E4%BC%81%E6%A5%AD%E5%AF%A6%E6%88%B0%E8%81%96%E7%B6%93?id=IpirAAAAQBAJ) / 100%
-1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587?item_id=1004900) / 100%
+1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587) / 100%
 
 ### ~ 2014
 
 1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
-1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974?item_id=35875) / 100%
-1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754?item_id=5718) / 100%
+1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974) / 100%
+1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754) / 100%
 1. [Linux 紅帽旋風](http://www.books.com.tw/products/0010071706) / 100%
 1. [大教堂和市集 by Eric Steven Raymond](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%B8%82%E9%9B%86) / 100%
 
