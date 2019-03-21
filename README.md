@@ -35,6 +35,7 @@
 1. [企鵝鐵道失物招領課 by 名取佐和子](https://www.kobo.com/my/en/ebook/g9z8nqozitw9dtukuiq7fw) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
+1. [康乃爾最經典的思考邏輯課：大數據時代，你一定要避開的自以為是 by Thomas Gilovich](https://www.kobo.com/tw/en/ebook/49e64850-4345-4a4b-b713-da2d5e486e66) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
 1. [窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
@@ -141,6 +142,7 @@
 1. [向阿德勒提問](https://www.businesstoday.com.tw/book/category/80435/detail/201608030001) / 1%
 1. [被討厭的勇氣：自我啟發之父「阿德勒」的教導 by 岸見一郎, 古賀史健](http://www.books.com.tw/products/0010653153) / 1%
 1. [被討厭的勇氣 二部曲完結篇：人生幸福的行動指南 by 岸見一郎, 古賀史健](https://www.kobo.com/tw/zh/ebook/a9206878-78aa-4587-abc1-99e0ef15eeb4) / 1%
+1. [心智圖創意應用百科：鬍子李悟教你從生活、讀書到工作都得心應手的心智圖 100+ by 李忠峯](https://www.kobo.com/tw/en/ebook/74c33a27-6c94-4032-ac93-5c4c6907fe7f) / 1%
 1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [持续集成: 软件质量改进和风险降低之道 by Paul M.Duvall, Steve Matyas, Andrew Glover](https://book.douban.com/subject/2580604/) / 1%
 1. [圖解 SCRUM 工作法 | 經理人 No.160](https://www.managertoday.com.tw/magazines/view/127485) / 2%
