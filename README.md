@@ -17,7 +17,6 @@
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 30%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 23%
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
-1. [給力 (Powerful) by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 71%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
@@ -286,6 +285,7 @@
 
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (13) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/ea2YxeKeczKxNJPMMC4lUQ) / 100%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 100%
+1. [給力 (Powerful) by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 100%
 
 ### 2018
 
