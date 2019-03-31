@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (01) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/SHpqUJLGYzu-ROVbMkLKEA) / 51%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 35%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 23%
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
@@ -29,6 +30,7 @@
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 24%
+1. [不懂這些，別想加薪 by 劉恭甫](https://www.kobo.com/tw/en/ebook/3666e01a-53d9-419c-9ab6-7efbe7b054cc) / 1%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
 1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
 1. [深度工作力 | 經理人 No.170](https://www.kobo.com/tw/zh/book/40dd2411-e107-47a0-acf5-610a90e0bdbe) / 1%
@@ -51,6 +53,7 @@
 1. [為什麼這樣工作會快、準、好 by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/dd9c0ac2-e8ad-4062-8f85-19c0cc015996) / 1%
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
+1. [智取：TOC 系統思考 3 法寶 by 中華高德拉特協會](https://www.kobo.com/tw/zh/ebook/thinking-smart-you-are-how-you-think-applying-theory-of-constraints-in-developing-thinking-skills) / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
 1. [目标 by Eliyahu Goldratt, Jeff Cox](https://www.tenlong.com.tw/products/9787121161483) / 1%
 1. [目标 Ⅱ：绝不是靠运气 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161476) / 1%
@@ -258,7 +261,6 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (01) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/SHpqUJLGYzu-ROVbMkLKEA) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (02) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/FFKAwqMWQzaml16h6krIMA) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (03) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/Ssz4qjkVDjCVnh-YTRfK0A) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (04) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/4I8VrkmwQjegMhKpLYwfNQ) / 1%
@@ -266,6 +268,13 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (06) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/O9zaUu7L2jSNOyTzqITnTQ) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (07) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/ZhQkpynJTDqfYkZBPFkVcw) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (08) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/wc1gHILJ2zCWjf0CwHod7w) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (1) by 伏瀬](https://www.kobo.com/tw/en/ebook/2bd92fe3-0815-41a6-b214-28a92694f543) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (2) by 伏瀬](https://www.kobo.com/tw/en/ebook/a4b40987-50a6-4789-b0f3-770c8750d8f7) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.kobo.com/tw/en/ebook/OpCkdz7AWjS7VMtDYKXpSA) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (4) by 伏瀬](https://www.kobo.com/tw/en/ebook/Oa0Fy-K03TWT6SUskwnV7A) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (5) by 伏瀬](https://www.kobo.com/tw/en/ebook/HputQfmEwza2ufHIm42N2A/_VJlc0nUf0K4GxM1LbqCpw) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (6) by 伏瀬](https://www.kobo.com/tw/en/ebook/yNKlzSEDRDiRELoiCF_sRQ/loxwJTlNekCOb71f27xuPA) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (7) by 伏瀬](https://www.kobo.com/tw/en/ebook/1GYM0HTy1TySuT9n2ato3Q) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
