@@ -1,6 +1,7 @@
 # 凍仁的待讀清單
 
-看了《學徒模式》一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/master) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。[^1]
+看了
+《學徒模式》一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/master) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。[^1]
 
 目錄：
 
@@ -14,7 +15,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (01) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/SHpqUJLGYzu-ROVbMkLKEA) / 51%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (02) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/FFKAwqMWQzaml16h6krIMA) / 1%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 35%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 23%
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
@@ -261,7 +262,6 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (02) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/FFKAwqMWQzaml16h6krIMA) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (03) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/Ssz4qjkVDjCVnh-YTRfK0A) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (04) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/4I8VrkmwQjegMhKpLYwfNQ) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (05) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/VB0n5G8TMj6UvwbDpu_MmA) / 1%
@@ -295,6 +295,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (13) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/ea2YxeKeczKxNJPMMC4lUQ) / 100%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 100%
 1. [給力 (Powerful) by Patty McCord](https://www.kobo.com/tw/zh/book/5bde00c6-0752-419d-aa1b-513593d6684c) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (01) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/SHpqUJLGYzu-ROVbMkLKEA) / 100%
 
 ### 2018
 
