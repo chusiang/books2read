@@ -15,7 +15,7 @@
 
 ## 待讀書單
 
-1. 我的鋼彈事業 by 松本悟 / 2%
+1. 我的鋼彈事業 by 松本悟 / 39%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (02) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/FFKAwqMWQzaml16h6krIMA) / 1%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 35%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 23%
