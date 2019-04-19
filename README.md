@@ -274,6 +274,8 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (5) by 伏瀬](https://www.kobo.com/tw/en/ebook/HputQfmEwza2ufHIm42N2A/_VJlc0nUf0K4GxM1LbqCpw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (6) by 伏瀬](https://www.kobo.com/tw/en/ebook/yNKlzSEDRDiRELoiCF_sRQ/loxwJTlNekCOb71f27xuPA) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (7) by 伏瀬](https://www.kobo.com/tw/en/ebook/1GYM0HTy1TySuT9n2ato3Q) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.kobo.com/tw/zh/ebook/7683218b-cc33-4086-aa5d-6258b8b8d777) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (10) by 伏瀬](https://www.kobo.com/tw/zh/ebook/e2328e6a-f841-4372-916b-e472840ee430) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
