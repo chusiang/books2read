@@ -15,7 +15,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (07) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/ZhQkpynJTDqfYkZBPFkVcw) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (08) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/wc1gHILJ2zCWjf0CwHod7w) / 1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
 1. 我的鋼彈事業 by 松本悟 / 39%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 43%
@@ -267,7 +267,6 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (08) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/wc1gHILJ2zCWjf0CwHod7w) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (1) by 伏瀬](https://www.kobo.com/tw/en/ebook/2bd92fe3-0815-41a6-b214-28a92694f543) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (2) by 伏瀬](https://www.kobo.com/tw/en/ebook/a4b40987-50a6-4789-b0f3-770c8750d8f7) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.kobo.com/tw/en/ebook/OpCkdz7AWjS7VMtDYKXpSA) / 1%
@@ -303,6 +302,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (04) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/4I8VrkmwQjegMhKpLYwfNQ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (05) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/VB0n5G8TMj6UvwbDpu_MmA) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (06) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/O9zaUu7L2jSNOyTzqITnTQ) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (07) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/ZhQkpynJTDqfYkZBPFkVcw) / 100%
 
 ### 2018
 
