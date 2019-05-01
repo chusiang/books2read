@@ -81,6 +81,7 @@
 1. 銃夢 (5) by 木城幸人 / 100%
 1. [為什麼老師會在這裡!? (1) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/61a7d93d-c698-469b-bdfa-374bcf673a47) / 100%
 1. [為什麼老師會在這裡!? (2) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/b50d9561-2bd0-41c1-bc2b-034444dd3da4) / 100%
+1. [爆肝工程師的異世界狂想曲 (5) by あやめぐむ、愛七ひろ](https://play.google.com/store/books/details?id=5xFfDwAAQBAJ) / 100%
 
 ### 2018
 
