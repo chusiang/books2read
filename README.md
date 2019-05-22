@@ -18,6 +18,7 @@
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 16%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 43%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
+1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 23%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
@@ -130,7 +131,6 @@
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
-1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [打造圖像腦：學會擊敗 90% 職場競爭者的視覺思考工作術 by Dan Roam](https://www.kobo.com/tw/zh/ebook/64a0876d-972a-400e-a12d-5f0415fdb66a) / 1%
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
 1. [但願你因工作而閃亮：「獵頭的日常」給你的求職真心提醒，盤點自身技能，放大個人優勢，擁抱那些令你不安的變化！ by 林沂萱](https://play.google.com/store/books/details?id=LWdNDwAAQBAJ) / 1%
@@ -149,6 +149,8 @@
 1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
 1. [精準提問的力量: 問對問題, 就解決一半的問題! 風靡美國政商學界的 11 種提問思考教你挖掘真相 × 扭轉逆勢 × 創造全新格局 by Frank Sesno](https://www.kobo.com/tw/zh/book/58aea75b-fff9-4156-97fc-3073f02fdc82) / 1%
 1. [向阿德勒提問](https://www.businesstoday.com.tw/book/category/80435/detail/201608030001) / 1%
+1. [下個十年，你在哪？時時檢視目標，無懼打掉重練，10 年 10 倍薪不是夢 by 黃珮婷 Betty](https://www.kobo.com/tw/zh/ebook/e2PGdJ9vuTywdvhRWTSwiw) / 1%
+1. [挺身而進 (Lean In: Women, Work and the Will to Lead) by Sheryl Sandberg](https://www.kobo.com/tw/zh/ebook/sF1hzML-NjWvsVTP7Ih7tg) / 1%
 1. [被討厭的勇氣：自我啟發之父「阿德勒」的教導 by 岸見一郎, 古賀史健](http://www.books.com.tw/products/0010653153) / 1%
 1. [被討厭的勇氣 二部曲完結篇：人生幸福的行動指南 by 岸見一郎, 古賀史健](https://www.kobo.com/tw/zh/ebook/a9206878-78aa-4587-abc1-99e0ef15eeb4) / 1%
 1. [心智圖創意應用百科：鬍子李悟教你從生活、讀書到工作都得心應手的心智圖 100+ by 李忠峯](https://www.kobo.com/tw/en/ebook/74c33a27-6c94-4032-ac93-5c4c6907fe7f) / 1%
