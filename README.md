@@ -28,6 +28,7 @@
 1. [圖解日本風俗 by 新谷尚紀](https://www.taaze.tw/usedList.html?oid=11100803100) / 2%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
+1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
 1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
@@ -47,6 +48,7 @@
 1. [康乃爾最經典的思考邏輯課：大數據時代，你一定要避開的自以為是 by Thomas Gilovich](https://www.kobo.com/tw/en/ebook/49e64850-4345-4a4b-b713-da2d5e486e66) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
+1. [快思慢想 - Thinking, Fast and Slow by Daniel Kahneman](https://www.kobo.com/tw/zh/ebook/0699a594-6684-4500-8648-92794a33477c) / 1%
 1. [窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
 1. [江湖在走，法律要懂：法律白話文小學堂 by 法律白話文運動](https://www.kobo.com/tw/zh/ebook/0be5d1cb-b3d7-4a97-89e0-6481432a7209) / 1%
 1. [有錢人才知道的「精準閒聊」by 田口智隆](https://www.kobo.com/tw/zh/ebook/dba1a351-9d21-4c71-8193-886f5f75466a) / 1%
@@ -290,6 +292,14 @@
 1. [[輕小說] 奮鬥吧！系統工程師 (07) by 夏海公司](https://www.kobo.com/tw/zh/ebook/IcRqkL7TMz6XK7x-yg4cRw) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (08) by 夏海公司](https://www.kobo.com/tw/zh/ebook/fgQTIl9BxjSvpckA7D2Fzw) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (09) by 夏海公司](https://www.kobo.com/tw/zh/ebook/ttZR6qzWtz6jDVW3Gcdq1A) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (10) by 夏海公司](https://www.kobo.com/tw/zh/ebook/eeedebf8-14fe-41a7-bb8d-646be162a2f5) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (11) by 夏海公司](https://www.kobo.com/tw/zh/ebook/12a86026-a176-492a-a93a-71c004dcbf96) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (12) by 夏海公司](https://www.kobo.com/tw/zh/ebook/a25e4267-6b82-4b3b-921f-702f46b5d189) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (13) by 夏海公司](https://www.kobo.com/tw/zh/ebook/57499f3a-c9ab-476c-aae1-ff380ebac562) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (14) by 夏海公司](https://www.kobo.com/tw/zh/ebook/624d1ca5-939d-4cb8-bcd0-4b43ceeaf0e6) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (15) by 夏海公司](https://www.kobo.com/tw/zh/ebook/73a22fc5-93fe-44d9-90b3-08dcfe63ea0d) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (16) by 夏海公司](https://www.kobo.com/tw/zh/ebook/0a329430-4d3a-49cb-b34b-cc88d98173b9) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手外傳 第一年](https://www.kobo.com/tw/zh/ebook/1135e90a-1389-469c-8dd5-ee9132c8e8e5) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (03)](https://play.google.com/store/books/details?id=XnguDwAAQBAJ) / 1%
