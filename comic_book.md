@@ -14,10 +14,10 @@
 
 ## 待讀書單
 
-1. 食戟之靈 (26) by 佐伯俊、附田佑鬥 / 68%
-1. [OVERLORD (8) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010800365) / 0%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.books.com.tw/products/0010808033) / 0%
-1. [爆肝工程師的異世界狂想曲 (5) by あやめぐむ、愛七ひろ](https://www.bookwalker.com.tw/product/39134) / 0%
+1. 食戟之靈 (31) by 佐伯俊、附田佑鬥 / 0%
+1. 爆肝工程師的異世界狂想曲 (7) by あやめぐむ、愛七ひろ / 0%
+1. [OVERLORD (8) by 深山フギン、丸山くがね](https://www.books.com.tw/products/0010800365) / 0%
 1. [夏日大作戰 (1) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010473543) / 1%
 1. [夏日大作戰 (2) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010476510) / 1%
 1. [夏日大作戰 (3) by 細田守、杉基イクラ、貞本義行](https://www.books.com.tw/products/0010485337) / 1%
@@ -83,7 +83,13 @@
 1. [為什麼老師會在這裡!? (1) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/61a7d93d-c698-469b-bdfa-374bcf673a47) / 100%
 1. [為什麼老師會在這裡!? (2) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/b50d9561-2bd0-41c1-bc2b-034444dd3da4) / 100%
 1. [爆肝工程師的異世界狂想曲 (5) by あやめぐむ、愛七ひろ](https://play.google.com/store/books/details?id=5xFfDwAAQBAJ) / 100%
+1. [爆肝工程師的異世界狂想曲 (6) by あやめぐむ、愛七ひろ](https://www.bookwalker.com.tw/product/57061) / 100%
 1. 食戟之靈 (25) by 佐伯俊、附田佑鬥 / 100%
+1. 食戟之靈 (26) by 佐伯俊、附田佑鬥 / 100%
+1. 食戟之靈 (27) by 佐伯俊、附田佑鬥 / 100%
+1. 食戟之靈 (28) by 佐伯俊、附田佑鬥 / 100%
+1. 食戟之靈 (29) by 佐伯俊、附田佑鬥 / 100%
+1. 食戟之靈 (30) by 佐伯俊、附田佑鬥 / 100%
 
 ### 2018
 
