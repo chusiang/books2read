@@ -17,6 +17,7 @@
 
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 20%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 59%
+1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 23%
@@ -29,6 +30,7 @@
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
 1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
+1. [故事課 1：3 分鐘說 18 萬個故事，打造影響力 by 許榮哲](https://play.google.com/store/books/details?id=ox6ODwAAQBAJ) / 1%
 1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
@@ -184,6 +186,7 @@
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
 1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 1%
+1. [脆弱的力量 by Brené Brown](https://play.google.com/store/books/details?id=-RiUDwAAQBAJ) / 1%
 1. [向誰效忠：關於一種更高層次的忠誠，以及這種忠誠的考驗 by James Comey](https://play.google.com/store/books/details?id=FM56DwAAQBAJ) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
 1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
