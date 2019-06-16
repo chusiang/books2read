@@ -15,6 +15,7 @@
 
 ## 待讀書單
 
+1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 14%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 34%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
@@ -196,7 +197,6 @@
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用 (2/e)](https://www.tenlong.com.tw/products/9787115411280) / 1%
-1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 15%
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e)](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [Ubuntu 你不懂的團隊力量 by Stephen C. Lundin Bob Nelson](https://www.taaze.tw/usedList.html?oid=11100246329) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
