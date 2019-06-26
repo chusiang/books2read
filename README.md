@@ -1,7 +1,6 @@
 # 凍仁的待讀清單
 
-看了
-《學徒模式》一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/master) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。[^1]
+看了《學徒模式》一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/master) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。[^1]
 
 目錄：
 
@@ -15,6 +14,7 @@
 
 ## 待讀書單
 
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.kobo.com/tw/en/ebook/OpCkdz7AWjS7VMtDYKXpSA) / 28%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 18%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 34%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
@@ -277,9 +277,6 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (1) by 伏瀬](https://www.kobo.com/tw/en/ebook/2bd92fe3-0815-41a6-b214-28a92694f543) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (2) by 伏瀬](https://www.kobo.com/tw/en/ebook/a4b40987-50a6-4789-b0f3-770c8750d8f7) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.kobo.com/tw/en/ebook/OpCkdz7AWjS7VMtDYKXpSA) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (4) by 伏瀬](https://www.kobo.com/tw/en/ebook/Oa0Fy-K03TWT6SUskwnV7A) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (5) by 伏瀬](https://www.kobo.com/tw/en/ebook/HputQfmEwza2ufHIm42N2A/_VJlc0nUf0K4GxM1LbqCpw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (6) by 伏瀬](https://www.kobo.com/tw/en/ebook/yNKlzSEDRDiRELoiCF_sRQ/loxwJTlNekCOb71f27xuPA) / 1%
@@ -324,6 +321,8 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (08) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/wc1gHILJ2zCWjf0CwHod7w) / 100%
 1. [我的鋼彈事業](http://www.my-cartoon.com.tw/front/shop/product_page.php?id=4458) by 松本悟 / 100%
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (1) by 伏瀬](https://www.kobo.com/tw/en/ebook/2bd92fe3-0815-41a6-b214-28a92694f543) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (2) by 伏瀬](https://www.kobo.com/tw/en/ebook/a4b40987-50a6-4789-b0f3-770c8750d8f7) / 100%
 
 ### 2018
 
