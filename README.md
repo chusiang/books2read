@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.kobo.com/tw/en/ebook/OpCkdz7AWjS7VMtDYKXpSA) / 28%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 18%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 34%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
@@ -277,12 +276,6 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (4) by 伏瀬](https://www.kobo.com/tw/en/ebook/Oa0Fy-K03TWT6SUskwnV7A) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (5) by 伏瀬](https://www.kobo.com/tw/en/ebook/HputQfmEwza2ufHIm42N2A/_VJlc0nUf0K4GxM1LbqCpw) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (6) by 伏瀬](https://www.kobo.com/tw/en/ebook/yNKlzSEDRDiRELoiCF_sRQ/loxwJTlNekCOb71f27xuPA) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (7) by 伏瀬](https://www.kobo.com/tw/en/ebook/1GYM0HTy1TySuT9n2ato3Q) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.kobo.com/tw/zh/ebook/7683218b-cc33-4086-aa5d-6258b8b8d777) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (10) by 伏瀬](https://www.kobo.com/tw/zh/ebook/e2328e6a-f841-4372-916b-e472840ee430) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
@@ -323,6 +316,17 @@
 1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (1) by 伏瀬](https://www.kobo.com/tw/en/ebook/2bd92fe3-0815-41a6-b214-28a92694f543) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (2) by 伏瀬](https://www.kobo.com/tw/en/ebook/a4b40987-50a6-4789-b0f3-770c8750d8f7) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.kobo.com/tw/en/ebook/OpCkdz7AWjS7VMtDYKXpSA) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (4) by 伏瀬](https://www.kobo.com/tw/en/ebook/Oa0Fy-K03TWT6SUskwnV7A) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (5) by 伏瀬](https://www.kobo.com/tw/en/ebook/HputQfmEwza2ufHIm42N2A/_VJlc0nUf0K4GxM1LbqCpw) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (6) by 伏瀬](https://www.kobo.com/tw/en/ebook/yNKlzSEDRDiRELoiCF_sRQ/loxwJTlNekCOb71f27xuPA) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (7) by 伏瀬](https://www.kobo.com/tw/en/ebook/1GYM0HTy1TySuT9n2ato3Q) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (8) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t9WuTIQ7-jyLtv3MhPJojQ) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (8.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/NoQN7jBG-TyUGHuLa4h_jg) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.kobo.com/tw/zh/ebook/7683218b-cc33-4086-aa5d-6258b8b8d777) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (10) by 伏瀬](https://www.kobo.com/tw/zh/ebook/e2328e6a-f841-4372-916b-e472840ee430) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (11) by 伏瀬](https://www.kobo.com/tw/zh/ebook/oB905AsGzD-IKCaQlmggOg) / 100%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (12) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Uc2FtxCImjqaAzq5iCZ_pQ) / 100%
 
 ### 2018
 
