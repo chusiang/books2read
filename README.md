@@ -296,6 +296,7 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (03)](https://play.google.com/store/books/details?id=XnguDwAAQBAJ) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 
 ## 已讀書單
