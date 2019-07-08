@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 18%
+1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 34%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
@@ -296,6 +296,11 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (03)](https://play.google.com/store/books/details?id=XnguDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (04)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-04) / 0%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (05)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-05) / 0%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-06) / 0%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-07) / 0%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-08) / 0%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 
