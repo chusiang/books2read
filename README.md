@@ -17,6 +17,8 @@
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 34%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
+1. [Just for Fun：Linux 創始人托瓦茲自傳》by Linus Torvalds, David Diamond](http://www.eslite.com/product.aspx?pgid=1001129761345524) / 2%
+1. [Linux 創始人 - 極客之王 Linus Torvalds by 張樹聲, 陳斌, 朱國文](https://www.tenlong.com.tw/products/9789863795520) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
@@ -409,6 +411,9 @@
 1. [開放原始碼](http://www.tenlong.com.tw/items/9576676754) / 100%
 1. [Linux 紅帽旋風](http://www.books.com.tw/products/0010071706) / 100%
 1. [大教堂和市集 by Eric Steven Raymond](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%99%E5%A0%82%E5%92%8C%E5%B8%82%E9%9B%86) / 100%
+1. [[輕小說] 半仙闖江湖 by 客居仙鄉](https://www.nch.com.tw/data.php?id=18309&ch=2) / ??%
+1. [輕小說] 異世界之富甲天下 by 小樓暮靄 (完結) / ??%
+1. [[輕小說] 異俠 by 自在 (WADE)](https://www.nch.com.tw/data.php?id=2065&ch=16) / ??%
 
 ## 他人的讀書清單
 
