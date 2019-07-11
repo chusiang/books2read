@@ -29,6 +29,7 @@
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
 1. [圖解日本風俗 by 新谷尚紀](https://www.taaze.tw/usedList.html?oid=11100803100) / 2%
+1. [圖解日本神社入門 by 櫻井治男](https://www.books.com.tw/products/0010732305) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
 1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
@@ -305,6 +306,7 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-08) / 0%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
+1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 1%
 
 ## 已讀書單
 
@@ -336,6 +338,7 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (10) by 伏瀬](https://www.kobo.com/tw/zh/ebook/e2328e6a-f841-4372-916b-e472840ee430) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (11) by 伏瀬](https://www.kobo.com/tw/zh/ebook/oB905AsGzD-IKCaQlmggOg) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (12) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Uc2FtxCImjqaAzq5iCZ_pQ) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (01) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/Y26lgU3uFTy3vk8Rd96nGA) / 200%
 
 ### 2018
 
