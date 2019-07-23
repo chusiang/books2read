@@ -17,6 +17,7 @@
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 34%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
+1. [戀戀南極 by 耿婕容](https://www.books.com.tw/products/0010477750) / 2%
 1. [Just for Fun：Linux 創始人托瓦茲自傳》by Linus Torvalds, David Diamond](http://www.eslite.com/product.aspx?pgid=1001129761345524) / 2%
 1. [Linux 創始人 - 極客之王 Linus Torvalds by 張樹聲, 陳斌, 朱國文](https://www.tenlong.com.tw/products/9789863795520) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
@@ -33,6 +34,7 @@
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
 1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
+1. [你的團隊需要一個會說故事的人：微軟、NASA 都在學的故事思維 by Annette Simmons](https://www.kobo.com/tw/zh/ebook/nasa-4) / 1%
 1. [故事課 1：3 分鐘說 18 萬個故事，打造影響力 by 許榮哲](https://play.google.com/store/books/details?id=ox6ODwAAQBAJ) / 1%
 1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
