@@ -14,16 +14,17 @@
 
 ## 待讀書單
 
+1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 39%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 129%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
-1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 34%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
 1. [戀戀南極 by 耿婕容](https://www.books.com.tw/products/0010477750) / 2%
-1. [Just for Fun：Linux 創始人托瓦茲自傳》by Linus Torvalds, David Diamond](http://www.eslite.com/product.aspx?pgid=1001129761345524) / 2%
+1. [Just for Fun：Linux 創始人托瓦茲自傳》by Linus Torvalds, David Diamond](http://www.eslite.com/product.aspx?pgid=1001129761345524) / 3%
 1. [Linux 創始人 - 極客之王 Linus Torvalds by 張樹聲, 陳斌, 朱國文](https://www.tenlong.com.tw/products/9789863795520) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
-1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 24%
+1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 25%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
@@ -341,6 +342,11 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (11) by 伏瀬](https://www.kobo.com/tw/zh/ebook/oB905AsGzD-IKCaQlmggOg) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (12) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Uc2FtxCImjqaAzq5iCZ_pQ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (01) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/Y26lgU3uFTy3vk8Rd96nGA) / 200%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (02) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/xLl993PEXTCKptMYDBlzeQ) / 200%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (03) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/53zjy_DZpzS1Zvd6BAAmnA) / 200%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (04) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/pUW7nZfzEzecs-5SFVRn3Q) / 200%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (05) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/SGvKfd0Rrjma9BncUFmYaw) / 200%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (06) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/NZ4XrpKlhzWzFju1EgoaHQ) / 200%
 
 ### 2018
 
