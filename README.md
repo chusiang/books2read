@@ -217,6 +217,7 @@
 1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？](http://www.books.com.tw/products/0010703860) / 1%
 1. [獨角獸與牠的產地：矽谷新創公司歷險記](http://www.books.com.tw/products/0010757639) / 1%
 1. [熱血仁醫：開創新局的臺大醫院駐院醫學團隊](http://www.books.com.tw/products/0010611754) / 1%
+1. [惡行之外：警界的 31 個破案真相追擊 by 呂博](https://www.kobo.com/tw/zh/ebook/HeIAkzsCXzS3nAwV2AJ6ww) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)](https://www.tenlong.com.tw/products/9789862017050) / 1%
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers)](https://www.tenlong.com.tw/products/9789862017883) / 1%
