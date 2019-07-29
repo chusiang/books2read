@@ -178,6 +178,7 @@
 1. [赋能：打造应对不确定性的敏捷团队](https://read.douban.com/ebook/43738282/) / 1%
 1. [有錢人想的和你不一樣 by T. Harv Eker](https://www.kobo.com/tw/zh/book/81dc70e8-2983-45c2-acf9-8a76bcc4e295) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/book/02fb8311-bc7c-4514-8069-7be05e6a1df0) / 1%
+1. [我的人生簡史 by Stephen Hawking](https://www.kobo.com/tw/zh/ebook/iywxA-PV3j-mhpMCn3nlIg) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
 1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners)](https://www.tenlong.com.tw/products/9789864763153) / 1%
@@ -312,6 +313,12 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 1%
+1. [[輕小說] 将夜 (01)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (02)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (03)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (04)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (05)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (06)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 
 ## 已讀書單
 
