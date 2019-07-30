@@ -356,6 +356,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (04) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/pUW7nZfzEzecs-5SFVRn3Q) / 200%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (05) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/SGvKfd0Rrjma9BncUFmYaw) / 200%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (06) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/NZ4XrpKlhzWzFju1EgoaHQ) / 200%
+1. [Kindle Paperwhite (第 10 代) 用户指南 (第 4 版)](https://www.amazon.cn/gp/help/customer/display.html?nodeId=G8WLMRNK3GK5SK2J) / 100%
 
 ### 2018
 
