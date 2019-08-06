@@ -289,6 +289,7 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t794cTtuwTidQI7_bfM2Zw) / 0%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
@@ -317,6 +318,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 1%
+1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
 1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 1%
 1. [[輕小說] 将夜 (01)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 1. [[輕小說] 将夜 (02)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
