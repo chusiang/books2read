@@ -321,6 +321,18 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 1%
 1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (2)：黑暗戰士 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_2?id=IvfPDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (3)：鮮血的戰爭少女 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_3?id=4fnPDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (4)：蜥蜴人勇者們 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_4?id=5_vPDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (5)：王國好漢 (上) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_5?id=NP3PDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (6)：王國好漢 (下) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_6?id=7f3PDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (7)：大墳墓的入侵者 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_7?id=qf_PDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (8)：兩位領導者 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_8?id=uATQDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (9)：破軍的魔法吟唱者 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_9?id=AgXQDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (10)：謀略的統治者 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_10?id=vRLQDgAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (11)：矮人工匠 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_11?id=hkQ1DwAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (12)：聖王國的聖騎士 (上) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_12?id=axFfDwAAQBAJ) / 1%
+1. [[輕小說] OVERLORD (13)：聖王國的聖騎士 (下) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_13?id=XOR1DwAAQBAJ) / 1%
 1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 1%
 1. [[輕小說] 将夜 (01)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 1. [[輕小說] 将夜 (02)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
