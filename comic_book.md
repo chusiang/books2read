@@ -17,7 +17,7 @@
 1. 在地下城尋求邂逅是否搞錯了什麼 - 琉外傳 (4) by 大森藤ノ, 桃山ひなせ / 1%
 1. 在地下城尋求邂逅是否搞錯了什麼 - 琉外傳 (5) by 大森藤ノ, 桃山ひなせ / 1%
 1. [為什麼老師會在這裡!? (3) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/-hsGIwRjfTCyhU0pA2_fCw) / 1%
-1. [為什麼老師會在這裡!? (4) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/3pSyf472-D-ayovtAA1AmA) / 0%
+1. [為什麼老師會在這裡!? (4) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/3pSyf472-D-ayovtAA1AmA) / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
 1. [食戟之靈 (31) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/56207) / 0%
 1. [食戟之靈 (32) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/61845) / 0%

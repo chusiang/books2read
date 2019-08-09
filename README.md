@@ -28,6 +28,7 @@
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 25%
+1. [五項修練的故事 (合訂版) by David Hutchens](https://www.kobo.com/tw/zh/ebook/hP0NVtITtjC990b1eQdRdg) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
@@ -289,7 +290,7 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t794cTtuwTidQI7_bfM2Zw) / 0%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t794cTtuwTidQI7_bfM2Zw) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
@@ -316,6 +317,7 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-07) / 0%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-08) / 0%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 1%
 1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
