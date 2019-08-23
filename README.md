@@ -15,7 +15,6 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 47%
-1. [匠人精神 by 秋山利輝](https://www.kobo.com/tw/zh/ebook/QUvg9qmpoTeqoTNkF0gMwg) / 2%
 1. [經濟自然學 (10 週年暢銷經典新版) by Robert H. Frank](https://www.kobo.com/tw/zh/ebook/qYO0Vg5SOjWPdsRnA98ouw) / 1%
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 129%
@@ -378,6 +377,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (05) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/SGvKfd0Rrjma9BncUFmYaw) / 200%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (06) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/NZ4XrpKlhzWzFju1EgoaHQ) / 200%
 1. [Kindle Paperwhite (第 10 代) 用户指南 (第 4 版)](https://www.amazon.cn/gp/help/customer/display.html?nodeId=G8WLMRNK3GK5SK2J) / 100%
+1. [匠人精神 by 秋山利輝](https://www.kobo.com/tw/zh/ebook/QUvg9qmpoTeqoTNkF0gMwg) / 100%
 
 ### 2018
 
