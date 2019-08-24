@@ -321,11 +321,11 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (03)](https://play.google.com/store/books/details?id=XnguDwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (04)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-04) / 0%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (05)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-05) / 0%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-06) / 0%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-07) / 0%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-08) / 0%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (04)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_04?id=C-YvDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (05)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_05?id=3co_DwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_06?id=ua1oDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_07?id=GTWEDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_08?id=CoOYDwAAQBAJ) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 1%
 1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (2)：黑暗戰士 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_2?id=IvfPDgAAQBAJ) / 1%
