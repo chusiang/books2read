@@ -290,7 +290,11 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t794cTtuwTidQI7_bfM2Zw) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
@@ -307,6 +311,12 @@
 1. [[輕小說] 奮鬥吧！系統工程師 (14) by 夏海公司](https://www.kobo.com/tw/zh/ebook/624d1ca5-939d-4cb8-bcd0-4b43ceeaf0e6) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (15) by 夏海公司](https://www.kobo.com/tw/zh/ebook/73a22fc5-93fe-44d9-90b3-08dcfe63ea0d) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (16) by 夏海公司](https://www.kobo.com/tw/zh/ebook/0a329430-4d3a-49cb-b34b-cc88d98173b9) / 1%
+1. [[輕小說] 将夜 (01)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 2%
+1. [[輕小說] 将夜 (02)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (03)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (04)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (05)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 将夜 (06)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手外傳 第一年](https://www.kobo.com/tw/zh/ebook/1135e90a-1389-469c-8dd5-ee9132c8e8e5) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
@@ -316,9 +326,6 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-06) / 0%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-07) / 0%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://www.kobo.com/tw/zh/ebook/goblin-slayer-08) / 0%
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 1%
 1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (2)：黑暗戰士 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_2?id=IvfPDgAAQBAJ) / 1%
@@ -333,13 +340,6 @@
 1. [[輕小說] OVERLORD (11)：矮人工匠 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_11?id=hkQ1DwAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (12)：聖王國的聖騎士 (上) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_12?id=axFfDwAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (13)：聖王國的聖騎士 (下) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_13?id=XOR1DwAAQBAJ) / 1%
-1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 1%
-1. [[輕小說] 将夜 (01)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (02)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (03)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (04)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (05)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (06)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 
 ## 已讀書單
 
