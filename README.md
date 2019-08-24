@@ -340,6 +340,20 @@
 1. [[輕小說] OVERLORD (11)：矮人工匠 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_11?id=hkQ1DwAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (12)：聖王國的聖騎士 (上) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_12?id=axFfDwAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (13)：聖王國的聖騎士 (下) by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_13?id=XOR1DwAAQBAJ) / 1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (1) by 冬原パトラ](https://play.google.com/store/books/details/%E5%86%AC%E5%8E%9F%E3%83%91%E3%83%88%E3%83%A9_%E5%B8%B6%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%97%96%E8%95%A9%E7%95%B0%E4%B8%96%E7%95%8C_1?id=cYxLDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (2) by 冬原パトラ](https://play.google.com/store/books/details/%E5%86%AC%E5%8E%9F%E3%83%91%E3%83%88%E3%83%A9_%E5%B8%B6%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%97%96%E8%95%A9%E7%95%B0%E4%B8%96%E7%95%8C_2?id=c4xLDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (3) by 冬原パトラ](https://play.google.com/store/books/details/%E5%86%AC%E5%8E%9F%E3%83%91%E3%83%88%E3%83%A9_%E5%B8%B6%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%97%96%E8%95%A9%E7%95%B0%E4%B8%96%E7%95%8C_3?id=dYxLDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (4) by 冬原パトラ](https://play.google.com/store/books/details/%E5%86%AC%E5%8E%9F%E3%83%91%E3%83%88%E3%83%A9_%E5%B8%B6%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%97%96%E8%95%A9%E7%95%B0%E4%B8%96%E7%95%8C_4?id=eYxLDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (5) by 冬原パトラ](https://play.google.com/store/books/details/%E5%86%AC%E5%8E%9F%E3%83%91%E3%83%88%E3%83%A9_%E5%B8%B6%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%97%96%E8%95%A9%E7%95%B0%E4%B8%96%E7%95%8C_5?id=d4xLDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (6) by 冬原パトラ](https://play.google.com/store/books/details/%E5%86%AC%E5%8E%9F%E3%83%91%E3%83%88%E3%83%A9_%E5%B8%B6%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%97%96%E8%95%A9%E7%95%B0%E4%B8%96%E7%95%8C_6?id=fYxLDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (7) by 冬原パトラ](https://play.google.com/store/books/details/%E5%86%AC%E5%8E%9F%E3%83%91%E3%83%88%E3%83%A9_%E5%B8%B6%E8%91%97%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E9%97%96%E8%95%A9%E7%95%B0%E4%B8%96%E7%95%8C_7?id=5WVbDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (8) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_8?id=6WVbDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (9) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_9?id=5IKYDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (10) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_10?id=8IKYDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (11) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_11?id=duecDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (12) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_12?id=POecDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (13) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_13?id=vpShDwAAQBAJ) /1%
+1. [[輕小說] 帶著智慧型手機闖蕩異世界 (14) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_14?id=75ShDwAAQBAJ) /1%
 
 ## 已讀書單
 
