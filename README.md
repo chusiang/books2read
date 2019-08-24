@@ -354,6 +354,13 @@
 1. [[輕小說] 帶著智慧型手機闖蕩異世界 (12) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_12?id=POecDwAAQBAJ) /1%
 1. [[輕小說] 帶著智慧型手機闖蕩異世界 (13) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_13?id=vpShDwAAQBAJ) /1%
 1. [[輕小說] 帶著智慧型手機闖蕩異世界 (14) by 冬原パトラ](https://play.google.com/store/books/details/冬原パトラ_帶著智慧型手機闖蕩異世界_14?id=75ShDwAAQBAJ) /1%
+1. [[輕小說] WORLD TEACHER 異世界式教育特務 (1) by ネコ光一](https://play.google.com/store/books/details/ネコ光一_WORLD_TEACHER_異世界式教育特務_01?id=45aZDwAAQBAJ) / 1%
+1. [[輕小說] WORLD TEACHER 異世界式教育特務 (2) by ネコ光一](https://play.google.com/store/books/details/ネコ光一_WORLD_TEACHER_異世界式教育特務_02?id=6ZaZDwAAQBAJ) / 1%
+1. [[輕小說] WORLD TEACHER 異世界式教育特務 (3) by ネコ光一](https://play.google.com/store/books/details/ネコ光一_WORLD_TEACHER_異世界式教育特務_03?id=75aZDwAAQBAJ) / 1%
+1. [[輕小說] WORLD TEACHER 異世界式教育特務 (4) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_04?id=-ZaZDwAAQBAJ) / 1%
+1. [[輕小說] WORLD TEACHER 異世界式教育特務 (5) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_05?id=_ZaZDwAAQBAJ) / 1%
+1. [[輕小說] WORLD TEACHER 異世界式教育特務 (6) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_06?id=B5eZDwAAQBAJ) / 1%
+1. [[輕小說] WORLD TEACHER 異世界式教育特務 (7) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_07?id=I5eZDwAAQBAJ) / 1%
 
 ## 已讀書單
 
