@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 48%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 49%
 1. [經濟自然學 (10 週年暢銷經典新版) by Robert H. Frank](https://www.kobo.com/tw/zh/ebook/qYO0Vg5SOjWPdsRnA98ouw) / 1%
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
@@ -290,7 +291,6 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t794cTtuwTidQI7_bfM2Zw) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
