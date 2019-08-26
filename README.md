@@ -15,6 +15,7 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 50%
+1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
 1. [與父母和解，療癒每段關係裡的不完美 by 許皓宜](https://www.taaze.tw/goods/11100734550.html) / 13%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
 1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 1%
@@ -245,7 +246,6 @@
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878) / 1%
 1. [團隊管理 | 經理人 No.154](https://www.managertoday.com.tw/magazines/view/127299) / 1%
 1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders)](https://www.tenlong.com.tw/products/9789862763834) /1%
-1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
 1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance)](https://www.tenlong.com.tw/products/9789862764763) / 1%
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think)](https://www.tenlong.com.tw/products/9789862764213) / 1%
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software)](https://www.tenlong.com.tw/products/9789862763445) / 1%
