@@ -15,6 +15,9 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 50%
+1. [與父母和解，療癒每段關係裡的不完美 by 許皓宜](https://www.taaze.tw/goods/11100734550.html) / 13%
+1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
+1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 1%
 1. [經濟自然學 (10 週年暢銷經典新版) by Robert H. Frank](https://www.kobo.com/tw/zh/ebook/qYO0Vg5SOjWPdsRnA98ouw) / 1%
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
@@ -195,8 +198,6 @@
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
-1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
-1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 1%
 1. [脆弱的力量 by Brené Brown](https://play.google.com/store/books/details?id=-RiUDwAAQBAJ) / 1%
 1. [向誰效忠：關於一種更高層次的忠誠，以及這種忠誠的考驗 by James Comey](https://play.google.com/store/books/details?id=FM56DwAAQBAJ) / 1%
 1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
