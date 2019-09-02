@@ -173,7 +173,7 @@
 1. [不當行為：行為經濟學之父教你更聰明的思考、理財、看世界 by Richard H. Thaler](https://www.kobo.com/tw/zh/ebook/0b43aedf-0eab-4af4-81f6-76632e944e05) / 1%
 1. [金錢心理學：打破你對金錢的迷思，學會聰明花費 by Dan Ariely, Jeff Kreisler](https://www.kobo.com/tw/zh/ebook/6875ede0-f00a-4466-bf50-6ec0055e5e62) / 1%
 1. [關鍵行銷：消費心理學大師的 10 大黃金行銷課 by Adam Ferrier, Jennifer Fleming](https://play.google.com/store/books/details/亞當_費里爾_Adam_Ferrier_珍妮佛_佛萊明_Jennifer_Fleming_關鍵行銷?id=071mDwAAQBAJ) / 1%
-1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 0%
+1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
 1. [蔡康永的說話之道 2](http://www.books.com.tw/products/0010632643) / 1%
