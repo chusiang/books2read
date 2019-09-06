@@ -36,6 +36,7 @@
 1. [五項修練的故事 (合訂版) by David Hutchens](https://www.kobo.com/tw/zh/ebook/hP0NVtITtjC990b1eQdRdg) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
+1. [祕密 (The Secret) by Rhonda Byrne](https://www.taaze.tw/goods/11100019354.html) / 1%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
@@ -43,6 +44,8 @@
 1. [圖解日本神社入門 by 櫻井治男](https://www.books.com.tw/products/0010732305) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
 1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
+1. [說理Ｉ：任何場合都能展現智慧、達成說服的語言技術 by Jay Heinrichs](https://www.kobo.com/tw/en/ebook/i-310/anCb0mRa6EGNSnpjHc3yNQ) / 1%
+1. [說理 Ⅱ：後真相時代穿透分歧、建立共識的思維技術 by Jay Heinrichs](https://www.kobo.com/tw/en/ebook/ii-236) / 1%
 1. [你的團隊需要一個會說故事的人：微軟、NASA 都在學的故事思維 by Annette Simmons](https://www.kobo.com/tw/zh/ebook/nasa-4) / 1%
 1. [故事課 1：3 分鐘說 18 萬個故事，打造影響力 by 許榮哲](https://play.google.com/store/books/details?id=ox6ODwAAQBAJ) / 1%
 1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
@@ -53,6 +56,7 @@
 1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
 1. [不懂這些，別想加薪 by 劉恭甫](https://www.kobo.com/tw/en/ebook/3666e01a-53d9-419c-9ab6-7efbe7b054cc) / 1%
+1. [Amazon 的人為什麼這麼厲害？：日本亞馬遜創始成員告訴你，他在貝佐斯身旁學到的高成長工作法。by 佐藤將之](https://www.taaze.tw/goods/11100867192.html) / 1%
 1. [破解問題的技術：日本思考研究所耗時２０年鉅著，99% 問題都可快速解決的四種思考秘技 by 今井繁之](https://www.taaze.tw/goods/11307898127.html) / 1%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
 1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
@@ -68,6 +72,8 @@
 1. [江湖在走，法律要懂：法律白話文小學堂 by 法律白話文運動](https://www.kobo.com/tw/zh/ebook/0be5d1cb-b3d7-4a97-89e0-6481432a7209) / 1%
 1. [有錢人才知道的「精準閒聊」by 田口智隆](https://www.kobo.com/tw/zh/ebook/dba1a351-9d21-4c71-8193-886f5f75466a) / 1%
 1. [精準學習：「羅輯思維」最受歡迎的個人知識管理精進指南 by 成甲](https://www.kobo.com/tw/zh/book/dc24912f-0a55-4165-b266-6f7a1a76f3ef) / 1%
+1. [躍遷：「羅輯思維」最受歡迎的知識大神教你在迷茫時代翻轉人生的 5 大生存法則！by 古典](https://www.taaze.tw/goods/11100842197.html) / 1%
+1. [見識：吳軍博士的矽谷來信，教你掌握商業與人生的本質 by 吳軍](https://www.taaze.tw/goods/11100845116.html) / 1%
 1. [知識內容寫作課：寫一篇真材實料的網路爆紅好文章 by 鄭國威](https://play.google.com/store/books/details?id=xm9ZDwAAQBAJ) / 1%
 1. [拒絕生病：無病生活從 65 件日常小事開始 (A SHORT GUIDE TO A LONG LIFE) by Dr. David B. Agus](https://play.google.com/store/books/details?id=7UEyDwAAQBAJ) / 1%
 1. [80/20 法則 by Richard Koch](https://www.kobo.com/tw/zh/ebook/F68QdmIU3zmEfLEnIZT4Aw) / 1%
@@ -95,7 +101,9 @@
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
 1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/ebook/ucla) / 1%
+1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
+1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
 1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
 1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
@@ -107,6 +115,7 @@
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
+1. [日本腦力錦標賽五冠王「超高效記憶術」：3 循環反覆速習法╳1 分鐘速寫，無關天分與年齡，記憶大量資訊隨時開始！ by 池田義博](https://www.kobo.com/tw/en/ebook/-QWyGmFefz2yiPTz00DOdw) / 1%
 1. [Deep Work 深度工作力: 淺薄時代，個人成功的關鍵能力 (Deep Work: Rules for Focused Success in a Distracted World) by Cal Newport](https://play.google.com/store/books/details/%E5%8D%A1%E7%88%BE_%E7%B4%90%E6%B3%A2%E7%89%B9_Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B?id=c_sxDwAAQBAJ) / 1%
 1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
@@ -149,6 +158,7 @@
 1. [關係界限 by 吳姵瑩](https://play.google.com/store/books/details?id=1q9dDwAAQBAJ) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
 1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
+1. [Google 模式：智慧創做者世代來臨，挑戰瘋狂變化世界的經營思維與工作邏輯 by Eric Schmidt](https://www.kobo.com/tw/en/ebook/google-14/78ya7rYYEEq7qJgPLC7nMA) / 1%
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [打造圖像腦：學會擊敗 90% 職場競爭者的視覺思考工作術 by Dan Roam](https://www.kobo.com/tw/zh/ebook/64a0876d-972a-400e-a12d-5f0415fdb66a) / 1%
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
