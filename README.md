@@ -26,6 +26,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 129%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
+1. [打火哥的 30 堂烈焰求生課：第一線熱血消防員親授關鍵保命絕招，破解火場迷思 by 蔡宗翰](https://www.kobo.com/tw/zh/ebook/FGHGWHuYADqXfdx5gteZ0A) / 1%
 1. [戀戀南極 by 耿婕容](https://www.books.com.tw/products/0010477750) / 23%
 1. [Just for Fun：Linux 創始人托瓦茲自傳》by Linus Torvalds, David Diamond](http://www.eslite.com/product.aspx?pgid=1001129761345524) / 3%
 1. [Linux 創始人 - 極客之王 Linus Torvalds by 張樹聲, 陳斌, 朱國文](https://www.tenlong.com.tw/products/9789863795520) / 1%
