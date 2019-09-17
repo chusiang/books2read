@@ -31,6 +31,7 @@
 1. [一流工作者都在用的待辦清單 by Damon Zahariades](https://www.kobo.com/tw/en/ebook/zJm3d4mpkzG1bKV6PZSEKQ) / 1%
 1. [打火哥的 30 堂烈焰求生課：第一線熱血消防員親授關鍵保命絕招，破解火場迷思 by 蔡宗翰](https://www.kobo.com/tw/zh/ebook/FGHGWHuYADqXfdx5gteZ0A) / 1%
 1. [戀戀南極 by 耿婕容](https://www.books.com.tw/products/0010477750) / 23%
+1. [永久檔案 (Permanent Record) by Edward Snowden](https://www.kobo.com/tw/zh/ebook/uoWFqH14NDyC40H4hITjKg) / 1%
 1. [Just for Fun：Linux 創始人托瓦茲自傳》by Linus Torvalds, David Diamond](http://www.eslite.com/product.aspx?pgid=1001129761345524) / 3%
 1. [Linux 創始人 - 極客之王 Linus Torvalds by 張樹聲, 陳斌, 朱國文](https://www.tenlong.com.tw/products/9789863795520) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
