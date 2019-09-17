@@ -110,6 +110,7 @@
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
+1. [因果革命：人工智慧的大未來 by Judea Pearl](https://www.kobo.com/tw/zh/ebook/ReLr-70c5DiU4fJBPvTPFg) / 1%
 1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
 1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
 1. [怦然心動的人生整理魔法２：實踐篇、解惑篇 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/3241f933-1cff-4563-a2ee-68912445fb0d) / 1%
@@ -201,6 +202,7 @@
 1. [一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術 by 土井英司](http://www.books.com.tw/products/0010762830) / 1%
 1. [赋能：打造应对不确定性的敏捷团队](https://read.douban.com/ebook/43738282/) / 1%
 1. [有錢人想的和你不一樣 by T. Harv Eker](https://www.kobo.com/tw/zh/book/81dc70e8-2983-45c2-acf9-8a76bcc4e295) / 1%
+1. [高績效教練：有效帶人、激發潛力的教練原理與實務 (25 週年紀念增訂版) by Sir John Whitmore](https://www.kobo.com/tw/zh/ebook/dWdwfC_O0DO2EXZvuCckBg) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/book/02fb8311-bc7c-4514-8069-7be05e6a1df0) / 1%
 1. [我的人生簡史 by Stephen Hawking](https://www.kobo.com/tw/zh/ebook/iywxA-PV3j-mhpMCn3nlIg) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
@@ -307,7 +309,6 @@
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kadokawa.com.tw//product_detail10476.htm) / 0%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 0%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
@@ -416,6 +417,7 @@
 1. [匠人精神 by 秋山利輝](https://www.kobo.com/tw/zh/ebook/QUvg9qmpoTeqoTNkF0gMwg) / 100%
 1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t794cTtuwTidQI7_bfM2Zw) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/xbBS6-HS7DWY6PlNq9w5Zw) / 100%
 
 ### 2018
 
