@@ -111,7 +111,7 @@
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
-1. [因果革命：人工智慧的大未來 by Judea Pearl](https://www.kobo.com/tw/zh/ebook/ReLr-70c5DiU4fJBPvTPFg) / 1%
+1. [因果革命：人工智慧的大未來 by Judea Pearl, Dana Mackenzie](https://www.kobo.com/tw/zh/ebook/ReLr-70c5DiU4fJBPvTPFg) / 1%
 1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
 1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
 1. [怦然心動的人生整理魔法２：實踐篇、解惑篇 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/3241f933-1cff-4563-a2ee-68912445fb0d) / 1%
@@ -137,6 +137,9 @@
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
 1. [Effective DevOps 中文版](https://www.tenlong.com.tw/products/9789864767793) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
+1. [德國一流大學教你數學家的 22 個思考工具 by Christian Hesse](https://www.kobo.com/tw/en/ebook/I41_BHy5XTufwF5C-C6SMA) / 1%
+1. [數學教你不犯錯 (上)：不落入線性思考、避免錯誤推論 by Jordan Ellenberg](https://www.kobo.com/tw/en/ebook/EW2lwlaIOz6Z5tUJvsHyOA) / 1%
+1. [數學教你不犯錯 (下)：搞定期望值、認清迴歸趨勢、弄懂存在性 by Jordan Ellenberg](https://www.kobo.com/tw/en/ebook/F-2F3TGp6TOf4bxuNquZHA) / 1%
 1. [數學大觀念：從數字到微積分，全面理解數學的 12 大觀念 by Arthur Benjamin](https://www.kobo.com/tw/zh/ebook/3940aca4-c700-4e67-bb85-dcd4ab8f9db9) / 1%
 1. [DevOps 三十六计 by DevOps 時代社區](https://www.tenlong.com.tw/products/9787121328572) / 1%
 1. [鬼速ＰＤＣＡ | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201703270001) / 1%
