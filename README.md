@@ -23,9 +23,12 @@
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [這不是我們做事的方法！：組織的興起、殞落，再崛起 by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/cy5S2XGscjav9wINg-rPZQ) / 1%
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 129%
-1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 159%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
+1. [獨家揭密：那些大型企業確保 IT 系統正常運作的奧密 by 陳紹英, 周志龍, 金成姬](https://www.tenlong.com.tw/products/9789863797128) / 1%
+1. [全棧性能測試修煉寶典：JMeter 實戰 by 陳志勇, 馬利偉,萬龍](https://www.tenlong.com.tw/products/9787115437228) / 1%
+1. [晉陞成 HTTP 一代宗師：用 java 實作 by 肖佳](https://www.tenlong.com.tw/products/9789863797388) / 1%
+1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [我用打工學習這個世界：有關挫折、辛酸、老闆、現實社會，以及工作的 27 種樣貌 by 黃海樹](https://www.kobo.com/tw/en/ebook/5mk9TfBN7zWPpCfqDMi-4g) / 1%
 1. [終結腦疲勞！台大醫師的高效三力自癒法 by 張立人](https://www.kobo.com/tw/en/ebook/ZFjcqUZDLDirfFhpkXm2Vw) / 1%
 1. [一流工作者都在用的待辦清單 by Damon Zahariades](https://www.kobo.com/tw/en/ebook/zJm3d4mpkzG1bKV6PZSEKQ) / 1%
