@@ -351,6 +351,11 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_07?id=GTWEDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_08?id=CoOYDwAAQBAJ) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 1%
+1. [Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 1%
+1. [Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 1%
+1. [Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 1%
+1. [Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
+1. [Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (2)：黑暗戰士 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_2?id=IvfPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (3)：鮮血的戰爭少女 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_3?id=4fnPDgAAQBAJ) / 1%
