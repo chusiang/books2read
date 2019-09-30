@@ -15,6 +15,8 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 50%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (08) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/wc1gHILJ2zCWjf0CwHod7w) / 101%
+1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 7%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
 1. [與父母和解，療癒每段關係裡的不完美 by 許皓宜](https://www.taaze.tw/goods/11100734550.html) / 13%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
@@ -23,7 +25,6 @@
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [這不是我們做事的方法！：組織的興起、殞落，再崛起 by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/cy5S2XGscjav9wINg-rPZQ) / 1%
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 159%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
 1. [獨家揭密：那些大型企業確保 IT 系統正常運作的奧密 by 陳紹英, 周志龍, 金成姬](https://www.tenlong.com.tw/products/9789863797128) / 1%
 1. [全棧性能測試修煉寶典：JMeter 實戰 by 陳志勇, 馬利偉,萬龍](https://www.tenlong.com.tw/products/9787115437228) / 1%
@@ -351,7 +352,6 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_06?id=ua1oDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_07?id=GTWEDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_08?id=CoOYDwAAQBAJ) / 1%
-1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 1%
@@ -433,6 +433,7 @@
 1. [次元旅行☆跳躍了 by 四貓貓, 林群盛, 兔姬](https://www.books.com.tw/products/0010797756) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13) by 伏瀬](https://www.kobo.com/tw/zh/ebook/t794cTtuwTidQI7_bfM2Zw) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/xbBS6-HS7DWY6PlNq9w5Zw) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 200%
 
 ### 2018
 
