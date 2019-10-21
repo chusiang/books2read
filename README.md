@@ -130,6 +130,7 @@
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
+1. [大師的刻意練習：20 世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法 by James Francis Cooke](https://readmoo.com/book/210116244000101) / 1%
 1. [師父：那些我在課堂外學會的本事 (The Knack: How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up) by Norm Brodsky, Bo Burlingham](https://www.books.com.tw/products/0010705054) / 1%
 1. [日本腦力錦標賽五冠王「超高效記憶術」：3 循環反覆速習法╳1 分鐘速寫，無關天分與年齡，記憶大量資訊隨時開始！ by 池田義博](https://www.kobo.com/tw/en/ebook/-QWyGmFefz2yiPTz00DOdw) / 1%
 1. [Deep Work 深度工作力: 淺薄時代，個人成功的關鍵能力 (Deep Work: Rules for Focused Success in a Distracted World) by Cal Newport](https://play.google.com/store/books/details/%E5%8D%A1%E7%88%BE_%E7%B4%90%E6%B3%A2%E7%89%B9_Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B?id=c_sxDwAAQBAJ) / 1%
