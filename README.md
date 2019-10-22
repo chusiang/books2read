@@ -15,7 +15,6 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 52%
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 59%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (10) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 7%
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
@@ -440,6 +439,7 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (13) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/xbBS6-HS7DWY6PlNq9w5Zw) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (07) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/BDKayMJygz-kVCnj3BYSrA) / 200%
 1. [7 招克服上台恐懼症 | 大師輕鬆讀 NO.741](https://www.kobo.com/tw/zh/ebook/no-741-7) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 100%
 
 ### 2018
 
