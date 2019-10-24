@@ -15,6 +15,7 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 52%
+1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (10) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 7%
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
@@ -254,6 +255,8 @@
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
 1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807) / 21%
+1. [Kubernetes 錦囊妙計 (Kubernetes Cookbook : Building Cloud Native Applications) by Sébastien Goasguen , Michael Hausenblas](https://www.tenlong.com.tw/products/9789864769216) / 1%
+1. [Kubernetes in Action (簡體中文版) by 七牛容器雲團隊](https://www.tenlong.com.tw/products/9787121349959) / 1%
 1. [引導反思的第一本書](http://www.books.com.tw/products/0010618831) /1%
 1. [遊戲人生：有效有趣的破冰遊戲](http://www.books.com.tw/products/0010651863) / 1%
 1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？](http://www.books.com.tw/products/0010703860) / 1%
