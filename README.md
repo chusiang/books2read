@@ -250,7 +250,6 @@
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
 1. [Effective DevOps](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
-1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development)](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [為你自己學 Git by 高見龍](https://www.tenlong.com.tw/products/9789864342662) / 1%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
@@ -272,7 +271,6 @@
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606) / 80%
-1. [Selenium 2 自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
 1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php) / 1%
 1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
 1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought)](http://www.tenlong.com.tw/items/7115338698) / 1%
@@ -295,8 +293,11 @@
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age)](https://www.tenlong.com.tw/items/9867794699) / 1%
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197) / 0%
 1. [深入淺出 Python (Head First Python)](http://www.tenlong.com.tw/items/9862763485) / 2%
-1. [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) / 1%
+1. [Python 網絡爬蟲權威指南 (2/e) by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
+1. [Selenium 2 自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
+1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development)](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [It's Django--用 Python 迅速打造 Web 應用](http://www.tenlong.com.tw/items/9863475467) / 4%
+1. [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) / 1%
 1. [王者歸來 : 自己動手寫網路爬蟲, 2/e](https://www.tenlong.com.tw/products/9789863793335) / 0%
 1. [大話重構](http://www.tenlong.com.tw/items/9864340468) / 1%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696) / 1%
