@@ -98,6 +98,7 @@
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
+1. [U 型理論精要：從「我」到「我們」的系統思考，個人修練、組織轉型的學習之旅 by C. Otto Scharmer](https://www.kobo.com/tw/zh/ebook/318fe778-0d95-4fe0-b024-987afd53620d) / 1%
 1. [智取：TOC 系統思考 3 法寶 by 中華高德拉特協會](https://www.kobo.com/tw/zh/ebook/thinking-smart-you-are-how-you-think-applying-theory-of-constraints-in-developing-thinking-skills) / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
 1. [目标 by Eliyahu Goldratt, Jeff Cox](https://www.tenlong.com.tw/products/9787121161483) / 1%
@@ -366,6 +367,30 @@
 1. [Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
 1. [Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
+1. [[輕小說] 惡魔高校 D×D (01) - 舊校舍的惡魔 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/644197d3-7465-404d-9c0f-c904b4d56979) / 1%
+1. [[輕小說] 惡魔高校 D×D (02) - 戰鬥校舍的不死鳥 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/fd5a73e4-ebe7-48cd-acbe-c5ce59b58193) / 1%
+1. [[輕小說] 惡魔高校 D×D (03) - 月光校園的王者之劍 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/0197b55b-c816-4635-96f7-6f301b9fdf2a) / 1%
+1. [[輕小說] 惡魔高校 D×D (04) - 停止教室的吸血鬼 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/a98a4942-34cb-40df-afa1-49611d2ee968) / 1%
+1. [[輕小說] 惡魔高校 D×D (05) - 冥界集訓的地獄貓 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/691363c2-1c49-42f7-ab8c-e3ecab75dd84) / 1%
+1. [[輕小說] 惡魔高校 D×D (06) - 體育館後的聖光 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/d2ec22fe-c6eb-42e9-8184-d9010436a81d) / 1%
+1. [[輕小說] 惡魔高校 D×D (07) - 放學後的諸神黃昏 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/f0f1f740-a298-466b-b7a6-e550e136050b) / 1%
+1. [[輕小說] 惡魔高校 D×D (08) - 惡魔的工作 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/65f4b005-38de-4c5d-beda-1e30a46cf2cb) / 1%
+1. [[輕小說] 惡魔高校 D×D (09) - 教學旅行是萬魔殿 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/c3dd545c-90fd-40b7-9995-ad87fe107f3b) / 1%
+1. [[輕小說] 惡魔高校 D×D (10) - 校慶的獅子心 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/7f9a90aa-1f18-4cbd-a660-a49b696995d4) / 1%
+1. [[輕小說] 惡魔高校 D×D (11) - 升級考試與無限龍神 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/57bed8a0-edea-40a0-8c24-e7d303d7722d) / 1%
+1. [[輕小說] 惡魔高校 D×D (12) - 課後輔導的英雄們 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/18fd88a7-369e-4550-a1e3-3d549157dbf1) / 1%
+1. [[輕小說] 惡魔高校 D×D (13) - 一誠 SOS by 石踏一榮](https://www.kobo.com/tw/zh/ebook/854abb44-97d8-4929-9e33-a802e36cffbd) / 1%
+1. [[輕小說] 惡魔高校 D×D (14) - 進路輔導的魔法師 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/59559b11-e28a-4311-813c-65c8304437b4) / 1%
+1. [[輕小說] 惡魔高校 D×D (15) - 向陽處的黑暗騎士 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/fae1557c-4030-4837-bdcd-7c0db3457c39) / 1%
+1. [[輕小說] 惡魔高校 D×D (16) - 課外教學的晝行者 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/40a0cd45-75b6-4b5c-85b4-2e5f2ce926fd) / 1%
+1. [[輕小說] 惡魔高校 D×D (17) - 教師研習的女武神 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/2af3dafc-2bb9-42cf-9f68-39610f8d1bb4) / 1%
+1. [[輕小說] 惡魔高校 D×D (18) - 聖誕節的搞笑天使 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/6ea4c63e-1427-4258-bad7-99f1b4c435f8) / 1%
+1. [[輕小說] 惡魔高校 D×D (19) - 總選舉的杜蘭朵 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/2a5ad8af-dc45-49ac-8862-aa772ff1f4ef) / 1%
+1. [[輕小說] 惡魔高校 D×D (20) - 出路諮詢的彼列 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/849c98e1-9adb-4431-8adc-02c0ab7c4410) / 1%
+1. [[輕小說] 惡魔高校 D×D (21) - 自由上學的路西法 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/4fab7cd0-5c44-4670-88aa-ae727b40754c) / 1%
+1. [[輕小說] 惡魔高校 D×D (22) - 畢業典禮的吉蒙里 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/6f20d292-4b79-41b2-a66d-4168b215e765) / 1%
+1. [[輕小說] 惡魔高校 D×D (23) - 球技大會的鬼牌 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/cf96e416-8fdd-40d7-9dfa-63036f68b4b7) / 1%
+1. [[輕小說] 惡魔高校 D×D (24) - 校外教學的死神 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/bfa5641f-186a-4a67-a4fc-19884951cfb8)/ 1%
 1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (2)：黑暗戰士 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_2?id=IvfPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (3)：鮮血的戰爭少女 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_3?id=4fnPDgAAQBAJ) / 1%
