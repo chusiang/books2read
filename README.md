@@ -72,6 +72,7 @@
 1. [破解問題的技術：日本思考研究所耗時２０年鉅著，99% 問題都可快速解決的四種思考秘技 by 今井繁之](https://www.taaze.tw/goods/11307898127.html) / 1%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
 1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
+1. [關鍵七秒，決定你的價值 by Catherine Molloy](https://www.kobo.com/tw/zh/ebook/0tmoe88zBjqAqYqoRJegMA) / 1%
 1. [深度工作力 | 經理人 No.170](https://www.kobo.com/tw/zh/book/40dd2411-e107-47a0-acf5-610a90e0bdbe) / 1%
 1. [【經濟大預言】2019 財富 4 大拐點 | 商業周刊 No.1625](https://www.kobo.com/tw/zh/book/62e88bbc-c456-4986-863b-6677e026ea35) / 1%
 1. [企鵝鐵道失物招領課 by 名取佐和子](https://www.kobo.com/my/en/ebook/g9z8nqozitw9dtukuiq7fw) / 1%
@@ -263,6 +264,8 @@
 1. [獨角獸與牠的產地：矽谷新創公司歷險記](http://www.books.com.tw/products/0010757639) / 1%
 1. [熱血仁醫：開創新局的臺大醫院駐院醫學團隊](http://www.books.com.tw/products/0010611754) / 1%
 1. [惡行之外：警界的 31 個破案真相追擊 by 呂博](https://www.kobo.com/tw/zh/ebook/HeIAkzsCXzS3nAwV2AJ6ww) / 1%
+1. [行動 5.0：創造 5G 數位紅利 by 呂學錦](https://www.kobo.com/tw/zh/ebook/843ffa21-311c-4e11-9378-a7a5b009300f) / 1%
+1. [向下扎根！德國教育的公民思辨課 7－「過濾氣泡、假新聞與說謊媒體──我們如何避免被操弄？」：有自覺使用媒體的第一步 by Manfred Theisen](https://www.kobo.com/tw/zh/ebook/zrlTZr110jmSVDRgNn26Iw) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)](https://www.tenlong.com.tw/products/9789862017050) / 1%
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers)](https://www.tenlong.com.tw/products/9789862017883) / 1%
@@ -304,6 +307,7 @@
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170) / 0%
 1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
+1. [顧爸媽，這樣做最安心：15 項迷思 ╳ 18 種常見老年病 ╳ 25 則日常伴老須知，台大老年醫學權威詹鼎正親自解惑 by 詹鼎正](https://www.kobo.com/tw/zh/ebook/5AuNAebKADOYt4aJ5QjZkg) / 1%
 1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈](http://www.bookwalker.com.tw/product/8550) / 1%
