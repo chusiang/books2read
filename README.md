@@ -244,6 +244,7 @@
 1. [Ansible: Up and Running (2/e)](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
+1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用 (2/e)](https://www.tenlong.com.tw/products/9787115411280) / 1%
