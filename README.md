@@ -29,11 +29,13 @@
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [這不是我們做事的方法！：組織的興起、殞落，再崛起 by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/cy5S2XGscjav9wINg-rPZQ) / 1%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
+1. [資訊戰爭：入侵政府網站、竊取國家機密、假造新聞影響選局，網路已成為繼原子彈發明後最危險的完美武器 by David E. Sanger](https://www.kobo.com/tw/zh/ebook/0zZ93SY2lDyCLnu3ScQRKQ) / 0%
 1. [獨家揭密：那些大型企業確保 IT 系統正常運作的奧密 by 陳紹英, 周志龍, 金成姬](https://www.tenlong.com.tw/products/9789863797128) / 1%
 1. [全棧性能測試修煉寶典：JMeter 實戰 by 陳志勇, 馬利偉,萬龍](https://www.tenlong.com.tw/products/9787115437228) / 1%
 1. [晉陞成 HTTP 一代宗師：用 java 實作 by 肖佳](https://www.tenlong.com.tw/products/9789863797388) / 1%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [我用打工學習這個世界：有關挫折、辛酸、老闆、現實社會，以及工作的 27 種樣貌 by 黃海樹](https://www.kobo.com/tw/en/ebook/5mk9TfBN7zWPpCfqDMi-4g) / 1%
+1. [大人的社會課：從阻撓議事到邊際效應，搞懂世界的真實運作 by 劉炯朗](https://www.kobo.com/tw/zh/ebook/tZa4KHDpfD69Ut1E_cd8Ig) / 1%
 1. [終結腦疲勞！台大醫師的高效三力自癒法 by 張立人](https://www.kobo.com/tw/en/ebook/ZFjcqUZDLDirfFhpkXm2Vw) / 1%
 1. [一流工作者都在用的待辦清單 by Damon Zahariades](https://www.kobo.com/tw/en/ebook/zJm3d4mpkzG1bKV6PZSEKQ) / 1%
 1. [打火哥的 30 堂烈焰求生課：第一線熱血消防員親授關鍵保命絕招，破解火場迷思 by 蔡宗翰](https://www.kobo.com/tw/zh/ebook/FGHGWHuYADqXfdx5gteZ0A) / 1%
