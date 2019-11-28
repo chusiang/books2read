@@ -70,6 +70,7 @@
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
+1. [DevOps 最佳實踐 by Bart de Best](https://www.amazon.cn/gp/product/B07KBZS1YN/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8) / 1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
 1. [不懂這些，別想加薪 by 劉恭甫](https://www.kobo.com/tw/en/ebook/3666e01a-53d9-419c-9ab6-7efbe7b054cc) / 1%
 1. [Amazon 的人為什麼這麼厲害？：日本亞馬遜創始成員告訴你，他在貝佐斯身旁學到的高成長工作法。by 佐藤將之](https://www.taaze.tw/goods/11100867192.html) / 1%
