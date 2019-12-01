@@ -70,7 +70,7 @@
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
-1. [DevOps 最佳實踐 by Bart de Best](https://www.amazon.cn/gp/product/B07KBZS1YN/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8) / 1%
+1. [DevOps 最佳實踐 by Bart de Best](https://www.amazon.cn/gp/product/B07KBZS1YN/) / 1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
 1. [不懂這些，別想加薪 by 劉恭甫](https://www.kobo.com/tw/en/ebook/3666e01a-53d9-419c-9ab6-7efbe7b054cc) / 1%
 1. [Amazon 的人為什麼這麼厲害？：日本亞馬遜創始成員告訴你，他在貝佐斯身旁學到的高成長工作法。by 佐藤將之](https://www.taaze.tw/goods/11100867192.html) / 1%
@@ -257,7 +257,7 @@
 1. [Ansible: Up and Running (2/e)](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
-1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8) / 1%
+1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
@@ -265,7 +265,7 @@
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e)](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [Ubuntu 你不懂的團隊力量 by Stephen C. Lundin Bob Nelson](https://www.taaze.tw/usedList.html?oid=11100246329) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
-1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=tmm_kin_swatch_0) / 1%
+1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/) / 1%
 1. [Effective DevOps](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [為你自己學 Git by 高見龍](https://www.tenlong.com.tw/products/9789864342662) / 1%
 1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
