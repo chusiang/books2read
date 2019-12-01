@@ -123,6 +123,7 @@
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
 1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/ebook/ucla) / 1%
+1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
 1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
@@ -137,15 +138,20 @@
 1. [與成功有約 by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
-1. [刻意練習：原創者全面解析，比天賦更關鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
+1. [刻意練習的力量 | 大師輕鬆讀 NO.644](https://www.kobo.com/tw/zh/ebook/no-644) / 1%
+1. [刻意練習：原創者全面解析，比天賦更關你拿什麼衡量自己的人生鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
+1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
+1. [原則：生活和工作 by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
 1. [大師的刻意練習：20 世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法 by James Francis Cooke](https://readmoo.com/book/210116244000101) / 1%
 1. [師父：那些我在課堂外學會的本事 (The Knack: How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up) by Norm Brodsky, Bo Burlingham](https://www.books.com.tw/products/0010705054) / 1%
 1. [日本腦力錦標賽五冠王「超高效記憶術」：3 循環反覆速習法╳1 分鐘速寫，無關天分與年齡，記憶大量資訊隨時開始！ by 池田義博](https://www.kobo.com/tw/en/ebook/-QWyGmFefz2yiPTz00DOdw) / 1%
 1. [Deep Work 深度工作力: 淺薄時代，個人成功的關鍵能力 (Deep Work: Rules for Focused Success in a Distracted World) by Cal Newport](https://play.google.com/store/books/details/%E5%8D%A1%E7%88%BE_%E7%B4%90%E6%B3%A2%E7%89%B9_Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B?id=c_sxDwAAQBAJ) / 1%
 1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
+1. [極度專注 | 大師輕鬆讀 NO.703](https://www.kobo.com/tw/zh/ebook/no-703) / 2%
+1. [極度專注力：打造高績效的聰明工作法 by Chris Bailey](https://www.kobo.com/tw/zh/ebook/6320b93e-419b-4404-8338-895c5a081e5c) / 1%
 1. [專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵 (Focus: The Hidden Driver of Excellence) by Daniel Goleman](http://www.books.com.tw/products/0010631218) / 1%
-1. [專注力，就是你的超能力：掌控自我、提升成績的18個學習武器 (自分を操る超集中力) by DaiGo](http://www.books.com.tw/products/0010755805) / 1%
+1. [專注力，就是你的超能力：掌控自我、提升成績的 18 個學習武器 (自分を操る超集中力) by DaiGo](http://www.books.com.tw/products/0010755805) / 1%
 1. [五秒法則 by Mel Robbins](https://www.kobo.com/tw/zh/ebook/e81d8522-f414-430c-9652-fd5017dcb672) / 1%
 1. [溫伯格的軟體管理學 - 第 1 卷：系統化思考 (Quality Software Management, Volume 1: Systems Thinking) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
@@ -182,6 +188,7 @@
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [這一生，你想留下什麼？：史丹佛的 10 堂領導課 by John L. Hennessy](https://www.kobo.com/tw/zh/ebook/dcf4f90d-2713-4764-80e8-df426f69a1b9) / 1%
+1. [你拿什麼衡量自己的人生 | 大師輕鬆讀 NO.450](https://www.kobo.com/tw/zh/ebook/5364172a-3c5e-4796-a300-567e0ec988df) / 1%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
 1. [超級好！用遊戲打倒生命裡的壞東西: 50 萬人親身見證的心理奇蹟 by Jane McGonigal](https://play.google.com/store/books/details?id=YKv-DQAAQBAJ) / 1%
 1. [關係界限 by 吳姵瑩](https://play.google.com/store/books/details?id=1q9dDwAAQBAJ) / 1%
@@ -216,6 +223,7 @@
 1. [超高效創意思考心智圖法 (GRASP. The Solution: How to find the best answers to everyday challenges) by Chris Griffiths](https://www.tenlong.com.tw/products/9789862723876) / 1%
 1. [持续集成: 软件质量改进和风险降低之道 by Paul M.Duvall, Steve Matyas, Andrew Glover](https://book.douban.com/subject/2580604/) / 1%
 1. [圖解 SCRUM 工作法 | 經理人 No.160](https://www.managertoday.com.tw/magazines/view/127485) / 2%
+1. [Scrum 敏捷開發術 | 大師輕鬆讀 NO.579](https://www.kobo.com/tw/zh/ebook/9ba42cb7-a6c1-4c26-807b-5b6a41952d5d)
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [網站可靠性工程：Google 的系統管理之道 (Site Reliability Engineering: How Google Runs Production Systems) by Betsy Beyer, Jennifer Petoff, Chris Jone](https://www.tenlong.com.tw/products/9789864766253) / 1%
@@ -249,6 +257,7 @@
 1. [Ansible: Up and Running (2/e)](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
+1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8) / 1%
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
