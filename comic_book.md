@@ -14,9 +14,7 @@
 
 ## 待讀書單
 
-1. 情色漫畫老師 (6) by 伏見司 / 49%
-1. 情色漫畫老師 (7) by 伏見司 / 1%
-1. [Sword Art Online 刀劍神域 Progressive (6) by 比村奇石、川原礫、abec](https://www.kobo.com/tw/zh/ebook/0ac8f618-5af4-4b60-91af-185b493f67c6) / 1%
+1. [Sword Art Online 刀劍神域 Progressive (6) by 比村奇石、川原礫、abec](https://www.kobo.com/tw/zh/ebook/0ac8f618-5af4-4b60-91af-185b493f67c6) / 2%
 1. [Sword Art Online 刀劍神域 Progressive (7) by 比村奇石、川原礫、abec](https://www.kobo.com/tw/zh/ebook/6c20917d-26f2-43cf-8671-3632239d61e6) / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
 1. [食戟之靈 (31) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/56207) / 0%
@@ -152,6 +150,8 @@
 1. 情色漫畫老師 (3) by 伏見司 / 100%
 1. 情色漫畫老師 (4) by 伏見司 / 100%
 1. 情色漫畫老師 (5) by 伏見司 / 100%
+1. 情色漫畫老師 (6) by 伏見司 / 100%
+1. 情色漫畫老師 (7) by 伏見司 / 100%
 
 ### 2018
 
