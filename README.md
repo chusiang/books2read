@@ -491,6 +491,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (09) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (10) by 大森藤ノ](https://www.ching-win.com.tw/product-detail/40106022) / 100%
 1. [給兒子的 18 堂商業思維課 by 林明樟、林承勳](https://www.kobo.com/tw/zh/ebook/DYXi2yGDHjOs5UkCJTVEzQ) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (14) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/nIw6p1p7JTGGq9mwVVo1uA) / 100%
 
 ### 2018
 
