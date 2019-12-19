@@ -122,7 +122,6 @@
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
 1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
-1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/ebook/ucla) / 1%
 1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
 1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
@@ -236,6 +235,7 @@
 1. [有錢人想的和你不一樣 by T. Harv Eker](https://www.kobo.com/tw/zh/book/81dc70e8-2983-45c2-acf9-8a76bcc4e295) / 1%
 1. [高績效教練：有效帶人、激發潛力的教練原理與實務 (25 週年紀念增訂版) by Sir John Whitmore](https://www.kobo.com/tw/zh/ebook/dWdwfC_O0DO2EXZvuCckBg) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/book/02fb8311-bc7c-4514-8069-7be05e6a1df0) / 1%
+1. [重塑組織：進化型組織的創建之道 by Frederic Laloux](https://www.amazon.cn/dp/B071F2R1CJ/?coliid=I3FE6DGOPR5QAD&colid=10W4M94DX23ZL) / 1%
 1. [我的人生簡史 by Stephen Hawking](https://www.kobo.com/tw/zh/ebook/iywxA-PV3j-mhpMCn3nlIg) / 1%
 1. [貝佐斯傳 by Brad Stone](https://www.kobo.com/tw/zh/ebook/lGiR_DudRjqkAoDZ808Aig) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
