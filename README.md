@@ -494,6 +494,7 @@
 1. [給兒子的 18 堂商業思維課 by 林明樟、林承勳](https://www.kobo.com/tw/zh/ebook/DYXi2yGDHjOs5UkCJTVEzQ) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (14) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/nIw6p1p7JTGGq9mwVVo1uA) / 100%
 1. [解答之書：專屬於你的人生答案 (The Book of Answers) by Carol Bolt](http://www.eslite.com/product.aspx?pgid=1001119732726161) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 (1): 艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 200%
 
 ### 2018
 
@@ -535,6 +536,7 @@
 1. [戰爭遊戲](http://www.books.com.tw/products/0010581224) / 100%
 1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 100%
 1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow)](http://www.books.com.tw/products/0010683723) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 (1): 艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (01) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/Y26lgU3uFTy3vk8Rd96nGA) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (02) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/xLl993PEXTCKptMYDBlzeQ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (03) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/53zjy_DZpzS1Zvd6BAAmnA) / 100%
