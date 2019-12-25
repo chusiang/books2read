@@ -14,8 +14,9 @@
 
 ## 待讀書單
 
-1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 73%
+1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 2%
+1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [教你用手機也能拍出日系唯美的夢幻人像：幸福照相館 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
@@ -25,7 +26,7 @@
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
 1. [與父母和解，療癒每段關係裡的不完美 by 許皓宜](https://www.taaze.tw/goods/11100734550.html) / 13%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
-1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 1%
+1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 2%
 1. [經濟自然學 (10 週年暢銷經典新版) by Robert H. Frank](https://www.kobo.com/tw/zh/ebook/qYO0Vg5SOjWPdsRnA98ouw) / 1%
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
@@ -350,7 +351,6 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
-1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (5)：幽靈子彈](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_5?id=4WorDwAAQBAJ) / 1%
