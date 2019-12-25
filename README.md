@@ -350,6 +350,31 @@
 1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (5)：幽靈子彈](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_5?id=4WorDwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (6)：幽靈子彈](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_6?id=FEM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (7)：聖母聖詠](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_7?id=IkM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (8)：Early and late](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_8?id=MkM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (9)： Alicization beginning](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_9?id=NkM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (12)：Alicization rising](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_12?id=nEM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (13)：Alicization dividing](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_13?id=qEM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (14)：Alicization uniting](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_14?id=zEM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (15)：Alicization invading](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_15?id=3EM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (16)：春江花月夜](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_16?id=JkQ1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (17)：Alicization awakening](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_17?id=cEQ1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (18)：Alicization lasting](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_18?id=nl09DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (19)：Moon cradle](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_19?id=bRFfDwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (20)：Moon cradle](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_20?id=suZwDwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (21): Unital ring Ⅰ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_21?id=UkGuDwAAQBAJ) / 0%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
@@ -382,11 +407,6 @@
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_06?id=ua1oDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_07?id=GTWEDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_08?id=CoOYDwAAQBAJ) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [[輕小說] 惡魔高校 D×D (01) - 舊校舍的惡魔 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/644197d3-7465-404d-9c0f-c904b4d56979) / 1%
 1. [[輕小說] 惡魔高校 D×D (02) - 戰鬥校舍的不死鳥 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/fd5a73e4-ebe7-48cd-acbe-c5ce59b58193) / 1%
 1. [[輕小說] 惡魔高校 D×D (03) - 月光校園的王者之劍 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/0197b55b-c816-4635-96f7-6f301b9fdf2a) / 1%
