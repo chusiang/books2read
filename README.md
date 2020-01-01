@@ -15,7 +15,7 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 73%
-1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 2%
+1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 2%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [教你用手機也能拍出日系唯美的夢幻人像：幸福照相館 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
@@ -60,7 +60,7 @@
 1. [獨家揭密：那些大型企業確保 IT 系統正常運作的奧密 by 陳紹英, 周志龍, 金成姬](https://www.tenlong.com.tw/products/9789863797128) / 1%
 1. [全棧性能測試修煉寶典：JMeter 實戰 by 陳志勇, 馬利偉,萬龍](https://www.tenlong.com.tw/products/9787115437228) / 1%
 1. [晉陞成 HTTP 一代宗師：用 java 實作 by 肖佳](https://www.tenlong.com.tw/products/9789863797388) / 1%
-1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e](https://github.com/beijinglug/fsfs-zh) / 19%
+1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e by Richard M. Stallman](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [我用打工學習這個世界：有關挫折、辛酸、老闆、現實社會，以及工作的 27 種樣貌 by 黃海樹](https://www.kobo.com/tw/en/ebook/5mk9TfBN7zWPpCfqDMi-4g) / 1%
 1. [大人的社會課：從阻撓議事到邊際效應，搞懂世界的真實運作 by 劉炯朗](https://www.kobo.com/tw/zh/ebook/tZa4KHDpfD69Ut1E_cd8Ig) / 1%
 1. [終結腦疲勞！台大醫師的高效三力自癒法 by 張立人](https://www.kobo.com/tw/en/ebook/ZFjcqUZDLDirfFhpkXm2Vw) / 1%
@@ -153,7 +153,7 @@
 1. [可複製的領導力：300 萬付費會員推崇，樊登的九堂商業課 by 樊登](https://www.kobo.com/tw/zh/book/4d7b00d2-20d6-42ec-8b66-8a64bdd682aa) / 1%
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
-1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
+1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法 by 張國洋, 姚詩豪](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
 1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
@@ -170,7 +170,7 @@
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
 1. [刻意練習的力量 | 大師輕鬆讀 NO.644](https://www.kobo.com/tw/zh/ebook/no-644) / 1%
-1. [刻意練習：原創者全面解析，比天賦更關你拿什麼衡量自己的人生鍵的學習法](http://www.books.com.tw/products/0010752714) / 1%
+1. [刻意練習：原創者全面解析，比天賦更關你拿什麼衡量自己的人生鍵的學習法 by Anders Ericsson, Robert Pool](http://www.books.com.tw/products/0010752714) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
 1. [原則：生活和工作 by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
 1. [大師的刻意練習：20 世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法 by James Francis Cooke](https://readmoo.com/book/210116244000101) / 1%
@@ -190,8 +190,8 @@
 1. [溫伯格的軟體管理學 - 第 4 卷：擁抱變革 (Quality Software Management, Volume 4：Anticipating Change) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
-1. [Effective DevOps 中文版](https://www.tenlong.com.tw/products/9789864767793) / 1%
-1. [Effective DevOps：使用 AWS 快速入門](https://www.books.com.tw/products/0010814249) / 1%
+1. [Effective DevOps 中文版 by Jennifer Davis, Ryn Daniels](https://www.tenlong.com.tw/products/9789864767793) / 1%
+1. [Effective DevOps：使用 AWS 快速入門 by Nathaniel Felsen](https://www.books.com.tw/products/0010814249) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
 1. [德國一流大學教你數學家的 22 個思考工具 by Christian Hesse](https://www.kobo.com/tw/en/ebook/I41_BHy5XTufwF5C-C6SMA) / 1%
 1. [數學教你不犯錯 (上)：不落入線性思考、避免錯誤推論 by Jordan Ellenberg](https://www.kobo.com/tw/en/ebook/EW2lwlaIOz6Z5tUJvsHyOA) / 1%
@@ -200,8 +200,8 @@
 1. [DevOps 三十六计 by DevOps 時代社區](https://www.tenlong.com.tw/products/9787121328572) / 1%
 1. [鬼速ＰＤＣＡ | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201703270001) / 1%
 1. [Ansible：建置與執行, 2/e (Ansible: Up and Running - Automating Configuration Management and Deployment the Easy Way, 2/e) by Lorin Hochstein, Rene Moser](https://www.tenlong.com.tw/products/9789864768264) / 1%
-1. [魔術般的 Ansible：一鍵安裝數百軟體於數千電腦](https://www.tenlong.com.tw/products/9789863795759) / 8%
-1. [Ansible 徹底入門：雲端時代的組態管理](https://www.tenlong.com.tw/products/9789864766406) / 8%
+1. [魔術般的 Ansible：一鍵安裝數百軟體於數千電腦 by 史晶晶](https://www.tenlong.com.tw/products/9789863795759) / 8%
+1. [Ansible 徹底入門：雲端時代的組態管理 by 廣川英壽, 平初, 橋本直哉, 森田邦裕, 渡辺一宏](https://www.tenlong.com.tw/products/9789864766406) / 8%
 1. [內向心理學：享受一個人的空間，安靜地發揮影響力，內向者也能在外向的世界嶄露鋒芒！ by Marti Olsen Laney](https://play.google.com/store/books/details?id=bi9pDwAAQBAJ) / 1%
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
 1. [Linux Kernel Hacks：改善效能, 提昇開發效率及節能的技巧與工具 by 池田宗広, 大岩尚宏, 島本裕志, 竹部晶雄, 平松雅巳](https://books.google.com.tw/books?id=aMSuoQEACAAJ) / 1%
@@ -210,13 +210,13 @@
 1. [中階主管帶人學 | 經理人特刊 No.16](https://www.managertoday.com.tw/magazine/view/127566) / 1%
 1. [OKR 目標與關鍵成果法 | 大師輕鬆讀 No.679](https://www.kobo.com/tw/zh/book/46a6d0f6-4795-43e7-a311-23884349dbd7) / 1%
 1. [OKR：做最重要的事 by John Doerr](https://www.kobo.com/tw/en/ebook/okr-2) / 1%
-1. [哈佛教你領導學：打造扭轉變局、再創高峰的卓越領導力](http://www.books.com.tw/products/0010678458) / 1%
+1. [哈佛教你領導學：打造扭轉變局、再創高峰的卓越領導力 by Peter F. Drucker](http://www.books.com.tw/products/0010678458) / 1%
 1. [看板方法：科技企业渐进变革成功之道 (Successful Evolutionary Change for Your Technology Business) by David J.Anderson](https://www.tenlong.com.tw/products/9787560994048) / 1%
 1. [揪出時間小偷的看板管理法：微軟、Zara、HP…… 這樣精實流程，免做虛工、省時有餘裕，部屬被動變主動 by Dominica DeGrandis](https://www.taaze.tw/goods/11100871985.html) / 1%
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
-1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action)](https://www.tenlong.com.tw/products/9789864341887) / 1%
+1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action) by Marcus Hammarberg, Joakim Sunden](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [精益开发实战：用看板管理大型項目 by Henrik Kniberg](https://www.tenlong.com.tw/products/9787115291776) / 1%
-1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e)](https://www.tenlong.com.tw/products/9789862767184) / 0%
+1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e) by Ash Maurya](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [這一生，你想留下什麼？：史丹佛的 10 堂領導課 by John L. Hennessy](https://www.kobo.com/tw/zh/ebook/dcf4f90d-2713-4764-80e8-df426f69a1b9) / 1%
 1. [你拿什麼衡量自己的人生 | 大師輕鬆讀 NO.450](https://www.kobo.com/tw/zh/ebook/5364172a-3c5e-4796-a300-567e0ec988df) / 1%
@@ -225,7 +225,7 @@
 1. [關係界限 by 吳姵瑩](https://play.google.com/store/books/details?id=1q9dDwAAQBAJ) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
 1. [如何有效閱讀 by 藤原和博](https://www.amazon.cn/dp/B07R6R4WY5) / 1%
-1. [如何閱讀一本書](http://www.books.com.tw/products/0010226097) / 1%
+1. [如何閱讀一本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) / 1%
 1. [Google 模式：智慧創做者世代來臨，挑戰瘋狂變化世界的經營思維與工作邏輯 by Eric Schmidt](https://www.kobo.com/tw/en/ebook/google-14/78ya7rYYEEq7qJgPLC7nMA) / 1%
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [打造圖像腦：學會擊敗 90% 職場競爭者的視覺思考工作術 by Dan Roam](https://www.kobo.com/tw/zh/ebook/64a0876d-972a-400e-a12d-5f0415fdb66a) / 1%
@@ -238,14 +238,14 @@
 1. [關鍵行銷：消費心理學大師的 10 大黃金行銷課 by Adam Ferrier, Jennifer Fleming](https://play.google.com/store/books/details/亞當_費里爾_Adam_Ferrier_珍妮佛_佛萊明_Jennifer_Fleming_關鍵行銷?id=071mDwAAQBAJ) / 1%
 1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
-1. [蔡康永的說話之道（兔斯基慶功版）](http://www.books.com.tw/products/0010643097) / 1%
-1. [蔡康永的說話之道 2](http://www.books.com.tw/products/0010632643) / 1%
-1. [囧星人的人生百想妙答](http://www.books.com.tw/products/0010765506) / 1%
+1. [蔡康永的說話之道（兔斯基慶功版）by 蔡康永](http://www.books.com.tw/products/0010643097) / 1%
+1. [蔡康永的說話之道 2 by 蔡康永](http://www.books.com.tw/products/0010632643) / 1%
+1. [囧星人的人生百想妙答 by 囧星人](http://www.books.com.tw/products/0010765506) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [反脆弱 by Nassim Nicholas Taleb](https://www.kobo.com/tw/zh/ebook/1c388bc8-e428-4501-bdae-c3f478899356) / 1%
 1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
 1. [精準提問的力量: 問對問題, 就解決一半的問題! 風靡美國政商學界的 11 種提問思考教你挖掘真相 × 扭轉逆勢 × 創造全新格局 by Frank Sesno](https://www.kobo.com/tw/zh/book/58aea75b-fff9-4156-97fc-3073f02fdc82) / 1%
-1. [向阿德勒提問](https://www.businesstoday.com.tw/book/category/80435/detail/201608030001) / 1%
+1. [向阿德勒提問 | 今周刊](https://www.books.com.tw/products/R030063891) / 1%
 1. [下個十年，你在哪？時時檢視目標，無懼打掉重練，10 年 10 倍薪不是夢 by 黃珮婷 Betty](https://www.kobo.com/tw/zh/ebook/e2PGdJ9vuTywdvhRWTSwiw) / 1%
 1. [挺身而進 (Lean In: Women, Work and the Will to Lead) by Sheryl Sandberg](https://www.kobo.com/tw/zh/ebook/sF1hzML-NjWvsVTP7Ih7tg) / 1%
 1. [被討厭的勇氣：自我啟發之父「阿德勒」的教導 by 岸見一郎, 古賀史健](http://www.books.com.tw/products/0010653153) / 1%
@@ -270,31 +270,31 @@
 1. [重塑組織：進化型組織的創建之道 by Frederic Laloux](https://www.amazon.cn/dp/B071F2R1CJ/?coliid=I3FE6DGOPR5QAD&colid=10W4M94DX23ZL) / 1%
 1. [我的人生簡史 by Stephen Hawking](https://www.kobo.com/tw/zh/ebook/iywxA-PV3j-mhpMCn3nlIg) / 1%
 1. [貝佐斯傳 by Brad Stone](https://www.kobo.com/tw/zh/ebook/lGiR_DudRjqkAoDZ808Aig) / 1%
-1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You)](https://www.tenlong.com.tw/products/9789866613890) / 1%
-1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban)](https://www.tenlong.com.tw/products/9789863476733) / 1%
-1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners)](https://www.tenlong.com.tw/products/9789864763153) / 1%
-1. [原來你才是絆腳石：企業敏捷轉型失敗都是因為領導者，你做對了嗎？](https://www.tenlong.com.tw/products/9789864343140) / 1%
-1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 (Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust)](https://www.tenlong.com.tw/products/9789862019542) / 1%
-1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
-1. [用戶故事與敏捷方法](https://www.tenlong.com.tw/products/9787302223405) / 1%
+1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You) by Tim Clark , Alexander Osterwalder , Yves Pigneur](https://www.tenlong.com.tw/products/9789866613890) / 1%
+1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 1%
+1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners) by Daniel James Gullo](https://www.tenlong.com.tw/products/9789864763153) / 1%
+1. [原來你才是絆腳石：企業敏捷轉型失敗都是因為領導者，你做對了嗎？ by Jutta Eckstein, John Buck](https://www.tenlong.com.tw/products/9789864343140) / 1%
+1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 (Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust) by Ken Schwaber, Jeff Sutherland](https://www.tenlong.com.tw/products/9789862019542) / 1%
+1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！ by 陳建村](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
+1. [用戶故事與敏捷方法 by Mike Cohn](https://www.tenlong.com.tw/products/9787302223405) / 1%
 1. [使用者故事對照 (User Story Mapping: Discover the Whole Story, Build the Right Product)](https://www.tenlong.com.tw/products/9789863479468) / 1%
 1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
-1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！](http://www.books.com.tw/products/0010694726) / 1%
+1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！ by 陳茂雄, 林文琇](http://www.books.com.tw/products/0010694726) / 1%
 1. [脆弱的力量 by Brené Brown](https://play.google.com/store/books/details?id=-RiUDwAAQBAJ) / 1%
 1. [向誰效忠：關於一種更高層次的忠誠，以及這種忠誠的考驗 by James Comey](https://play.google.com/store/books/details?id=FM56DwAAQBAJ) / 1%
-1. [Ceph 分佈式存儲實戰](https://www.tenlong.com.tw/products/9787111553588) / 1%
-1. [Ansible for DevOps](https://www.ansiblefordevops.com/) / 1%
-1. [Ansible 權威指南](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
-1. [Ansible: Up and Running (2/e)](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
-1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
-1. [Zabbix 監控系統深度實踐 (第2版)](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
+1. [Ceph 分佈式存儲實戰 by Ceph 中國社區](https://www.tenlong.com.tw/products/9787111553588) / 1%
+1. [Ansible for DevOps by Jeff Geerling](https://www.ansiblefordevops.com/) / 1%
+1. [Ansible 權威指南 by 李松濤，魏巍，甘捷](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
+1. [Ansible: Up and Running (2/e) by Lorin Hochstein, Rene Moser](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
+1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
+1. [Zabbix 監控系統深度實踐 (2/e) by 姚仁捷](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
 1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
-1. [時間管理－給系統管理者 (Time Management for System Administrators)](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
-1. [學會專案管理的 11 堂課－增修版](https://www.tenlong.com.tw/products/9789862019740) / 14%
-1. [PostgreSQL 即學即用 (2/e)](https://www.tenlong.com.tw/products/9787115411280) / 1%
-1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e)](https://www.tenlong.com.tw/products/9789862766194) / 1%
+1. [時間管理－給系統管理者 (Time Management for System Administrators) by Thomas A. Limoncelli](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
+1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
+1. [PostgreSQL 即學即用 (2/e) by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
+1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e) by Jono Bacon](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [Ubuntu 你不懂的團隊力量 by Stephen C. Lundin Bob Nelson](https://www.taaze.tw/usedList.html?oid=11100246329) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/) / 1%
@@ -318,7 +318,7 @@
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers)](https://www.tenlong.com.tw/products/9789862017883) / 1%
 1. [單元測試的藝術, 2/e (The Art of Unit Testing: with examples in C#, 2/e)](https://www.tenlong.com.tw/products/9789864342471) / 1%
 1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334) / 40%
-1. [笑談軟體工程：例外處理設計的逆襲](http://www.tenlong.com.tw/items/9865740389) / 1%
+1. [笑談軟體工程：例外處理設計的逆襲 by 陳建村](http://www.tenlong.com.tw/items/9865740389) / 1%
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606) / 80%
@@ -487,8 +487,8 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (06) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/O9zaUu7L2jSNOyTzqITnTQ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (07) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/ZhQkpynJTDqfYkZBPFkVcw) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (08) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/wc1gHILJ2zCWjf0CwHod7w) / 100%
-1. [我的鋼彈事業](http://www.my-cartoon.com.tw/front/shop/product_page.php?id=4458) by 松本悟 / 100%
-1. [3 年後，你的工作還在嗎？](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 100%
+1. [我的鋼彈事業 by 松本悟](http://www.my-cartoon.com.tw/front/shop/product_page.php?id=4458) / 100%
+1. [3 年後，你的工作還在嗎？：掌握關鍵職能，迎向工匠、總管與行腳商人的時代！ by 姚詩豪, 張國洋](https://www.kobo.com/tw/zh/ebook/v1AuDtp3rTCDGvDRyepGlA) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (1) by 伏瀬](https://www.kobo.com/tw/en/ebook/2bd92fe3-0815-41a6-b214-28a92694f543) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (2) by 伏瀬](https://www.kobo.com/tw/en/ebook/a4b40987-50a6-4789-b0f3-770c8750d8f7) / 100%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.kobo.com/tw/en/ebook/OpCkdz7AWjS7VMtDYKXpSA) / 100%
@@ -552,7 +552,7 @@
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
 1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 100%
 1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 100%
-1. [大人學選擇：成熟大人的獨立思考術](http://www.books.com.tw/products/0010729881) / 100%
+1. [大人學選擇：成熟大人的獨立思考術 by 姚詩豪, 張國洋](http://www.books.com.tw/products/0010729881) / 100%
 1. [工作愈換愈好，得有這些本事](http://www.books.com.tw/products/0010733434) / 100%
 1. [小企鵝波波 (Bobo the Baby Penguin)](http://www.books.com.tw/products/0010752185) /100%
 1. [鳳凰項目 (沙盤特別版)：一個 IT 運維的傳奇故事](http://www.ibestpractice.org/index.php?m=content&c=index&a=show&catid=14&id=62) / 100%
