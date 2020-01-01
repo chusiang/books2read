@@ -100,7 +100,7 @@
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
-1. [The Great ScrumMaster 中文版: #ScrumMasterWay](https://www.tenlong.com.tw/products/9789864343263) / 49%
+1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
 1. [DevOps 最佳實踐 by Bart de Best](https://www.amazon.cn/gp/product/B07KBZS1YN/) / 1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
@@ -191,6 +191,7 @@
 1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
 1. [Effective DevOps 中文版 by Jennifer Davis, Ryn Daniels](https://www.tenlong.com.tw/products/9789864767793) / 1%
+1. [Effective DevOps by Jennifer Davis, Ryn Daniels](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [Effective DevOps：使用 AWS 快速入門 by Nathaniel Felsen](https://www.books.com.tw/products/0010814249) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
 1. [德國一流大學教你數學家的 22 個思考工具 by Christian Hesse](https://www.kobo.com/tw/en/ebook/I41_BHy5XTufwF5C-C6SMA) / 1%
@@ -298,50 +299,49 @@
 1. [Ubuntu 你不懂的團隊力量 by Stephen C. Lundin Bob Nelson](https://www.taaze.tw/usedList.html?oid=11100246329) / 1%
 1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/) / 1%
-1. [Effective DevOps](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [為你自己學 Git by 高見龍](https://www.tenlong.com.tw/products/9789864342662) / 1%
-1. [Git 團隊使用手冊](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
-1. [Docker 即學即用](https://about.ac/books/docker-up-and-running/) / 23%
-1. [Docker 錦囊妙計](http://www.tenlong.com.tw/items/9864760807) / 21%
+1. [Git 團隊使用手冊 by Emma Jane Hogbin Westby](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
+1. [Docker 即學即用 by Karl Matthias, Sean Kane](https://about.ac/books/docker-up-and-running/) / 23%
+1. [Docker 錦囊妙計 (Docker Cookbook) by Sébastien Goasguen](http://www.tenlong.com.tw/items/9864760807) / 21%
 1. [Kubernetes 錦囊妙計 (Kubernetes Cookbook : Building Cloud Native Applications) by Sébastien Goasguen , Michael Hausenblas](https://www.tenlong.com.tw/products/9789864769216) / 1%
 1. [Kubernetes in Action (簡體中文版) by 七牛容器雲團隊](https://www.tenlong.com.tw/products/9787121349959) / 1%
 1. [引導反思的第一本書](http://www.books.com.tw/products/0010618831) /1%
-1. [遊戲人生：有效有趣的破冰遊戲](http://www.books.com.tw/products/0010651863) / 1%
-1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？](http://www.books.com.tw/products/0010703860) / 1%
-1. [獨角獸與牠的產地：矽谷新創公司歷險記](http://www.books.com.tw/products/0010757639) / 1%
-1. [熱血仁醫：開創新局的臺大醫院駐院醫學團隊](http://www.books.com.tw/products/0010611754) / 1%
+1. [遊戲人生：有效有趣的破冰遊戲 by 楊田林](http://www.books.com.tw/products/0010651863) / 1%
+1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？ by Gillian Tett](http://www.books.com.tw/products/0010703860) / 1%
+1. [獨角獸與牠的產地：矽谷新創公司歷險記 by Dan Lyons](http://www.books.com.tw/products/0010757639) / 1%
+1. [熱血仁醫：開創新局的臺大醫院駐院醫學團隊 by 柯文哲, 林裕峰, 臺大醫院駐院醫學團隊](http://www.books.com.tw/products/0010611754) / 1%
 1. [惡行之外：警界的 31 個破案真相追擊 by 呂博](https://www.kobo.com/tw/zh/ebook/HeIAkzsCXzS3nAwV2AJ6ww) / 1%
 1. [行動 5.0：創造 5G 數位紅利 by 呂學錦](https://www.kobo.com/tw/zh/ebook/843ffa21-311c-4e11-9378-a7a5b009300f) / 1%
 1. [向下扎根！德國教育的公民思辨課 7－「過濾氣泡、假新聞與說謊媒體──我們如何避免被操弄？」：有自覺使用媒體的第一步 by Manfred Theisen](https://www.kobo.com/tw/zh/ebook/zrlTZr110jmSVDRgNn26Iw) / 1%
-1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering](https://www.tenlong.com.tw/products/9789867889188) / 1%
-1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship)](https://www.tenlong.com.tw/products/9789862017050) / 1%
-1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers)](https://www.tenlong.com.tw/products/9789862017883) / 1%
-1. [單元測試的藝術, 2/e (The Art of Unit Testing: with examples in C#, 2/e)](https://www.tenlong.com.tw/products/9789864342471) / 1%
-1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例](http://www.tenlong.com.tw/items/9865712334) / 40%
+1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
+1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship) by Robert C. Martin](https://www.tenlong.com.tw/products/9789862017050) / 1%
+1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers) by Robert C. Martin](https://www.tenlong.com.tw/products/9789862017883) / 1%
+1. [單元測試的藝術, 2/e (The Art of Unit Testing: with examples in C#, 2/e) by Roy Osherove](https://www.tenlong.com.tw/products/9789864342471) / 1%
+1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例 by 李智慧](http://www.tenlong.com.tw/items/9865712334) / 40%
 1. [笑談軟體工程：例外處理設計的逆襲 by 陳建村](http://www.tenlong.com.tw/items/9865740389) / 1%
-1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture)](https://www.tenlong.com.tw/products/9789862763988) / 1%
-1. [軟件架構師的 12 項修煉 (技術技能篇)](https://www.tenlong.com.tw/products/9787111506980) /1%
-1. [CI (Continuous integration) 關鍵技術—使用 Jenkins](http://www.tenlong.com.tw/items/9862768606) / 80%
+1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture) by Diomidis Spinellis, Georgios Gousios](https://www.tenlong.com.tw/products/9789862763988) / 1%
+1. [軟件架構師的 12 項修煉 (技術技能篇) by Dave Hendricksen](https://www.tenlong.com.tw/products/9787111506980) /1%
+1. [CI (Continuous integration) 關鍵技術—使用 Jenkins by 邱炫儒](http://www.tenlong.com.tw/items/9862768606) / 80%
 1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php) / 1%
-1. [精通 vi 與 vim](http://www.oreilly.com.tw/product2_unix.php?id=a243) / 70%
-1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought)](http://www.tenlong.com.tw/items/7115338698) / 1%
-1. [版本控制使用 Git](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
-1. [建構微服務｜設計細微化的系統 (Building Microservices)](http://www.tenlong.com.tw/items/9864760785) / 1%
-1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition)](http://www.tenlong.com.tw/items/9862764635) / 31%
-1. [Git 權威指南](http://www.books.com.tw/products/CN10770222) / 30%
-1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1)](https://www.tenlong.com.tw/items/9867727878) / 1%
+1. [精通 Vi 與 Vim by Arnold Robbins, Elbert Hannah, Linda Lamb](https://www.tenlong.com.tw/products/9789866840326) / 70%
+1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought) by Drew Neil](http://www.tenlong.com.tw/items/7115338698) / 1%
+1. [版本控制使用 Git by Jon Loeliger](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
+1. [建構微服務｜設計細微化的系統 (Building Microservices) by Sam Newman](http://www.tenlong.com.tw/items/9864760785) / 1%
+1. [黑客列傳－電腦革命俠客誌－25 週年紀念版 (Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition) by Steven Levy](http://www.tenlong.com.tw/items/9862764635) / 31%
+1. [Git 權威指南 by 蔣鑫](http://www.books.com.tw/products/CN10770222) / 30%
+1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1) by W. Richard Stevens](https://www.tenlong.com.tw/items/9867727878) / 1%
 1. [團隊管理 | 經理人 No.154](https://www.managertoday.com.tw/magazines/view/127299) / 1%
-1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders)](https://www.tenlong.com.tw/products/9789862763834) /1%
-1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance)](https://www.tenlong.com.tw/products/9789862764763) / 1%
-1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think)](https://www.tenlong.com.tw/products/9789862764213) / 1%
-1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software)](https://www.tenlong.com.tw/products/9789862763445) / 1%
-1. [Infrastructure as Code: Managing Servers in the Cloud](https://www.tenlong.com.tw/products/9781491924358) / 1%
+1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789862763834) /1%
+1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance) by Tim Mather, Shahed Latif, Subra Kumaraswam](https://www.tenlong.com.tw/products/9789862764763) / 1%
+1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think) by Andy Oram, John Viega](https://www.tenlong.com.tw/products/9789862764213) / 1%
+1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software) by Tim Riley, Adam Goucher](https://www.tenlong.com.tw/products/9789862763445) / 1%
+1. [Infrastructure as Code: Managing Servers in the Cloud by Kief Morris](https://www.tenlong.com.tw/products/9781491924358) / 1%
 1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
 1. [誰說我們不能一起做決定：參與式決策引導寶典 by Sam Kaner](https://www.taaze.tw/sing.html) / 0%
-1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook)](http://www.tenlong.com.tw/items/9862765771) / 40%
-1. [搜尋模式 (Search Patterns: Design for Discovery)](http://www.tenlong.com.tw/items/9862763116) / 1%
-1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization)](https://www.tenlong.com.tw/products/9789864764433) / 1%
-1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age)](https://www.tenlong.com.tw/items/9867794699) / 1%
+1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook) by Michael Lopp](http://www.tenlong.com.tw/items/9862765771) / 40%
+1. [搜尋模式 (Search Patterns: Design for Discovery) by Peter Morville, Jeffery Callender](http://www.tenlong.com.tw/items/9862763116) / 1%
+1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization) by Susan J. Fowler](https://www.tenlong.com.tw/products/9789864764433) / 1%
+1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age) by Paul Graham](https://www.tenlong.com.tw/items/9867794699) / 1%
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197) / 0%
 1. [深入淺出 Python (Head First Python)](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [Python 網絡爬蟲權威指南 (2/e) by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
@@ -398,12 +398,12 @@
 1. [[輕小說] 奮鬥吧！系統工程師 (14) by 夏海公司](https://www.kobo.com/tw/zh/ebook/624d1ca5-939d-4cb8-bcd0-4b43ceeaf0e6) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (15) by 夏海公司](https://www.kobo.com/tw/zh/ebook/73a22fc5-93fe-44d9-90b3-08dcfe63ea0d) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (16) by 夏海公司](https://www.kobo.com/tw/zh/ebook/0a329430-4d3a-49cb-b34b-cc88d98173b9) / 1%
-1. [[輕小說] 将夜 (01)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 2%
-1. [[輕小說] 将夜 (02)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (03)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (04)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (05)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
-1. [[輕小說] 将夜 (06)](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 將夜 (01) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 2%
+1. [[輕小說] 將夜 (02) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 將夜 (03) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 將夜 (04) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 將夜 (05) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
+1. [[輕小說] 將夜 (06) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手外傳 第一年](https://www.kobo.com/tw/zh/ebook/1135e90a-1389-469c-8dd5-ee9132c8e8e5) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
