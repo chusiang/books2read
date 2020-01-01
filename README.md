@@ -298,7 +298,7 @@
 1. [PostgreSQL 即學即用 (2/e) by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e) by Jono Bacon](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [Ubuntu 你不懂的團隊力量 by Stephen C. Lundin Bob Nelson](https://www.taaze.tw/usedList.html?oid=11100246329) / 1%
-1. [王者歸來－UNIX 王者殿堂](https://www.tenlong.com.tw/products/9789865836351) / 1%
+1. [王者歸來－UNIX 王者殿堂 by 張春曉](https://www.tenlong.com.tw/products/9789865836351) / 1%
 1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/) / 1%
 1. [為你自己學 Git by 高見龍](https://www.tenlong.com.tw/products/9789864342662) / 1%
 1. [Git 團隊使用手冊 by Emma Jane Hogbin Westby](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
@@ -358,7 +358,7 @@
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
 1. [鳥哥的 Linux 私房菜伺服器架設篇 (2/e) by 鳥哥](https://share.readmoo.com/book/538753) / ?%
-1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](http://www.books.com.tw/products/0010528294) / 1%
+1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](https://www.tenlong.com.tw/products/9789862015506) / 1%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南 by 臥龍小三](https://www.tenlong.com.tw/products/9789866348365) / 1%
 1. [OpenStack 運維指南 by Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein](https://www.tenlong.com.tw/products/9787115397911) / 1%
