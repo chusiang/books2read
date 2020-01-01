@@ -15,11 +15,25 @@
 ## 待讀書單
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 73%
-1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 2%
+1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
+1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
+1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
+1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
+1. [向上管理・向下管理：埋頭苦幹沒人理，出人頭地有策略，承上啟下、左右逢源的職場聖典 by Roberta Chinsky Matuson](https://www.kobo.com/tw/zh/ebook/jIK854aPpD2JJqw_2ehS2Q) / 1%
+1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
+1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
+1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
+1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
+1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
+1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
+1. [刻意練習的力量 | 大師輕鬆讀 NO.644](https://www.kobo.com/tw/zh/ebook/no-644) / 1%
+1. [刻意練習：原創者全面解析，比天賦更關你拿什麼衡量自己的人生鍵的學習法 by Anders Ericsson, Robert Pool](http://www.books.com.tw/products/0010752714) / 1%
+1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
+1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 2%
 1. [教你用手機也能拍出日系唯美的夢幻人像：幸福照相館 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
-1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 1%
@@ -47,13 +61,11 @@
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
-1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
 1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 5%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
 1. [與父母和解，療癒每段關係裡的不完美 by 許皓宜](https://www.taaze.tw/goods/11100734550.html) / 13%
 1. [經濟自然學 (10 週年暢銷經典新版) by Robert H. Frank](https://www.kobo.com/tw/zh/ebook/qYO0Vg5SOjWPdsRnA98ouw) / 1%
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
-1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [這不是我們做事的方法！：組織的興起、殞落，再崛起 by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/cy5S2XGscjav9wINg-rPZQ) / 1%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
 1. [資訊戰爭：入侵政府網站、竊取國家機密、假造新聞影響選局，網路已成為繼原子彈發明後最危險的完美武器 by David E. Sanger](https://www.kobo.com/tw/zh/ebook/0zZ93SY2lDyCLnu3ScQRKQ) / 0%
@@ -85,7 +97,6 @@
 1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
 1. [EPUB 入門指南 by 張凱慶](https://www.kobo.com/tw/en/ebook/epub-27) / 1%
 1. [祕密 (The Secret) by Rhonda Byrne](https://www.taaze.tw/goods/11100019354.html) / 1%
-1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
 1. [圖解日本風俗 by 新谷尚紀](https://www.taaze.tw/usedList.html?oid=11100803100) / 2%
@@ -100,7 +111,6 @@
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
-1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
 1. [DevOps 最佳實踐 by Bart de Best](https://www.amazon.cn/gp/product/B07KBZS1YN/) / 1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
@@ -154,8 +164,6 @@
 1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
 1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
 1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法 by 張國洋, 姚詩豪](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
-1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
-1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
@@ -165,20 +173,13 @@
 1. [怦然心動的人生整理魔法２：實踐篇、解惑篇 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/3241f933-1cff-4563-a2ee-68912445fb0d) / 1%
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
 1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by Jane B. Burka、Lenora M. Yuen](https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
-1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
 1. [與成功有約 by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
-1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
-1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
-1. [刻意練習的力量 | 大師輕鬆讀 NO.644](https://www.kobo.com/tw/zh/ebook/no-644) / 1%
-1. [刻意練習：原創者全面解析，比天賦更關你拿什麼衡量自己的人生鍵的學習法 by Anders Ericsson, Robert Pool](http://www.books.com.tw/products/0010752714) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
 1. [原則：生活和工作 by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
 1. [大師的刻意練習：20 世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法 by James Francis Cooke](https://readmoo.com/book/210116244000101) / 1%
 1. [師父：那些我在課堂外學會的本事 (The Knack: How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up) by Norm Brodsky, Bo Burlingham](https://www.books.com.tw/products/0010705054) / 1%
 1. [日本腦力錦標賽五冠王「超高效記憶術」：3 循環反覆速習法╳1 分鐘速寫，無關天分與年齡，記憶大量資訊隨時開始！ by 池田義博](https://www.kobo.com/tw/en/ebook/-QWyGmFefz2yiPTz00DOdw) / 1%
 1. [Deep Work 深度工作力: 淺薄時代，個人成功的關鍵能力 (Deep Work: Rules for Focused Success in a Distracted World) by Cal Newport](https://play.google.com/store/books/details/%E5%8D%A1%E7%88%BE_%E7%B4%90%E6%B3%A2%E7%89%B9_Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B?id=c_sxDwAAQBAJ) / 1%
-1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
-1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [極度專注 | 大師輕鬆讀 NO.703](https://www.kobo.com/tw/zh/ebook/no-703) / 2%
 1. [極度專注力：打造高績效的聰明工作法 by Chris Bailey](https://www.kobo.com/tw/zh/ebook/6320b93e-419b-4404-8338-895c5a081e5c) / 1%
 1. [專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵 (Focus: The Hidden Driver of Excellence) by Daniel Goleman](http://www.books.com.tw/products/0010631218) / 1%
