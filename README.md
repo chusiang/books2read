@@ -259,6 +259,7 @@
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [網站可靠性工程：Google 的系統管理之道 (Site Reliability Engineering: How Google Runs Production Systems) by Betsy Beyer, Jennifer Petoff, Chris Jone](https://www.tenlong.com.tw/products/9789864766253) / 1%
+1. [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264) / 3%
 1. [資訊架構學, 4/e (Information Architecture: For the Web and Beyond, 4/e) by Louis Rosenfeld, Peter Morville, Jorge Arango](https://www.tenlong.com.tw/products/9789864766734) / 1%
 1. [資安風險評估指南 (Network Security Assessment, 3/e) by Chris McNab](https://www.tenlong.com.tw/products/9789864765478) / 1%
 1. [TED X 邏輯思維 | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201710240002) / 1%
@@ -343,45 +344,44 @@
 1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization) by Susan J. Fowler](https://www.tenlong.com.tw/products/9789864764433) / 1%
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age) by Paul Graham](https://www.tenlong.com.tw/items/9867794699) / 1%
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197) / 0%
-1. [深入淺出 Python (Head First Python)](http://www.tenlong.com.tw/items/9862763485) / 2%
+1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
+1. [GNU Make 專案開發工具 (3/e) by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [Python 網絡爬蟲權威指南 (2/e) by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
-1. [Selenium 2 自動化測試實戰—基於 Python 語言](https://www.tenlong.com.tw/products/9787121278532) / 1%
-1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development)](https://www.tenlong.com.tw/products/9789864762859) / 1%
-1. [It's Django--用 Python 迅速打造 Web 應用](http://www.tenlong.com.tw/items/9863475467) / 4%
-1. [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) / 1%
-1. [王者歸來 : 自己動手寫網路爬蟲, 2/e](https://www.tenlong.com.tw/products/9789863793335) / 0%
-1. [大話重構](http://www.tenlong.com.tw/items/9864340468) / 1%
-1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code)](https://www.tenlong.com.tw/items/9863475696) / 1%
-1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages)](http://www.tenlong.com.tw/items/9862767170) / 0%
-1. [GNU Make 專案開發工具 (3/e)](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
+1. [Selenium 2 自動化測試實戰—基於 Python 語言 by 蟲師](https://www.tenlong.com.tw/products/9787121278532) / 1%
+1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development) by Kenneth Reitz, Tanya Schlusser](https://www.tenlong.com.tw/products/9789864762859) / 1%
+1. [It's Django--用 Python 迅速打造 Web 應用 by 袁克倫、楊孟穎](http://www.tenlong.com.tw/items/9863475467) / 4% [出借中]
+1. [Learn Vimscript the Hard Way by Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) / 1%
+1. [大話重構 by 范鋼](http://www.tenlong.com.tw/items/9864340468) / 1%
+1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code) by Pete Goodliffe](https://www.tenlong.com.tw/items/9863475696) / 1%
+1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages) by Federico Biancuzzi, Shane Warden](http://www.tenlong.com.tw/items/9862767170) / 0%
 1. [顧爸媽，這樣做最安心：15 項迷思 ╳ 18 種常見老年病 ╳ 25 則日常伴老須知，台大老年醫學權威詹鼎正親自解惑 by 詹鼎正](https://www.kobo.com/tw/zh/ebook/5AuNAebKADOYt4aJ5QjZkg) / 1%
-1. [深度匯談](http://www.books.com.tw/products/0010167210) / 1%
+1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
-1. [[輕小說] 前進吧！！高捷少女：禮贈](http://www.bookwalker.com.tw/product/8550) / 1%
-1. [[輕小說] 前進吧！！高捷少女：日常](http://www.bookwalker.com.tw/product/8953) / 1%
-1. [[輕小說] 前進吧！！高捷少女：音躍](http://www.bookwalker.com.tw/product/8954) / 1%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
-1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising)](https://www.tenlong.com.tw/products/9789863981503) / 1%
-1. [給網管人的 Postfix 建置與維護指南](https://www.tenlong.com.tw/products/9789866348365) / 1%
-1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程](https://www.tenlong.com.tw/products/9789864341757) / 0%
-1. [OpenStack 運維指南](https://www.tenlong.com.tw/products/9787115397911) / 1%
-1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
-1. [網管員面試寶典](https://www.tenlong.com.tw/products/9787121065231) / 1%
-1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌](https://www.tenlong.com.tw/products/9789869392112) / 0%
+1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
+1. [給網管人的 Postfix 建置與維護指南 by 臥龍小三](https://www.tenlong.com.tw/products/9789866348365) / 1%
+1. [OpenStack 運維指南 by Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein](https://www.tenlong.com.tw/products/9787115397911) / 1%
+1. [網管員面試寶典 by 王達](https://www.tenlong.com.tw/products/9787121065231) / 1%
+1. [可以善良，但你要有底線不當好人：人際關係斷・捨・離，勉強自己和別人好，不如找人真心對你好 by 午堂登紀雄](https://play.google.com/store/books/details?id=u7hTDwAAQBAJ) / 1%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 1. [汽車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_汽車防禦駕駛手冊_新編?id=qz83DwAAQBAJ) / 1%
-1. [可以善良，但你要有底線不當好人：人際關係斷・捨・離，勉強自己和別人好，不如找人真心對你好 by 午堂登紀雄](https://play.google.com/store/books/details?id=u7hTDwAAQBAJ) / 1%
 1. [Windows 10 究極攻略！升級、設定、優化、問題排除，高手活用技巧速學實戰【地表最強進化版】by PCuSER 研究室](https://www.kobo.com/tw/zh/ebook/windows-10-19) / 1%
-1. ~~ [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264) / 3% ~~
+1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程 by 秋聲，黃志堅](https://www.tenlong.com.tw/products/9789864341757) / 0%
+1. [王者歸來：自己動手寫網路爬蟲 (2/e) by 羅剛、王振東](https://www.tenlong.com.tw/products/9789863793335) / 0%
+1. [精通 Linux (How Linux Works) by Brian Ward](http://www.tenlong.com.tw/items/711539492X) / 0%
+1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌 by 徐明星、劉勇、段新星、郭大治](https://www.tenlong.com.tw/products/9789869392112) / 0%
+1. ~~ [Jenkins 權威指南 by John Ferguson Smart](https://www.tenlong.com.tw/items/7121299062) / 1% ~~
+1. ~~ [Unix 與 Linux 自動化管理 by Kirk Bauer](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1% ~~
-1. ~~ [Jenkins 權威指南](https://www.tenlong.com.tw/items/7121299062) / 1% ~~
-1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術](http://www.tenlong.com.tw/items/7302433909) / 38% ~~
-1. ~~ [入門 Chef Solo - Infrastructure as Code](http://tatsu-zine.com/books/chef-solo) / 1% ~~
-1. ~~ [Unix 與 Linux 自動化管理](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
-1. ~~ [精通 Linux (How Linux Works)](http://www.tenlong.com.tw/items/711539492X) / 0% ~~
-1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術 by Mischa Taylor, Seth Vargo](http://www.tenlong.com.tw/items/7302433909) / 38% ~~
+1. ~~ [入門 Chef Solo - Infrastructure as Code by 伊藤直也](http://tatsu-zine.com/books/chef-solo) / 1% ~~
+1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成 by 劉至浩, 孫以陶](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
+1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
+1. [[輕小說] 前進吧！！高捷少女：日常 by 啞鳴](http://www.bookwalker.com.tw/product/8953) / 1%
+1. [[輕小說] 前進吧！！高捷少女：音躍 by 陽炎](http://www.bookwalker.com.tw/product/8954) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
@@ -405,14 +405,14 @@
 1. [[輕小說] 將夜 (05) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 1. [[輕小說] 將夜 (06) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 1. [[輕小說] GOBLIN SLAYER! 哥布林殺手外傳 第一年](https://www.kobo.com/tw/zh/ebook/1135e90a-1389-469c-8dd5-ee9132c8e8e5) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01)](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02)](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (03)](https://play.google.com/store/books/details?id=XnguDwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (04)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_04?id=C-YvDwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (05)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_05?id=3co_DwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_06?id=ua1oDwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_07?id=GTWEDwAAQBAJ) / 1%
-1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08)](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_08?id=CoOYDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (01) by 蝸牛くも](https://play.google.com/store/books/details?id=o3EtDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (02) by 蝸牛くも](https://play.google.com/store/books/details?id=jiUuDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (03) by 蝸牛くも](https://play.google.com/store/books/details?id=XnguDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (04) by 蝸牛くも](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_04?id=C-YvDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (05) by 蝸牛くも](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_05?id=3co_DwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (06) by 蝸牛くも](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_06?id=ua1oDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (07) by 蝸牛くも](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_07?id=GTWEDwAAQBAJ) / 1%
+1. [[輕小說] GOBLIN SLAYER! 哥布林殺手 (08) by 蝸牛くも](https://play.google.com/store/books/details/蝸牛くも_GOBLIN_SLAYER_哥布林殺手_08?id=CoOYDwAAQBAJ) / 1%
 1. [[輕小說] 惡魔高校 D×D (01) - 舊校舍的惡魔 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/644197d3-7465-404d-9c0f-c904b4d56979) / 1%
 1. [[輕小說] 惡魔高校 D×D (02) - 戰鬥校舍的不死鳥 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/fd5a73e4-ebe7-48cd-acbe-c5ce59b58193) / 1%
 1. [[輕小說] 惡魔高校 D×D (03) - 月光校園的王者之劍 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/0197b55b-c816-4635-96f7-6f301b9fdf2a) / 1%
