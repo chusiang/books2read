@@ -280,7 +280,7 @@
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！ by 陳建村](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [用戶故事與敏捷方法 by Mike Cohn](https://www.tenlong.com.tw/products/9787302223405) / 1%
 1. [使用者故事對照 (User Story Mapping: Discover the Whole Story, Build the Right Product)](https://www.tenlong.com.tw/products/9789863479468) / 1%
-1. [蘋果官方訓練教材：iMovie](https://www.tenlong.com.tw/products/9789863756781) / 1%
+1. [蘋果官方訓練教材：iMovie by Dion Scoppettuolo](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！ by 陳茂雄, 林文琇](http://www.books.com.tw/products/0010694726) / 1%
 1. [脆弱的力量 by Brené Brown](https://play.google.com/store/books/details?id=-RiUDwAAQBAJ) / 1%
@@ -306,7 +306,7 @@
 1. [Docker 錦囊妙計 (Docker Cookbook) by Sébastien Goasguen](http://www.tenlong.com.tw/items/9864760807) / 21%
 1. [Kubernetes 錦囊妙計 (Kubernetes Cookbook : Building Cloud Native Applications) by Sébastien Goasguen , Michael Hausenblas](https://www.tenlong.com.tw/products/9789864769216) / 1%
 1. [Kubernetes in Action (簡體中文版) by 七牛容器雲團隊](https://www.tenlong.com.tw/products/9787121349959) / 1%
-1. [引導反思的第一本書](http://www.books.com.tw/products/0010618831) /1%
+1. [引導反思的第一本書 (2/e) by 吳兆田](https://www.kingstone.com.tw/basic/2015214072567/) / 1%
 1. [遊戲人生：有效有趣的破冰遊戲 by 楊田林](http://www.books.com.tw/products/0010651863) / 1%
 1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？ by Gillian Tett](http://www.books.com.tw/products/0010703860) / 1%
 1. [獨角獸與牠的產地：矽谷新創公司歷險記 by Dan Lyons](http://www.books.com.tw/products/0010757639) / 1%
@@ -323,7 +323,7 @@
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture) by Diomidis Spinellis, Georgios Gousios](https://www.tenlong.com.tw/products/9789862763988) / 1%
 1. [軟件架構師的 12 項修煉 (技術技能篇) by Dave Hendricksen](https://www.tenlong.com.tw/products/9787111506980) /1%
 1. [CI (Continuous integration) 關鍵技術—使用 Jenkins by 邱炫儒](http://www.tenlong.com.tw/items/9862768606) / 80%
-1. [精通 Shell Scripting (lassic Shell Scripting)](http://www.oreilly.com.tw/product2_unix.php) / 1%
+1. [精通 Shell Scripting (lassic Shell Scripting) by Arnold Robbins, Nelson H.F. Beebe](http://www.eslite.com/product.aspx?pgid=1001133101663648) / 1%
 1. [精通 Vi 與 Vim by Arnold Robbins, Elbert Hannah, Linda Lamb](https://www.tenlong.com.tw/products/9789866840326) / 70%
 1. [Vim 實用技巧 (Practical Vim: Edit Text at the Speed of Thought) by Drew Neil](http://www.tenlong.com.tw/items/7115338698) / 1%
 1. [版本控制使用 Git by Jon Loeliger](http://books.gotop.com.tw/OreillyBooks/BookDetails.aspx?Types=d&bn=A302) / 80%
@@ -337,13 +337,13 @@
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think) by Andy Oram, John Viega](https://www.tenlong.com.tw/products/9789862764213) / 1%
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software) by Tim Riley, Adam Goucher](https://www.tenlong.com.tw/products/9789862763445) / 1%
 1. [Infrastructure as Code: Managing Servers in the Cloud by Kief Morris](https://www.tenlong.com.tw/products/9781491924358) / 1%
-1. [DevOps in Practice](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
+1. [DevOps in Practice by Danilo Sato](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
 1. [誰說我們不能一起做決定：參與式決策引導寶典 by Sam Kaner](https://www.taaze.tw/sing.html) / 0%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook) by Michael Lopp](http://www.tenlong.com.tw/items/9862765771) / 40%
 1. [搜尋模式 (Search Patterns: Design for Discovery) by Peter Morville, Jeffery Callender](http://www.tenlong.com.tw/items/9862763116) / 1%
 1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization) by Susan J. Fowler](https://www.tenlong.com.tw/products/9789864764433) / 1%
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age) by Paul Graham](https://www.tenlong.com.tw/items/9867794699) / 1%
-1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code)](http://www.tenlong.com.tw/items/9862767197) / 0%
+1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) by Dustin Boswell, Trevor Foucher](http://www.tenlong.com.tw/items/9862767197) / 0%
 1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [GNU Make 專案開發工具 (3/e) by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [Python 網絡爬蟲權威指南 (2/e) by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
@@ -357,8 +357,8 @@
 1. [顧爸媽，這樣做最安心：15 項迷思 ╳ 18 種常見老年病 ╳ 25 則日常伴老須知，台大老年醫學權威詹鼎正親自解惑 by 詹鼎正](https://www.kobo.com/tw/zh/ebook/5AuNAebKADOYt4aJ5QjZkg) / 1%
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
-1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e](http://www.books.com.tw/products/0010356928) / ?%
-1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器](http://www.books.com.tw/products/0010528294) / 1%
+1. [鳥哥的 Linux 私房菜伺服器架設篇 (2/e) by 鳥哥](https://share.readmoo.com/book/538753) / ?%
+1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](http://www.books.com.tw/products/0010528294) / 1%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南 by 臥龍小三](https://www.tenlong.com.tw/products/9789866348365) / 1%
 1. [OpenStack 運維指南 by Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein](https://www.tenlong.com.tw/products/9787115397911) / 1%
@@ -558,10 +558,10 @@
 1. [鳳凰項目 (沙盤特別版)：一個 IT 運維的傳奇故事](http://www.ibestpractice.org/index.php?m=content&c=index&a=show&catid=14&id=62) / 100%
 1. [砍掉重練：30 歲開始也不遲的工作術](http://www.books.com.tw/products/0010668495) / 100%
 1. [DevOps 故障排除 － Linux 伺服器運維最佳實踐 (DevOps Troubleshooting: Linux Server Best Practices)](http://m.sanmin.com.tw/product/index/004504779) / 100%
-1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則](https://www.tenlong.com.tw/products/9789862419250) / 100%
-1. [戰爭遊戲](http://www.books.com.tw/products/0010581224) / 100%
+1. [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則 by Patrick Lencioni](https://www.tenlong.com.tw/products/9789862419250) / 100%
+1. [戰爭遊戲 by Orson Scott Card](http://www.books.com.tw/products/0010581224) / 100%
 1. [敏捷與 Scrum 軟體開發速成 (The Elements of Scrum)](https://www.tenlong.com.tw/products/9789864340538) / 100%
-1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow)](http://www.books.com.tw/products/0010683723) / 100%
+1. [戰爭遊戲外傳：安德闇影 (Ender's Shadow) by Orson Scott Card](http://www.books.com.tw/products/0010683723) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 (1): 艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (01) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/Y26lgU3uFTy3vk8Rd96nGA) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (02) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/xLl993PEXTCKptMYDBlzeQ) / 100%
