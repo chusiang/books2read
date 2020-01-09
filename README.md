@@ -14,9 +14,10 @@
 
 ## 待讀書單
 
+1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
+1. [峰與谷：超越逆境、享受順境的人生禮物 by Spencer Johnson, M.D.](https://www.taaze.tw/goods/11309332213.html) / 1%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
-1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 2%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 1%
@@ -202,6 +203,7 @@
 1. [Ansible：建置與執行, 2/e (Ansible: Up and Running - Automating Configuration Management and Deployment the Easy Way, 2/e) by Lorin Hochstein, Rene Moser](https://www.tenlong.com.tw/products/9789864768264) / 1%
 1. [魔術般的 Ansible：一鍵安裝數百軟體於數千電腦 by 史晶晶](https://www.tenlong.com.tw/products/9789863795759) / 8%
 1. [Ansible 徹底入門：雲端時代的組態管理 by 廣川英壽, 平初, 橋本直哉, 森田邦裕, 渡辺一宏](https://www.tenlong.com.tw/products/9789864766406) / 8%
+1. [Practical Network Automation 中文版：使用 Python、Powershell、Ansible 實踐網路自動化 (Practical Network Automation: Leverage the power of Python and Ansible to optimize your network) by Abhishek Ratan](https://www.tenlong.com.tw/products/9789865020484) / 1%
 1. [內向心理學：享受一個人的空間，安靜地發揮影響力，內向者也能在外向的世界嶄露鋒芒！ by Marti Olsen Laney](https://play.google.com/store/books/details?id=bi9pDwAAQBAJ) / 1%
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
 1. [Linux Kernel Hacks：改善效能, 提昇開發效率及節能的技巧與工具 by 池田宗広, 大岩尚宏, 島本裕志, 竹部晶雄, 平松雅巳](https://books.google.com.tw/books?id=aMSuoQEACAAJ) / 1%
