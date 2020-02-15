@@ -95,6 +95,11 @@
 ### 2020
 
 1. 在地下城尋求邂逅是否搞錯了什麼 - 琉外傳 (6) by 大森藤ノ, 桃山ひなせ / 100%
+1. 機動戰士 V 鋼彈外傳 by 矢立肇、富野由悠季、長谷川裕一 / 100%
+1. [Sword Art Online 刀劍神域 ─虛空幻界─ (1) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/5a15bc53-e84e-4d81-8efa-5b32e2869d2d) / 100%
+1. [Sword Art Online 刀劍神域 ─虛空幻界─ (2) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/77092e54-9d8a-407a-935a-871f2dd17e65) / 100%
+1. [Sword Art Online 刀劍神域 ─虛空幻界─ (3) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/65006d4f-c609-474a-98c1-a189092b3c4e) / 100%
+1. [Sword Art Online 刀劍神域 ─虛空幻界─ (4) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/3f974062-ff44-4f7b-90d2-cf81171f8fd7) / 100%
 
 ### 2019
 
