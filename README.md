@@ -527,7 +527,7 @@
 1. [給兒子的 18 堂商業思維課 by 林明樟、林承勳](https://www.kobo.com/tw/zh/ebook/DYXi2yGDHjOs5UkCJTVEzQ) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (14) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/nIw6p1p7JTGGq9mwVVo1uA) / 100%
 1. [解答之書：專屬於你的人生答案 (The Book of Answers) by Carol Bolt](http://www.eslite.com/product.aspx?pgid=1001119732726161) / 100%
-1. [[輕小說] Sword Art Online 刀劍神域 (1): 艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 200%
+1. [[輕小說] Sword Art Online 刀劍神域 (1)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 200%
 
 ### 2018
 
