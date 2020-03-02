@@ -33,6 +33,7 @@
 1. [教你用手機也能拍出日系唯美的夢幻人像：幸福照相館 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
+1. [我要準時下班 by 朱野歸子](https://www.kobo.com/tw/zh/ebook/LCfCAoDlPDilvC9d_QU0gg) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (5)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_5?id=4WorDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (6)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_6?id=FEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (7)：聖母聖詠 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_7?id=IkM1DwAAQBAJ) / 1%
@@ -70,6 +71,7 @@
 1. [晉陞成 HTTP 一代宗師：用 java 實作 by 肖佳](https://www.tenlong.com.tw/products/9789863797388) / 1%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e by Richard M. Stallman](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [我用打工學習這個世界：有關挫折、辛酸、老闆、現實社會，以及工作的 27 種樣貌 by 黃海樹](https://www.kobo.com/tw/en/ebook/5mk9TfBN7zWPpCfqDMi-4g) / 1%
+1. [大器可以晚成：當世界沉迷年少得志，耐心是你成功的本事 by Rich Karlgaard](https://www.kobo.com/tw/zh/ebook/OMPfFss3uTu5VEcQ2NE2ug) / 1%
 1. [大人的社會課：從阻撓議事到邊際效應，搞懂世界的真實運作 by 劉炯朗](https://www.kobo.com/tw/zh/ebook/tZa4KHDpfD69Ut1E_cd8Ig) / 1%
 1. [終結腦疲勞！台大醫師的高效三力自癒法 by 張立人](https://www.kobo.com/tw/en/ebook/ZFjcqUZDLDirfFhpkXm2Vw) / 1%
 1. [一流工作者都在用的待辦清單 by Damon Zahariades](https://www.kobo.com/tw/en/ebook/zJm3d4mpkzG1bKV6PZSEKQ) / 1%
