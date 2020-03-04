@@ -365,6 +365,7 @@
 1. [OpenStack 運維指南 by Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [網管員面試寶典 by 王達](https://www.tenlong.com.tw/products/9787121065231) / 1%
 1. [可以善良，但你要有底線不當好人：人際關係斷・捨・離，勉強自己和別人好，不如找人真心對你好 by 午堂登紀雄](https://play.google.com/store/books/details?id=u7hTDwAAQBAJ) / 1%
+1. [智謀過人的大謀略家：諸葛亮 by 羅志仲](https://www.kobo.com/tw/zh/ebook/6YYOi35pHjqhfrbJiwhEsg) / 1%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 1. [汽車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_汽車防禦駕駛手冊_新編?id=qz83DwAAQBAJ) / 1%
 1. [Windows 10 究極攻略！升級、設定、優化、問題排除，高手活用技巧速學實戰【地表最強進化版】by PCuSER 研究室](https://www.kobo.com/tw/zh/ebook/windows-10-19) / 1%
