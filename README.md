@@ -35,6 +35,7 @@
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
 1. [我要準時下班 by 朱野歸子](https://www.kobo.com/tw/zh/ebook/LCfCAoDlPDilvC9d_QU0gg) / 1%
+1. [解憂雜貨店 by 東野圭吾](https://www.kobo.com/tw/zh/ebook/lEENoE8QrzaIkcnT2CxI4Q) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (5)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_5?id=4WorDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (6)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_6?id=FEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (7)：聖母聖詠 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_7?id=IkM1DwAAQBAJ) / 1%
@@ -67,6 +68,7 @@
 1. [這不是我們做事的方法！：組織的興起、殞落，再崛起 by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/cy5S2XGscjav9wINg-rPZQ) / 1%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
 1. [資訊戰爭：入侵政府網站、竊取國家機密、假造新聞影響選局，網路已成為繼原子彈發明後最危險的完美武器 by David E. Sanger](https://www.kobo.com/tw/zh/ebook/0zZ93SY2lDyCLnu3ScQRKQ) / 0%
+1. [疫苗：兩種恐懼的拔河 by Eula Biss](https://www.kobo.com/tw/zh/ebook/qXejG-JOcTWOdeEJGDskGg) / 1%
 1. [獨家揭密：那些大型企業確保 IT 系統正常運作的奧密 by 陳紹英, 周志龍, 金成姬](https://www.tenlong.com.tw/products/9789863797128) / 1%
 1. [全棧性能測試修煉寶典：JMeter 實戰 by 陳志勇, 馬利偉,萬龍](https://www.tenlong.com.tw/products/9787115437228) / 1%
 1. [晉陞成 HTTP 一代宗師：用 java 實作 by 肖佳](https://www.tenlong.com.tw/products/9789863797388) / 1%
@@ -78,9 +80,10 @@
 1. [一流工作者都在用的待辦清單 by Damon Zahariades](https://www.kobo.com/tw/en/ebook/zJm3d4mpkzG1bKV6PZSEKQ) / 1%
 1. [打火哥的 30 堂烈焰求生課：第一線熱血消防員親授關鍵保命絕招，破解火場迷思 by 蔡宗翰](https://www.kobo.com/tw/zh/ebook/FGHGWHuYADqXfdx5gteZ0A) / 1%
 1. [戀戀南極 by 耿婕容](https://www.books.com.tw/products/0010477750) / 23%
-1. [永久檔案 (Permanent Record) by Edward Snowden](https://www.kobo.com/tw/zh/ebook/uoWFqH14NDyC40H4hITjKg) / 1%
 1. [Just for Fun：Linux 創始人托瓦茲自傳》by Linus Torvalds, David Diamond](http://www.eslite.com/product.aspx?pgid=1001129761345524) / 3%
 1. [Linux 創始人 - 極客之王 Linus Torvalds by 張樹聲, 陳斌, 朱國文](https://www.tenlong.com.tw/products/9789863795520) / 1%
+1. [創意電力公司：我如何打造皮克斯動畫 by Ed Catmull, Amy Wallace](https://www.kobo.com/tw/zh/ebook/pZdgz47iTjGksU461gR_7w) / 1%
+1. [永久檔案 (Permanent Record) by Edward Snowden](https://www.kobo.com/tw/zh/ebook/uoWFqH14NDyC40H4hITjKg) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
@@ -93,7 +96,6 @@
 1. [學習型學校 (上) －第五項修練教育篇 by Peter M. Senge](https://www.taaze.tw/goods/11100033314.html) / 1%
 1. [學習型學校 (下) －第五項修練教育篇 by Peter M. Senge](https://www.taaze.tw/goods/11100033315.html) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
-1. [系統動力學：理論與應用 by 屠益民、張良政 ](https://www.books.com.tw/products/0010467669) / 3%
 1. [EPUB 入門指南 by 張凱慶](https://www.kobo.com/tw/en/ebook/epub-27) / 1%
 1. [祕密 (The Secret) by Rhonda Byrne](https://www.taaze.tw/goods/11100019354.html) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
@@ -184,6 +186,7 @@
 1. [專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵 (Focus: The Hidden Driver of Excellence) by Daniel Goleman](http://www.books.com.tw/products/0010631218) / 1%
 1. [專注力，就是你的超能力：掌控自我、提升成績的 18 個學習武器 (自分を操る超集中力) by DaiGo](http://www.books.com.tw/products/0010755805) / 1%
 1. [五秒法則 by Mel Robbins](https://www.kobo.com/tw/zh/ebook/e81d8522-f414-430c-9652-fd5017dcb672) / 1%
+1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [溫伯格的軟體管理學 - 第 1 卷：系統化思考 (Quality Software Management, Volume 1: Systems Thinking) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
@@ -380,6 +383,7 @@
 1. ~~ [入門 Chef Solo - Infrastructure as Code by 伊藤直也](http://tatsu-zine.com/books/chef-solo) / 1% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成 by 劉至浩, 孫以陶](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
 1. [[輕小說] 前進吧！！高捷少女：日常 by 啞鳴](http://www.bookwalker.com.tw/product/8953) / 1%
@@ -532,6 +536,7 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (14) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/nIw6p1p7JTGGq9mwVVo1uA) / 100%
 1. [解答之書：專屬於你的人生答案 (The Book of Answers) by Carol Bolt](http://www.eslite.com/product.aspx?pgid=1001119732726161) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 (1)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 200%
+1. [系統動力學：理論與應用 by 屠益民、張良政](https://www.books.com.tw/products/0010467669) / 20%
 
 ### 2018
 
