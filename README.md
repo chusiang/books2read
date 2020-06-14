@@ -17,6 +17,7 @@
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 24%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
+1. [[奇幻小說] 龍族 (02)：五十個小孩與大法師費雷爾 by 李榮道](https://share.readmoo.com/book/478563) / 200%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
@@ -36,6 +37,16 @@
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
 1. [我要準時下班 by 朱野歸子](https://www.kobo.com/tw/zh/ebook/LCfCAoDlPDilvC9d_QU0gg) / 1%
 1. [解憂雜貨店 by 東野圭吾](https://www.kobo.com/tw/zh/ebook/lEENoE8QrzaIkcnT2CxI4Q) / 1%
+1. [[奇幻小說] 龍族 (03)：公牛與魔法劍 by 李榮道](https://share.readmoo.com/book/478560) / 200%
+1. [[奇幻小說] 龍族 (04)：復仇的黑手 by 李榮道](https://share.readmoo.com/book/478564) / 200%
+1. [[奇幻小說] 龍族 (05)：頂尖魔法師 by 李榮道](https://share.readmoo.com/book/478565) / 200%
+1. [[奇幻小說] 龍族 (06)：人類的武器 by 李榮道](https://share.readmoo.com/book/478566) / 200%
+1. [[奇幻小說] 龍族 (07)：星星給予仰望者光芒 by 李榮道](https://share.readmoo.com/book/478567) / 200%
+1. [[奇幻小說] 龍族 (08)：約定好的休息 by 李榮道](https://share.readmoo.com/book/478568) / 200%
+1. [[奇幻小說] 龍族 (09)：不祥的預言 by 李榮道](https://share.readmoo.com/book/478573) / 200%
+1. [[奇幻小說] 龍族 (10)：大法師的輓歌 by 李榮道](https://share.readmoo.com/book/478561) / 200%
+1. [[奇幻小說] 龍族 (11)：沒有正確答案的選擇 by 李榮道](https://share.readmoo.com/book/478569) / 200%
+1. [[奇幻小說] 龍族 (12)：朝夕陽飛翔的龍 by 李榮道](https://share.readmoo.com/book/478570) / 200%
 1. [[輕小說] Sword Art Online 刀劍神域 (5)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_5?id=4WorDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (6)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_6?id=FEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (7)：聖母聖詠 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_7?id=IkM1DwAAQBAJ) / 1%
@@ -479,6 +490,13 @@
 1. [[輕小說] WORLD TEACHER 異世界式教育特務 (5) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_05?id=_ZaZDwAAQBAJ) / 1%
 1. [[輕小說] WORLD TEACHER 異世界式教育特務 (6) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_06?id=B5eZDwAAQBAJ) / 1%
 1. [[輕小說] WORLD TEACHER 異世界式教育特務 (7) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_07?id=I5eZDwAAQBAJ) / 1%
+1. [[奇幻小說] 龍族Ⅱ - Future Walker (01)：消失詩人的追慕曲 by 李榮道](https://share.readmoo.com/book/265277) / 100%
+1. [[奇幻小說] 龍族Ⅱ - Future Walker (02)：詩人的歸還 by 李榮道](https://share.readmoo.com/book/265320) / 100%
+1. [[奇幻小說] 龍族Ⅱ - Future Walker (03)：影子不會自己行走 by 李榮道](https://share.readmoo.com/book/262625) / 100%
+1. [[奇幻小說] 龍族Ⅱ - Future Walker (04)：虛假之愛的真實 by 李榮道](https://share.readmoo.com/book/265349) / 100%
+1. [[奇幻小說] 龍族Ⅱ - Future Walker (05)：呼喚遺忘之事的聲音 by 李榮道](https://share.readmoo.com/book/265370) / 100%
+1. [[奇幻小說] 龍族Ⅱ - Future Walker (06)：時間的匠人 by 李榮道](https://share.readmoo.com/book/265393) / 100%
+1. [[奇幻小說] 龍族Ⅱ - Future Walker (07)：等待的海岸 by 李榮道](https://share.readmoo.com/book/265424) / 100%
 
 ## 已讀書單
 
@@ -490,6 +508,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (14) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/kmBHz9d_ZjWX-TdS5qyYpA) / 100%
+1. [[奇幻小說] 龍族 (01)：向太陽奔馳的馬 by 李榮道](https://share.readmoo.com/book/478562) / 300%
 
 ### 2019
 
