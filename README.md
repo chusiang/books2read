@@ -587,7 +587,7 @@
 
 1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780) / 100%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
-1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789863207146) / 100%
+1. [SCRUM : 用一半的時間 做兩倍的事 (SCRUM: The Art of Doing Twice the Work in Half the Time)](https://www.tenlong.com.tw/products/9789864794195) / 100%
 1. [軟件開發本質論：追求簡約、體現價值、逐步構建 (The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece)](https://www.tenlong.com.tw/products/9787115441102) / 100%
 1. [大人學選擇：成熟大人的獨立思考術 by 姚詩豪, 張國洋](http://www.books.com.tw/products/0010729881) / 100%
 1. [工作愈換愈好，得有這些本事](http://www.books.com.tw/products/0010733434) / 100%
