@@ -356,6 +356,7 @@
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software) by Tim Riley, Adam Goucher](https://www.tenlong.com.tw/products/9789862763445) / 1%
 1. [Infrastructure as Code: Managing Servers in the Cloud by Kief Morris](https://www.tenlong.com.tw/products/9781491924358) / 1%
 1. [DevOps in Practice by Danilo Sato](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
+1. [The Art of Business Value by Mark Schwartz](https://play.google.com/store/books/details/Mark_Schwartz_The_Art_of_Business_Value?id=gykhDgAAQBAJ) / 1%
 1. [誰說我們不能一起做決定：參與式決策引導寶典 by Sam Kaner](https://www.taaze.tw/sing.html) / 0%
 1. [Being Geek 晉身怪傑 | 軟體開發者職涯應變手冊 (Being Geek: The Software Developer's Career Handbook) by Michael Lopp](http://www.tenlong.com.tw/items/9862765771) / 40%
 1. [搜尋模式 (Search Patterns: Design for Discovery) by Peter Morville, Jeffery Callender](http://www.tenlong.com.tw/items/9862763116) / 1%
