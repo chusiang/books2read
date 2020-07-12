@@ -19,6 +19,7 @@
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [[奇幻小說] 龍族 (02)：五十個小孩與大法師費雷爾 by 李榮道](https://share.readmoo.com/book/478563) / 200%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
+1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [向上管理・向下管理：埋頭苦幹沒人理，出人頭地有策略，承上啟下、左右逢源的職場聖典 by Roberta Chinsky Matuson](https://www.kobo.com/tw/zh/ebook/jIK854aPpD2JJqw_2ehS2Q) / 1%
@@ -273,6 +274,7 @@
 1. [圖解 SCRUM 工作法 | 經理人 No.160](https://www.managertoday.com.tw/magazines/view/127485) / 2%
 1. [Scrum 敏捷開發術 | 大師輕鬆讀 NO.579](https://www.kobo.com/tw/zh/ebook/9ba42cb7-a6c1-4c26-807b-5b6a41952d5d)
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
+1. [SCRUM 敏捷實戰手冊：增強績效、放大成果、縮短決策流程 by J.J. Sutherland](https://www.kobo.com/tw/zh/ebook/scrum-38) / 1%
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [網站可靠性工程：Google 的系統管理之道 (Site Reliability Engineering: How Google Runs Production Systems) by Betsy Beyer, Jennifer Petoff, Chris Jone](https://www.tenlong.com.tw/products/9789864766253) / 1%
 1. [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264) / 3%
@@ -289,7 +291,7 @@
 1. [我的人生簡史 by Stephen Hawking](https://www.kobo.com/tw/zh/ebook/iywxA-PV3j-mhpMCn3nlIg) / 1%
 1. [貝佐斯傳 by Brad Stone](https://www.kobo.com/tw/zh/ebook/lGiR_DudRjqkAoDZ808Aig) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You) by Tim Clark , Alexander Osterwalder , Yves Pigneur](https://www.tenlong.com.tw/products/9789866613890) / 1%
-1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 1%
+1. [OGSM 打造高敏捷團隊 by 張敏敏](https://www.kobo.com/tw/zh/ebook/ogsm-1) / 1%
 1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners) by Daniel James Gullo](https://www.tenlong.com.tw/products/9789864763153) / 1%
 1. [原來你才是絆腳石：企業敏捷轉型失敗都是因為領導者，你做對了嗎？ by Jutta Eckstein, John Buck](https://www.tenlong.com.tw/products/9789864343140) / 1%
 1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 (Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust) by Ken Schwaber, Jeff Sutherland](https://www.tenlong.com.tw/products/9789862019542) / 1%
@@ -389,6 +391,8 @@
 1. [王者歸來：自己動手寫網路爬蟲 (2/e) by 羅剛、王振東](https://www.tenlong.com.tw/products/9789863793335) / 0%
 1. [精通 Linux (How Linux Works) by Brian Ward](http://www.tenlong.com.tw/items/711539492X) / 0%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌 by 徐明星、劉勇、段新星、郭大治](https://www.tenlong.com.tw/products/9789869392112) / 0%
+1. [眼球中央電視台 — 《華報》四月創刊號 by 動眼神經](https://www.kobo.com/tw/zh/ebook/og_uub6fzd-h1aqpf0ka1a) / 1%
+1. [眼球中央電視台 — 《華報》六月刊 by 動眼神經](https://www.kobo.com/tw/zh/ebook/mbfmbxsitz-luoybjwuwrq) / 1%
 1. ~~ [Jenkins 權威指南 by John Ferguson Smart](https://www.tenlong.com.tw/items/7121299062) / 1% ~~
 1. ~~ [Unix 與 Linux 自動化管理 by Kirk Bauer](http://www.drmaster.com.tw/Bookinfo.asp?BookID=OS20109) / 10% ~~
 1. ~~ [Rancher 實戰紅寶書](http://rancher.hidocker.io) / 1% ~~
