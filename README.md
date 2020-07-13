@@ -21,6 +21,7 @@
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
+1. [Google 地圖革命：從 Google 地圖、地球、街景到「精靈寶可夢 GO」的科技傳奇內幕 by Bill Kilday](https://www.kobo.com/tw/zh/ebook/google-google-go) / 1%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [向上管理・向下管理：埋頭苦幹沒人理，出人頭地有策略，承上啟下、左右逢源的職場聖典 by Roberta Chinsky Matuson](https://www.kobo.com/tw/zh/ebook/jIK854aPpD2JJqw_2ehS2Q) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
