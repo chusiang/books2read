@@ -14,6 +14,21 @@
 
 ## 待讀書單
 
+1. [[輕小說] 盾之勇者成名錄 (08) by アネコユサギ](https://play.google.com/store/books/details?id=9Cp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 92%
+1. [[輕小說] 盾之勇者成名錄 (09) by アネコユサギ]() / 1%
+1. [[輕小說] 盾之勇者成名錄 (10) by アネコユサギ](https://play.google.com/store/books/details?id=DCt8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (11) by アネコユサギ](https://play.google.com/store/books/details?id=4tOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (12) by アネコユサギ](https://play.google.com/store/books/details?id=5NOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (13) by アネコユサギ](https://play.google.com/store/books/details?id=4NOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (14) by アネコユサギ](https://play.google.com/store/books/details?id=oNOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (15) by アネコユサギ](https://play.google.com/store/books/details?id=3tOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (16) by アネコユサギ](https://play.google.com/store/books/details?id=1tOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (17) by アネコユサギ](https://play.google.com/store/books/details?id=ltOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (18) by アネコユサギ](https://play.google.com/store/books/details?id=2NOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (19) by アネコユサギ](https://play.google.com/store/books/details?id=9IKYDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (20) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_20?id=It62DwAAQBAJ) / 0%
+1. [[輕小說] 盾之勇者成名錄 (21) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_21?id=efrJDwAAQBAJ) / 0%
+1. [[輕小說] 盾之勇者成名錄 (22) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_22?id=P7_cDwAAQBAJ) / 0%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 24%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
@@ -515,6 +530,13 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (14) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/kmBHz9d_ZjWX-TdS5qyYpA) / 100%
 1. [[奇幻小說] 龍族 (01)：向太陽奔馳的馬 by 李榮道](https://share.readmoo.com/book/478562) / 300%
+1. [[輕小說] 盾之勇者成名錄 (01) by アネコユサギ](https://play.google.com/store/books/details?id=fip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (02) by アネコユサギ](https://play.google.com/store/books/details?id=oCp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (03) by アネコユサギ](https://play.google.com/store/books/details?id=0ip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (04) by アネコユサギ](https://play.google.com/store/books/details?id=1Cp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (05) by アネコユサギ](https://play.google.com/store/books/details?id=6Cp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (06) by アネコユサギ](https://play.google.com/store/books/details?id=7ip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (07) by アネコユサギ](https://play.google.com/store/books/details?id=8ip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 
 ### 2019
 
