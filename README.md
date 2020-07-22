@@ -14,9 +14,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] 盾之勇者成名錄 (08) by アネコユサギ](https://play.google.com/store/books/details?id=9Cp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 92%
-1. [[輕小說] 盾之勇者成名錄 (09) by アネコユサギ]() / 1%
-1. [[輕小說] 盾之勇者成名錄 (10) by アネコユサギ](https://play.google.com/store/books/details?id=DCt8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
+1. [[輕小說] 盾之勇者成名錄 (10) by アネコユサギ](https://play.google.com/store/books/details?id=DCt8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 69%
 1. [[輕小說] 盾之勇者成名錄 (11) by アネコユサギ](https://play.google.com/store/books/details?id=4tOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
 1. [[輕小說] 盾之勇者成名錄 (12) by アネコユサギ](https://play.google.com/store/books/details?id=5NOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
 1. [[輕小說] 盾之勇者成名錄 (13) by アネコユサギ](https://play.google.com/store/books/details?id=4NOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 1%
@@ -537,6 +535,8 @@
 1. [[輕小說] 盾之勇者成名錄 (05) by アネコユサギ](https://play.google.com/store/books/details?id=6Cp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 1. [[輕小說] 盾之勇者成名錄 (06) by アネコユサギ](https://play.google.com/store/books/details?id=7ip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 1. [[輕小說] 盾之勇者成名錄 (07) by アネコユサギ](https://play.google.com/store/books/details?id=8ip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (08) by アネコユサギ](https://play.google.com/store/books/details?id=9Cp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (09) by アネコユサギ](https://play.google.com/store/books/details?id=_Cp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 
 ### 2019
 
