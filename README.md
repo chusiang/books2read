@@ -20,6 +20,7 @@
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 24%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
+1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
 1. [[奇幻小說] 龍族 (02)：五十個小孩與大法師費雷爾 by 李榮道](https://share.readmoo.com/book/478563) / 200%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
