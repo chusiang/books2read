@@ -14,13 +14,13 @@
 
 ## 待讀書單
 
-1. [[輕小說] 盾之勇者成名錄 (20) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_20?id=It62DwAAQBAJ) / 2%
 1. [[輕小說] 盾之勇者成名錄 (21) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_21?id=efrJDwAAQBAJ) / 1%
 1. [[輕小說] 盾之勇者成名錄 (22) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_22?id=P7_cDwAAQBAJ) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 24%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
+1. [企鵝公路 by 森見登美彥](https://www.taaze.tw/usedList.html?oid=11100867094) / 1%
 1. [[奇幻小說] 龍族 (02)：五十個小孩與大法師費雷爾 by 李榮道](https://share.readmoo.com/book/478563) / 200%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
@@ -135,6 +135,8 @@
 1. [不懂這些，別想加薪 by 劉恭甫](https://www.kobo.com/tw/en/ebook/3666e01a-53d9-419c-9ab6-7efbe7b054cc) / 1%
 1. [Amazon 的人為什麼這麼厲害？：日本亞馬遜創始成員告訴你，他在貝佐斯身旁學到的高成長工作法。by 佐藤將之](https://www.taaze.tw/goods/11100867192.html) / 1%
 1. [破解問題的技術：日本思考研究所耗時２０年鉅著，99% 問題都可快速解決的四種思考秘技 by 今井繁之](https://www.taaze.tw/goods/11307898127.html) / 1%
+1. [金字塔原理：思考、寫作、解決問題的邏輯方法 by Barbara Minto](https://www.tenlong.com.tw/products/9789867889591) / 1%
+1. [邏輯思考的技術：寫作、簡報、解決問題的有效方法 by 照屋華子, 岡田惠子](https://www.taaze.tw/usedList.html?oid=11100155441) / 1%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
 1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
 1. [關鍵七秒，決定你的價值 by Catherine Molloy](https://www.kobo.com/tw/zh/ebook/0tmoe88zBjqAqYqoRJegMA) / 1%
@@ -215,6 +217,7 @@
 1. [Effective DevOps by Jennifer Davis, Ryn Daniels](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [Effective DevOps：使用 AWS 快速入門 by Nathaniel Felsen](https://www.books.com.tw/products/0010814249) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
+1. [敏捷大師精選 by Michael de la Maza, Cherie Silas](https://www.tenlong.com.tw/products/9789864344604) / 1%
 1. [德國一流大學教你數學家的 22 個思考工具 by Christian Hesse](https://www.kobo.com/tw/en/ebook/I41_BHy5XTufwF5C-C6SMA) / 1%
 1. [數學教你不犯錯 (上)：不落入線性思考、避免錯誤推論 by Jordan Ellenberg](https://www.kobo.com/tw/en/ebook/EW2lwlaIOz6Z5tUJvsHyOA) / 1%
 1. [數學教你不犯錯 (下)：搞定期望值、認清迴歸趨勢、弄懂存在性 by Jordan Ellenberg](https://www.kobo.com/tw/en/ebook/F-2F3TGp6TOf4bxuNquZHA) / 1%
@@ -239,6 +242,7 @@
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action) by Marcus Hammarberg, Joakim Sunden](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [精益开发实战：用看板管理大型項目 by Henrik Kniberg](https://www.tenlong.com.tw/products/9787115291776) / 1%
+1. [精實企業：高績效組織如何達成創新規模化 by Jez Humble](https://www.tenlong.com.tw/products/9789864762682) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e) by Ash Maurya](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [這一生，你想留下什麼？：史丹佛的 10 堂領導課 by John L. Hennessy](https://www.kobo.com/tw/zh/ebook/dcf4f90d-2713-4764-80e8-df426f69a1b9) / 1%
@@ -538,6 +542,7 @@
 1. [[輕小說] 盾之勇者成名錄 (17) by アネコユサギ](https://play.google.com/store/books/details?id=ltOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 1. [[輕小說] 盾之勇者成名錄 (18) by アネコユサギ](https://play.google.com/store/books/details?id=2NOFDwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 1. [[輕小說] 盾之勇者成名錄 (19) by アネコユサギ](https://play.google.com/store/books/details?id=9IKYDwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
+1. [[輕小說] 盾之勇者成名錄 (20) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_20?id=It62DwAAQBAJ) / 100%
 
 ### 2019
 
