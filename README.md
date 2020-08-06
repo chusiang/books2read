@@ -32,6 +32,7 @@
 1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
 1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
+1. [學習如何學習 by Barbara Oakley, Terrence Joseph Sejnowski, Alistair McConville](https://play.google.com/store/books/details/%E8%8A%AD%E8%8A%AD%E6%8B%89_%E6%AD%90%E5%85%8B%E8%8E%89_%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E5%AD%B8%E7%BF%92?id=6x-TDwAAQBAJ) / 1%
 1. [學會改變：戒除壞習慣、實現目標、影響他人的 9 大關鍵策略 by Chip Heath, Dan Heath](https://www.kobo.com/tw/zh/ebook/0ErtvHpAeT2INQJH25nJrg) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
@@ -95,6 +96,7 @@
 1. [大器可以晚成：當世界沉迷年少得志，耐心是你成功的本事 by Rich Karlgaard](https://www.kobo.com/tw/zh/ebook/OMPfFss3uTu5VEcQ2NE2ug) / 1%
 1. [大人的社會課：從阻撓議事到邊際效應，搞懂世界的真實運作 by 劉炯朗](https://www.kobo.com/tw/zh/ebook/tZa4KHDpfD69Ut1E_cd8Ig) / 1%
 1. [終結腦疲勞！台大醫師的高效三力自癒法 by 張立人](https://www.kobo.com/tw/en/ebook/ZFjcqUZDLDirfFhpkXm2Vw) / 1%
+1. [軟銀孫正義的核心工作術 PDCA by 三木雄信](https://play.google.com/store/books/details/%E4%B8%89%E6%9C%A8%E9%9B%84%E4%BF%A1_%E8%BB%9F%E9%8A%80%E5%AD%AB%E6%AD%A3%E7%BE%A9%E7%9A%84%E6%A0%B8%E5%BF%83%E5%B7%A5%E4%BD%9C%E8%A1%93PDCA?id=QR5bDwAAQBAJ) / 1%
 1. [一流工作者都在用的待辦清單 by Damon Zahariades](https://www.kobo.com/tw/en/ebook/zJm3d4mpkzG1bKV6PZSEKQ) / 1%
 1. [打火哥的 30 堂烈焰求生課：第一線熱血消防員親授關鍵保命絕招，破解火場迷思 by 蔡宗翰](https://www.kobo.com/tw/zh/ebook/FGHGWHuYADqXfdx5gteZ0A) / 1%
 1. [戀戀南極 by 耿婕容](https://www.books.com.tw/products/0010477750) / 23%
@@ -268,6 +270,7 @@
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）by 蔡康永](http://www.books.com.tw/products/0010643097) / 1%
 1. [蔡康永的說話之道 2 by 蔡康永](http://www.books.com.tw/products/0010632643) / 1%
+1. [雜談的能力：生活中想遇到好康、工作時想遠離爛事， 你得從不談正事的軟話題開始 by 速溶綜合研究所](https://play.google.com/store/books/details/%E9%80%9F%E6%BA%B6%E7%B6%9C%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80_%E9%9B%9C%E8%AB%87%E7%9A%84%E8%83%BD%E5%8A%9B_%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%83%B3%E9%81%87%E5%88%B0%E5%A5%BD%E5%BA%B7_%E5%B7%A5%E4%BD%9C%E6%99%82%E6%83%B3%E9%81%A0%E9%9B%A2%E7%88%9B%E4%BA%8B_%E4%BD%A0%E5%BE%97%E5%BE%9E%E4%B8%8D%E8%AB%87%E6%AD%A3%E4%BA%8B%E7%9A%84%E8%BB%9F%E8%A9%B1%E9%A1%8C%E9%96%8B%E5%A7%8B?id=I6uZDwAAQBAJ) / 1%
 1. [囧星人的人生百想妙答 by 囧星人](http://www.books.com.tw/products/0010765506) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [反脆弱 by Nassim Nicholas Taleb](https://www.kobo.com/tw/zh/ebook/1c388bc8-e428-4501-bdae-c3f478899356) / 1%
