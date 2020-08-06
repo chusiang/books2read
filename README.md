@@ -32,6 +32,7 @@
 1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
 1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
+1. [學會改變：戒除壞習慣、實現目標、影響他人的 9 大關鍵策略 by Chip Heath, Dan Heath](https://www.kobo.com/tw/zh/ebook/0ErtvHpAeT2INQJH25nJrg) / 1%
 1. [這樣學，成為天才：5 大階段、7 種心態，練就終生受用的創造力學習技術 by 趙炳鶴](http://www.books.com.tw/products/0010763877) / 1%
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
 1. [刻意練習的力量 | 大師輕鬆讀 NO.644](https://www.kobo.com/tw/zh/ebook/no-644) / 1%
