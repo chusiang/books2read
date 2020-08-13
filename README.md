@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 32%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 34%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
@@ -71,7 +72,6 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (19)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_19?id=bRFfDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (20)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_20?id=suZwDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (21): Unital ring Ⅰ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_21?id=UkGuDwAAQBAJ) / 0%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 7%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 1%
