@@ -14,7 +14,9 @@
 
 ## 待讀書單
 
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 32%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 2%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 34%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
@@ -72,11 +74,6 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (19)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_19?id=bRFfDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (20)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_20?id=suZwDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (21): Unital ring Ⅰ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_21?id=UkGuDwAAQBAJ) / 0%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
 1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 5%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
@@ -549,6 +546,9 @@
 1. [[輕小說] 盾之勇者成名錄 (21) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_21?id=efrJDwAAQBAJ) / 100%
 1. [[輕小說] 盾之勇者成名錄 (22) by アネコユサギ](https://play.google.com/store/books/details/%E3%82%A2%E3%83%8D%E3%82%B3%E3%83%A6%E3%82%B5%E3%82%AE_%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E9%8C%84_22?id=P7_cDwAAQBAJ) / 100%
 1. [元氣爆表！正能量企鵝 Koupen Chan](https://www.books.com.tw/products/0010818604) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 100%
 
 ### 2019
 
