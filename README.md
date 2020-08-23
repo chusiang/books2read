@@ -554,6 +554,9 @@
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (1) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-1-1) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (2) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-2-1) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (3) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-3-1) / 100%
+1. [企鵝 STYLE by 坂崎千春](https://www.cite.com.tw/book?id=6272) / 100%
+1. [企鵝 HEART by 坂崎千春](https://www.cite.com.tw/book?id=6377) / 100%
+1. [企鵝 JUMP by 坂崎千春](https://www.cite.com.tw/book?id=6513) / 100%
 
 ### 2019
 
