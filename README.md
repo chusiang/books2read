@@ -236,6 +236,7 @@
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
 1. [Linux Kernel Hacks：改善效能, 提昇開發效率及節能的技巧與工具 by 池田宗広, 大岩尚宏, 島本裕志, 竹部晶雄, 平松雅巳](https://books.google.com.tw/books?id=aMSuoQEACAAJ) / 1%
 1. [搞定！：工作效率大師教你，事情再多照樣做好的搞定 5 步驟 by Allen‧David](http://www.books.com.tw/products/0010731198) / 1%
+1. [完成：把不了了之的待辦目標變成以實現的有效練習 by Jon Acuff](https://www.kobo.com/tw/zh/ebook/759f4c92-c0cc-4b8a-8296-740bb1c55e97) / 1%
 1. [文案力 | 經理人月刊 No.162](https://www.kobo.com/tw/zh/book/e4070bf3-7009-432a-a71c-c46e16a176c8) / 1%
 1. [中階主管帶人學 | 經理人特刊 No.16](https://www.managertoday.com.tw/magazine/view/127566) / 1%
 1. [OKR 目標與關鍵成果法 | 大師輕鬆讀 No.679](https://www.kobo.com/tw/zh/book/46a6d0f6-4795-43e7-a311-23884349dbd7) / 1%
