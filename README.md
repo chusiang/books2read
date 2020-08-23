@@ -29,6 +29,7 @@
 1. [Google 地圖革命：從 Google 地圖、地球、街景到「精靈寶可夢 GO」的科技傳奇內幕 by Bill Kilday](https://www.kobo.com/tw/zh/ebook/google-google-go) / 1%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [動盪：國家如何化解危局、成功轉型？ by Jared Diamond](https://www.kobo.com/tw/zh/ebook/qLr1OoppfDKe0dfaeZ5HKw) / 1%
+1. [起床後的黃金 1 小時：揭開 64 位成功人士培養高效率的祕密時光，從他們的創意晨型活動中，建立屬於自己的高生產力、高抗壓生活習慣 by Benjamin Spall, Michael Xander](https://www.kobo.com/tw/zh/ebook/kW9AVCcdgzynezK86dZC6g) / 1%
 1. [死前斷捨離：讓親人少點負擔，給自己多點愉悅 by Margareta Magnusson](https://www.kobo.com/tw/zh/ebook/70vtobmBPjO9UydMvB4eKg) / 1%
 1. [向上管理・向下管理：埋頭苦幹沒人理，出人頭地有策略，承上啟下、左右逢源的職場聖典 by Roberta Chinsky Matuson](https://www.kobo.com/tw/zh/ebook/jIK854aPpD2JJqw_2ehS2Q) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
@@ -44,6 +45,7 @@
 1. [刻意練習：原創者全面解析，比天賦更關你拿什麼衡量自己的人生鍵的學習法 by Anders Ericsson, Robert Pool](http://www.books.com.tw/products/0010752714) / 1%
 1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
+1. [高績效心智：全新聰明工作學，讓你成為最厲害的 1% by Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/7c6dd02d-b6f4-415b-a686-1ad40773ad9d) / 1%
 1. [教你用手機也能拍出日系唯美的夢幻人像：幸福照相館 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
