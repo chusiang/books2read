@@ -28,6 +28,8 @@
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [Google 地圖革命：從 Google 地圖、地球、街景到「精靈寶可夢 GO」的科技傳奇內幕 by Bill Kilday](https://www.kobo.com/tw/zh/ebook/google-google-go) / 1%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
+1. [動盪：國家如何化解危局、成功轉型？ by Jared Diamond](https://www.kobo.com/tw/zh/ebook/qLr1OoppfDKe0dfaeZ5HKw) / 1%
+1. [死前斷捨離：讓親人少點負擔，給自己多點愉悅 by Margareta Magnusson](https://www.kobo.com/tw/zh/ebook/70vtobmBPjO9UydMvB4eKg) / 1%
 1. [向上管理・向下管理：埋頭苦幹沒人理，出人頭地有策略，承上啟下、左右逢源的職場聖典 by Roberta Chinsky Matuson](https://www.kobo.com/tw/zh/ebook/jIK854aPpD2JJqw_2ehS2Q) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
 1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
@@ -206,6 +208,7 @@
 1. [專注力，就是你的超能力：掌控自我、提升成績的 18 個學習武器 (自分を操る超集中力) by DaiGo](http://www.books.com.tw/products/0010755805) / 1%
 1. [五秒法則 by Mel Robbins](https://www.kobo.com/tw/zh/ebook/e81d8522-f414-430c-9652-fd5017dcb672) / 1%
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
+1. [管理學一定要懂的 10 個經典理論 | 經理人月刊 No.153](https://www.kobo.com/tw/zh/ebook/qfz9TkYDoDydIoaEUYzgYA) / 1%
 1. [溫伯格的軟體管理學 - 第 1 卷：系統化思考 (Quality Software Management, Volume 1: Systems Thinking) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
@@ -261,6 +264,7 @@
 1. [窮查理的智慧語錄 by David Clark](https://play.google.com/store/books/details?id=Ch9iDwAAQBAJ) / 1%
 1. [不當行為：行為經濟學之父教你更聰明的思考、理財、看世界 by Richard H. Thaler](https://www.kobo.com/tw/zh/ebook/0b43aedf-0eab-4af4-81f6-76632e944e05) / 1%
 1. [金錢心理學：打破你對金錢的迷思，學會聰明花費 by Dan Ariely, Jeff Kreisler](https://www.kobo.com/tw/zh/ebook/6875ede0-f00a-4466-bf50-6ec0055e5e62) / 1%
+1. [花掉的錢都會自己流回來 by Mentalist DaiGo](https://www.kobo.com/tw/zh/ebook/08945ac4-c69b-4b62-a6d3-e0359a29fc52) / 1%
 1. [關鍵行銷：消費心理學大師的 10 大黃金行銷課 by Adam Ferrier, Jennifer Fleming](https://play.google.com/store/books/details/亞當_費里爾_Adam_Ferrier_珍妮佛_佛萊明_Jennifer_Fleming_關鍵行銷?id=071mDwAAQBAJ) / 1%
 1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
@@ -320,6 +324,7 @@
 1. [Zabbix 監控系統深度實踐 (2/e) by 姚仁捷](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
 1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
+1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators) by Thomas A. Limoncelli](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用 (2/e) by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
