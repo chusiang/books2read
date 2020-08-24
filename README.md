@@ -154,6 +154,7 @@
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
 1. [快思慢想 - Thinking, Fast and Slow by Daniel Kahneman](https://www.kobo.com/tw/zh/ebook/0699a594-6684-4500-8648-92794a33477c) / 1%
 1. [窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
+1. [武士道 by 新渡戶稻造](https://www.kobo.com/tw/zh/ebook/QwuhSPmmRjGD6JF4nBD5CQ) / 1%
 1. [廁所裡的哲學課：每天 14 分鐘，跟著蘇格拉底、笛卡兒、尼采等 13 位世界哲人，秒懂 100 個最經典的哲學思維 by Adam Fletcher, Lukas N.P. Egger, Konrad Clever](https://www.kobo.com/tw/zh/ebook/nji1EmSQ2jiaBeHsRB9c9w) / 1%
 1. [江湖在走，法律要懂：法律白話文小學堂 by 法律白話文運動](https://www.kobo.com/tw/zh/ebook/0be5d1cb-b3d7-4a97-89e0-6481432a7209) / 1%
 1. [有錢人才知道的「精準閒聊」by 田口智隆](https://www.kobo.com/tw/zh/ebook/dba1a351-9d21-4c71-8193-886f5f75466a) / 1%
@@ -250,6 +251,7 @@
 1. [精實企業：高績效組織如何達成創新規模化 by Jez Humble](https://www.tenlong.com.tw/products/9789864762682) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e) by Ash Maurya](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
+1. [一人公司：為什麼小而美是未來企業發展的趨勢 by Paul Jarvis](https://www.kobo.com/tw/zh/ebook/46eb7cc8-f469-416a-97a0-248ac8142b37) / 1%
 1. [這一生，你想留下什麼？：史丹佛的 10 堂領導課 by John L. Hennessy](https://www.kobo.com/tw/zh/ebook/dcf4f90d-2713-4764-80e8-df426f69a1b9) / 1%
 1. [你拿什麼衡量自己的人生 | 大師輕鬆讀 NO.450](https://www.kobo.com/tw/zh/ebook/5364172a-3c5e-4796-a300-567e0ec988df) / 1%
 1. [你要如何衡量你的人生？：哈佛商學院最重要的一堂課 by Clayton M. Christensen, James Allworth, Karen Dillon](http://www.books.com.tw/products/0010763284) / 1%
@@ -262,6 +264,7 @@
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [打造圖像腦：學會擊敗 90% 職場競爭者的視覺思考工作術 by Dan Roam](https://www.kobo.com/tw/zh/ebook/64a0876d-972a-400e-a12d-5f0415fdb66a) / 1%
 1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
+1. [危機就是轉機：化危機為轉機的 55 條應變策略 by 盧文平](https://www.kobo.com/tw/zh/ebook/icz-ZFJL-jGzLQJ0w1DZRg/xshDbzQOuESDcHDU4mv0Cw) / 1%
 1. [但願你因工作而閃亮：「獵頭的日常」給你的求職真心提醒，盤點自身技能，放大個人優勢，擁抱那些令你不安的變化！ by 林沂萱](https://play.google.com/store/books/details?id=LWdNDwAAQBAJ) / 1%
 1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
 1. [窮查理的智慧語錄 by David Clark](https://play.google.com/store/books/details?id=Ch9iDwAAQBAJ) / 1%
@@ -329,6 +332,8 @@
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
 1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators) by Thomas A. Limoncelli](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
+1. [管理就像一齣戲：皇家莎士比亞劇團導演教你，完美扮演領導者，激發團隊創造力 by Piers Ibbotson](https://www.kobo.com/tw/zh/ebook/efkR8GT9tDOEUkLF_BrmsA) / 1%
+1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用 (2/e) by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e) by Jono Bacon](https://www.tenlong.com.tw/products/9789862766194) / 1%
@@ -349,7 +354,6 @@
 1. [惡行之外：警界的 31 個破案真相追擊 by 呂博](https://www.kobo.com/tw/zh/ebook/HeIAkzsCXzS3nAwV2AJ6ww) / 1%
 1. [行動 5.0：創造 5G 數位紅利 by 呂學錦](https://www.kobo.com/tw/zh/ebook/843ffa21-311c-4e11-9378-a7a5b009300f) / 1%
 1. [向下扎根！德國教育的公民思辨課 7－「過濾氣泡、假新聞與說謊媒體──我們如何避免被操弄？」：有自覺使用媒體的第一步 by Manfred Theisen](https://www.kobo.com/tw/zh/ebook/zrlTZr110jmSVDRgNn26Iw) / 1%
-1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [無瑕的程式碼－敏捷軟體開發技巧守則 (Clean Code: A Handbook of Agile Software Craftsmanship) by Robert C. Martin](https://www.tenlong.com.tw/products/9789862017050) / 1%
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers) by Robert C. Martin](https://www.tenlong.com.tw/products/9789862017883) / 1%
 1. [單元測試的藝術, 2/e (The Art of Unit Testing: with examples in C#, 2/e) by Roy Osherove](https://www.tenlong.com.tw/products/9789864342471) / 1%
