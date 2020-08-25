@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [為什麼老師會在這裡!? (5) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/t9z1fgyXTTOQVaCpawDxeg) / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
 1. [食戟之靈 (31) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/56207) / 0%
 1. [食戟之靈 (32) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/61845) / 0%
