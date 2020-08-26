@@ -131,6 +131,7 @@
 1. [故事課 1：3 分鐘說 18 萬個故事，打造影響力 by 許榮哲](https://play.google.com/store/books/details?id=ox6ODwAAQBAJ) / 1%
 1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
+1. [從 0 到 1：打開世界運作的未知祕密，在意想不到之處發現價值 by Peter Thiel, Blake Masters](https://www.kobo.com/tw/zh/ebook/6b75e7c0-2796-4229-b975-abf2f23a7fcf) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
@@ -526,6 +527,7 @@
 1. [[奇幻小說] 龍族Ⅱ - Future Walker (05)：呼喚遺忘之事的聲音 by 李榮道](https://share.readmoo.com/book/265370) / 100%
 1. [[奇幻小說] 龍族Ⅱ - Future Walker (06)：時間的匠人 by 李榮道](https://share.readmoo.com/book/265393) / 100%
 1. [[奇幻小說] 龍族Ⅱ - Future Walker (07)：等待的海岸 by 李榮道](https://share.readmoo.com/book/265424) / 100%
+1. [神經喚術士 by William Gibson](https://www.kobo.com/tw/zh/ebook/2287f07e-d27d-404f-920f-eba7691cd7d3) / 1%
 
 ## 已讀書單
 
