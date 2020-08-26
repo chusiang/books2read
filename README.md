@@ -145,6 +145,7 @@
 1. [圖解日本神社入門 by 櫻井治男](https://www.books.com.tw/products/0010732305) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
 1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
+1. [懶人圖解簡報術：把複雜知識變成一看就秒懂的圖解懶人包 by 林長揚](https://www.kobo.com/tw/zh/ebook/67bb5ef9-5a5c-4981-a97a-33978b9907da) / 1%
 1. [說理Ｉ：任何場合都能展現智慧、達成說服的語言技術 by Jay Heinrichs](https://www.kobo.com/tw/en/ebook/i-310/anCb0mRa6EGNSnpjHc3yNQ) / 1%
 1. [說理 Ⅱ：後真相時代穿透分歧、建立共識的思維技術 by Jay Heinrichs](https://www.kobo.com/tw/en/ebook/ii-236) / 1%
 1. [你的團隊需要一個會說故事的人：微軟、NASA 都在學的故事思維 by Annette Simmons](https://www.kobo.com/tw/zh/ebook/nasa-4) / 1%
