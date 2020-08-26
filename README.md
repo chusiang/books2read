@@ -143,6 +143,7 @@
 1. [邏輯思考的技術：寫作、簡報、解決問題的有效方法 by 照屋華子, 岡田惠子](https://www.taaze.tw/usedList.html?oid=11100155441) / 1%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
 1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
+1. [關鍵時刻：創造人生 1% 的完美瞬間，取代 99% 的平淡時刻 by Chip Heath, Dan Heath](https://www.kobo.com/tw/zh/ebook/JUvHwDuhCD2h2iM3NdZcLg/KkHZO-Sv6EKc0nwhlEhxeg) / 1%
 1. [關鍵七秒，決定你的價值 by Catherine Molloy](https://www.kobo.com/tw/zh/ebook/0tmoe88zBjqAqYqoRJegMA) / 1%
 1. [深度工作力 | 經理人 No.170](https://www.kobo.com/tw/zh/book/40dd2411-e107-47a0-acf5-610a90e0bdbe) / 1%
 1. [我們辦公室沒有人！管理大解放，自由工作團隊如何創造更高績效 by 權自強](https://www.kobo.com/tw/zh/ebook/5GG3h0eKsTaNb5pDdbdy5A) / 1%
@@ -406,6 +407,7 @@
 1. [OpenStack 運維指南 by Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [網管員面試寶典 by 王達](https://www.tenlong.com.tw/products/9787121065231) / 1%
 1. [可以善良，但你要有底線不當好人：人際關係斷・捨・離，勉強自己和別人好，不如找人真心對你好 by 午堂登紀雄](https://play.google.com/store/books/details?id=u7hTDwAAQBAJ) / 1%
+1. [別等到被欺負了才懂這些事：第一時間就做好衝突管理 by Bill Eddy, L. Georgi DiStefano](https://www.kobo.com/tw/zh/ebook/453effb9-27b3-4d26-b841-70dd55d5c6be) / 1%
 1. [智謀過人的大謀略家：諸葛亮 by 羅志仲](https://www.kobo.com/tw/zh/ebook/6YYOi35pHjqhfrbJiwhEsg) / 1%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 1. [汽車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_汽車防禦駕駛手冊_新編?id=qz83DwAAQBAJ) / 1%
