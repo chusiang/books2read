@@ -118,6 +118,25 @@
 1. [學習型學校 (上) －第五項修練教育篇 by Peter M. Senge](https://www.taaze.tw/goods/11100033314.html) / 1%
 1. [學習型學校 (下) －第五項修練教育篇 by Peter M. Senge](https://www.taaze.tw/goods/11100033315.html) / 1%
 1. [規模的規律和祕密 by Geoffrey West](https://www.kobo.com/tw/zh/ebook/41af08a4-7299-4bfa-8640-dc2b2f1e4cc2) / 1%
+1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
+1. [U 型理論精要：從「我」到「我們」的系統思考，個人修練、組織轉型的學習之旅 by C. Otto Scharmer](https://www.kobo.com/tw/zh/ebook/318fe778-0d95-4fe0-b024-987afd53620d) / 1%
+1. [智取：TOC 系統思考 3 法寶 by 中華高德拉特協會](https://www.kobo.com/tw/zh/ebook/thinking-smart-you-are-how-you-think-applying-theory-of-constraints-in-developing-thinking-skills) / 1%
+1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
+1. [目标 by Eliyahu Goldratt, Jeff Cox](https://www.tenlong.com.tw/products/9787121161483) / 1%
+1. [目标 Ⅱ：绝不是靠运气 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161476) / 1%
+1. [关键链 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161469) / 1%
+1. [仍然不足够 by Eliyahu Goldratt, Eli Schragenheim, Carol Ptak](https://www.tenlong.com.tw/products/9787121161438) / 1%
+1. [抉擇 (The Choice)](https://www.tenlong.com.tw/products/9787121255588) / 1%
+1. [醒悟 by Eliyahu M. Goldratt, Ilan Eshkoli, Joe BrownLeer](https://www.tenlong.com.tw/products/9787121255571) / 1%
+1. [持续改善：TOC 生产管理指南](https://www.books.com.tw/products/CN11193077) / 1%
+1. [解決問題最簡單的方法 by 渡邊健介](https://www.kobo.com/tw/zh/ebook/a69cad87-60e8-44d6-8900-f5fa2f7e56fe) / 1%
+1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
+1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
+1. [領導，不需要頭銜：如何讓奇葩怪傑為你效力？by Warren Bennis](https://www.taaze.tw/goods/11100158482.html) / 1%
+1. [可複製的領導力：300 萬付費會員推崇，樊登的九堂商業課 by 樊登](https://www.kobo.com/tw/zh/book/4d7b00d2-20d6-42ec-8b66-8a64bdd682aa) / 1%
+1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
+1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
+1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法 by 張國洋, 姚詩豪](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [EPUB 入門指南 by 張凱慶](https://www.kobo.com/tw/en/ebook/epub-27) / 1%
 1. [祕密 (The Secret) by Rhonda Byrne](https://www.taaze.tw/goods/11100019354.html) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
@@ -174,25 +193,6 @@
 1. [為什麼這樣工作會快、準、好 by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/dd9c0ac2-e8ad-4062-8f85-19c0cc015996) / 1%
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
-1. [系統思考：克服盲點、面對複雜性、見樹又見林的整體思考 (Thinking in Systems: A Primer) by Donella H. Meadows](https://www.tenlong.com.tw/products/9789866031793) / 1%
-1. [U 型理論精要：從「我」到「我們」的系統思考，個人修練、組織轉型的學習之旅 by C. Otto Scharmer](https://www.kobo.com/tw/zh/ebook/318fe778-0d95-4fe0-b024-987afd53620d) / 1%
-1. [智取：TOC 系統思考 3 法寶 by 中華高德拉特協會](https://www.kobo.com/tw/zh/ebook/thinking-smart-you-are-how-you-think-applying-theory-of-constraints-in-developing-thinking-skills) / 1%
-1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
-1. [目标 by Eliyahu Goldratt, Jeff Cox](https://www.tenlong.com.tw/products/9787121161483) / 1%
-1. [目标 Ⅱ：绝不是靠运气 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161476) / 1%
-1. [关键链 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161469) / 1%
-1. [仍然不足够 by Eliyahu Goldratt, Eli Schragenheim, Carol Ptak](https://www.tenlong.com.tw/products/9787121161438) / 1%
-1. [抉擇 (The Choice)](https://www.tenlong.com.tw/products/9787121255588) / 1%
-1. [醒悟 by Eliyahu M. Goldratt, Ilan Eshkoli, Joe BrownLeer](https://www.tenlong.com.tw/products/9787121255571) / 1%
-1. [持续改善：TOC 生产管理指南](https://www.books.com.tw/products/CN11193077) / 1%
-1. [解決問題最簡單的方法 by 渡邊健介](https://www.kobo.com/tw/zh/ebook/a69cad87-60e8-44d6-8900-f5fa2f7e56fe) / 1%
-1. [你的強大，就是你的自由：5 個領悟，讓你進退職場都靈活 by 洪雪珍](https://www.kobo.com/tw/zh/book/9cb9daaa-4680-40a7-985c-4ba24b2eaca8) / 1%
-1. [教出好幫手：想當好主管，先學會教人 by 謝文憲](https://play.google.com/store/books/details?id=gDRmCwAAQBAJ) / 1%
-1. [領導，不需要頭銜：如何讓奇葩怪傑為你效力？by Warren Bennis](https://www.taaze.tw/goods/11100158482.html) / 1%
-1. [可複製的領導力：300 萬付費會員推崇，樊登的九堂商業課 by 樊登](https://www.kobo.com/tw/zh/book/4d7b00d2-20d6-42ec-8b66-8a64bdd682aa) / 1%
-1. [說出影響力：人人說話都能有份量的 26 種技巧 by 謝文憲](https://www.kobo.com/tw/zh/ebook/3dHawr8L7DOoogadZrnsmQ) / 1%
-1. [千萬講師的 50 堂說話課 by 謝文憲、王永福](https://store.kobobooks.com/zh-tw/book//5739611c-c622-4d4e-adc5-0bf4c61146fe) / 1%
-1. [沒了名片，你還剩下什麼？32 個上班族增加自我籌碼的方法 by 張國洋, 姚詩豪](https://www.kobo.com/tw/zh/ebook/LxMf9KOCvjaoHtj8q5tfbw) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
