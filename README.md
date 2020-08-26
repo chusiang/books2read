@@ -676,6 +676,7 @@
 
 ### 2016
 
+1. [醫生哪有這麼萌：Nikumon 的實習生活全紀錄](https://www.books.com.tw/products/0010672605) / 100%
 1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](https://www.tenlong.com.tw/products/9789862762561) / 100%
 1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074) / 105%
 1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387) / 106%
