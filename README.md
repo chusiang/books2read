@@ -108,6 +108,7 @@
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
+1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [五項修練的故事 (合訂版) by David Hutchens](https://www.kobo.com/tw/zh/ebook/hP0NVtITtjC990b1eQdRdg) / 1%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 25%
 1. [第五項修練 II 實踐篇 (上)：思考、演練與超越 by Peter M. Senge](https://www.taaze.tw/goods/11100654023.html) / 1%
@@ -116,7 +117,7 @@
 1. [第五項修練 III：變革之舞 (下) by Peter M. Senge](https://www.taaze.tw/goods/11100033061.html) / 1%
 1. [學習型學校 (上) －第五項修練教育篇 by Peter M. Senge](https://www.taaze.tw/goods/11100033314.html) / 1%
 1. [學習型學校 (下) －第五項修練教育篇 by Peter M. Senge](https://www.taaze.tw/goods/11100033315.html) / 1%
-1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
+1. [規模的規律和祕密 by Geoffrey West](https://www.kobo.com/tw/zh/ebook/41af08a4-7299-4bfa-8640-dc2b2f1e4cc2) / 1%
 1. [EPUB 入門指南 by 張凱慶](https://www.kobo.com/tw/en/ebook/epub-27) / 1%
 1. [祕密 (The Secret) by Rhonda Byrne](https://www.taaze.tw/goods/11100019354.html) / 1%
 1. [護腸胃‧抗脹氣 14 天計畫 by Jan Rein](https://www.kobo.com/tw/zh/book/7bc35af9-72ad-4e2e-a81a-c8900c904ef4) / 44%
