@@ -19,6 +19,8 @@
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 34%
+1. [下世代超前佈署：用 Zabbix 全面監管巨量伺服器 by 吳兆松](https://www.tenlong.com.tw/products/9789865501471) / 2%
+1. [Zabbix 監控系統深度實踐 (2/e) by 姚仁捷](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
 1. [間歇高效率的番茄工作法：25 分鐘，打造成功的最小單位，幫你杜絕分心、提升拚勁 by Francesco Cirillo](https://www.kobo.com/tw/zh/ebook/klZntOq89TWT6StyeRPIxw/1zBw2vuCFUC43IGCrMOlBA) / 25%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
@@ -334,7 +336,7 @@
 1. [Ansible 權威指南 by 李松濤，魏巍，甘捷](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
 1. [Ansible: Up and Running (2/e) by Lorin Hochstein, Rene Moser](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
-1. [Zabbix 監控系統深度實踐 (2/e) by 姚仁捷](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
+1. [Prometheus 學習手冊 by Brian Brazil](https://www.tenlong.com.tw/products/9787519843182) / 1%
 1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
 1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
@@ -391,11 +393,13 @@
 1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization) by Susan J. Fowler](https://www.tenlong.com.tw/products/9789864764433) / 1%
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age) by Paul Graham](https://www.tenlong.com.tw/items/9867794699) / 1%
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) by Dustin Boswell, Trevor Foucher](http://www.tenlong.com.tw/items/9862767197) / 0%
-1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [GNU Make 專案開發工具 (3/e) by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
-1. [Python 網絡爬蟲權威指南 (2/e) by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
-1. [Selenium 2 自動化測試實戰—基於 Python 語言 by 蟲師](https://www.tenlong.com.tw/products/9787121278532) / 1%
+1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
+1. [Python 初學特訓班：從快速入門到主流應用全面實戰，4/e by 鄧文淵](https://www.tenlong.com.tw/products/9789865025533) / 1%
+1. [Python 自動化的樂趣｜搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 1%
+1. [Selenium 2 自動化測試實戰—基於 Python 語言 by 蟲師](https://www.tenlong.com.tw/products/9787121278532) / 2%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development) by Kenneth Reitz, Tanya Schlusser](https://www.tenlong.com.tw/products/9789864762859) / 1%
+1. [Python 網絡爬蟲權威指南 (2/e) by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
 1. [終極厚黑學：巧玩交際，成功不再遙不可及 by 李宗吾](https://www.kobo.com/tw/zh/ebook/OTkpABdqvju7xCZdHbTjFA) / 1%
 1. [It's Django--用 Python 迅速打造 Web 應用 by 袁克倫、楊孟穎](http://www.tenlong.com.tw/items/9863475467) / 4% [出借中]
 1. [Learn Vimscript the Hard Way by Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) / 1%
@@ -409,6 +413,8 @@
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](https://www.tenlong.com.tw/products/9789862015506) / 1%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南 by 臥龍小三](https://www.tenlong.com.tw/products/9789866348365) / 1%
+1. [OpenShift 助力 DevOps : 雲部署更簡單 (DevOps with OpenShift: Cloud Deployments Made Easy) by Stefano Picozzi, Mike Hepburn, Noel O'Connor](https://www.tenlong.com.tw/products/9787121361708) / 1%
+1. [OpenShift for Developers: A Guide for Impatient Beginners by Grant Shipley, Graham Dumpleton](https://www.openshift.com/resources/ebooks/openshift-for-developers) / 1%
 1. [OpenStack 運維指南 by Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein](https://www.tenlong.com.tw/products/9787115397911) / 1%
 1. [網管員面試寶典 by 王達](https://www.tenlong.com.tw/products/9787121065231) / 1%
 1. [可以善良，但你要有底線不當好人：人際關係斷・捨・離，勉強自己和別人好，不如找人真心對你好 by 午堂登紀雄](https://play.google.com/store/books/details?id=u7hTDwAAQBAJ) / 1%
