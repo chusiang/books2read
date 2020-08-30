@@ -37,6 +37,7 @@
 1. [原子習慣 | 大師輕鬆讀 NO.722](https://www.kobo.com/tw/zh/ebook/no-722) / 2%
 1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) / 1%
 1. [刻意練習 | 經理人 No.158](https://www.managertoday.com.tw/magazines/view/127424) / 1%
+1. [這樣開會效益最高：七大類別的會議，這樣帶最不浪費時間又有效](https://www.books.com.tw/products/0010833982?sloc=main) / 1%
 1. [學習如何學習 by Barbara Oakley, Terrence Joseph Sejnowski, Alistair McConville](https://play.google.com/store/books/details/%E8%8A%AD%E8%8A%AD%E6%8B%89_%E6%AD%90%E5%85%8B%E8%8E%89_%E5%AD%B8%E7%BF%92%E5%A6%82%E4%BD%95%E5%AD%B8%E7%BF%92?id=6x-TDwAAQBAJ) / 1%
 1. [打造超人大腦：極速閱讀、寫作、持續進化，新手高速成長的逆襲方程式》by 鄭伊廷 (Xdite)](https://www.kobo.com/tw/zh/ebook/c6dkbpf99du7s8pfckj9kq) / 1%
 1. [學會改變：戒除壞習慣、實現目標、影響他人的 9 大關鍵策略 by Chip Heath, Dan Heath](https://www.kobo.com/tw/zh/ebook/0ErtvHpAeT2INQJH25nJrg) / 1%
