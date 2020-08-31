@@ -438,6 +438,10 @@
 1. ~~ [入門 Chef Solo - Infrastructure as Code by 伊藤直也](http://tatsu-zine.com/books/chef-solo) / 1% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成 by 劉至浩, 孫以陶](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
+1. [[奇幻小說] 魔戒首部曲：魔戒現身 (The Lord of The Rings: The Fellowship of The Ring) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/FFUD1y38nTa7TcJWayWCGA) / 1%
+1. [[奇幻小說] 魔戒二部曲：雙城奇謀 (The Lord of The Rings: The Two Towers) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/NabPTYC6JDiefbG35Dsrcw) / 1%
+1. [[奇幻小說] 魔戒三部曲：王者再臨 (The Lord of The Rings: The Return of The King) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/DKCLnN7lED6UQ_pR1E__yA) / 1%
+1. [[奇幻小說] 哈比人 (The Hobbits) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/bu8y9JlNPTS4_qLuFus6AQ) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
