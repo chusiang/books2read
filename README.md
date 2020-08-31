@@ -585,6 +585,8 @@
 1. [企鵝 STYLE by 坂崎千春](https://www.cite.com.tw/book?id=6272) / 100%
 1. [企鵝 HEART by 坂崎千春](https://www.cite.com.tw/book?id=6377) / 100%
 1. [企鵝 JUMP by 坂崎千春](https://www.cite.com.tw/book?id=6513) / 100%
+1. [小企鵝勇闖遊樂園 by 坂崎千春](https://www.books.com.tw/products/0010718249) / 100%
+1. [小企鵝逛百貨公司 by 坂崎千春](https://www.books.com.tw/products/0010718252) / 100%
 
 ### 2019
 
