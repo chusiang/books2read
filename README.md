@@ -199,6 +199,7 @@
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
+1. [2030 轉職地圖：成為未來 10 年不被淘汰的國際人才 by Sandy Su (蘇盈如)](https://www.kobo.com/tw/zh/ebook/09237ef1-8e30-452b-87a7-310c0456914d) / 1%
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
 1. [因果革命：人工智慧的大未來 by Judea Pearl, Dana Mackenzie](https://www.kobo.com/tw/zh/ebook/ReLr-70c5DiU4fJBPvTPFg) / 1%
 1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
@@ -330,6 +331,7 @@
 1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！ by 陳茂雄, 林文琇](http://www.books.com.tw/products/0010694726) / 1%
 1. [脆弱的力量 by Brené Brown](https://play.google.com/store/books/details?id=-RiUDwAAQBAJ) / 1%
+1. [一擊必中的狙擊手法則 by David Amerland](https://www.kobo.com/tw/zh/ebook/f9f3c975-3ceb-4034-b59f-bbbd9a31912d) / 1%
 1. [向誰效忠：關於一種更高層次的忠誠，以及這種忠誠的考驗 by James Comey](https://play.google.com/store/books/details?id=FM56DwAAQBAJ) / 1%
 1. [Ceph 分佈式存儲實戰 by Ceph 中國社區](https://www.tenlong.com.tw/products/9787111553588) / 1%
 1. [Ansible for DevOps by Jeff Geerling](https://www.ansiblefordevops.com/) / 1%
