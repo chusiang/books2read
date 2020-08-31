@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 2%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 64%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
