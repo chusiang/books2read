@@ -14,8 +14,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 2%
-1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 13%
+1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 15.9%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 34%
 1. [下世代超前佈署：用 Zabbix 全面監管巨量伺服器 by 吳兆松](https://www.tenlong.com.tw/products/9789865501471) / 2%
@@ -593,6 +592,7 @@
 1. [小企鵝逛百貨公司 by 坂崎千春](https://www.books.com.tw/products/0010718252) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 100%
 
 ### 2019
 
