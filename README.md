@@ -28,7 +28,7 @@
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
-1. [Specification by Example：團隊如何交付正確的軟體 by Gojko Adzic](https://www.books.com.tw/products/0010644283) / 0%
+1. [Specification by Example：團隊如何交付正確的軟體 by Gojko Adzic](https://www.books.com.tw/products/0010644283) / 1%
 1. [Google 地圖革命：從 Google 地圖、地球、街景到「精靈寶可夢 GO」的科技傳奇內幕 by Bill Kilday](https://www.kobo.com/tw/zh/ebook/google-google-go) / 1%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [動盪：國家如何化解危局、成功轉型？ by Jared Diamond](https://www.kobo.com/tw/zh/ebook/qLr1OoppfDKe0dfaeZ5HKw) / 1%
@@ -243,7 +243,7 @@
 1. [Ansible 徹底入門：雲端時代的組態管理 by 廣川英壽, 平初, 橋本直哉, 森田邦裕, 渡辺一宏](https://www.tenlong.com.tw/products/9789864766406) / 8%
 1. [Practical Network Automation 中文版：使用 Python、Powershell、Ansible 實踐網路自動化 (Practical Network Automation: Leverage the power of Python and Ansible to optimize your network) by Abhishek Ratan](https://www.tenlong.com.tw/products/9789865020484) / 1%
 1. [內向心理學：享受一個人的空間，安靜地發揮影響力，內向者也能在外向的世界嶄露鋒芒！ by Marti Olsen Laney](https://play.google.com/store/books/details?id=bi9pDwAAQBAJ) / 1%
-1. [駭客的 Linux 基礎入門必修課 by OccupyTheWeb](https://www.books.com.tw/products/0010827808) / 0%
+1. [駭客的 Linux 基礎入門必修課 by OccupyTheWeb](https://www.books.com.tw/products/0010827808) / 1%
 1. [Linux Server Hacks 駭客一百招 by Rob Flickenger](https://books.google.com.tw/books?id=_DGAF_DH_RgC) / 17%
 1. [Linux Kernel Hacks：改善效能, 提昇開發效率及節能的技巧與工具 by 池田宗広, 大岩尚宏, 島本裕志, 竹部晶雄, 平松雅巳](https://books.google.com.tw/books?id=aMSuoQEACAAJ) / 1%
 1. [搞定！：工作效率大師教你，事情再多照樣做好的搞定 5 步驟 by Allen‧David](http://www.books.com.tw/products/0010731198) / 1%
@@ -400,7 +400,7 @@
 1. [GNU Make 專案開發工具 (3/e) by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [Python 初學特訓班：從快速入門到主流應用全面實戰，4/e by 鄧文淵](https://www.tenlong.com.tw/products/9789865025533) / 1%
-1. [Python 好好玩：趣學電玩遊戲程式設計 by Al Sweigart](https://www.books.com.tw/products/0010765722) / 0%
+1. [Python 好好玩：趣學電玩遊戲程式設計 by Al Sweigart](https://www.books.com.tw/products/0010765722) / 1%
 1. [Python 駭客密碼：加密、解密與破解實例應用 by Al Sweigart](https://www.tenlong.com.tw/products/9789865020804) / 0%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作, 2/e (Automate the Boring Stuff with Python: Practical Programming for Total Beginners, 2/e) by Al Sweigart](https://www.tenlong.com.tw/products/9789865025977) / 0%
 1. [Selenium 2 自動化測試實戰—基於 Python 語言 by 蟲師](https://www.tenlong.com.tw/products/9787121278532) / 2%
