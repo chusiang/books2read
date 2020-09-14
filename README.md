@@ -32,6 +32,7 @@
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [動盪：國家如何化解危局、成功轉型？ by Jared Diamond](https://www.kobo.com/tw/zh/ebook/qLr1OoppfDKe0dfaeZ5HKw) / 1%
 1. [起床後的黃金 1 小時：揭開 64 位成功人士培養高效率的祕密時光，從他們的創意晨型活動中，建立屬於自己的高生產力、高抗壓生活習慣 by Benjamin Spall, Michael Xander](https://www.kobo.com/tw/zh/ebook/kW9AVCcdgzynezK86dZC6g) / 1%
+1. [少才是力量 by Leo Babauta](https://www.kobo.com/tw/zh/ebook/SOObDNLqbTeKP6DFUL_fug) / 1%
 1. [死前斷捨離：讓親人少點負擔，給自己多點愉悅 by Margareta Magnusson](https://www.kobo.com/tw/zh/ebook/70vtobmBPjO9UydMvB4eKg) / 1%
 1. [向上管理・向下管理：埋頭苦幹沒人理，出人頭地有策略，承上啟下、左右逢源的職場聖典 by Roberta Chinsky Matuson](https://www.kobo.com/tw/zh/ebook/jIK854aPpD2JJqw_2ehS2Q) / 1%
 1. [冰山在融化：在逆境中成功變革的關鍵智慧 (Our Iceberg Is Melting: Changing and Succeeding Under Any Conditions) by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/9b723949-cc51-46c5-8a03-4bc333b5b00e) / 1%
@@ -444,7 +445,7 @@
 1. [[奇幻小說] 魔戒首部曲：魔戒現身 (The Lord of The Rings: The Fellowship of The Ring) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/FFUD1y38nTa7TcJWayWCGA) / 1%
 1. [[奇幻小說] 魔戒二部曲：雙城奇謀 (The Lord of The Rings: The Two Towers) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/NabPTYC6JDiefbG35Dsrcw) / 1%
 1. [[奇幻小說] 魔戒三部曲：王者再臨 (The Lord of The Rings: The Return of The King) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/DKCLnN7lED6UQ_pR1E__yA) / 1%
-1. [[奇幻小說] 哈比人 (The Hobbits) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/bu8y9JlNPTS4_qLuFus6AQ) / 1%
+1. [[奇幻小說] 魔戒前傳：哈比人 (The Hobbits) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/bu8y9JlNPTS4_qLuFus6AQ) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
@@ -505,6 +506,7 @@
 1. [[輕小說] 惡魔高校 D×D (22) - 畢業典禮的吉蒙里 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/6f20d292-4b79-41b2-a66d-4168b215e765) / 1%
 1. [[輕小說] 惡魔高校 D×D (23) - 球技大會的鬼牌 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/cf96e416-8fdd-40d7-9dfa-63036f68b4b7) / 1%
 1. [[輕小說] 惡魔高校 D×D (24) - 校外教學的死神 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/bfa5641f-186a-4a67-a4fc-19884951cfb8)/ 1%
+1. [[輕小說] 惡魔高校 D×D (25) - 暑期講習的世界樹 by 石踏一榮](https://www.kobo.com/tw/zh/ebook/d-d-25)/ 1%
 1. [[輕小說] OVERLORD (1)：不死者之王 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_1?id=PvTPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (2)：黑暗戰士 by 丸山くがね](https://play.google.com/store/books/details/丸山くがね_OVERLORD_2?id=IvfPDgAAQBAJ) / 1%
 1. [[輕小說] OVERLORD (3)：鮮血的戰爭少女 by 丸山くがね](https://play.google.com/store/books/details/%E4%B8%B8%E5%B1%B1%E3%81%8F%E3%81%8C%E3%81%AD_OVERLORD_3?id=4fnPDgAAQBAJ) / 1%
