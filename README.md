@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 15.9%
+1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 34%
 1. [下世代超前佈署：用 Zabbix 全面監管巨量伺服器 by 吳兆松](https://www.tenlong.com.tw/products/9789865501471) / 2%
@@ -258,6 +258,7 @@
 1. [精實開發與看板方法 by Ruddy Lee](https://www.tenlong.com.tw/products/9789865617028) / 2%
 1. [看板實戰：用一張便利貼訓練出 100 分高效率工作團隊 (Kanban in Action) by Marcus Hammarberg, Joakim Sunden](https://www.tenlong.com.tw/products/9789864341887) / 1%
 1. [精益开发实战：用看板管理大型項目 by Henrik Kniberg](https://www.tenlong.com.tw/products/9787115291776) / 1%
+1. [豐田精實管理的翻轉獲利秘密：不浪費就是提升生產力 by 江守智](https://www.kobo.com/tw/zh/ebook/2m2AXgkSZTKSJYU6rKadwQ) / 1%
 1. [精實企業：高績效組織如何達成創新規模化 by Jez Humble](https://www.tenlong.com.tw/products/9789864762682) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e) by Ash Maurya](https://www.tenlong.com.tw/products/9789862767184) / 0%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
