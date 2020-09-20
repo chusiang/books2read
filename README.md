@@ -450,6 +450,11 @@
 1. [[奇幻小說] 魔戒二部曲：雙城奇謀 (The Lord of The Rings: The Two Towers) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/NabPTYC6JDiefbG35Dsrcw) / 1%
 1. [[奇幻小說] 魔戒三部曲：王者再臨 (The Lord of The Rings: The Return of The King) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/DKCLnN7lED6UQ_pR1E__yA) / 1%
 1. [[奇幻小說] 魔戒前傳：哈比人 (The Hobbits) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/bu8y9JlNPTS4_qLuFus6AQ) / 1%
+1. [[奇幻小說] 冰與火之歌 Ⅰ：權力遊戲 (上下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/bu8y9JlNPTS4_qLuFus6AQ) / 1%
+1. [[奇幻小說] 冰與火之歌 Ⅱ：烽火危城 (上下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/ZR9DhUqt0zmcgScUqo8bpw) / 1%
+1. [[奇幻小說] 冰與火之歌 Ⅲ：劍刃風暴 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/QBmBWxoiFzOd94ZiQrHwUQ) / 1%
+1. [[奇幻小說] 冰與火之歌 Ⅳ：群鴉盛宴 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/sxnWc3drSj6tjIUHujqu8Q) / 1%
+1. [[奇幻小說] 冰與火之歌 Ⅴ：與龍共舞 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/xBMBsxOqxjaO--y8N6s8tw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
