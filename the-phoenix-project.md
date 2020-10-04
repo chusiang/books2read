@@ -1,7 +1,5 @@
 # 《The Phoenix Project》
 
-## 相關書籍
-
 [《The Phoenix Project》](https://en.wikipedia.org/wiki/The_Phoenix_Project_(novel))是一本寫給 IT 從業人員的小說，書本分為 2 個部份：IT 營運的傳奇故事 (小說) 和 DevOps 最佳實踐。凍仁將會藉此收集書中所提到的相關書籍。
 
 以下依出版日期進行排序：
@@ -10,8 +8,12 @@
 1. 2014.08.12 / 日文 / [The DevOps 逆転だ！究極の継続的デリバリ](https://www.amazon.co.jp/DevOps-%25E9%2580%2586%25E8%25BB%25A2%25E3%2581%25A0-%25E3%2582%25B8%25E3%2583%25BC%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25AD%25E3%2583%25A0/dp/4822285359/)
 1. 2015.09.01 / 簡中 / [凤凰项目：一个 IT 运维的传奇故事](https://www.tenlong.com.tw/products/9787115403650) ✔
 1. 2017.09.22 / 繁中 / [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) ✔
+1. 2018.02.27 / 原文 / [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (5th Anniversary Edition)](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) ✔
+1. 2019.09.01 / 簡中 / [凤凰项目：一个 IT 运维的传奇故事 (修訂版)](https://www.amazon.cn/dp/B08592D7TV) ✔
 
-[» more](http://www.tenlong.com.tw/items/7115403651?item_id=1013544)
+[» more](https://note.drx.tw/2018/08/the-phoenix-project-book.html)
+
+## 相關書籍
 
 1. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610)
     - [繁中] [目標：簡單有效的常識管理](http://www.tenlong.com.tw/items/0002161311) ✔
