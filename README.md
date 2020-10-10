@@ -233,6 +233,7 @@
 1. [Effective DevOps：使用 AWS 快速入門 by Nathaniel Felsen](https://www.books.com.tw/products/0010814249) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
 1. [敏捷大師精選 by Michael de la Maza, Cherie Silas](https://www.tenlong.com.tw/products/9789864344604) / 1%
+1. [你不能不懂的統計常識 by 鄭惟厚](https://www.kobo.com/tw/zh/ebook/UtUtBzEYGTCJEh4GFIxx4w#%208226%20%20%2000004) / 1%
 1. [德國一流大學教你數學家的 22 個思考工具 by Christian Hesse](https://www.kobo.com/tw/en/ebook/I41_BHy5XTufwF5C-C6SMA) / 1%
 1. [數學教你不犯錯 (上)：不落入線性思考、避免錯誤推論 by Jordan Ellenberg](https://www.kobo.com/tw/en/ebook/EW2lwlaIOz6Z5tUJvsHyOA) / 1%
 1. [數學教你不犯錯 (下)：搞定期望值、認清迴歸趨勢、弄懂存在性 by Jordan Ellenberg](https://www.kobo.com/tw/en/ebook/F-2F3TGp6TOf4bxuNquZHA) / 1%
