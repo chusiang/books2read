@@ -444,6 +444,21 @@
 1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術 by Mischa Taylor, Seth Vargo](http://www.tenlong.com.tw/items/7302433909) / 38% ~~
 1. ~~ [入門 Chef Solo - Infrastructure as Code by 伊藤直也](http://tatsu-zine.com/books/chef-solo) / 1% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成 by 劉至浩, 孫以陶](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [輕小說] Slayers！秀逗魔導士 01 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 02：亞特拉斯的魔導士 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 03：賽拉格的妖魔 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 04：聖王都動亂 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 05：白銀的魔獸 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 06：威森地的黑暗 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 07：魔龍王的挑戰 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 08：死靈都市之王 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 09：貝賽爾德的妖劍 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 10：索拉利亞的謀略 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 11：克里姆佐的執迷 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 12：霸軍的策動 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 13：降魔征途的路標 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 14：瑟倫狄亞的憎惡 by 神坂一
+1. [輕小說] Slayers！秀逗魔導士 15：屠魔者 by 神坂一
 1. [[奇幻小說] 飢餓遊戲 Ⅰ by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/YFFwvgDBDzqjgvlz-fypmw) / 1%
 1. [[奇幻小說] 飢餓遊戲 Ⅱ：星火燎原 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/Dx4Wlm2ucD-mIhOJAO3swg) / 1%
 1. [[奇幻小說] 飢餓遊戲 Ⅲ：自由幻夢 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/W9FT8wYG8zql38GW48wHrg) / 1%
