@@ -129,6 +129,8 @@
 1. [Sword Art Online 刀劍神域 ─虛空幻界─ (2) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/77092e54-9d8a-407a-935a-871f2dd17e65) / 100%
 1. [Sword Art Online 刀劍神域 ─虛空幻界─ (3) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/65006d4f-c609-474a-98c1-a189092b3c4e) / 100%
 1. [Sword Art Online 刀劍神域 ─虛空幻界─ (4) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/3f974062-ff44-4f7b-90d2-cf81171f8fd7) / 100%
+1. 碧奇魂 BLUESEED (1) by 高田裕三 / 100%
+1. 碧奇魂 BLUESEED (2) by 高田裕三 / 100%
 1. 聲之形 (1) by 大今良時 / 100%
 1. 聲之形 (2) by 大今良時 / 100%
 1. 聲之形 (3) by 大今良時 / 100%
