@@ -16,6 +16,7 @@
 
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
+1. [[輕小說] Sword Art Online 刀劍神域 (7)：聖母聖詠 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_7?id=IkM1DwAAQBAJ) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 34%
 1. [下世代超前佈署：用 Zabbix 全面監管巨量伺服器 by 吳兆松](https://www.tenlong.com.tw/products/9789865501471) / 2%
@@ -66,10 +67,7 @@
 1. [[奇幻小說] 龍族 (10)：大法師的輓歌 by 李榮道](https://share.readmoo.com/book/478561) / 200%
 1. [[奇幻小說] 龍族 (11)：沒有正確答案的選擇 by 李榮道](https://share.readmoo.com/book/478569) / 200%
 1. [[奇幻小說] 龍族 (12)：朝夕陽飛翔的龍 by 李榮道](https://share.readmoo.com/book/478570) / 200%
-1. [[輕小說] Sword Art Online 刀劍神域 (5)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_5?id=4WorDwAAQBAJ) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 (6)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_6?id=FEM1DwAAQBAJ) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 (7)：聖母聖詠 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_7?id=IkM1DwAAQBAJ) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 (8)：Early and late by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_8?id=MkM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (8)：Early and late by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_8?id=MkM1DwAAQBAJ) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 (9)： Alicization beginning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_9?id=NkM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 1%
@@ -83,6 +81,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (19)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_19?id=bRFfDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (20)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_20?id=suZwDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (21): Unital ring Ⅰ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_21?id=UkGuDwAAQBAJ) / 0%
+1. [[輕小說] Sword Art Online 刀劍神域 (22): Kiss and fly by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_22?id=g2L4DwAAQBAJ) / 0%
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
 1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 5%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
@@ -582,10 +581,10 @@
 ### 2020
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 100%
-1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 200%
 1. [峰與谷：超越逆境、享受順境的人生禮物 by Spencer Johnson, M.D.](https://www.taaze.tw/goods/11309332213.html) / 100%
-1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 100%
-1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 200%
+1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 200%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (14) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/kmBHz9d_ZjWX-TdS5qyYpA) / 100%
 1. [[奇幻小說] 龍族 (01)：向太陽奔馳的馬 by 李榮道](https://share.readmoo.com/book/478562) / 300%
 1. [[輕小說] 盾之勇者成名錄 (01) by アネコユサギ](https://play.google.com/store/books/details?id=fip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
@@ -622,6 +621,8 @@
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (4) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-4-1) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (5) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-5-1) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (6) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-6-1) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 (5)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_5?id=4WorDwAAQBAJ) / 200%
+1. [[輕小說] Sword Art Online 刀劍神域 (6)：幽靈子彈 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_6?id=FEM1DwAAQBAJ) / 200%
 
 ### 2019
 
