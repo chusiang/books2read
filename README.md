@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] Sword Art Online 刀劍神域 (9)： Alicization beginning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_9?id=NkM1DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (9)： Alicization beginning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_9?id=NkM1DwAAQBAJ) / 28%
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
