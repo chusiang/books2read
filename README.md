@@ -567,6 +567,16 @@
 1. [[輕小說] WORLD TEACHER 異世界式教育特務 (5) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_05?id=_ZaZDwAAQBAJ) / 1%
 1. [[輕小說] WORLD TEACHER 異世界式教育特務 (6) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_06?id=B5eZDwAAQBAJ) / 1%
 1. [[輕小說] WORLD TEACHER 異世界式教育特務 (7) by ネコ光一](https://play.google.com/store/books/details/%E3%83%8D%E3%82%B3%E5%85%89%E4%B8%80_WORLD_TEACHER_%E7%95%B0%E4%B8%96%E7%95%8C%E5%BC%8F%E6%95%99%E8%82%B2%E7%89%B9%E5%8B%99_07?id=I5eZDwAAQBAJ) / 1%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (01)：可能性的起點 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_1?id=a7BWDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (02)：不死獸群 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_2?id=d7BWDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (03)：超級激突 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_3?id=2zPLDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (04)：富蘭克林的遊戲 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_4?id=buecDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (05)：牽繫可能性的人們 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_5?id=AOecDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (06)：〈月世會〉 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_6?id=cbSeDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (07)：奇蹟之盾 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_7?id=1Fy8DwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (08)：殘遺的希望 by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_8?id=d_rJDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (09) by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_9?id=xSDUDwAAQBAJ) / 0%
+1. [[輕小說]〈Infinite Dendrogram〉- 無盡連鎖 - (10) by 海道左近](https://play.google.com/store/books/details/%E6%B5%B7%E9%81%93%E5%B7%A6%E8%BF%91_Infinite_Dendrogram_%E7%84%A1%E7%9B%A1%E9%80%A3%E9%8E%96_10?id=mtHrDwAAQBAJ) / 0%
 1. [[奇幻小說] 龍族Ⅱ - Future Walker (01)：消失詩人的追慕曲 by 李榮道](https://share.readmoo.com/book/265277) / 100%
 1. [[奇幻小說] 龍族Ⅱ - Future Walker (02)：詩人的歸還 by 李榮道](https://share.readmoo.com/book/265320) / 100%
 1. [[奇幻小說] 龍族Ⅱ - Future Walker (03)：影子不會自己行走 by 李榮道](https://share.readmoo.com/book/262625) / 100%
