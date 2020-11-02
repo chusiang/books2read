@@ -228,8 +228,8 @@
 1. [Effective DevOps 中文版 by Jennifer Davis, Ryn Daniels](https://www.tenlong.com.tw/products/9789864767793) / 1%
 1. [Effective DevOps by Jennifer Davis, Ryn Daniels](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [Effective DevOps：使用 AWS 快速入門 by Nathaniel Felsen](https://www.books.com.tw/products/0010814249) / 1%
-1. [Python for DevOps｜學習精準有效的自動化 (Python for Devops: Learn Ruthlessly Effective Automation) by Gift, Noah, Behrman, Kennedy, Deza, Alfredo](https://www.tenlong.com.tw/products/9789865026073) / 1%
-1. [架構模式｜使用 Python (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices) by Harry Percival, Bob Gregory](https://www.tenlong.com.tw/products/9789865025960) / 1%
+1. [Python for DevOps：學習精準有效的自動化 (Python for Devops: Learn Ruthlessly Effective Automation) by Gift, Noah, Behrman, Kennedy, Deza, Alfredo](https://www.tenlong.com.tw/products/9789865026073) / 1%
+1. [架構模式：使用 Python (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices) by Harry Percival, Bob Gregory](https://www.tenlong.com.tw/products/9789865025960) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
 1. [敏捷大師精選 by Michael de la Maza, Cherie Silas](https://www.tenlong.com.tw/products/9789864344604) / 1%
 1. [你不能不懂的統計常識 by 鄭惟厚](https://www.kobo.com/tw/zh/ebook/UtUtBzEYGTCJEh4GFIxx4w#%208226%20%20%2000004) / 1%
@@ -310,7 +310,7 @@
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [網站可靠性工程：Google 的系統管理之道 (Site Reliability Engineering: How Google Runs Production Systems) by Betsy Beyer, Jennifer Petoff, Chris Jone](https://www.tenlong.com.tw/products/9789864766253) / 1%
 1. [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264) / 3%
-1. [網站可靠性工程工作手冊｜導入 SRE 的實用方法 (The Site Reliability Workbook) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy](https://www.tenlong.com.tw/products/9789865026011) / 1%
+1. [網站可靠性工程工作手冊：導入 SRE 的實用方法 (The Site Reliability Workbook) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy](https://www.tenlong.com.tw/products/9789865026011) / 1%
 1. [資訊架構學, 4/e (Information Architecture: For the Web and Beyond, 4/e) by Louis Rosenfeld, Peter Morville, Jorge Arango](https://www.tenlong.com.tw/products/9789864766734) / 1%
 1. [資安風險評估指南 (Network Security Assessment, 3/e) by Chris McNab](https://www.tenlong.com.tw/products/9789864765478) / 1%
 1. [TED X 邏輯思維 | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201710240002) / 1%
