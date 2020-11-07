@@ -14,8 +14,6 @@
 
 ## 待讀書單
 
-1. [企鵝紳士：其實很認真的企鵝知識書](https://www.kobo.com/tw/zh/ebook/ghBGOmL54DOHblX3LFFfCA) / 34%
-1. [為什麼老師會在這裡!? (5) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/t9z1fgyXTTOQVaCpawDxeg) / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
 1. [食戟之靈 (31) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/56207) / 0%
 1. [食戟之靈 (32) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/61845) / 0%
@@ -160,6 +158,8 @@
 1. 秀逗魔導士 - 超爆魔導傳 (6)：白銀之魔獸篇 by 義仲翔子 / 100%
 1. 秀逗魔導士 - 超爆魔導傳 (7)：異世界啓示錄篇 by 義仲翔子 / 100%
 1. 秀逗魔導士 - 超爆魔導傳 (8)：死靈都市之王篇 by 義仲翔子 / 100%
+1. [企鵝紳士：其實很認真的企鵝知識書](https://www.kobo.com/tw/zh/ebook/ghBGOmL54DOHblX3LFFfCA) / 100%
+1. [為什麼老師會在這裡!? (5) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/t9z1fgyXTTOQVaCpawDxeg) / 100%
 
 ### 2019
 
