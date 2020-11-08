@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] Sword Art Online 刀劍神域 (9)： Alicization beginning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_9?id=NkM1DwAAQBAJ) / 28%
+1. [[輕小說] Sword Art Online 刀劍神域 (9)： Alicization beginning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_9?id=NkM1DwAAQBAJ) / 66%
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
@@ -292,6 +292,7 @@
 1. [雜談的能力：生活中想遇到好康、工作時想遠離爛事， 你得從不談正事的軟話題開始 by 速溶綜合研究所](https://play.google.com/store/books/details/%E9%80%9F%E6%BA%B6%E7%B6%9C%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80_%E9%9B%9C%E8%AB%87%E7%9A%84%E8%83%BD%E5%8A%9B_%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%83%B3%E9%81%87%E5%88%B0%E5%A5%BD%E5%BA%B7_%E5%B7%A5%E4%BD%9C%E6%99%82%E6%83%B3%E9%81%A0%E9%9B%A2%E7%88%9B%E4%BA%8B_%E4%BD%A0%E5%BE%97%E5%BE%9E%E4%B8%8D%E8%AB%87%E6%AD%A3%E4%BA%8B%E7%9A%84%E8%BB%9F%E8%A9%B1%E9%A1%8C%E9%96%8B%E5%A7%8B?id=I6uZDwAAQBAJ) / 1%
 1. [囧星人的人生百想妙答 by 囧星人](http://www.books.com.tw/products/0010765506) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
+1. [好日子革新手冊：充分利用行為科學的力量，把雨天變晴天，週一症候群退散 (How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life) by Caroline Webb](https://www.taaze.tw/goods/11310725031.html) / 1%
 1. [反脆弱 by Nassim Nicholas Taleb](https://www.kobo.com/tw/zh/ebook/1c388bc8-e428-4501-bdae-c3f478899356) / 1%
 1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
 1. [精準提問的力量: 問對問題, 就解決一半的問題! 風靡美國政商學界的 11 種提問思考教你挖掘真相 × 扭轉逆勢 × 創造全新格局 by Frank Sesno](https://www.kobo.com/tw/zh/book/58aea75b-fff9-4156-97fc-3073f02fdc82) / 1%
@@ -399,7 +400,9 @@
 1. [搜尋模式 (Search Patterns: Design for Discovery) by Peter Morville, Jeffery Callender](http://www.tenlong.com.tw/items/9862763116) / 1%
 1. [高品質微服務｜建構跨工程組織的標準化系統 (Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization) by Susan J. Fowler](https://www.tenlong.com.tw/products/9789864764433) / 1%
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age) by Paul Graham](https://www.tenlong.com.tw/items/9867794699) / 1%
-1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) by Dustin Boswell, Trevor Foucher](http://www.tenlong.com.tw/items/9862767197) / 0%
+1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) by Dustin Boswell, Trevor Foucher](http://www.tenlong.com.tw/items/9862767197) / 1%
+1. [程式設計人應該知道的 97 件事：來自專家的集體智慧 (97 Things Every Programmer Should Know: Collective Wisdom from the Experts) by Kevlin Henney](https://www.taaze.tw//goods/11100720381.html) /1%
+
 1. [GNU Make 專案開發工具 (3/e) by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [Python 初學特訓班：從快速入門到主流應用全面實戰，4/e by 鄧文淵](https://www.tenlong.com.tw/products/9789865025533) / 1%
