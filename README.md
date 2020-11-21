@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 1%
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
@@ -422,6 +421,7 @@
 1. [顧爸媽，這樣做最安心：15 項迷思 ╳ 18 種常見老年病 ╳ 25 則日常伴老須知，台大老年醫學權威詹鼎正親自解惑 by 詹鼎正](https://www.kobo.com/tw/zh/ebook/5AuNAebKADOYt4aJ5QjZkg) / 1%
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
+1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 5%
 1. [鳥哥的 Linux 私房菜伺服器架設篇 (2/e) by 鳥哥](https://share.readmoo.com/book/538753) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](https://www.tenlong.com.tw/products/9789862015506) / 1%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
@@ -641,6 +641,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (7)：聖母聖詠 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_7?id=IkM1DwAAQBAJ) / 200%
 1. [[輕小說] Sword Art Online 刀劍神域 (8)：Early and late by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_8?id=MkM1DwAAQBAJ) / 200%
 1. [[輕小說] Sword Art Online 刀劍神域 (9)： Alicization beginning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_9?id=NkM1DwAAQBAJ) / 100%
+1. [獨角獸專案：看 IT 部門如何引領百年企業振衰起敝，重返榮耀 (The Unicorn Project) by Gene Kim](https://www.tenlong.com.tw/products/9789865026653) / 100%
 
 ### 2019
 
