@@ -20,9 +20,11 @@
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
+1. [基礎架構即程式碼：管理雲端伺服器 (Infrastructure as Code: Managing Servers in the Cloud) by Kief Morris](https://www.tenlong.com.tw/products/9789864763382) / 0%
 1. [如果人生有地圖 by Karl Pillemer](https://gitlab.com/snippets/1732152) / 34%
+1. [影響地圖：讓你的軟體產生真正的影響力 by Gojko Adzic](https://www.ituring.com.cn/book/1395) / 1%
 1. [下世代超前佈署：用 Zabbix 全面監管巨量伺服器 by 吳兆松](https://www.tenlong.com.tw/products/9789865501471) / 2%
-1. [Zabbix 監控系統深度實踐 (2/e) by 姚仁捷](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
+1. [Zabbix 監控系統深度實踐, 2/e by 姚仁捷](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
 1. [間歇高效率的番茄工作法：25 分鐘，打造成功的最小單位，幫你杜絕分心、提升拚勁 by Francesco Cirillo](https://www.kobo.com/tw/zh/ebook/klZntOq89TWT6StyeRPIxw/1zBw2vuCFUC43IGCrMOlBA) / 25%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 1%
@@ -344,7 +346,7 @@
 1. [Ansible for DevOps by Jeff Geerling](https://www.ansiblefordevops.com/) / 1%
 1. [Ansible for Kubernetes by Jeff Geerling](https://www.ansibleforkubernetes.com/) / 1%
 1. [Ansible 權威指南 by 李松濤，魏巍，甘捷](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
-1. [Ansible: Up and Running (2/e) by Lorin Hochstein, Rene Moser](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
+1. [Ansible: Up and Running, 2/e by Lorin Hochstein, Rene Moser](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Prometheus 學習手冊 by Brian Brazil](https://www.tenlong.com.tw/products/9787519843182) / 1%
 1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
@@ -354,7 +356,7 @@
 1. [管理就像一齣戲：皇家莎士比亞劇團導演教你，完美扮演領導者，激發團隊創造力 by Piers Ibbotson](https://www.kobo.com/tw/zh/ebook/efkR8GT9tDOEUkLF_BrmsA) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
-1. [PostgreSQL 即學即用 (2/e) by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
+1. [PostgreSQL 即學即用, 2/e by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e) by Jono Bacon](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [Ubuntu 你不懂的團隊力量 by Stephen C. Lundin Bob Nelson](https://www.taaze.tw/usedList.html?oid=11100246329) / 1%
 1. [王者歸來－UNIX 王者殿堂 by 張春曉](https://www.tenlong.com.tw/products/9789865836351) / 1%
@@ -365,7 +367,7 @@
 1. [Docker 錦囊妙計 (Docker Cookbook) by Sébastien Goasguen](http://www.tenlong.com.tw/items/9864760807) / 21%
 1. [Kubernetes 錦囊妙計 (Kubernetes Cookbook : Building Cloud Native Applications) by Sébastien Goasguen , Michael Hausenblas](https://www.tenlong.com.tw/products/9789864769216) / 1%
 1. [Kubernetes in Action (簡體中文版) by 七牛容器雲團隊](https://www.tenlong.com.tw/products/9787121349959) / 1%
-1. [引導反思的第一本書 (2/e) by 吳兆田](https://www.kingstone.com.tw/basic/2015214072567/) / 1%
+1. [引導反思的第一本書, 2/e by 吳兆田](https://www.kingstone.com.tw/basic/2015214072567/) / 1%
 1. [遊戲人生：有效有趣的破冰遊戲 by 楊田林](http://www.books.com.tw/products/0010651863) / 1%
 1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？ by Gillian Tett](http://www.books.com.tw/products/0010703860) / 1%
 1. [獨角獸與牠的產地：矽谷新創公司歷險記 by Dan Lyons](http://www.books.com.tw/products/0010757639) / 1%
@@ -405,7 +407,7 @@
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) by Dustin Boswell, Trevor Foucher](http://www.tenlong.com.tw/items/9862767197) / 1%
 1. [程式設計人應該知道的 97 件事：來自專家的集體智慧 (97 Things Every Programmer Should Know: Collective Wisdom from the Experts) by Kevlin Henney](https://www.taaze.tw//goods/11100720381.html) /1%
 
-1. [GNU Make 專案開發工具 (3/e) by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
+1. [GNU Make 專案開發工具, 3/e by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [Python 初學特訓班：從快速入門到主流應用全面實戰，4/e by 鄧文淵](https://www.tenlong.com.tw/products/9789865025533) / 1%
 1. [Python 好好玩：趣學電玩遊戲程式設計 by Al Sweigart](https://www.books.com.tw/products/0010765722) / 1%
@@ -413,12 +415,12 @@
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作, 2/e (Automate the Boring Stuff with Python: Practical Programming for Total Beginners, 2/e) by Al Sweigart](https://www.tenlong.com.tw/products/9789865025977) / 0%
 1. [Selenium 2 自動化測試實戰—基於 Python 語言 by 蟲師](https://www.tenlong.com.tw/products/9787121278532) / 2%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development) by Kenneth Reitz, Tanya Schlusser](https://www.tenlong.com.tw/products/9789864762859) / 1%
-1. [Python 網絡爬蟲權威指南 (2/e) by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
+1. [Python 網絡爬蟲權威指南, 2/e by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
 1. [終極厚黑學：巧玩交際，成功不再遙不可及 by 李宗吾](https://www.kobo.com/tw/zh/ebook/OTkpABdqvju7xCZdHbTjFA) / 1%
 1. [It's Django--用 Python 迅速打造 Web 應用 by 袁克倫、楊孟穎](http://www.tenlong.com.tw/items/9863475467) / 4% [出借中]
 1. [Learn Vimscript the Hard Way by Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) / 1%
 1. [大話重構 by 范鋼](http://www.tenlong.com.tw/items/9864340468) / 1%
-1. [重構：改善既有程式的設計 (2/e) by Martin Fowler](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6817126) / 1%
+1. [重構：改善既有程式的設計, 2/e by Martin Fowler](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6817126) / 1%
 1. [Working Effectively with Legacy Code 中文版：管理、修改、重構遺留程式碼的藝術 by Michael Feathers](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7801855) / 1%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code) by Pete Goodliffe](https://www.tenlong.com.tw/items/9863475696) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages) by Federico Biancuzzi, Shane Warden](http://www.tenlong.com.tw/items/9862767170) / 0%
@@ -427,7 +429,7 @@
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
 1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 5%
-1. [鳥哥的 Linux 私房菜伺服器架設篇 (2/e) by 鳥哥](https://share.readmoo.com/book/538753) / ?%
+1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e by 鳥哥](https://share.readmoo.com/book/538753) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](https://www.tenlong.com.tw/products/9789862015506) / 1%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南 by 臥龍小三](https://www.tenlong.com.tw/products/9789866348365) / 1%
@@ -442,7 +444,7 @@
 1. [汽車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_汽車防禦駕駛手冊_新編?id=qz83DwAAQBAJ) / 1%
 1. [Windows 10 究極攻略！升級、設定、優化、問題排除，高手活用技巧速學實戰【地表最強進化版】by PCuSER 研究室](https://www.kobo.com/tw/zh/ebook/windows-10-19) / 1%
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程 by 秋聲，黃志堅](https://www.tenlong.com.tw/products/9789864341757) / 0%
-1. [王者歸來：自己動手寫網路爬蟲 (2/e) by 羅剛、王振東](https://www.tenlong.com.tw/products/9789863793335) / 0%
+1. [王者歸來：自己動手寫網路爬蟲, 2/e by 羅剛、王振東](https://www.tenlong.com.tw/products/9789863793335) / 0%
 1. [精通 Linux (How Linux Works) by Brian Ward](http://www.tenlong.com.tw/items/711539492X) / 0%
 1. [區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌 by 徐明星、劉勇、段新星、郭大治](https://www.tenlong.com.tw/products/9789869392112) / 0%
 1. [眼球中央電視台 — 《華報》四月創刊號 by 動眼神經](https://www.kobo.com/tw/zh/ebook/og_uub6fzd-h1aqpf0ka1a) / 1%
