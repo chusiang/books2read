@@ -329,6 +329,7 @@
 1. [OGSM 打造高敏捷團隊 by 張敏敏](https://www.kobo.com/tw/zh/ebook/ogsm-1) / 1%
 1. [Agile 成功法則：敏捷實作者的解決方案 (Real World Agility: Practical Guidance for Agile Practitioners) by Daniel James Gullo](https://www.tenlong.com.tw/products/9789864763153) / 1%
 1. [原來你才是絆腳石：企業敏捷轉型失敗都是因為領導者，你做對了嗎？ by Jutta Eckstein, John Buck](https://www.tenlong.com.tw/products/9789864343140) / 1%
+1. [敏捷解密：內行人的敏捷企業轉型指南 by Jorgen Hesselberg](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6896169) / 1%
 1. [告別瀑布，擁抱 Scrum：解析微軟與 Adobe 如何在 30 天內開發出新軟體 (Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust) by Ken Schwaber, Jeff Sutherland](https://www.tenlong.com.tw/products/9789862019542) / 1%
 1. [笑談軟體工程：敏捷開發法的逆襲－導入 Scrum，讓你的軟體開發人生從黑白變彩色！ by 陳建村](http://www.tenlong.com.tw/items/9866072959?item_id=456838) / 15%
 1. [用戶故事與敏捷方法 by Mike Cohn](https://www.tenlong.com.tw/products/9787302223405) / 1%
@@ -408,7 +409,7 @@
 1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [Python 初學特訓班：從快速入門到主流應用全面實戰，4/e by 鄧文淵](https://www.tenlong.com.tw/products/9789865025533) / 1%
 1. [Python 好好玩：趣學電玩遊戲程式設計 by Al Sweigart](https://www.books.com.tw/products/0010765722) / 1%
-1. [Python 駭客密碼：加密、解密與破解實例應用 by Al Sweigart](https://www.tenlong.com.tw/products/9789865020804) / 0%
+1. [Python 駭客密碼：加密、解密與破解實例應用 by Al Sweigart](https://www.tenlong.com.tw/products/9789865020804) / 1%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作, 2/e (Automate the Boring Stuff with Python: Practical Programming for Total Beginners, 2/e) by Al Sweigart](https://www.tenlong.com.tw/products/9789865025977) / 0%
 1. [Selenium 2 自動化測試實戰—基於 Python 語言 by 蟲師](https://www.tenlong.com.tw/products/9787121278532) / 2%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development) by Kenneth Reitz, Tanya Schlusser](https://www.tenlong.com.tw/products/9789864762859) / 1%
@@ -417,8 +418,11 @@
 1. [It's Django--用 Python 迅速打造 Web 應用 by 袁克倫、楊孟穎](http://www.tenlong.com.tw/items/9863475467) / 4% [出借中]
 1. [Learn Vimscript the Hard Way by Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) / 1%
 1. [大話重構 by 范鋼](http://www.tenlong.com.tw/items/9864340468) / 1%
+1. [重構：改善既有程式的設計 (2/e) by Martin Fowler](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6817126) / 1%
+1. [Working Effectively with Legacy Code 中文版：管理、修改、重構遺留程式碼的藝術 by Michael Feathers](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7801855) / 1%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code) by Pete Goodliffe](https://www.tenlong.com.tw/items/9863475696) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages) by Federico Biancuzzi, Shane Warden](http://www.tenlong.com.tw/items/9862767170) / 0%
+1. [領域驅動設計：軟體核心複雜度的解決方法 by Eric Evans](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7801861) / 1%
 1. [顧爸媽，這樣做最安心：15 項迷思 ╳ 18 種常見老年病 ╳ 25 則日常伴老須知，台大老年醫學權威詹鼎正親自解惑 by 詹鼎正](https://www.kobo.com/tw/zh/ebook/5AuNAebKADOYt4aJ5QjZkg) / 1%
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
