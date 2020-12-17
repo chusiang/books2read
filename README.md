@@ -49,6 +49,7 @@
 1. [Specification by Example：團隊如何交付正確的軟體 by Gojko Adzic](https://www.books.com.tw/products/0010644283) / 1%
 1. [Google 地圖革命：從 Google 地圖、地球、街景到「精靈寶可夢 GO」的科技傳奇內幕 by Bill Kilday](https://www.kobo.com/tw/zh/ebook/google-google-go) / 1%
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
+1. [人生勝利聖經：向 100 位世界強者學習健康、財富和人生智慧 by Timothy Ferriss](https://www.kobo.com/tw/zh/ebook/AxSGcvlwQDK0EL5t3f1Acg) / 1%
 1. [動盪：國家如何化解危局、成功轉型？ by Jared Diamond](https://www.kobo.com/tw/zh/ebook/qLr1OoppfDKe0dfaeZ5HKw) / 1%
 1. [起床後的黃金 1 小時：揭開 64 位成功人士培養高效率的祕密時光，從他們的創意晨型活動中，建立屬於自己的高生產力、高抗壓生活習慣 by Benjamin Spall, Michael Xander](https://www.kobo.com/tw/zh/ebook/kW9AVCcdgzynezK86dZC6g) / 1%
 1. [少才是力量 by Leo Babauta](https://www.kobo.com/tw/zh/ebook/SOObDNLqbTeKP6DFUL_fug) / 1%
@@ -319,6 +320,7 @@
 1. [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264) / 3%
 1. [網站可靠性工程工作手冊：導入 SRE 的實用方法 (The Site Reliability Workbook) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy](https://www.tenlong.com.tw/products/9789865026011) / 1%
 1. [資訊架構學, 4/e (Information Architecture: For the Web and Beyond, 4/e) by Louis Rosenfeld, Peter Morville, Jorge Arango](https://www.tenlong.com.tw/products/9789864766734) / 1%
+1. [風險之書：看人類如何探索、衡量，進而戰勝風險 by Peter L. Bernstein](https://www.kobo.com/tw/zh/ebook/_QoeTFSL4jurPc428psqVg) / 1%
 1. [資安風險評估指南 (Network Security Assessment, 3/e) by Chris McNab](https://www.tenlong.com.tw/products/9789864765478) / 1%
 1. [TED X 邏輯思維 | 今周刊](https://www.businesstoday.com.tw/book/category/80435/detail/201710240002) / 1%
 1. [跟 TED 學表達，讓世界記住你：用更有說服力的方式行銷你和你的構想 (Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds) by Carmine Gallo](https://www.tenlong.com.tw/products/9789861342313) / 1%
