@@ -422,7 +422,7 @@
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development) by Kenneth Reitz, Tanya Schlusser](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [Python 網絡爬蟲權威指南, 2/e by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
 1. [終極厚黑學：巧玩交際，成功不再遙不可及 by 李宗吾](https://www.kobo.com/tw/zh/ebook/OTkpABdqvju7xCZdHbTjFA) / 1%
-1. [It's Django--用 Python 迅速打造 Web 應用 by 袁克倫、楊孟穎](http://www.tenlong.com.tw/items/9863475467) / 4% [出借中]
+1. [It's Django--用 Python 迅速打造 Web 應用 by 袁克倫、楊孟穎](http://www.tenlong.com.tw/items/9863475467) / 4%
 1. [Learn Vimscript the Hard Way by Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) / 1%
 1. [修改軟體的藝術：構建易維護代碼的 9 條最佳實踐 by David Scott Bernstein](https://www.amazon.cn/dp/B078N348X8) / 1%
 1. [大話重構 by 范鋼](http://www.tenlong.com.tw/items/9864340468) / 1%
