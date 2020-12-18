@@ -424,8 +424,10 @@
 1. [終極厚黑學：巧玩交際，成功不再遙不可及 by 李宗吾](https://www.kobo.com/tw/zh/ebook/OTkpABdqvju7xCZdHbTjFA) / 1%
 1. [It's Django--用 Python 迅速打造 Web 應用 by 袁克倫、楊孟穎](http://www.tenlong.com.tw/items/9863475467) / 4% [出借中]
 1. [Learn Vimscript the Hard Way by Steve Losh](http://learnvimscriptthehardway.stevelosh.com/) / 1%
+1. [修改軟體的藝術：構建易維護代碼的 9 條最佳實踐 by David Scott Bernstein](https://www.amazon.cn/dp/B078N348X8) / 1%
 1. [大話重構 by 范鋼](http://www.tenlong.com.tw/items/9864340468) / 1%
 1. [重構：改善既有程式的設計, 2/e by Martin Fowler](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=6817126) / 1%
+1. [重構與模式 by Joshua Kerievsky](https://www.amazon.cn/dp/B01HZFH2W6) / 1%
 1. [Working Effectively with Legacy Code 中文版：管理、修改、重構遺留程式碼的藝術 by Michael Feathers](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7801855) / 1%
 1. [成為卓越程式設計師的 38 項必修法則 (Becoming a Better Programmer: A Handbook for People Who Care About Code) by Pete Goodliffe](https://www.tenlong.com.tw/items/9863475696) / 1%
 1. [程式設計大師智慧結晶－與主流程式語言的創始者對話 (Masterminds of Programming: Conversations with the Creators of Major Programming Languages) by Federico Biancuzzi, Shane Warden](http://www.tenlong.com.tw/items/9862767170) / 0%
