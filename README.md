@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
 1. [如果人生有地圖：走過 1000 位人生專家的生命軌跡，帶你找到更好的自己 by Karl Pillemer Ph.D.](https://gitlab.com/snippets/1732152) / 81.2%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [Harbor 權威指南：容器鏡像、Helm Chart 等雲原生製品的管理與實踐 by 張海寧](https://www.tenlong.com.tw/products/9787121396854) / 3.4%
@@ -71,7 +72,6 @@
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [高績效心智：全新聰明工作學，讓你成為最厲害的 1% by Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/7c6dd02d-b6f4-415b-a686-1ad40773ad9d) / 1%
 1. [最高學以致用法：讓學習發揮最大成果的輸出大全 (The power of output) by 樺澤紫苑](https://www.kobo.com/tw/zh/ebook/aRT610crqjG_peVWQdGNEw) / 1%
-1. [教你用手機也能拍出日系唯美的夢幻人像：幸福照相館 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
 1. [我要準時下班 by 朱野歸子](https://www.kobo.com/tw/zh/ebook/LCfCAoDlPDilvC9d_QU0gg) / 1%
