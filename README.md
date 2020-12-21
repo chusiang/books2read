@@ -616,6 +616,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (4)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_4?id=3WorDwAAQBAJ) / 200%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (14) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/kmBHz9d_ZjWX-TdS5qyYpA) / 100%
 1. [[奇幻小說] 龍族 (01)：向太陽奔馳的馬 by 李榮道](https://share.readmoo.com/book/478562) / 300%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (15) by 愛七ひろ](https://www.kobo.com/tw/en/ebook/8ppdJ3SjEj6ZGVK-WdT1oQ) / 100%
 1. [[輕小說] 盾之勇者成名錄 (01) by アネコユサギ](https://play.google.com/store/books/details?id=fip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 1. [[輕小說] 盾之勇者成名錄 (02) by アネコユサギ](https://play.google.com/store/books/details?id=oCp8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
 1. [[輕小說] 盾之勇者成名錄 (03) by アネコユサギ](https://play.google.com/store/books/details?id=0ip8DwAAQBAJ&pcampaignid=books_web_aboutlink) / 100%
