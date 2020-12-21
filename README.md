@@ -14,9 +14,11 @@
 
 ## 待讀書單
 
-1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
 1. [如果人生有地圖：走過 1000 位人生專家的生命軌跡，帶你找到更好的自己 by Karl Pillemer Ph.D.](https://gitlab.com/snippets/1732152) / 81.2%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (15) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/da5e3ec2-d2e0-4014-88e8-e75896415b0d) / 1%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (16) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/bwhuJf5TijWKqRR3SLdPhg) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
+1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
 1. [Harbor 權威指南：容器鏡像、Helm Chart 等雲原生製品的管理與實踐 by 張海寧](https://www.tenlong.com.tw/products/9787121396854) / 3.4%
 1. [突破困境：資安開源工具應用 by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864345465) / 4.1%
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 3%
@@ -151,6 +153,7 @@
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
 1. [圖解日本風俗 by 新谷尚紀](https://www.taaze.tw/usedList.html?oid=11100803100) / 2%
 1. [圖解日本神社入門 by 櫻井治男](https://www.books.com.tw/products/0010732305) / 1%
+1. [工作與生活的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/DAxFNJIRJDe0h-1EuAb0Qg) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
 1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
 1. [懶人圖解簡報術：把複雜知識變成一看就秒懂的圖解懶人包 by 林長揚](https://www.kobo.com/tw/zh/ebook/67bb5ef9-5a5c-4981-a97a-33978b9907da) / 1%
