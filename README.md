@@ -412,7 +412,6 @@
 1. [駭客與畫家－電腦世紀的大觀念 (Hackers and Painters: Big Ideas from the Computer Age) by Paul Graham](https://www.tenlong.com.tw/items/9867794699) / 1%
 1. [易讀程式之美學－提升程式碼可讀性的簡單法則 (The Art of Readable Code) by Dustin Boswell, Trevor Foucher](http://www.tenlong.com.tw/items/9862767197) / 1%
 1. [程式設計人應該知道的 97 件事：來自專家的集體智慧 (97 Things Every Programmer Should Know: Collective Wisdom from the Experts) by Kevlin Henney](https://www.taaze.tw//goods/11100720381.html) /1%
-
 1. [GNU Make 專案開發工具, 3/e by Robert Mecklenburg](http://m.sanmin.com.tw/Product/Index/99p155S10C104v84R109v73V107T124FZZwNQl108QpW) / 1%
 1. [深入淺出 Python (Head First Python) by Paul Barry](http://www.tenlong.com.tw/items/9862763485) / 2%
 1. [Python 初學特訓班：從快速入門到主流應用全面實戰，4/e by 鄧文淵](https://www.tenlong.com.tw/products/9789865025533) / 1%
