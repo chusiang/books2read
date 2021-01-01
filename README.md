@@ -14,8 +14,11 @@
 
 ## 待讀書單
 
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 - 眷族編年史 (1)：琉 by 大森 藤ノ](https://www.kobo.com/tw/en/ebook/episode-17) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 - 眷族編年史 (2)：芙蕾雅 by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/71578615-2ed4-44dd-94a8-3e0446cbfcf0) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
+1. [哈佛醫學院的 SMART 壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案 by 王芳](https://www.kobo.com/tw/zh/ebook/smart-18) / 1%
 1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
 1. [Harbor 權威指南：容器鏡像、Helm Chart 等雲原生製品的管理與實踐 by 張海寧](https://www.tenlong.com.tw/products/9787121396854) / 3.4%
 1. [突破困境：資安開源工具應用 by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864345465) / 4.1%
@@ -30,6 +33,7 @@
 1. [間歇高效率的番茄工作法：25 分鐘，打造成功的最小單位，幫你杜絕分心、提升拚勁 by Francesco Cirillo](https://www.kobo.com/tw/zh/ebook/klZntOq89TWT6StyeRPIxw/1zBw2vuCFUC43IGCrMOlBA) / 25%
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [零規則：高人才密度 x 完全透明 x 最低管控，首度完整直擊 Netflix 圈粉全球的關鍵祕密 by Reed Hastings, Erin Meyer](https://www.kobo.com/tw/zh/ebook/xx-netflix) / 1%
+1. [Instagram 崛起的內幕與代價：以及它如何改變了文化、商業、科技、媒體，與我們每一個人 by Sarah Frier](https://www.kobo.com/tw/zh/ebook/instagram-10) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (12)：Alicization rising by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_12?id=nEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (13)：Alicization dividing by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_13?id=qEM1DwAAQBAJ) / 1%
@@ -44,6 +48,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (22): Kiss and fly by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_22?id=g2L4DwAAQBAJ) / 0%
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
 1. [企鵝公路 by 森見登美彥](https://www.taaze.tw/usedList.html?oid=11100867094) / 1%
+1. [雲圖 (3/e)](https://www.kobo.com/tw/zh/ebook/O97VjXDMxDKw8dp5WW4IZQ) / 1%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
 1. [Specification by Example：團隊如何交付正確的軟體 by Gojko Adzic](https://www.books.com.tw/products/0010644283) / 1%
@@ -330,6 +335,7 @@
 1. [高績效教練：有效帶人、激發潛力的教練原理與實務 (25 週年紀念增訂版) by Sir John Whitmore](https://www.kobo.com/tw/zh/ebook/dWdwfC_O0DO2EXZvuCckBg) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/book/02fb8311-bc7c-4514-8069-7be05e6a1df0) / 1%
 1. [重塑組織：進化型組織的創建之道 by Frederic Laloux](https://www.amazon.cn/dp/B071F2R1CJ/?coliid=I3FE6DGOPR5QAD&colid=10W4M94DX23ZL) / 1%
+1. [唐鳳：我所看待的自由與未來 by 丘美珍, 鄭仲嵐](https://www.kobo.com/tw/zh/ebook/c3183bd0-9747-4634-a61d-8880bbeb5cb6) / 1%
 1. [我的人生簡史 by Stephen Hawking](https://www.kobo.com/tw/zh/ebook/iywxA-PV3j-mhpMCn3nlIg) / 1%
 1. [貝佐斯傳 by Brad Stone](https://www.kobo.com/tw/zh/ebook/lGiR_DudRjqkAoDZ808Aig) / 1%
 1. [一個人的獲利模式：用這張圖，探索你未來要走的路 (Business Model You) by Tim Clark , Alexander Osterwalder , Yves Pigneur](https://www.tenlong.com.tw/products/9789866613890) / 1%
@@ -356,8 +362,9 @@
 1. [Prometheus 學習手冊 by Brian Brazil](https://www.tenlong.com.tw/products/9787519843182) / 1%
 1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
-1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators) by Thomas A. Limoncelli](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
+1. [三個月交不出成果，就等於失敗！告別無效努力的 Google 三個月循環工作術 by 佐佐木大輔](https://www.kobo.com/tw/zh/ebook/google-35) / 1%
+1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
 1. [管理就像一齣戲：皇家莎士比亞劇團導演教你，完美扮演領導者，激發團隊創造力 by Piers Ibbotson](https://www.kobo.com/tw/zh/ebook/efkR8GT9tDOEUkLF_BrmsA) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
@@ -479,7 +486,7 @@
 1. [[奇幻小說] 飢餓遊戲 Ⅰ by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/YFFwvgDBDzqjgvlz-fypmw) / 1%
 1. [[奇幻小說] 飢餓遊戲 Ⅱ：星火燎原 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/Dx4Wlm2ucD-mIhOJAO3swg) / 1%
 1. [[奇幻小說] 飢餓遊戲 Ⅲ：自由幻夢 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/W9FT8wYG8zql38GW48wHrg) / 1%
-1. [[奇幻小說] 飢餓遊戲前傳：鳴鳥與游蛇之歌 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/2ix3TLjUvzSoS6qxTBnAbw) / 0%
+1. [[奇幻小說] 飢餓遊戲前傳：鳴鳥與游蛇之歌 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/2ix3TLjUvzSoS6qxTBnAbw) / 1%
 1. [[奇幻小說] 魔戒首部曲：魔戒現身 (The Lord of The Rings: The Fellowship of The Ring) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/FFUD1y38nTa7TcJWayWCGA) / 1%
 1. [[奇幻小說] 魔戒二部曲：雙城奇謀 (The Lord of The Rings: The Two Towers) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/NabPTYC6JDiefbG35Dsrcw) / 1%
 1. [[奇幻小說] 魔戒三部曲：王者再臨 (The Lord of The Rings: The Return of The King) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/DKCLnN7lED6UQ_pR1E__yA) / 1%
@@ -603,6 +610,7 @@
 1. [[奇幻小說] 龍族Ⅱ - Future Walker (07)：等待的海岸 by 李榮道](https://share.readmoo.com/book/265424) / 100%
 1. [神經喚術士 by William Gibson](https://www.kobo.com/tw/zh/ebook/2287f07e-d27d-404f-920f-eba7691cd7d3) / 1%
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
+1. [第 8 號當舖 (復刻版) by 深雪](https://www.kobo.com/tw/zh/ebook/w1RikVCtEz-15CCd_FPWmw) / 1%
 
 ## 已讀書單
 
