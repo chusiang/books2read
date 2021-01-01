@@ -27,6 +27,7 @@
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [基礎架構即程式碼：管理雲端伺服器 (Infrastructure as Code: Managing Servers in the Cloud) by Kief Morris](https://www.tenlong.com.tw/products/9789864763382) / 0%
+1. [佈線系統的設計、施工、營運手冊 by 李裕後 (Leo Lee)](http://www.tbcxa.org.tw/archives/1477) / 1%
 1. [影響地圖：讓你的軟體產生真正的影響力 by Gojko Adzic](https://www.ituring.com.cn/book/1395) / 1%
 1. [下世代超前佈署：用 Zabbix 全面監管巨量伺服器 by 吳兆松](https://www.tenlong.com.tw/products/9789865501471) / 2%
 1. [Zabbix 監控系統深度實踐, 2/e by 姚仁捷](https://gist.github.com/chusiang/f79c645b469f064bd6dfe0a4ddcae83a) / 30%
