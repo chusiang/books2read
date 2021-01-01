@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (16) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/bwhuJf5TijWKqRR3SLdPhg) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
@@ -606,6 +605,10 @@
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
 
 ## 已讀書單
+
+### 2021
+
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (16) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/bwhuJf5TijWKqRR3SLdPhg) / 100%
 
 ### 2020
 
