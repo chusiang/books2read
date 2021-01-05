@@ -335,6 +335,7 @@
 1. [有錢人想的和你不一樣 by T. Harv Eker](https://www.kobo.com/tw/zh/book/81dc70e8-2983-45c2-acf9-8a76bcc4e295) / 1%
 1. [高績效教練：有效帶人、激發潛力的教練原理與實務 (25 週年紀念增訂版) by Sir John Whitmore](https://www.kobo.com/tw/zh/ebook/dWdwfC_O0DO2EXZvuCckBg) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/book/02fb8311-bc7c-4514-8069-7be05e6a1df0) / 1%
+1. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) / 1%
 1. [重塑組織：進化型組織的創建之道 by Frederic Laloux](https://www.amazon.cn/dp/B071F2R1CJ/?coliid=I3FE6DGOPR5QAD&colid=10W4M94DX23ZL) / 1%
 1. [唐鳳：我所看待的自由與未來 by 丘美珍, 鄭仲嵐](https://www.kobo.com/tw/zh/ebook/c3183bd0-9747-4634-a61d-8880bbeb5cb6) / 1%
 1. [我的人生簡史 by Stephen Hawking](https://www.kobo.com/tw/zh/ebook/iywxA-PV3j-mhpMCn3nlIg) / 1%
