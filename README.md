@@ -18,6 +18,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 49%
 1. [哈佛醫學院的 SMART 壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案 by 王芳](https://www.kobo.com/tw/zh/ebook/smart-18) / 1%
+1. [高品質軟體文件：持續分享技術與知識 (Living Documentation: Continuous Knowledge Sharing by Design) by Cyrille Martraire](https://www.tenlong.com.tw/products/9789865024871) / 1%
 1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
 1. [Harbor 權威指南：容器鏡像、Helm Chart 等雲原生製品的管理與實踐 by 張海寧](https://www.tenlong.com.tw/products/9787121396854) / 3.4%
 1. [突破困境：資安開源工具應用 by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864345465) / 4.1%
