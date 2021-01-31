@@ -470,6 +470,55 @@
 1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術 by Mischa Taylor, Seth Vargo](http://www.tenlong.com.tw/items/7302433909) / 38% ~~
 1. ~~ [入門 Chef Solo - Infrastructure as Code by 伊藤直也](http://tatsu-zine.com/books/chef-solo) / 1% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成 by 劉至浩, 孫以陶](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [魔法科高中的劣等生 (01) - 入學篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//07a06c3c-fcf2-4d58-8660-bbcf299b7861) / 1%
+1. [魔法科高中的劣等生 (02) - 入學篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//196499e7-aa04-43e3-bd37-a56b622e681d) / 1%
+1. [魔法科高中的劣等生 (03) - 九校戰篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//bd946005-1f83-4a94-b2e2-870e314b3e3d) / 1%
+1. [魔法科高中的劣等生 (04) - 九校戰篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//4974f418-eafa-4644-a5c6-8d922c48fef6) / 1%
+1. [魔法科高中的劣等生 (05) - 暑假篇+1 by 佐島勤](https://store.kobobooks.com/en-tw/book//31329b1d-694b-470c-b561-e6cfb043cdd0) / 1%
+1. [魔法科高中的劣等生 (06) - 橫濱騷亂篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//c298f9b0-bc26-49d0-a0ec-822baa7a109b) / 1%
+1. [魔法科高中的劣等生 (07) - 橫濱騷亂篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//3af117ee-f0ce-4ef9-8ab1-32d77830e5f1) / 1%
+1. [魔法科高中的劣等生 (08) - 追憶篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//ba19f3ac-4c7c-42e9-8547-2ee9aa695d3a) / 1%
+1. [魔法科高中的劣等生 (09) - 來訪者篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//51458121-d0cd-4341-ac83-ddf53bd09566) / 1%
+1. [魔法科高中的劣等生 (10) - 來訪者篇＜中＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//3614bab5-2ebf-4035-ae57-e6bfc1abd1e3) / 1%
+1. [魔法科高中的劣等生 (11) - 來訪者篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//135228b3-280a-4a18-abc8-a5f2e81864ee) / 1%
+1. [魔法科高中的劣等生 (12) - 雙七篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//891a2599-adc6-4cb8-92cb-bea4fb57779c) / 1%
+1. [魔法科高中的劣等生 (13) - 越野障礙篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//ede94601-6f88-461f-886e-5a1089b35b91) / 1%
+1. [魔法科高中的劣等生 (14) - 古都內亂篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//030e6b19-cda5-4087-abf4-4229542ece7d) / 1%
+1. [魔法科高中的劣等生 (15) - 古都內亂篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//690cbdf7-89f6-4368-a3a0-932bf3b6e7fc) / 1%
+1. [魔法科高中的劣等生 (16) - 四葉繼承篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//67667ce3-01f0-416e-8188-b38f46b96cc7) / 1%
+1. [魔法科高中的劣等生 (17) - 師族會議篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//43fa23fe-c940-4473-bf17-ff1147c43704) / 1%
+1. [魔法科高中的劣等生 (18) - 師族會議篇＜中＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//8867c320-a5fe-4c6b-99b9-e4e184d8cc61) / 1%
+1. [魔法科高中的劣等生 (19) - 師族會議篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//6f3b7a98-e1ce-4f72-a835-5041b59d709a) / 1%
+1. [魔法科高中的劣等生 (20) - 南海騒擾篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//ebc0e706-5156-4af7-b1ef-49e8773d6c3f) / 1%
+1. [魔法科高中的劣等生 (21) - 動亂的序章篇〈上〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//e5a4f5c2-9eb8-45c2-a604-81a825e3a043) / 1%
+1. [魔法科高中的劣等生 (22) - 動亂的序章篇〈下〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//096fa9e6-3e48-4178-a26e-8758b6a457fc) / 1%
+1. [魔法科高中的劣等生 (23) - 孤立篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//a9e04838-9fd0-416d-a53e-c6931769e719) / 1%
+1. [魔法科高中的劣等生 (24) - 逃離篇〈上〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//03088a69-fb3c-48e2-a130-abe3313a0cea) / 1%
+1. [魔法科高中的劣等生 (25) - 逃離篇〈下〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//5761e220-101d-4939-a4dd-386735f545df) / 1%
+1. [魔法科高中的劣等生 (26) - 入侵篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//94ddb433-2df7-4416-821d-25e740bb6878) / 1%
+1. [魔法科高中的劣等生 (27) - 急轉篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//2943301a-1974-4298-bba6-a0ca09d9fb5f) / 1%
+1. [魔法科高中的劣等生 (28) - 追蹤篇〈上〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//ef206514-db15-4921-b629-3e665d3b25b7) / 1%
+1. [魔法科高中的劣等生 (29) - 追蹤篇〈下〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//3e68248d-c2f6-4821-9425-cb05d2b252fe) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (01) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/c152eff5-83b6-49c4-af7a-7d14d2529941) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (02) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/xiD2EmuwHze7MACJCZKlvA) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (03) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/0rwK9JIE7zK23IpW-yTxuQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (04) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/T_uk3eKx_j-gvAL2kwIJbQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (05) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/6JflmuWDvDC1lMQpnjXerw) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (06) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/Y9H_6dcPBz-yCw0luk0QUA) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (07) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/vQsMtqGEJT-BvVSm50YzyQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (08) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/RAlH1xdtNjenguvkUBnt3w) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (09) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/-CVsIIoKRTy9ZYW0YlxvDQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (10) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/6emQ25PlBTm6xNEP6FsSZg) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (11) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/bBVfJZSaGTmTlSVJ6VnUuQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (12) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/CKQnyNQKzzqzyDJvmprybw) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (13) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/d-lC8oLhlzypaj7N6Sph1w) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (14) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/yu2xkEEUZzShYkYiqFElDA) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (15) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/o5ILVCuZUjq5rIMI0icNag) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (16) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/SPwoHMHSrTKMpCVaejFdfQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (17) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/rDngbWaJUDy8IGQLJvRGyQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (18) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/P5rKvJdpGDq6dk3qSto73Q) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (19) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/gOlmRcDmWzaC6KBGJ-KdJQ) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (20) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/Z32Qq8BeRzih0_WC-sVOcA) / 0%
 1. [輕小說] Slayers！秀逗魔導士 01 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 02：亞特拉斯的魔導士 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 03：賽拉格的妖魔 by 神坂一
@@ -613,6 +662,7 @@
 1. [神經喚術士 by William Gibson](https://www.kobo.com/tw/zh/ebook/2287f07e-d27d-404f-920f-eba7691cd7d3) / 1%
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
 1. [第 8 號當舖 (復刻版) by 深雪](https://www.kobo.com/tw/zh/ebook/w1RikVCtEz-15CCd_FPWmw) / 1%
+1. [幼女戰記 (01) by カルロ・ゼン](https://www.kobo.com/tw/zh/ebook/aWfA8xUhvz2X-mBw7SMMyw) / 0%
 
 ## 已讀書單
 
