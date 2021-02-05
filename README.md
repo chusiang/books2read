@@ -103,6 +103,7 @@
 1. [疫苗：兩種恐懼的拔河 by Eula Biss](https://www.kobo.com/tw/zh/ebook/qXejG-JOcTWOdeEJGDskGg) / 1%
 1. [獨家揭密：那些大型企業確保 IT 系統正常運作的奧密 by 陳紹英, 周志龍, 金成姬](https://www.tenlong.com.tw/products/9789863797128) / 1%
 1. [全棧性能測試修煉寶典：JMeter 實戰 by 陳志勇, 馬利偉,萬龍](https://www.tenlong.com.tw/products/9787115437228) / 1%
+1. [RESTful Web Clients 技術手冊 (RESTful Web Clients: Enabling Reuse Through Hypermedia) by Mike Amundsen](https://www.tenlong.com.tw/products/9789864766994) / 1%
 1. [晉陞成 HTTP 一代宗師：用 java 實作 by 肖佳](https://www.tenlong.com.tw/products/9789863797388) / 1%
 1. [自由軟體，自由社會 ("Free Software, Free Society"), 3/e by Richard M. Stallman](https://github.com/beijinglug/fsfs-zh) / 19%
 1. [我用打工學習這個世界：有關挫折、辛酸、老闆、現實社會，以及工作的 27 種樣貌 by 黃海樹](https://www.kobo.com/tw/en/ebook/5mk9TfBN7zWPpCfqDMi-4g) / 1%
