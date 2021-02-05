@@ -120,6 +120,7 @@
 1. [永久檔案 (Permanent Record) by Edward Snowden](https://www.kobo.com/tw/zh/ebook/uoWFqH14NDyC40H4hITjKg) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
+1. [極簡溝通：世界一流菁英都在用的最強說話術！只要 1 分鐘，提案、簡報、開會、主持、洽商，統統搞定！by 伊藤羊一](https://www.kobo.com/tw/zh/ebook/eiiaua_JqT-PBfwoNpwpRw) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [五項修練的故事 (合訂版) by David Hutchens](https://www.kobo.com/tw/zh/ebook/hP0NVtITtjC990b1eQdRdg) / 1%
