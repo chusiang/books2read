@@ -53,7 +53,6 @@
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
 1. [Specification by Example：團隊如何交付正確的軟體 by Gojko Adzic](https://www.books.com.tw/products/0010644283) / 1%
 1. [Google 地圖革命：從 Google 地圖、地球、街景到「精靈寶可夢 GO」的科技傳奇內幕 by Bill Kilday](https://www.kobo.com/tw/zh/ebook/google-google-go) / 1%
-1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.books.com.tw/products/0010473958) / 1%
 1. [人生勝利聖經：向 100 位世界強者學習健康、財富和人生智慧 by Timothy Ferriss](https://www.kobo.com/tw/zh/ebook/AxSGcvlwQDK0EL5t3f1Acg) / 1%
 1. [動盪：國家如何化解危局、成功轉型？ by Jared Diamond](https://www.kobo.com/tw/zh/ebook/qLr1OoppfDKe0dfaeZ5HKw) / 1%
 1. [起床後的黃金 1 小時：揭開 64 位成功人士培養高效率的祕密時光，從他們的創意晨型活動中，建立屬於自己的高生產力、高抗壓生活習慣 by Benjamin Spall, Michael Xander](https://www.kobo.com/tw/zh/ebook/kW9AVCcdgzynezK86dZC6g) / 1%
@@ -673,6 +672,7 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (16) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/bwhuJf5TijWKqRR3SLdPhg) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 - 眷族編年史 (1)：琉 by 大森 藤ノ](https://www.kobo.com/tw/en/ebook/episode-17) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 - 眷族編年史 (2)：芙蕾雅 by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/71578615-2ed4-44dd-94a8-3e0446cbfcf0) / 100%
+1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.taaze.tw/goods/11308023181.html) / 100%
 
 ### 2020
 
