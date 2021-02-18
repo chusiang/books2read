@@ -73,7 +73,7 @@
 
 1. [杜拉克精選 - 個人篇](https://bookzone.cwgv.com.tw/books/details/BCB238) ✔
 2. [非常識成功法則](https://www.books.com.tw/products/0010427180?sloc=main)
-3. [你工作快樂嗎](https://www.taaze.tw/usedList.html?oid=11100021404) ✔
+3. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) ✔
 4. [天才老板與偉大員工 (The Gifted Boss)](https://www.taaze.tw/usedList.html?oid=11100396187)
 5. [活得聰明活得好](https://www.taaze.tw/usedList.html?oid=11100326926) ✔
 6. [如何搞定恐龍與犀牛](https://www.books.com.tw/products/0010188694?sloc=main)
