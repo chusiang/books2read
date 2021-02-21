@@ -232,6 +232,7 @@
 1. [五秒法則 by Mel Robbins](https://www.kobo.com/tw/zh/ebook/e81d8522-f414-430c-9652-fd5017dcb672) / 1%
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [管理學一定要懂的 10 個經典理論 | 經理人月刊 No.153](https://www.kobo.com/tw/zh/ebook/qfz9TkYDoDydIoaEUYzgYA) / 1%
+1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
 1. [溫伯格的軟體管理學 - 第 1 卷：系統化思考 (Quality Software Management, Volume 1: Systems Thinking) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
