@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [我的英雄學院 (27) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/IlMu1tB1eDSn8eiMGbSMOQ) / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
 1. [食戟之靈 (31) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/56207) / 0%
 1. [食戟之靈 (32) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/61845) / 0%
@@ -125,6 +124,7 @@
 
 1. [我的英雄學院 (25) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/dCfWSULW4DCKdcCn9wkuWg) / 100%
 1. [我的英雄學院 (26) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/8KxrYV_VXDSBaPmMZ6x6mw) / 100%
+1. [我的英雄學院 (27) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/IlMu1tB1eDSn8eiMGbSMOQ) / 100%
 
 ### 2020
 
