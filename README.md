@@ -369,6 +369,7 @@
 1. [三個月交不出成果，就等於失敗！告別無效努力的 Google 三個月循環工作術 by 佐佐木大輔](https://www.kobo.com/tw/zh/ebook/google-35) / 1%
 1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
 1. [管理就像一齣戲：皇家莎士比亞劇團導演教你，完美扮演領導者，激發團隊創造力 by Piers Ibbotson](https://www.kobo.com/tw/zh/ebook/efkR8GT9tDOEUkLF_BrmsA) / 1%
+1. [約耳續談軟體：探究軟體經營的根本實學](https://www.taaze.tw/goods/11311037230.html) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用, 2/e by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%

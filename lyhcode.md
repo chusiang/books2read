@@ -1,4 +1,4 @@
-# 資訊人一生必讀的 30 本經典書籍 | lyhcode 
+# 資訊人一生必讀的 30 本經典書籍 | lyhcode
 
 希望每天分享一本好書，讓我們一起透過閱讀的力量，重新發現身為資訊人，此生追尋的永恆目標及價值。這個主題希望透過拋磚引玉的方式，讓更多人參與討論及分享，相信大家口袋裡都有不少好書清單，歡迎不吝分享～～～
 
@@ -10,7 +10,7 @@
 1. [駭客與畫家](http://ithelp.ithome.com.tw/question/10102881) ✔
 1. [與熊共舞：軟體專案的風險管理](http://ithelp.ithome.com.tw/question/10103261)
 1. [網路不斷革命論](http://ithelp.ithome.com.tw/question/10103549)
-1. [約耳趣談軟體、約耳續談軟體](http://ithelp.ithome.com.tw/question/10103815)
+1. [約耳續談軟體：探究軟體經營的根本實學](http://ithelp.ithome.com.tw/question/10103815) ✔
 1. [團隊之美 - 資深團隊領導人物陳述發人深省並引以為鑑的經歷](http://ithelp.ithome.com.tw/question/10104193) ✔
 1. [溫伯格的軟體管理學](http://ithelp.ithome.com.tw/question/10104534) ✔
 1. [編程的頂尖對話：閱讀 15 位軟體大師的核心思維](http://ithelp.ithome.com.tw/question/10104849)
@@ -20,7 +20,7 @@
 1. [軟體構築美學：當專案團隊遇上失控程式，最真實的解決方案](http://ithelp.ithome.com.tw/question/10106133)
 1. [ThoughtWorks Anthology](http://ithelp.ithome.com.tw/question/10106452)
 1. [擁抱未來](http://ithelp.ithome.com.tw/question/10106867)
-1. [Just For Fun](http://ithelp.ithome.com.tw/question/10107133)
+1. [Just For Fun](http://ithelp.ithome.com.tw/question/10107133) ✔
 1. [科技頑童沃茲尼克](http://ithelp.ithome.com.tw/question/10107316)
 1. [勇闖資訊新未來：打造資訊科技的幕後英雄](http://ithelp.ithome.com.tw/question/10107609)
 1. [敏捷軟體開發：原則、樣式及實務](http://ithelp.ithome.com.tw/question/10107721)
