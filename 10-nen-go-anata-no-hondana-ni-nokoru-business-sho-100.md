@@ -33,28 +33,28 @@
 ### 終極的 10 本書
 
 1. 浪花金融道
-2. [小倉昌男經營學：宅急便的成功秘密](https://www.books.com.tw/products/0010105749?sloc=main)
+2. [小倉昌男經營學：宅急便的成功秘密](https://www.books.com.tw/products/0010105749)
 3. [不管怎樣，還是要 - 瘋狂世界，矛盾十戒](https://www.taaze.tw/usedList.html?oid=11100178012)
-4. [一念之轉：四句話改變你的人生](https://www.books.com.tw/products/0010369065?sloc=main)
+4. [一念之轉：四句話改變你的人生](https://www.books.com.tw/products/0010369065) ✔
 5. [第 8 個習慣：從成功到卓越](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w)
 
 ### 10 年後會留在書架上的 40 本書
 
 1. 增加 19 倍銷售的廣告創意法
 2. [作家之路](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg)
-3. [公司留不住錢的真正理由](https://www.books.com.tw/products/0010312105?sloc=main) ✔
+3. [公司留不住錢的真正理由](https://www.books.com.tw/products/0010312105) ✔
 4. [變動法則](https://www.taaze.tw/usedList.html?oid=11100249573)
 5. [修練的軌跡：引動潛能的 U 型理論 by 彼得・聖吉](https://www.taaze.tw/usedList.html?oid=11100033132)
 6. 大投資潮
 7. [恐懼之邦 (State of Fear) by Michael Crichton](https://www.books.com.tw/products/0010291792) ✔
     * 《侏羅紀公園》原著小說作者。
-8. [默默](https://www.books.com.tw/products/0010588613?sloc=main) ✔
+8. [默默](https://www.books.com.tw/products/0010588613) ✔
 9. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) ✔
 10. [新．知識生產術](https://www.taaze.tw/usedList.html?oid=11100153609) ✔
 11. 回到未來的幸運兒：米高福克斯自傳
 12. [影響你生命的 12 原型](https://www.taaze.tw/usedList.html?oid=11100010049)
-13. [會痛的不是愛](https://www.books.com.tw/products/0010793413?sloc=main)
-14. [開悟卡](https://www.books.com.tw/products/0010794541?sloc=main)
+13. [會痛的不是愛](https://www.books.com.tw/products/0010793413) ✔
+14. [開悟卡](https://www.books.com.tw/products/0010794541)
 
 ## 勝間和代
 
@@ -67,44 +67,44 @@
 5. [從 A 到 A+：企業從優秀到卓越的奧祕》by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
 6. [發現我的天才](https://www.taaze.tw/usedList.html?oid=11100500191)
 7. [藍海策略](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA)
-8. [創新的兩難](https://www.books.com.tw/products/0010367123?sloc=main)
+8. [創新的兩難](https://www.books.com.tw/products/0010367123) ✔
 
 ### 10 年後會留在書架上的 40 本書
 
 1. [杜拉克精選 - 個人篇](https://bookzone.cwgv.com.tw/books/details/BCB238) ✔
-2. [非常識成功法則](https://www.books.com.tw/products/0010427180?sloc=main)
+2. [非常識成功法則](https://www.books.com.tw/products/0010427180)
 3. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) ✔
 4. [天才老板與偉大員工 (The Gifted Boss)](https://www.taaze.tw/usedList.html?oid=11100396187)
 5. [活得聰明活得好](https://www.taaze.tw/usedList.html?oid=11100326926) ✔
-6. [如何搞定恐龍與犀牛](https://www.books.com.tw/products/0010188694?sloc=main)
-7. [10 倍速影像閱讀法](https://www.books.com.tw/products/0010560460)
-8. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991?sloc=main) ✔
+6. [如何搞定恐龍與犀牛](https://www.books.com.tw/products/0010188694)
+7. [10 倍速影像閱讀法](https://www.books.com.tw/products/0010560460) ✔
+8. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) ✔
 9. 心智圖法理論與實務篇
-10. [EQ：決定一生幸福與成就的永恆力量](https://www.books.com.tw/products/0010702291?sloc=main)
+10. [EQ：決定一生幸福與成就的永恆力量](https://www.books.com.tw/products/0010702291) ✔
 11. [深度智慧](https://www.taaze.tw/usedList.html?oid=11100035814) ✔
 12. [口碑行銷：如何引爆口耳相傳的神奇威力](https://www.taaze.tw/usedList.html?oid=11100250025) ✔
 13. [請你跟我這樣做](https://www.taaze.tw/usedList.html?oid=11100131903) ✔
 14. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401)
-15. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055?sloc=main) ✔
+15. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) ✔
 16. [利潤的故事](https://www.taaze.tw/usedList.html?oid=11100267084)
 17. 基業長青
 18. [下一個社會](https://www.taaze.tw/usedList.html?oid=11100156709) ✔
 19. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ)
-20. [首先，打破成規](https://www.books.com.tw/products/0010120349?sloc=main)
-21. [快樂，從心開始](https://www.books.com.tw/products/0010036164?sloc=main)
-22. [未來在等待的人才](https://www.books.com.tw/products/0010876496?sloc=main)
-23. [賣命工作的誘惑](https://www.books.com.tw/products/0010196237?sloc=main)
-24. [超極資本主義](https://www.books.com.tw/products/0010408084?sloc=main)
+20. [首先，打破成規](https://www.books.com.tw/products/0010120349)
+21. [快樂，從心開始](https://www.books.com.tw/products/0010036164)
+22. [未來在等待的人才](https://www.books.com.tw/products/0010876496) ✔
+23. [賣命工作的誘惑](https://www.books.com.tw/products/0010196237)
+24. [超極資本主義](https://www.books.com.tw/products/0010408084)
 25. [槍砲，病菌，與鋼鐵](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
 26. [雀喙之謎](https://www.taaze.tw/usedList.html?oid=11100554124)
-27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations)](https://www.books.com.tw/products/0010610343?sloc=main) ✔
-28. [馴服風險](https://www.books.com.tw/products/0010344817?sloc=main)
-29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362?sloc=main)
+27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations)](https://www.books.com.tw/products/0010610343) ✔
+28. [馴服風險](https://www.books.com.tw/products/0010344817)
+29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
     * 《反脆弱》一書作者。
 30. [統計，改變了世界](https://www.books.com.tw/products/0010178635)
 31. [漫步華爾街](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ)
 32. [生活的經濟學](https://www.books.com.tw/products/0010035520)
-33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640)
+33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) ✔
 
 ## 附錄 ①：9 位日本書店專業店員談：「讓我深思的 1 本書」
 
