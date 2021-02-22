@@ -395,6 +395,7 @@
 1. [無瑕的程式碼 番外篇－專業程式設計師的生存之道 (The Clean Coder: A Code of Conduct for Professional Programmers) by Robert C. Martin](https://www.tenlong.com.tw/products/9789862017883) / 1%
 1. [高品質程式：軟體測試原則、實作與模式 (Quality Code: Software Testing Principles, Practices, and Patterns) by Stephen Vance](https://www.tenlong.com.tw/products/9789863473060) / 1%
 1. [單元測試的藝術, 2/e (The Art of Unit Testing: with examples in C#, 2/e) by Roy Osherove](https://www.tenlong.com.tw/products/9789864342471) / 1%
+1. [Kent Beck 的測試驅動開發：案例導向的逐步解決之道 (Test-Driven Development: By Example) by Kent Beck](https://www.tenlong.com.tw/products/9789864345618) / 1%
 1. [從車庫的舊 PC 到百萬台伺服器 － 巨型網站成長從無到無限大，技術架構大揭祕－最棒的「秒殺」網站設計實例 by 李智慧](http://www.tenlong.com.tw/items/9865712334) / 40%
 1. [笑談軟體工程：例外處理設計的逆襲 by 陳建村](http://www.tenlong.com.tw/items/9865740389) / 1%
 1. [架構之美－頂尖架構師於軟體設計中蘊含的智慧結晶 (Beautiful Architecture) by Diomidis Spinellis, Georgios Gousios](https://www.tenlong.com.tw/products/9789862763988) / 1%
