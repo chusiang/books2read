@@ -60,14 +60,14 @@
 
 ### 最棒的 10 本書
 
-1. [自己拯救自己](https://www.taaze.tw/usedList.html?oid=11100702325)
+1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) ✔
 2. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg)
 3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](https://www.kobo.com/tw/zh/search?Query=與成功有約) ✔
 4. [引爆趨勢](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw)
 5. [從 A 到 A+：企業從優秀到卓越的奧祕》by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
 6. [發現我的天才](https://www.taaze.tw/usedList.html?oid=11100500191)
 7. [藍海策略](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA)
-8. [創新的兩難](https://www.books.com.tw/products/0010367123) ✔
+8. [創新的兩難 (The Innovator's Dilemma) by Clayton M. Christensen](https://www.books.com.tw/products/0010367123) ✔
 
 ### 10 年後會留在書架上的 40 本書
 
@@ -97,7 +97,7 @@
 24. [超極資本主義](https://www.books.com.tw/products/0010408084)
 25. [槍砲，病菌，與鋼鐵](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
 26. [雀喙之謎](https://www.taaze.tw/usedList.html?oid=11100554124)
-27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations)](https://www.books.com.tw/products/0010610343) ✔
+27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) ✔
 28. [馴服風險](https://www.books.com.tw/products/0010344817)
 29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
     * 《反脆弱》一書作者。
@@ -109,9 +109,9 @@
 ## 附錄 ①：9 位日本書店專業店員談：「讓我深思的 1 本書」
 
 1. 路是無限寬廣 by 松下幸之助
-2. 謎樣的公司改變了世界 by 須田將啟, 田中禎人 (台灣未出版)
+2. (台灣未出版) 謎樣的公司改變了世界 by 須田將啟, 田中禎人
 3. [金字塔原理：思考、寫作、解決問題的邏輯方法 by Barbara Minto](https://www.books.com.tw/products/0010369735) ✔
-4. 策略腳本：思考與技術 (台灣未出版)
+4. (台灣未出版) 策略腳本：思考與技術
 
 ## 相關連結
 
