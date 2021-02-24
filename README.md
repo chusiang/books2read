@@ -46,6 +46,66 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (20)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_20?id=suZwDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (21): Unital ring Ⅰ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_21?id=UkGuDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (22): Kiss and fly by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_22?id=g2L4DwAAQBAJ) / 0%
+1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) / 1%
+1. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) / 0%
+1. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
+1. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) / 0%
+1. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) / 1%
+1. [發現我的天才 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/usedList.html?oid=11100500191) / 0%
+1. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA) / 0%
+1. [創新的兩難 (The Innovator's Dilemma) by Clayton M. Christensen](https://www.books.com.tw/products/0010367123) / 1%
+1. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.books.com.tw/products/0010675380) / 0%
+1. [不管怎樣，還是要…：瘋狂世界，矛盾十戒 (The Paradoxical Commandments) by Kent Keith](https://www.taaze.tw/usedList.html?oid=11100178012) / 0%
+1. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) / 1%
+1. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w) / 0%
+
+1. [杜拉克精選 - 個人篇 by Peter F. Drucker](https://bookzone.cwgv.com.tw/books/details/BCB238) / 1%
+1. [非常識成功法則 by 神田昌典](https://www.books.com.tw/products/0010427180) / 0%
+1. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) / 1%
+1. [天才老板與偉大員工 (The Gifted Boss) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100396187) / 0%
+1. [活得聰明活得好 (Life strategies) by Phillip C. McGraw](https://www.taaze.tw/usedList.html?oid=11100326926) / 1%
+6. [如何搞定恐龍與犀牛 (Coping with difficult people) by Robert Bramaon](https://www.books.com.tw/products/0010188694) / 0%
+1. [10 倍速影像閱讀法 (The PhotoReading Whole Mind System) by Paul R. Scheele](https://www.books.com.tw/products/0010560460) / 1%
+1. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) / 1%
+1. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.books.com.tw/products/0010365675) / 0%
+1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
+1. [深度智慧 (DEEP SMARTS) by Dorothy Leonard, Walter Swap](https://www.taaze.tw/usedList.html?oid=11100035814) / 1%
+1. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/usedList.html?oid=11100250025) / 1%
+1. [請你跟我這樣做](https://www.taaze.tw/usedList.html?oid=11100131903) / 1%
+1. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401) / 0%
+1. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) / 1%
+1. [利潤的故事](https://www.taaze.tw/usedList.html?oid=11100267084) / 0%
+1. 基業長青 / 0%
+1. [下一個社會](https://www.taaze.tw/usedList.html?oid=11100156709) / 1%
+1. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) / 0%
+1. [首先，打破成規](https://www.books.com.tw/products/0010120349) / 0%
+1. [快樂，從心開始](https://www.books.com.tw/products/0010036164) / 0%
+1. [未來在等待的人才](https://www.books.com.tw/products/0010876496) / 1%
+1. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) / 1%
+1. [超極資本主義](https://www.books.com.tw/products/0010408084) / 0%
+1. [槍砲，病菌，與鋼鐵](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw) / 0%
+1. [雀喙之謎](https://www.taaze.tw/usedList.html?oid=11100554124) / 0%
+1. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) / 1%
+1. [馴服風險](https://www.books.com.tw/products/0010344817) / 0%
+1. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362) / 0%
+1. [統計，改變了世界](https://www.books.com.tw/products/0010178635) / 0%
+1. [漫步華爾街](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ) / 0%
+1. [生活的經濟學](https://www.books.com.tw/products/0010035520) / 0%
+1. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) / 1%
+1. 增加 19 倍銷售的廣告創意法 / 0%
+1. [作家之路](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg) / 0%
+1. [公司留不住錢的真正理由](https://www.books.com.tw/products/0010312105) / 1%
+1. [變動法則](https://www.taaze.tw/usedList.html?oid=11100249573) / 0%
+1. [修練的軌跡：引動潛能的 U 型理論 by Peter M. Senge](https://www.taaze.tw/usedList.html?oid=11100033132) / 0%
+1. 大投資潮 / 0%
+1. [恐懼之邦 (State of Fear) by Michael Crichton](https://www.books.com.tw/products/0010291792) / 1%
+1. [默默](https://www.books.com.tw/products/0010588613) / 1%
+1. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) / 1%
+1. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) / 1%
+1. 回到未來的幸運兒：米高福克斯自傳 / 0%
+1. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) / 1%
+1. [會痛的不是愛](https://www.books.com.tw/products/0010793413) / 1%
+1. [開悟卡](https://www.books.com.tw/products/0010794541) / 0%
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
 1. [企鵝公路 by 森見登美彥](https://www.taaze.tw/usedList.html?oid=11100867094) / 1%
 1. [雲圖 (3/e)](https://www.kobo.com/tw/zh/ebook/O97VjXDMxDKw8dp5WW4IZQ) / 1%
@@ -299,7 +359,6 @@
 1. [花掉的錢都會自己流回來 by Mentalist DaiGo](https://www.kobo.com/tw/zh/ebook/08945ac4-c69b-4b62-a6d3-e0359a29fc52) / 1%
 1. [管好你的錢： 一生受用的理財計畫 by 王志鈞](https://www.kobo.com/tw/zh/ebook/1f224378-d1bf-48db-aaa8-1842753674f0) / 1%
 1. [關鍵行銷：消費心理學大師的 10 大黃金行銷課 by Adam Ferrier, Jennifer Fleming](https://play.google.com/store/books/details/亞當_費里爾_Adam_Ferrier_珍妮佛_佛萊明_Jennifer_Fleming_關鍵行銷?id=071mDwAAQBAJ) / 1%
-1. [與成功有約：高效能人士的七個習慣 by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
 1. [社交高手說話術 | 經理人特刊 No.14](https://www.managertoday.com.tw/magazines/view/127457) / 1%
 1. [蔡康永的說話之道（兔斯基慶功版）by 蔡康永](http://www.books.com.tw/products/0010643097) / 1%
 1. [蔡康永的說話之道 2 by 蔡康永](http://www.books.com.tw/products/0010632643) / 1%
