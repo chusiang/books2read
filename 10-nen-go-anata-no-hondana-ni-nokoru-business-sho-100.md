@@ -52,7 +52,7 @@
 9. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) ✔
 10. [新．知識生產術](https://www.taaze.tw/usedList.html?oid=11100153609) ✔
 11. 回到未來的幸運兒：米高福克斯自傳
-12. [影響你生命的 12 原型](https://www.taaze.tw/usedList.html?oid=11100010049) ✔
+12. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) ✔
 13. [會痛的不是愛](https://www.books.com.tw/products/0010793413) ✔
 14. [開悟卡](https://www.books.com.tw/products/0010794541)
 
@@ -93,7 +93,7 @@
 20. [首先，打破成規](https://www.books.com.tw/products/0010120349)
 21. [快樂，從心開始](https://www.books.com.tw/products/0010036164)
 22. [未來在等待的人才](https://www.books.com.tw/products/0010876496) ✔
-23. [賣命工作的誘惑](https://www.books.com.tw/products/0010196237) ✔
+23. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) ✔
 24. [超極資本主義](https://www.books.com.tw/products/0010408084)
 25. [槍砲，病菌，與鋼鐵](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
 26. [雀喙之謎](https://www.taaze.tw/usedList.html?oid=11100554124)
