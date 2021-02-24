@@ -33,10 +33,10 @@
 ### 終極的 10 本書
 
 1. 浪花金融道
-2. [小倉昌男經營學：宅急便的成功秘密](https://www.books.com.tw/products/0010105749)
-3. [不管怎樣，還是要 - 瘋狂世界，矛盾十戒](https://www.taaze.tw/usedList.html?oid=11100178012)
-4. [一念之轉：四句話改變你的人生](https://www.books.com.tw/products/0010369065) ✔
-5. [第 8 個習慣：從成功到卓越](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w)
+2. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.books.com.tw/products/0010675380)
+3. [不管怎樣，還是要…：瘋狂世界，矛盾十戒 (The Paradoxical Commandments) by Kent Keith](https://www.taaze.tw/usedList.html?oid=11100178012)
+4. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) ✔
+5. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w)
 
 ### 10 年後會留在書架上的 40 本書
 
@@ -44,13 +44,13 @@
 2. [作家之路](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg)
 3. [公司留不住錢的真正理由](https://www.books.com.tw/products/0010312105) ✔
 4. [變動法則](https://www.taaze.tw/usedList.html?oid=11100249573)
-5. [修練的軌跡：引動潛能的 U 型理論 by 彼得・聖吉](https://www.taaze.tw/usedList.html?oid=11100033132)
+5. [修練的軌跡：引動潛能的 U 型理論 by Peter M. Senge](https://www.taaze.tw/usedList.html?oid=11100033132)
 6. 大投資潮
 7. [恐懼之邦 (State of Fear) by Michael Crichton](https://www.books.com.tw/products/0010291792) ✔
     * 《侏羅紀公園》原著小說作者。
 8. [默默](https://www.books.com.tw/products/0010588613) ✔
 9. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) ✔
-10. [新．知識生產術](https://www.taaze.tw/usedList.html?oid=11100153609) ✔
+10. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) ✔
 11. 回到未來的幸運兒：米高福克斯自傳
 12. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) ✔
 13. [會痛的不是愛](https://www.books.com.tw/products/0010793413) ✔
@@ -62,27 +62,27 @@
 
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) ✔
 2. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg)
-3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](https://www.kobo.com/tw/zh/search?Query=與成功有約) ✔
-4. [引爆趨勢](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw)
-5. [從 A 到 A+：企業從優秀到卓越的奧祕》by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
-6. [發現我的天才](https://www.taaze.tw/usedList.html?oid=11100500191)
-7. [藍海策略](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA)
+3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / ✔
+4. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw)
+5. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
+6. [發現我的天才 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/usedList.html?oid=11100500191)
+7. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA)
 8. [創新的兩難 (The Innovator's Dilemma) by Clayton M. Christensen](https://www.books.com.tw/products/0010367123) ✔
 
 ### 10 年後會留在書架上的 40 本書
 
-1. [杜拉克精選 - 個人篇](https://bookzone.cwgv.com.tw/books/details/BCB238) ✔
-2. [非常識成功法則](https://www.books.com.tw/products/0010427180)
+1. [杜拉克精選 - 個人篇 by Peter F. Drucker](https://bookzone.cwgv.com.tw/books/details/BCB238) ✔
+2. [非常識成功法則 by 神田昌典](https://www.books.com.tw/products/0010427180)
 3. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) ✔
-4. [天才老板與偉大員工 (The Gifted Boss)](https://www.taaze.tw/usedList.html?oid=11100396187)
-5. [活得聰明活得好](https://www.taaze.tw/usedList.html?oid=11100326926) ✔
-6. [如何搞定恐龍與犀牛](https://www.books.com.tw/products/0010188694)
-7. [10 倍速影像閱讀法](https://www.books.com.tw/products/0010560460) ✔
+4. [天才老板與偉大員工 (The Gifted Boss) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100396187)
+5. [活得聰明活得好 (Life strategies) by Phillip C. McGraw](https://www.taaze.tw/usedList.html?oid=11100326926) ✔
+6. [如何搞定恐龍與犀牛 (Coping with difficult people) by Robert Bramaon](https://www.books.com.tw/products/0010188694)
+7. [10 倍速影像閱讀法 (The PhotoReading Whole Mind System) by Paul R. Scheele](https://www.books.com.tw/products/0010560460) ✔
 8. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) ✔
-9. 心智圖法理論與實務篇
-10. [EQ：決定一生幸福與成就的永恆力量](https://www.books.com.tw/products/0010702291) ✔
-11. [深度智慧](https://www.taaze.tw/usedList.html?oid=11100035814) ✔
-12. [口碑行銷：如何引爆口耳相傳的神奇威力](https://www.taaze.tw/usedList.html?oid=11100250025) ✔
+9. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.books.com.tw/products/0010365675)
+10. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) ✔
+11. [深度智慧 (DEEP SMARTS) by Dorothy Leonard, Walter Swap](https://www.taaze.tw/usedList.html?oid=11100035814) ✔
+12. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/usedList.html?oid=11100250025) ✔
 13. [請你跟我這樣做](https://www.taaze.tw/usedList.html?oid=11100131903) ✔
 14. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401)
 15. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) ✔
