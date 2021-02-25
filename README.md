@@ -14,6 +14,8 @@
 
 ## 待讀書單
 
+1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 15.4%
+1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 71.6%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [哈佛醫學院的 SMART 壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案 by 王芳](https://www.kobo.com/tw/zh/ebook/smart-18) / 1%
