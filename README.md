@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [用超輕黏土製作可愛的大小企鵝：捏一捏、搓一搓，讓企鵝大軍包圍你的房間！](https://www.taaze.tw/goods/11100927232.html) / 1%
 1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 15.4%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
@@ -743,6 +742,7 @@
 1. [10 年後會留在書架上的 100 本書 by 神田昌典、勝間和代](https://www.taaze.tw/goods/11308023181.html) / 100%
 1. [日本東西名所 浮世繪百景：16 位浮世繪巨匠 × 逾 100 幅風景名畫，穿越百年的江戶名勝巡禮【永久典藏版】by 遠足文化編輯部](https://www.taaze.tw/goods/11100898545.html) / 100%
 1. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) / 100%
+1. [用超輕黏土製作可愛的大小企鵝：捏一捏、搓一搓，讓企鵝大軍包圍你的房間！](https://www.taaze.tw/goods/11100927232.html) / 100%
 
 ### 2020
 
