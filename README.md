@@ -105,7 +105,7 @@
 1. 回到未來的幸運兒：米高福克斯自傳 / 0%
 1. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) / 1%
 1. [會痛的不是愛](https://www.books.com.tw/products/0010793413) / 1%
-1. [開悟卡](https://www.books.com.tw/products/0010794541) / 0%
+1. [開悟卡 (Enlightenment Pack) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010794541) / 1%
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
 1. [企鵝公路 by 森見登美彥](https://www.taaze.tw/usedList.html?oid=11100867094) / 1%
 1. [雲圖 (3/e)](https://www.kobo.com/tw/zh/ebook/O97VjXDMxDKw8dp5WW4IZQ) / 1%
