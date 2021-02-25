@@ -16,6 +16,7 @@
 
 1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 15.4%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
+1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 71.6%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [哈佛醫學院的 SMART 壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案 by 王芳](https://www.kobo.com/tw/zh/ebook/smart-18) / 1%
@@ -472,6 +473,7 @@
 1. [TCP/IP Illustrated, Volume 1 國際中文版 (TCP/IP Illustrated, Vol. 1) by W. Richard Stevens](https://www.tenlong.com.tw/items/9867727878) / 1%
 1. [團隊管理 | 經理人 No.154](https://www.managertoday.com.tw/magazines/view/127299) / 1%
 1. [團隊之美－資深團隊領導人物陳述發人深省並引以為鑑的經歷 (Beautiful Teams: Inspiring and Cautionary Tales from Veteran Team Leaders) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789862763834) /1%
+1. [網站入侵現場鑑證實錄 by 林俊賢, 莊明雄, 羅國良](https://www.taaze.tw/goods/11310680282.html) / 1%
 1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance) by Tim Mather, Shahed Latif, Subra Kumaraswam](https://www.tenlong.com.tw/products/9789862764763) / 1%
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think) by Andy Oram, John Viega](https://www.tenlong.com.tw/products/9789862764213) / 1%
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software) by Tim Riley, Adam Goucher](https://www.tenlong.com.tw/products/9789862763445) / 1%
@@ -520,7 +522,6 @@
 1. [可以善良，但你要有底線不當好人：人際關係斷・捨・離，勉強自己和別人好，不如找人真心對你好 by 午堂登紀雄](https://play.google.com/store/books/details?id=u7hTDwAAQBAJ) / 1%
 1. [別等到被欺負了才懂這些事：第一時間就做好衝突管理 by Bill Eddy, L. Georgi DiStefano](https://www.kobo.com/tw/zh/ebook/453effb9-27b3-4d26-b841-70dd55d5c6be) / 1%
 1. [智謀過人的大謀略家：諸葛亮 by 羅志仲](https://www.kobo.com/tw/zh/ebook/6YYOi35pHjqhfrbJiwhEsg) / 1%
-1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 1. [汽車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_汽車防禦駕駛手冊_新編?id=qz83DwAAQBAJ) / 1%
 1. [Windows 10 究極攻略！升級、設定、優化、問題排除，高手活用技巧速學實戰【地表最強進化版】by PCuSER 研究室](https://www.kobo.com/tw/zh/ebook/windows-10-19) / 1%
 1. [職業駭客的修練─指標實務篇 : 從門外漢到職業駭客的最短路程 by 秋聲，黃志堅](https://www.tenlong.com.tw/products/9789864341757) / 0%
