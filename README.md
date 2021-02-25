@@ -219,6 +219,7 @@
 1. [雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒 by 宇都出雅巳](http://www.books.com.tw/products/0010663983) / 1%
 1. [圖解日本風俗 by 新谷尚紀](https://www.taaze.tw/usedList.html?oid=11100803100) / 2%
 1. [圖解日本神社入門 by 櫻井治男](https://www.books.com.tw/products/0010732305) / 1%
+1. [鬼滅的日本史 by 小和田哲男 (おわだ てつお)](https://www.kobo.com/tw/zh/ebook/bp6sg7FeET2wK_8UQy-Ryw) / 1%
 1. [工作與生活的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/DAxFNJIRJDe0h-1EuAb0Qg) / 1%
 1. [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) / 3%
 1. [忘形流簡報思考術：找到說服邏輯，讓你的價值被看見！ by 張忘形](https://www.kobo.com/tw/zh/ebook/ca4cbd1b-53e0-46f5-9c73-cd2f26c6bcec) / 1%
@@ -375,6 +376,7 @@
 1. [向阿德勒提問 | 今周刊](https://www.books.com.tw/products/R030063891) / 1%
 1. [下個十年，你在哪？時時檢視目標，無懼打掉重練，10 年 10 倍薪不是夢 by 黃珮婷 Betty](https://www.kobo.com/tw/zh/ebook/e2PGdJ9vuTywdvhRWTSwiw) / 1%
 1. [挺身而進 (Lean In: Women, Work and the Will to Lead) by Sheryl Sandberg](https://www.kobo.com/tw/zh/ebook/sF1hzML-NjWvsVTP7Ih7tg) / 1%
+1. [阿德勒心理學講義 (The Science of Living) by 阿德勒](https://www.kobo.com/tw/zh/ebook/-htl6rc3xtqrgejhtfa8ya) / 1%
 1. [被討厭的勇氣：自我啟發之父「阿德勒」的教導 by 岸見一郎, 古賀史健](http://www.books.com.tw/products/0010653153) / 1%
 1. [被討厭的勇氣 二部曲完結篇：人生幸福的行動指南 by 岸見一郎, 古賀史健](https://www.kobo.com/tw/zh/ebook/a9206878-78aa-4587-abc1-99e0ef15eeb4) / 1%
 1. [心智圖創意應用百科：鬍子李悟教你從生活、讀書到工作都得心應手的心智圖 100+ by 李忠峯](https://www.kobo.com/tw/en/ebook/74c33a27-6c94-4032-ac93-5c4c6907fe7f) / 1%
