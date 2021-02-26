@@ -16,6 +16,9 @@
 
 1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 15.4%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
+1. [成功的原則 (Principles for Success) by Ray Dailo](https://www.kobo.com/tw/zh/ebook/vyc0rHrk2DCmckQts1_vFQ) / 13%
+1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
+1. [原則：生活和工作 (Principles: Life and Work) by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 71.6%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
@@ -283,8 +286,6 @@
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
 1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by Jane B. Burka、Lenora M. Yuen](https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
 1. [與成功有約 by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
-1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
-1. [原則：生活和工作 by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
 1. [大師的刻意練習：20 世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法 by James Francis Cooke](https://readmoo.com/book/210116244000101) / 1%
 1. [師父：那些我在課堂外學會的本事 (The Knack: How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up) by Norm Brodsky, Bo Burlingham](https://www.books.com.tw/products/0010705054) / 1%
 1. [日本腦力錦標賽五冠王「超高效記憶術」：3 循環反覆速習法╳1 分鐘速寫，無關天分與年齡，記憶大量資訊隨時開始！ by 池田義博](https://www.kobo.com/tw/en/ebook/-QWyGmFefz2yiPTz00DOdw) / 1%
