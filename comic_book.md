@@ -14,8 +14,7 @@
 
 ## 待讀書單
 
-1. 鬼滅之刃 (01) by 吾峠呼世晴 / 150%
-1. 鬼滅之刃 (02) by 吾峠呼世晴 / 1%
+1. 鬼滅之刃 (02) by 吾峠呼世晴 / 2%
 1. 鬼滅之刃 (03) by 吾峠呼世晴 / 1%
 1. 鬼滅之刃 (04) by 吾峠呼世晴 / 1%
 1. 鬼滅之刃 (05) by 吾峠呼世晴 / 1%
@@ -127,6 +126,7 @@
 1. [我的英雄學院 (25) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/dCfWSULW4DCKdcCn9wkuWg) / 100%
 1. [我的英雄學院 (26) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/8KxrYV_VXDSBaPmMZ6x6mw) / 100%
 1. [我的英雄學院 (27) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/IlMu1tB1eDSn8eiMGbSMOQ) / 100%
+1. [鬼滅之刃 (01) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/fQIk63yxLz2LpB-Mo9qJ-w) / 200%
 
 ### 2020
 
