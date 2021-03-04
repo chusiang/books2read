@@ -95,14 +95,14 @@
 22. [未來在等待的人才](https://www.books.com.tw/products/0010876496) ✔
 23. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) ✔
 24. [超極資本主義](https://www.books.com.tw/products/0010408084)
-25. [槍砲，病菌，與鋼鐵](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
+25. [槍砲，病菌，與鋼鐵 by Jared Diamond](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
 26. [雀喙之謎](https://www.taaze.tw/usedList.html?oid=11100554124)
 27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) ✔
 28. [馴服風險](https://www.books.com.tw/products/0010344817)
 29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
     * 《反脆弱》一書作者。
 30. [統計，改變了世界 by David Salsburg](https://www.taaze.tw/goods/11311189652.html)
-31. [漫步華爾街](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ)
+31. [漫步華爾街 by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ)
 32. [生活的經濟學](https://www.books.com.tw/products/0010035520)
 33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) ✔
 
