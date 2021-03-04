@@ -33,7 +33,7 @@
 ### 終極的 10 本書
 
 1. 浪花金融道
-2. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.books.com.tw/products/0010675380)
+2. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.taaze.tw/goods/11311194645.html)
 3. [不管怎樣，還是要…：瘋狂世界，矛盾十戒 (The Paradoxical Commandments) by Kent Keith](https://www.taaze.tw/usedList.html?oid=11100178012)
 4. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) ✔
 5. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w)
@@ -51,7 +51,7 @@
 8. [默默](https://www.books.com.tw/products/0010588613) ✔
 9. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) ✔
 10. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) ✔
-11. 回到未來的幸運兒：米高福克斯自傳
+11. [回到未來的幸運兒：米高福克斯自傳 by Michael J. Fox](https://www.taaze.tw/goods/11310337500.html)
 12. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) ✔
 13. [會痛的不是愛](https://www.books.com.tw/products/0010793413) ✔
 14. [開悟卡 (Enlightenment Pack) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010794541) ✔
@@ -87,7 +87,7 @@
 14. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401)
 15. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) ✔
 16. [利潤的故事](https://www.taaze.tw/usedList.html?oid=11100267084)
-17. 基業長青
+17. [基業長青](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA)
 18. [下一個社會](https://www.taaze.tw/usedList.html?oid=11100156709) ✔
 19. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ)
 20. [首先，打破成規](https://www.books.com.tw/products/0010120349)
@@ -101,7 +101,7 @@
 28. [馴服風險](https://www.books.com.tw/products/0010344817)
 29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
     * 《反脆弱》一書作者。
-30. [統計，改變了世界](https://www.books.com.tw/products/0010178635)
+30. [統計，改變了世界 by David Salsburg](https://www.taaze.tw/goods/11311189652.html)
 31. [漫步華爾街](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ)
 32. [生活的經濟學](https://www.books.com.tw/products/0010035520)
 33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) ✔
