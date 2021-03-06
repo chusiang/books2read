@@ -33,7 +33,7 @@
 ### 終極的 10 本書
 
 1. 浪花金融道
-2. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.taaze.tw/goods/11311194645.html)
+2. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.taaze.tw/goods/11311194645.html) ✔
 3. [不管怎樣，還是要…：瘋狂世界，矛盾十戒 (The Paradoxical Commandments) by Kent Keith](https://www.taaze.tw/usedList.html?oid=11100178012)
 4. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) ✔
 5. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w)
@@ -51,7 +51,7 @@
 8. [默默](https://www.books.com.tw/products/0010588613) ✔
 9. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) ✔
 10. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) ✔
-11. [回到未來的幸運兒：米高福克斯自傳 by Michael J. Fox](https://www.taaze.tw/goods/11310337500.html)
+11. [回到未來的幸運兒：米高福克斯自傳 by Michael J. Fox](https://www.taaze.tw/goods/11310337500.html) ✔
 12. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) ✔
 13. [會痛的不是愛](https://www.books.com.tw/products/0010793413) ✔
 14. [開悟卡 (Enlightenment Pack) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010794541) ✔
@@ -65,7 +65,7 @@
 3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / ✔
 4. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw)
 5. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
-6. [發現我的天才 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/usedList.html?oid=11100500191)
+6. [發現我的天才 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/usedList.html?oid=11100500191) ✔
 7. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA)
 8. [創新的兩難 (The Innovator's Dilemma) by Clayton M. Christensen](https://www.books.com.tw/products/0010367123) ✔
 
@@ -101,7 +101,7 @@
 28. [馴服風險](https://www.books.com.tw/products/0010344817)
 29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
     * 《反脆弱》一書作者。
-30. [統計，改變了世界 by David Salsburg](https://www.taaze.tw/goods/11311189652.html)
+30. [統計，改變了世界 by David Salsburg](https://www.taaze.tw/goods/11311189652.html) ✔
 31. [漫步華爾街 by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ)
 32. [生活的經濟學](https://www.books.com.tw/products/0010035520)
 33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) ✔

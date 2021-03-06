@@ -56,10 +56,10 @@
 1. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
 1. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) / 0%
 1. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) / 1%
-1. [發現我的天才 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/usedList.html?oid=11100500191) / 0%
+1. [發現我的天才 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/usedList.html?oid=11100500191) / 1%
 1. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA) / 0%
 1. [創新的兩難 (The Innovator's Dilemma) by Clayton M. Christensen](https://www.books.com.tw/products/0010367123) / 1%
-1. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.books.com.tw/products/0010675380) / 0%
+1. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.taaze.tw/goods/11311194645.html) / 1%
 1. [不管怎樣，還是要…：瘋狂世界，矛盾十戒 (The Paradoxical Commandments) by Kent Keith](https://www.taaze.tw/usedList.html?oid=11100178012) / 0%
 1. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) / 1%
 1. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w) / 0%
@@ -93,7 +93,7 @@
 1. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) / 1%
 1. [馴服風險](https://www.books.com.tw/products/0010344817) / 0%
 1. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362) / 0%
-1. [統計，改變了世界](https://www.books.com.tw/products/0010178635) / 0%
+1. [統計，改變了世界](https://www.books.com.tw/products/0010178635) / 1%
 1. [漫步華爾街](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ) / 0%
 1. [生活的經濟學](https://www.books.com.tw/products/0010035520) / 0%
 1. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) / 1%
@@ -107,7 +107,7 @@
 1. [默默](https://www.books.com.tw/products/0010588613) / 1%
 1. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) / 1%
 1. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) / 1%
-1. 回到未來的幸運兒：米高福克斯自傳 / 0%
+1. [回到未來的幸運兒：米高福克斯自傳 by Michael J. Fox](https://www.taaze.tw/goods/11310337500.html) / 1%
 1. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) / 1%
 1. [會痛的不是愛](https://www.books.com.tw/products/0010793413) / 1%
 1. [開悟卡 (Enlightenment Pack) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010794541) / 1%
@@ -428,6 +428,7 @@
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Prometheus 學習手冊 by Brian Brazil](https://www.tenlong.com.tw/products/9787519843182) / 1%
 1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
+1. [動機，單純的力量：把工作做得像投入嗜好一樣有最單純的動機，才有最棒的表現 (https://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B0033TI4BW) by Daniel H. Pink](https://www.taaze.tw/goods/11311204620.html) / 1%
 1. [什麼時候是好時候 by Daniel H. Pink](https://www.kobo.com/tw/zh/ebook/0136b21c-26ed-4f40-abab-7a67528296fb) / 1%
 1. [時間管理－給系統管理者 (Time Management for System Administrators) by Thomas A. Limoncelli](http://www.tenlong.com.tw/items/9867794877?item_id=31786) / 55%
 1. [三個月交不出成果，就等於失敗！告別無效努力的 Google 三個月循環工作術 by 佐佐木大輔](https://www.kobo.com/tw/zh/ebook/google-35) / 1%
