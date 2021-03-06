@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 15.4%
+1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 21.9%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
 1. [原則：生活和工作 (Principles: Life and Work) by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
