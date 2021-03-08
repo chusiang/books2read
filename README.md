@@ -176,6 +176,7 @@
 1. [大器可以晚成：當世界沉迷年少得志，耐心是你成功的本事 by Rich Karlgaard](https://www.kobo.com/tw/zh/ebook/OMPfFss3uTu5VEcQ2NE2ug) / 1%
 1. [大人的社會課：從阻撓議事到邊際效應，搞懂世界的真實運作 by 劉炯朗](https://www.kobo.com/tw/zh/ebook/tZa4KHDpfD69Ut1E_cd8Ig) / 1%
 1. [終結腦疲勞！台大醫師的高效三力自癒法 by 張立人](https://www.kobo.com/tw/en/ebook/ZFjcqUZDLDirfFhpkXm2Vw) / 1%
+1. [10 分鐘入禪休息法：風行全球菁英的正念減壓法，7 步驟進入心流，既專注又放鬆的最高休息法 (Ten to Zen: Ten Minutes a Day to a Calmer, Happier You) by Owen O'kane](https://www.kobo.com/tw/zh/ebook/iQz_-pVcBj2FNmVgDcDZFQ) / 1%
 1. [軟銀孫正義的核心工作術 PDCA by 三木雄信](https://play.google.com/store/books/details/%E4%B8%89%E6%9C%A8%E9%9B%84%E4%BF%A1_%E8%BB%9F%E9%8A%80%E5%AD%AB%E6%AD%A3%E7%BE%A9%E7%9A%84%E6%A0%B8%E5%BF%83%E5%B7%A5%E4%BD%9C%E8%A1%93PDCA?id=QR5bDwAAQBAJ) / 1%
 1. [一流工作者都在用的待辦清單 by Damon Zahariades](https://www.kobo.com/tw/en/ebook/zJm3d4mpkzG1bKV6PZSEKQ) / 1%
 1. [打火哥的 30 堂烈焰求生課：第一線熱血消防員親授關鍵保命絕招，破解火場迷思 by 蔡宗翰](https://www.kobo.com/tw/zh/ebook/FGHGWHuYADqXfdx5gteZ0A) / 1%
