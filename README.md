@@ -50,7 +50,8 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (19)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_19?id=bRFfDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (20)：Moon cradle by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_20?id=suZwDwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (21): Unital ring Ⅰ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_21?id=UkGuDwAAQBAJ) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 (22): Kiss and fly by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_22?id=g2L4DwAAQBAJ) / 0%
+1. [[輕小說] Sword Art Online 刀劍神域 (22): Kiss and fly by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_22?id=g2L4DwAAQBAJ) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (23): Unital ring Ⅱ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_23?id=oXsXEAAAQBAJ) / 1%
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) / 1%
 1. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) / 0%
 1. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
