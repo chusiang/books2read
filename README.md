@@ -255,6 +255,7 @@
 1. [【經濟大預言】2019 財富 4 大拐點 | 商業周刊 No.1625](https://www.kobo.com/tw/zh/book/62e88bbc-c456-4986-863b-6677e026ea35) / 1%
 1. [深思快想：瞬間看透事物「本質」的豐田思考術 by 稲垣公夫](https://www.books.com.tw/products/0010759729) / 1%
 1. [思辨決定你的未來 by 沃草烙哲學作者群](https://www.kobo.com/tw/zh/ebook/ukb53Kwx8DCxacmhqmAOXQ) / 1%
+1. [決策地圖：在訊息氾濫與假新聞轟炸的年代，我們如何做決定 by Michael J. O’Brien, R. Alexander Bentley, William A. Brock](https://www.kobo.com/tw/zh/ebook/6Ocbhu2egTWrWjXpdV1wGQ) / 1%
 1. [康乃爾最經典的思考邏輯課：大數據時代，你一定要避開的自以為是 by Thomas Gilovich](https://www.kobo.com/tw/en/ebook/49e64850-4345-4a4b-b713-da2d5e486e66) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
