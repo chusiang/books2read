@@ -81,7 +81,7 @@
 1. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401) / 0%
 1. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) / 1%
 1. [利潤的故事](https://www.taaze.tw/usedList.html?oid=11100267084) / 0%
-1. 基業長青 / 0%
+1. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) / 1%
 1. [下一個社會](https://www.taaze.tw/usedList.html?oid=11100156709) / 1%
 1. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) / 0%
 1. [首先，打破成規](https://www.books.com.tw/products/0010120349) / 0%
@@ -104,7 +104,7 @@
 1. [變動法則](https://www.taaze.tw/usedList.html?oid=11100249573) / 0%
 1. [修練的軌跡：引動潛能的 U 型理論 by Peter M. Senge](https://www.taaze.tw/usedList.html?oid=11100033132) / 0%
 1. 大投資潮 / 0%
-1. [恐懼之邦 (State of Fear) by Michael Crichton](https://www.books.com.tw/products/0010291792) / 1%
+1. [恐懼之邦 (State of Fear) by Michael Crichton](https://www.taaze.tw/goods/11310092213.html) / 1%
 1. [默默](https://www.books.com.tw/products/0010588613) / 1%
 1. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) / 1%
 1. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) / 1%
