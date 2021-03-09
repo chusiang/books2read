@@ -247,6 +247,7 @@
 1. [金字塔原理：思考、寫作、解決問題的邏輯方法 by Barbara Minto](https://www.tenlong.com.tw/products/9789867889591) / 1%
 1. [邏輯思考的技術：寫作、簡報、解決問題的有效方法 by 照屋華子, 岡田惠子](https://www.taaze.tw/usedList.html?oid=11100155441) / 1%
 1. [安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 by 張瀞仁](https://www.kobo.com/tw/zh/ebook/32484c88-55bb-4c41-8fb4-60d5728ddcf7) / 1%
+1. [孫子兵法商學院 (3/e)：比爾蓋茲必讀推薦、哈佛商學院必修，日本 No.1 東洋思想家 30 年企業顧問破譯職場生存智慧 by 田口佳史](https://www.kobo.com/tw/zh/ebook/no-130-2) / 1%
 1. [寫作，是最好的自我投資：百萬粉絲公眾號操盤手，首創「注意力寫作」法，教你寫出高質量文章，讓流量變現金！by 陳立飛](https://www.kobo.com/tw/en/ebook/QElIMXROODq396v3SYwLWA) / 1%
 1. [關鍵時刻：創造人生 1% 的完美瞬間，取代 99% 的平淡時刻 by Chip Heath, Dan Heath](https://www.kobo.com/tw/zh/ebook/JUvHwDuhCD2h2iM3NdZcLg/KkHZO-Sv6EKc0nwhlEhxeg) / 1%
 1. [關鍵七秒，決定你的價值 by Catherine Molloy](https://www.kobo.com/tw/zh/ebook/0tmoe88zBjqAqYqoRJegMA) / 1%
