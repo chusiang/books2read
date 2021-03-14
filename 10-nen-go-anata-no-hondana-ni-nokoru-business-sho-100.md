@@ -79,7 +79,7 @@
 6. [如何搞定恐龍與犀牛 (Coping with difficult people) by Robert Bramaon](https://www.books.com.tw/products/0010188694)
 7. [10 倍速影像閱讀法 (The PhotoReading Whole Mind System) by Paul R. Scheele](https://www.books.com.tw/products/0010560460) ✔
 8. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) ✔
-9. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.taaze.tw/goods/11311236051.html)
+9. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.taaze.tw/goods/11311236051.html) ✔
 10. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) ✔
 11. [深度智慧 (DEEP SMARTS) by Dorothy Leonard, Walter Swap](https://www.taaze.tw/usedList.html?oid=11100035814) ✔
 12. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/usedList.html?oid=11100250025) ✔
@@ -96,7 +96,7 @@
 23. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) ✔
 24. [超極資本主義](https://www.books.com.tw/products/0010408084)
 25. [槍砲，病菌，與鋼鐵 by Jared Diamond](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
-26. [雀喙之謎](https://www.taaze.tw/usedList.html?oid=11100554124)
+26. [雀喙之謎：從芬雀喙看達爾文的物種源起 (The Beak of the Finch: A Story of Evolution in Our Time) by Jonathan Weiner](https://www.taaze.tw/usedList.html?oid=11100554124) ✔
 27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) ✔
 28. [馴服風險](https://www.books.com.tw/products/0010344817)
 29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
@@ -108,7 +108,7 @@
 
 ## 附錄 ①：9 位日本書店專業店員談：「讓我深思的 1 本書」
 
-1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/usedList.html?oid=11100165798)
+1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/usedList.html?oid=11100165798) ✔
 2. (台灣未出版) 謎樣的公司改變了世界 by 須田將啟, 田中禎人
 3. [金字塔原理：思考、寫作、解決問題的邏輯方法 by Barbara Minto](https://www.books.com.tw/products/0010369735) ✔
 4. (台灣未出版) 策略腳本：思考與技術
@@ -125,7 +125,7 @@ TBD.
 
 1. [真希望我 20 歲就懂的事 by Tina Seelig](https://www.kobo.com/tw/zh/ebook/20-xx)
 2. [股價為什麼會上漲 by Leon Levy, Eugene Linden](https://www.books.com.tw/products/0010271775)
-3. [思考的技術 by 大前研一](https://www.taaze.tw/goods/11310903051.html)
+3. [思考的技術 by 大前研一](https://www.taaze.tw/goods/11310903051.html) ✔
 4. [N 世代衝撞：網路新人類正在改變你的世界 (Grown Up Digital: How the Net Generation is Changing Your World) by Don Tapscott](https://www.books.com.tw/products/0010442896)
 5. [工作 DNA (Work DNA) by 郝明義](https://www.books.com.tw/products/0010571586)
 6. [百辯經濟學：為娼妓、皮條客、毒販、吸毒者、誹謗者、偽造貨幣者、高利貸業者、為富不仁的資本家…… 這些「背德者」辯護 (Defending the Undefendable: The Pimp, Prostitute, Scab, Slumlord, Libeler, Moneylender, and Other Scapegoats in the Rogue’s Gallery of American Society) by Walter Block](https://www.kobo.com/tw/zh/ebook/uqwlCLALuz6cqEf3e3NxaA)
