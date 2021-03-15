@@ -31,6 +31,7 @@
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [基礎架構即程式碼：管理雲端伺服器 (Infrastructure as Code: Managing Servers in the Cloud) by Kief Morris](https://www.tenlong.com.tw/products/9789864763382) / 1%
+1. [軟體架構原理：工程方法 (Fundamentals of Software Architecture: A Comprehensive Guide to Patterns, Characteristics, and Best Practices) by Mark Richards, Neal Ford](https://www.tenlong.com.tw/products/9789865026615?list_name=srh) / 1%
 1. [佈線系統的設計、施工、營運手冊 by 李裕後 (Leo Lee)](http://www.tbcxa.org.tw/archives/1477) / 1%
 1. [影響地圖：讓你的軟體產生真正的影響力 by Gojko Adzic](https://www.ituring.com.cn/book/1395) / 1%
 1. [下世代超前佈署：用 Zabbix 全面監管巨量伺服器 by 吳兆松](https://www.tenlong.com.tw/products/9789865501471) / 2%
@@ -392,6 +393,7 @@
 1. [Scrum 敏捷開發術 | 大師輕鬆讀 NO.579](https://www.kobo.com/tw/zh/ebook/9ba42cb7-a6c1-4c26-807b-5b6a41952d5d)
 1. [Scrum and XP from the Trenches (Enterprise Software Development) by Henrik Kniberg](https://www.amazon.com/Scrum-Trenches-Enterprise-Software-Development/dp/1430322640) / 1%
 1. [SCRUM 敏捷實戰手冊：增強績效、放大成果、縮短決策流程 by J.J. Sutherland](https://www.kobo.com/tw/zh/ebook/scrum-38) / 1%
+1. [Scrum 敏捷產品管理：打造客戶喜愛的產品 (Agile Product Management with Scrum: Creating Products that Customers Love) by Roman Pichler](https://www.tenlong.com.tw/products/9789864345601) /1%
 1. [单核工作法图解 by Staffan Noteberg](http://tl.zxhsd.com/kgsm/ts/big5/2017/11/01/3977050.shtml) / 1%
 1. [網站可靠性工程：Google 的系統管理之道 (Site Reliability Engineering: How Google Runs Production Systems) by Betsy Beyer, Jennifer Petoff, Chris Jone](https://www.tenlong.com.tw/products/9789864766253) / 1%
 1. [SRE: Google 運維解密 by Betsy Beyer, Chris Jone, Jennifer Petoff, Niall Murphy](https://www.tenlong.com.tw/items/7121297264) / 3%
