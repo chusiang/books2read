@@ -375,6 +375,9 @@
 1. [蔡康永的說話之道（兔斯基慶功版）by 蔡康永](http://www.books.com.tw/products/0010643097) / 1%
 1. [蔡康永的說話之道 2 by 蔡康永](http://www.books.com.tw/products/0010632643) / 1%
 1. [雜談的能力：生活中想遇到好康、工作時想遠離爛事， 你得從不談正事的軟話題開始 by 速溶綜合研究所](https://play.google.com/store/books/details/%E9%80%9F%E6%BA%B6%E7%B6%9C%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80_%E9%9B%9C%E8%AB%87%E7%9A%84%E8%83%BD%E5%8A%9B_%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%83%B3%E9%81%87%E5%88%B0%E5%A5%BD%E5%BA%B7_%E5%B7%A5%E4%BD%9C%E6%99%82%E6%83%B3%E9%81%A0%E9%9B%A2%E7%88%9B%E4%BA%8B_%E4%BD%A0%E5%BE%97%E5%BE%9E%E4%B8%8D%E8%AB%87%E6%AD%A3%E4%BA%8B%E7%9A%84%E8%BB%9F%E8%A9%B1%E9%A1%8C%E9%96%8B%E5%A7%8B?id=I6uZDwAAQBAJ) / 1%
+1. [口才三絕 by 方士華](https://www.amazon.cn/dp/B07ZF49G5J) / 1%
+1. [為人三會 by 方士華](https://www.amazon.cn/dp/B07ZF49G5J) / 1%
+1. [修心三不 by 方士華](https://www.amazon.cn/dp/B07ZF49G5J) / 1%
 1. [囧星人的人生百想妙答 by 囧星人](http://www.books.com.tw/products/0010765506) / 1%
 1. [軟技能代碼之外的生存指南 (Soft Skills : The software developer's life manual) by John Z.Sonmez](https://www.tenlong.com.tw/products/9787115429476) / 3%
 1. [好日子革新手冊：充分利用行為科學的力量，把雨天變晴天，週一症候群退散 (How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life) by Caroline Webb](https://www.taaze.tw/goods/11310725031.html) / 1%
