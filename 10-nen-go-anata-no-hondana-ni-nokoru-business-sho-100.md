@@ -92,7 +92,7 @@
 19. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ)
 20. [首先，打破成規](https://www.books.com.tw/products/0010120349)
 21. [快樂，從心開始](https://www.books.com.tw/products/0010036164)
-22. [未來在等待的人才](https://www.books.com.tw/products/0010876496) ✔
+22. [未來在等待的人才：知識不再是力量，感性才是力量。今後全世界渴望的人才，需要六種感性能力。(2/e) 》by Daniel Pink](https://www.books.com.tw/products/0010876496) ✔
 23. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) ✔
 24. [超極資本主義](https://www.books.com.tw/products/0010408084)
 25. [槍砲，病菌，與鋼鐵 by Jared Diamond](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
