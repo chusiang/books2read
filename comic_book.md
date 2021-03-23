@@ -14,19 +14,7 @@
 
 ## 待讀書單
 
-1. [鬼滅之刃 (06) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/e9POg58sNT2vUT058BLpeQ) / 2%
-1. [鬼滅之刃 (07) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/UeakztRHmz6f-i1zVf46wA) / 1%
-1. [鬼滅之刃 (08) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/zu_IxQJCCjGegWfSBh0Zsw) / 1%
-1. [鬼滅之刃 (09) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/4FK9LF1_AD6WqPP27nZgFg) / 1%
-1. [鬼滅之刃 (10) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/RaeeJzknUTKEjeKVyslovQ) / 1%
-1. 鬼滅之刃 (11) by 吾峠呼世晴 / 1%
-1. 鬼滅之刃 (12) by 吾峠呼世晴 / 1%
-1. 鬼滅之刃 (13) by 吾峠呼世晴 / 1%
-1. 鬼滅之刃 (14) by 吾峠呼世晴 / 1%
-1. 鬼滅之刃 (15) by 吾峠呼世晴 / 1%
-1. 鬼滅之刃 (16) by 吾峠呼世晴 / 1%
-1. 鬼滅之刃 (17) by 吾峠呼世晴 / 1%
-1. 鬼滅之刃 (18) by 吾峠呼世晴 / 1%
+1. 鬼滅之刃 (18) by 吾峠呼世晴 / 65%
 1. 鬼滅之刃 (19) by 吾峠呼世晴 / 1%
 1. 鬼滅之刃 (20) by 吾峠呼世晴 / 1%
 1. 鬼滅之刃 (21) by 吾峠呼世晴 / 1%
@@ -127,6 +115,18 @@
 1. [鬼滅之刃 (03) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/xov83J9Bhj-XUYmOp1-IAg) / 100%
 1. [鬼滅之刃 (04) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/541idReX-zmOkgizEEtchw) / 100%
 1. [鬼滅之刃 (05) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/o59ukbTeVTipAWm01VK6sw) / 100%
+1. [鬼滅之刃 (06) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/e9POg58sNT2vUT058BLpeQ) / 100%
+1. [鬼滅之刃 (07) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/UeakztRHmz6f-i1zVf46wA) / 100%
+1. [鬼滅之刃 (08) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/zu_IxQJCCjGegWfSBh0Zsw) / 100%
+1. [鬼滅之刃 (09) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/4FK9LF1_AD6WqPP27nZgFg) / 100%
+1. [鬼滅之刃 (10) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/RaeeJzknUTKEjeKVyslovQ) / 100%
+1. 鬼滅之刃 (11) by 吾峠呼世晴 / 100%
+1. 鬼滅之刃 (12) by 吾峠呼世晴 / 100%
+1. 鬼滅之刃 (13) by 吾峠呼世晴 / 100%
+1. 鬼滅之刃 (14) by 吾峠呼世晴 / 100%
+1. 鬼滅之刃 (15) by 吾峠呼世晴 / 100%
+1. 鬼滅之刃 (16) by 吾峠呼世晴 / 100%
+1. 鬼滅之刃 (17) by 吾峠呼世晴 / 100%
 
 ### 2020
 
