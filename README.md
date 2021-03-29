@@ -82,7 +82,7 @@
 1. [請你跟我這樣做](https://www.taaze.tw/usedList.html?oid=11100131903) / 1%
 1. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401) / 0%
 1. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) / 1%
-1. [利潤的故事 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) / 1%
+1. [利潤的故事：23 場來自獲利大師的機密對話錄 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) / 1%
 1. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) / 1%
 1. [下一個社會](https://www.taaze.tw/usedList.html?oid=11100156709) / 1%
 1. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) / 0%
