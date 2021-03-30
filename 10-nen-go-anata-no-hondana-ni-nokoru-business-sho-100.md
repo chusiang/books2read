@@ -75,7 +75,7 @@
 2. [非常識成功法則 by 神田昌典](https://www.books.com.tw/products/0010427180)
 3. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) ✔
 4. [天才老板與偉大員工 (The Gifted Boss) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100396187)
-5. [活得聰明活得好 (Life strategies) by Phillip C. McGraw](https://www.taaze.tw/usedList.html?oid=11100326926) ✔
+5. [活得聰明活得好：智慧生活策略 (Life Strategies: Doing What Works, Doing What Matters) by Phillip C. McGraw](https://www.taaze.tw/usedList.html?oid=11100326926) ✔
 6. [如何搞定恐龍與犀牛 (Coping with difficult people) by Robert Bramaon](https://www.books.com.tw/products/0010188694)
 7. [10 倍速影像閱讀法 (The PhotoReading Whole Mind System) by Paul R. Scheele](https://www.books.com.tw/products/0010560460) ✔
 8. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) ✔
