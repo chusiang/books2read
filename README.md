@@ -67,7 +67,7 @@
 1. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) / 1%
 1. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w) / 0%
 
-1. [杜拉克精選 - 個人篇 by Peter F. Drucker](https://bookzone.cwgv.com.tw/books/details/BCB238) / 1%
+1. [杜拉克精選：個人篇 (The Essential Drucker on Individual) by Peter F. Drucker](https://www.taaze.tw/goods/11311076084.html) / 1%
 1. [非常識成功法則 by 神田昌典](https://www.books.com.tw/products/0010427180) / 0%
 1. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) / 1%
 1. [天才老板與偉大員工 (The Gifted Boss) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100396187) / 0%
