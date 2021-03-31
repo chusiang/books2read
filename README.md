@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 50.2%
+1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 67.8%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [健康吃．營養瘦：400 卡減醣餐＋營養知識打造不復胖體質 by 呂孟凡](https://www.taaze.tw/products/11100905697.html) / 1%
 1. [GameBoy 終極聖經](https://www.pcstore.com.tw/digiforce/M72350606.htm) / 1%
