@@ -62,7 +62,7 @@
 
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) ✔
 2. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg)
-3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / ✔
+3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) ✔
 4. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw)
 5. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
 6. [發現我的天才：打開 34 個天賦的禮物 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/goods/11310970267.html) ✔
@@ -88,7 +88,7 @@
 15. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) ✔
 16. [利潤的故事：23 場來自獲利大師的機密對話錄 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) ✔
 17. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) ✔
-18. [下一個社會](https://www.taaze.tw/usedList.html?oid=11100156709) ✔
+18. [下一個社會 (Managing in the Next Society) by Peter F. Drucker](https://www.taaze.tw/goods/11309666391.html) ✔
 19. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ)
 20. [首先，打破成規](https://www.books.com.tw/products/0010120349)
 21. [快樂，從心開始](https://www.books.com.tw/products/0010036164)
