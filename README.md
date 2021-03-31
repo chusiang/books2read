@@ -16,6 +16,7 @@
 
 1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 50.2%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
+1. [健康吃．營養瘦：400 卡減醣餐＋營養知識打造不復胖體質 by 呂孟凡](https://www.taaze.tw/products/11100905697.html) / 1%
 1. [GameBoy 終極聖經](https://www.pcstore.com.tw/digiforce/M72350606.htm) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
 1. [原則：生活和工作 (Principles: Life and Work) by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
