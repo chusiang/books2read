@@ -78,7 +78,7 @@
 1. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.taaze.tw/goods/11311236051.html) / 1%
 1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
 1. [深度智慧 (DEEP SMARTS) by Dorothy Leonard, Walter Swap](https://www.taaze.tw/usedList.html?oid=11100035814) / 1%
-1. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/usedList.html?oid=11100250025) / 1%
+1. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/goods/11310629202.html) / 1%
 1. [請你跟我這樣做](https://www.taaze.tw/usedList.html?oid=11100131903) / 1%
 1. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401) / 0%
 1. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) / 1%
