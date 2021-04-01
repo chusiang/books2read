@@ -97,7 +97,7 @@
 1. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) / 1%
 1. [馴服風險](https://www.books.com.tw/products/0010344817) / 0%
 1. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362) / 0%
-1. [統計，改變了世界](https://www.books.com.tw/products/0010178635) / 1%
+1. [統計，改變了世界 (The lady tasting tea: how statistics revolutionized science in the twentieth century) by David Salsburg](https://www.taaze.tw/goods/11311189652.html) / 1%
 1. [漫步華爾街](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ) / 0%
 1. [生活的經濟學](https://www.books.com.tw/products/0010035520) / 0%
 1. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) / 1%

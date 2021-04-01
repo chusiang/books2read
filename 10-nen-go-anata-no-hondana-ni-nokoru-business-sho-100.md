@@ -101,7 +101,7 @@
 28. [馴服風險](https://www.books.com.tw/products/0010344817)
 29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
     * 《反脆弱》一書作者。
-30. [統計，改變了世界 by David Salsburg](https://www.taaze.tw/goods/11311189652.html) ✔
+30. [統計，改變了世界 (The lady tasting tea: how statistics revolutionized science in the twentieth century) by David Salsburg](https://www.taaze.tw/goods/11311189652.html) ✔
 31. [漫步華爾街 by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ)
 32. [生活的經濟學](https://www.books.com.tw/products/0010035520)
 33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) ✔
