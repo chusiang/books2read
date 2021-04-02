@@ -73,7 +73,9 @@
 1. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) / 1%
 1. [天才老板與偉大員工 (The Gifted Boss) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100396187) / 0%
 1. [活得聰明活得好：智慧生活策略 (Life Strategies: Doing What Works, Doing What Matters) by Phillip C. McGraw](https://www.taaze.tw/usedList.html?oid=11100326926) / 1%
-6. [如何搞定恐龍與犀牛 (Coping with difficult people) by Robert Bramaon](https://www.books.com.tw/products/0010188694) / 0%
+1. [如何搞定恐龍與犀牛 (Coping with difficult people) by Robert Bramaon](https://www.books.com.tw/products/0010188694) / 0%
+1. [【圖解】10 倍速影像閱讀法 by 神田昌典](https://www.taaze.tw/goods/11310648828.html) / 1%
+1. [超圖解 10 倍速影像閱讀法：心智圖天后速讀祕技大公 by 胡雅茹](https://www.kobo.com/tw/zh/ebook/d5d1572a-3f74-4460-af21-4ea709298f84) / 1%
 1. [10 倍速影像閱讀法 (The PhotoReading Whole Mind System) by Paul R. Scheele](https://www.books.com.tw/products/0010560460) / 1%
 1. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) / 1%
 1. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.taaze.tw/goods/11311236051.html) / 1%
@@ -86,6 +88,8 @@
 1. [利潤的故事：23 場來自獲利大師的機密對話錄 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) / 1%
 1. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) / 1%
 1. [下一個社會 (Managing in the Next Society) by Peter F. Drucker](https://www.taaze.tw/goods/11309666391.html) / 1%
+1. [十倍勝，絕不單靠運氣：如何在不確定、動盪不安環境中，依舊表現卓越？(Great by Choice: Uncertainty，Chaos，and Luck-Why Some Thrive Despite Them All) by Jim Collins, Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/pePwYxsriTWsmoXLMydUCA) / 1%
+1. [為什麼 A+ 巨人也會倒下 (How the Mighty Fall—and why some companies never give in) by Jim Collins](https://www.kobo.com/tw/zh/ebook/a-202) / 1%
 1. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) / 0%
 1. [首先，打破成規](https://www.books.com.tw/products/0010120349) / 0%
 1. [快樂，從心開始](https://www.books.com.tw/products/0010036164) / 0%
