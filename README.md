@@ -16,6 +16,7 @@
 
 1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 67.8%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 1%
 1. [健康吃．營養瘦：400 卡減醣餐＋營養知識打造不復胖體質 by 呂孟凡](https://www.taaze.tw/products/11100905697.html) / 1%
 1. [GameBoy 終極聖經](https://www.pcstore.com.tw/digiforce/M72350606.htm) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
@@ -196,6 +197,7 @@
 1. [永久檔案 (Permanent Record) by Edward Snowden](https://www.kobo.com/tw/zh/ebook/uoWFqH14NDyC40H4hITjKg) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
+1. [圖像溝通的的法則 (The Visual Communications Book: Using Words, Drawings and Whiteboards to Sell Big Ideas) by Mark Edwards](https://www.kobo.com/tw/zh/ebook/qFSe4_6cAjuPauX2RCfUiw) / 1%
 1. [極簡溝通：世界一流菁英都在用的最強說話術！只要 1 分鐘，提案、簡報、開會、主持、洽商，統統搞定！by 伊藤羊一](https://www.kobo.com/tw/zh/ebook/eiiaua_JqT-PBfwoNpwpRw) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
@@ -361,6 +363,7 @@
 1. [超級好！用遊戲打倒生命裡的壞東西: 50 萬人親身見證的心理奇蹟 by Jane McGonigal](https://play.google.com/store/books/details?id=YKv-DQAAQBAJ) / 1%
 1. [關係界限 by 吳姵瑩](https://play.google.com/store/books/details?id=1q9dDwAAQBAJ) / 1%
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
+1. [孫正義一次 OK 的社內簡報術：3 分鐘一舉過關！日本最強簡報術，各大企業競相採用 by 前田鎌利](https://www.kobo.com/tw/zh/ebook/ok-189) / 1%
 1. [如何有效閱讀 by 藤原和博](https://www.amazon.cn/dp/B07R6R4WY5) / 1%
 1. [如何閱讀一本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) / 1%
 1. [Google 模式：智慧創做者世代來臨，挑戰瘋狂變化世界的經營思維與工作邏輯 by Eric Schmidt](https://www.kobo.com/tw/en/ebook/google-14/78ya7rYYEEq7qJgPLC7nMA) / 1%
