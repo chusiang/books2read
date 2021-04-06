@@ -49,7 +49,7 @@
 7. [恐懼之邦 (State of Fear) by Michael Crichton](https://www.taaze.tw/goods/11310092213.html) ✔
     * 《侏羅紀公園》原著小說作者。
 8. [默默](https://www.books.com.tw/products/0010588613) ✔
-9. [潛意識的力量](https://www.taaze.tw/usedList.html?oid=11100483800) ✔
+9. [潛意識的力量 (The Power of Your Subconscious Mind) by Joseph Murphy](https://www.taaze.tw/goods/11311109403.html) ✔
 10. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) ✔
 11. [回到未來的幸運兒：米高福克斯自傳 (Lucky Man: A Memoir) by Michael J. Fox](https://www.taaze.tw/goods/11310337500.html) ✔
 12. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) ✔
