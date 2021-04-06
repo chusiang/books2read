@@ -73,7 +73,7 @@
 1. [非常識成功法則 by 神田昌典](https://www.books.com.tw/products/0010427180) / 0%
 1. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) / 1%
 1. [天才老板與偉大員工 (The Gifted Boss) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100396187) / 0%
-1. [活得聰明活得好：智慧生活策略 (Life Strategies: Doing What Works, Doing What Matters) by Phillip C. McGraw](https://www.taaze.tw/usedList.html?oid=11100326926) / 1%
+1. [活得聰明活得好：智慧生活策略 (Life Strategies: Doing What Works, Doing What Matters) by Phillip C. McGraw](https://www.taaze.tw/goods/11310043989.html) / 1%
 1. [如何搞定恐龍與犀牛 (Coping with difficult people) by Robert Bramaon](https://www.books.com.tw/products/0010188694) / 0%
 1. [【圖解】10 倍速影像閱讀法 by 神田昌典](https://www.taaze.tw/goods/11310648828.html) / 1%
 1. [超圖解 10 倍速影像閱讀法：心智圖天后速讀祕技大公 by 胡雅茹](https://www.kobo.com/tw/zh/ebook/d5d1572a-3f74-4460-af21-4ea709298f84) / 1%
@@ -115,7 +115,7 @@
 1. [恐懼之邦 (State of Fear) by Michael Crichton](https://www.taaze.tw/goods/11310092213.html) / 1%
 1. [默默](https://www.books.com.tw/products/0010588613) / 1%
 1. [潛意識的力量 (The Power of Your Subconscious Mind) by Joseph Murphy](https://www.taaze.tw/goods/11311109403.html) / 1%
-1. [新．知識生產術 by 勝間和代](https://www.taaze.tw/usedList.html?oid=11100153609) / 1%
+1. [新．知識生產術 by 勝間和代](https://www.taaze.tw/goods/11310575730.html) / 1%
 1. [回到未來的幸運兒：米高福克斯自傳 (Lucky Man: A Memoir) by Michael J. Fox](https://www.taaze.tw/goods/11310337500.html) / 1%
 1. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) / 1%
 1. [會痛的不是愛](https://www.books.com.tw/products/0010793413) / 1%
@@ -197,7 +197,7 @@
 1. [永久檔案 (Permanent Record) by Edward Snowden](https://www.kobo.com/tw/zh/ebook/uoWFqH14NDyC40H4hITjKg) / 1%
 1. [心流：高手都在研究的最優體驗心理學 by Mihaly Csikszentmihalyi](https://play.google.com/store/books/details?id=632ZDwAAQBAJ) / 1%
 1. [圖像溝通的藝術 by Graham Shaw](http://www.books.com.tw/products/0010683687) / 1%
-1. [圖像溝通的的法則 (The Visual Communications Book: Using Words, Drawings and Whiteboards to Sell Big Ideas) by Mark Edwards](https://www.kobo.com/tw/zh/ebook/qFSe4_6cAjuPauX2RCfUiw) / 1%
+1. [圖像溝通的的法則 (The Visual Communications Book: Using Words, Drawings and Whiteboards to Sell Big Ideas) by Mark Edwards](https://www.kobo.com/tw/zh/ebook/qFSe4_6cAjuPauX2RCfUiw)
 1. [極簡溝通：世界一流菁英都在用的最強說話術！只要 1 分鐘，提案、簡報、開會、主持、洽商，統統搞定！by 伊藤羊一](https://www.kobo.com/tw/zh/ebook/eiiaua_JqT-PBfwoNpwpRw) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
