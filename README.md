@@ -118,7 +118,7 @@
 1. [新．知識生產術 by 勝間和代](https://www.taaze.tw/goods/11310575730.html) / 1%
 1. [回到未來的幸運兒：米高福克斯自傳 (Lucky Man: A Memoir) by Michael J. Fox](https://www.taaze.tw/goods/11310337500.html) / 1%
 1. [影響你生命的 12 原型 (Awakening the Heroes Within) by Carol S. Pearson, Ph.D.](https://www.taaze.tw/usedList.html?oid=11100010049) / 1%
-1. [會痛的不是愛](https://www.books.com.tw/products/0010793413) / 1%
+1. [會痛的不是愛：真愛啟程，療癒自我與關係的 366 天 (If It Hurts, It Isn't Love： And 365 Other Principles to Heal and Transform Your Relationships) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010793413) / 1%
 1. [開悟卡 (Enlightenment Pack) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010794541) / 1%
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
 1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/usedList.html?oid=11100165798) / 1%
