@@ -42,7 +42,7 @@
 
 1. 增加 19 倍銷售的廣告創意法
 2. [作家之路](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg)
-3. [公司留不住錢的真正理由](https://www.books.com.tw/products/0010312105) ✔
+3. [公司留不住錢的真正理由：94% 的公司經營者不知道的經營訣竅 by 岡本吏郎](https://www.taaze.tw/goods/11310338637.html) ✔
 4. [變動法則](https://www.taaze.tw/usedList.html?oid=11100249573)
 5. [修練的軌跡：引動潛能的 U 型理論 by Peter M. Senge](https://www.taaze.tw/usedList.html?oid=11100033132)
 6. 大投資潮
@@ -83,7 +83,7 @@
 10. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) ✔
 11. [深度智慧 (DEEP SMARTS) by Dorothy Leonard, Walter Swap](https://www.taaze.tw/usedList.html?oid=11100035814) ✔
 12. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/goods/11310629202.html) ✔
-13. [請你跟我這樣做](https://www.taaze.tw/usedList.html?oid=11100131903) ✔
+13. [請你跟我這樣做：洞悉業務員，廣告，政治人物的六大心理戰術 (Influence：Scienceand Practice) by Robert B. Cialdini](https://www.taaze.tw/goods/11310903818.html) ✔
 14. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401)
 15. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) ✔
 16. [利潤的故事：23 場來自獲利大師的機密對話錄 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) ✔
