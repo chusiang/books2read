@@ -108,7 +108,7 @@
 
 ## 附錄 ①：9 位日本書店專業店員談：「讓我深思的 1 本書」
 
-1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/usedList.html?oid=11100165798) ✔
+1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/goods/11309861609.html) ✔
 2. (台灣未出版) 謎樣的公司改變了世界 by 須田將啟, 田中禎人
 3. [金字塔原理：思考、寫作、解決問題的邏輯方法 by Barbara Minto](https://www.books.com.tw/products/0010369735) ✔
 4. (台灣未出版) 策略腳本：思考與技術

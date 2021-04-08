@@ -121,7 +121,7 @@
 1. [會痛的不是愛：真愛啟程，療癒自我與關係的 366 天 (If It Hurts, It Isn't Love： And 365 Other Principles to Heal and Transform Your Relationships) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010793413) / 1%
 1. [開悟卡 (Enlightenment Pack) by Chuck Spezzano, Ph. D.](https://www.books.com.tw/products/0010794541) / 1%
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
-1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/usedList.html?oid=11100165798) / 1%
+1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/goods/11309861609.html) / 1%
 1. [思考的技術：培養具有競爭力的思考途徑 by 大前研一](https://www.taaze.tw/goods/11310903051.html) / 1%
 1. [企鵝公路 by 森見登美彥](https://www.taaze.tw/usedList.html?oid=11100867094) / 1%
 1. [企鵝鐵道失物招領課 by 名取佐和子](https://www.kobo.com/my/en/ebook/g9z8nqozitw9dtukuiq7fw) / 1%
