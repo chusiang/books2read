@@ -125,7 +125,7 @@ TBD.
 
 1. [真希望我 20 歲就懂的事 by Tina Seelig](https://www.kobo.com/tw/zh/ebook/20-xx)
 2. [股價為什麼會上漲 by Leon Levy, Eugene Linden](https://www.books.com.tw/products/0010271775)
-3. [思考的技術 by 大前研一](https://www.taaze.tw/goods/11310903051.html) ✔
+3. [思考的技術：培養具有競爭力的思考途徑 by 大前研一](https://www.taaze.tw/goods/11310903051.html) ✔
 4. [N 世代衝撞：網路新人類正在改變你的世界 (Grown Up Digital: How the Net Generation is Changing Your World) by Don Tapscott](https://www.books.com.tw/products/0010442896)
 5. [工作 DNA (Work DNA) by 郝明義](https://www.books.com.tw/products/0010571586)
 6. [百辯經濟學：為娼妓、皮條客、毒販、吸毒者、誹謗者、偽造貨幣者、高利貸業者、為富不仁的資本家…… 這些「背德者」辯護 (Defending the Undefendable: The Pimp, Prostitute, Scab, Slumlord, Libeler, Moneylender, and Other Scapegoats in the Rogue’s Gallery of American Society) by Walter Block](https://www.kobo.com/tw/zh/ebook/uqwlCLALuz6cqEf3e3NxaA)
