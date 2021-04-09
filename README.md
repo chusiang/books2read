@@ -765,6 +765,7 @@
 1. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) / 100%
 1. [用超輕黏土製作可愛的大小企鵝：捏一捏、搓一搓，讓企鵝大軍包圍你的房間！](https://www.taaze.tw/goods/11100927232.html) / 100%
 1. [成功的原則 (Principles for Success) by Ray Dailo](https://www.kobo.com/tw/zh/ebook/vyc0rHrk2DCmckQts1_vFQ) / 100%
+1. [兩輪誌 2 Wheels 3 月號 / 2021 第 144 期](https://www.books.com.tw/products/R030081612?sloc=main) / 100%
 
 ### 2020
 
