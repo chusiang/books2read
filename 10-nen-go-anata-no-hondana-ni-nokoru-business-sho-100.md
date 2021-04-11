@@ -36,12 +36,12 @@
 2. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.taaze.tw/goods/11311194645.html) ✔
 3. [不管怎樣，還是要…：瘋狂世界，矛盾十戒 (The Paradoxical Commandments) by Kent Keith](https://www.taaze.tw/usedList.html?oid=11100178012)
 4. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) ✔
-5. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w)
+5. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w) ✔
 
 ### 10 年後會留在書架上的 40 本書
 
 1. 增加 19 倍銷售的廣告創意法
-2. [作家之路](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg)
+2. [作家之路](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg) ✔
 3. [公司留不住錢的真正理由：94% 的公司經營者不知道的經營訣竅 by 岡本吏郎](https://www.taaze.tw/goods/11310338637.html) ✔
 4. [變動法則](https://www.taaze.tw/usedList.html?oid=11100249573)
 5. [修練的軌跡：引動潛能的 U 型理論 by Peter M. Senge](https://www.taaze.tw/usedList.html?oid=11100033132)
@@ -61,12 +61,12 @@
 ### 最棒的 10 本書
 
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) ✔
-2. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg)
+2. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) ✔
 3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) ✔
-4. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw)
+4. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) ✔
 5. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
 6. [發現我的天才：打開 34 個天賦的禮物 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/goods/11310970267.html) ✔
-7. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA)
+7. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA) ✔
 8. [創新的兩難 (The Innovator's Dilemma) by Clayton M. Christensen](https://www.books.com.tw/products/0010367123) ✔
 
 ### 10 年後會留在書架上的 40 本書
@@ -89,20 +89,20 @@
 16. [利潤的故事：23 場來自獲利大師的機密對話錄 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) ✔
 17. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) ✔
 18. [下一個社會 (Managing in the Next Society) by Peter F. Drucker](https://www.taaze.tw/goods/11309666391.html) ✔
-19. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ)
+19. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) ✔
 20. [首先，打破成規](https://www.books.com.tw/products/0010120349)
 21. [快樂，從心開始](https://www.books.com.tw/products/0010036164)
 22. [未來在等待的人才：知識不再是力量，感性才是力量。今後全世界渴望的人才，需要六種感性能力。(2/e) 》by Daniel Pink](https://www.books.com.tw/products/0010876496) ✔
 23. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) ✔
 24. [超極資本主義](https://www.books.com.tw/products/0010408084)
-25. [槍砲，病菌，與鋼鐵 by Jared Diamond](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw)
+25. [槍炮、病菌與鋼鐵：人類社會的命運 by Jared Diamond](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw) ✔
 26. [雀喙之謎：從芬雀喙看達爾文的物種源起 (The Beak of the Finch: A Story of Evolution in Our Time) by Jonathan Weiner](https://www.taaze.tw/usedList.html?oid=11100554124) ✔
 27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) ✔
 28. [馴服風險](https://www.books.com.tw/products/0010344817)
 29. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362)
     * 《反脆弱》一書作者。
 30. [統計，改變了世界 (The lady tasting tea: how statistics revolutionized science in the twentieth century) by David Salsburg](https://www.taaze.tw/goods/11311189652.html) ✔
-31. [漫步華爾街 by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/YtUTQEE0ejWfSqbj2eNFzQ)
+31. [漫步華爾街：超越股市漲跌的成功投資策略 by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/af5b0407-d02b-4b32-b457-b3c1d84cb91c) ✔
 32. [生活的經濟學](https://www.books.com.tw/products/0010035520)
 33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) ✔
 
