@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [鬼滅之刃 (22) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/YQl32wefTzm2m7gG4oepVg/fFBKcy_Wfk6OPGphO1gT5w) / 1%
 1. [為什麼老師會在這裡!? (6) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/j46LT1KDFzqOE4utWef65g) / 1%
 1. [為什麼老師會在這裡!? (7) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/iwUPdn3n0TW59OTlLhOuZA) / 1%
 1. 鬼滅之刃 - 富岡義勇外傳 by 吾峠呼世晴 / 1%
