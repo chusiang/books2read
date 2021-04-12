@@ -16,6 +16,8 @@
 
 1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 67.8%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
+1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
+1. [ANTARCTICA．南極地圖與簡介 by 企鵝先生](https://www.taaze.tw/goods/11100709284.html) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 1%
 1. [健康吃．營養瘦：400 卡減醣餐＋營養知識打造不復胖體質 by 呂孟凡](https://www.taaze.tw/products/11100905697.html) / 1%
 1. [GameBoy 終極聖經](https://www.pcstore.com.tw/digiforce/M72350606.htm) / 1%
@@ -32,6 +34,7 @@
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 3%
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
+1. [Python功力提升的樂趣：寫出乾淨程式碼的最佳實務 by Al Sweigart](https://www.taaze.tw/goods/11100932910.html) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [基礎架構即程式碼：管理雲端伺服器 (Infrastructure as Code: Managing Servers in the Cloud) by Kief Morris](https://www.tenlong.com.tw/products/9789864763382) / 1%
 1. [軟體架構原理：工程方法 (Fundamentals of Software Architecture: A Comprehensive Guide to Patterns, Characteristics, and Best Practices) by Mark Richards, Neal Ford](https://www.tenlong.com.tw/products/9789865026615?list_name=srh) / 1%
