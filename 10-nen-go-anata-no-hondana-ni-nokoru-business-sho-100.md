@@ -63,7 +63,7 @@
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) ✔
 2. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) ✔
 3. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) ✔
-4. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) ✔
+4. [引爆趨勢：小改變如何引發大流行 (The Tipping Point: How Little Things Can Make a Big Difference) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) ✔
 5. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) ✔
 6. [發現我的天才：打開 34 個天賦的禮物 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/goods/11310970267.html) ✔
 7. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA) ✔

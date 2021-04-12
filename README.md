@@ -62,7 +62,7 @@
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) / 1%
 1. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) / 1%
 1. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
-1. [引爆趨勢 (The Tipping Point) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) / 1%
+1. [引爆趨勢：小改變如何引發大流行 (The Tipping Point: How Little Things Can Make a Big Difference) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) / 1%
 1. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) / 1%
 1. [發現我的天才：打開 34 個天賦的禮物 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/goods/11310970267.html) / 1%
 1. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA) / 1%
@@ -71,7 +71,6 @@
 1. [不管怎樣，還是要…：瘋狂世界，矛盾十戒 (The Paradoxical Commandments) by Kent Keith](https://www.taaze.tw/usedList.html?oid=11100178012) / 0%
 1. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) / 1%
 1. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w) / 1%
-
 1. [杜拉克精選：個人篇 (The Essential Drucker on Individual) by Peter F. Drucker](https://www.taaze.tw/goods/11311076084.html) / 1%
 1. [非常識成功法則：創造財富與自由的 8 個習慣 by 神田昌典](https://www.taaze.tw/goods/11311394949.html) / 1%
 1. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) / 1%
