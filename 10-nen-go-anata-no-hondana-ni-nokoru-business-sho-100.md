@@ -72,7 +72,7 @@
 ### 10 年後會留在書架上的 40 本書
 
 1. [杜拉克精選：個人篇 (The Essential Drucker on Individual) by Peter F. Drucker](https://www.taaze.tw/goods/11311076084.html) ✔
-2. [非常識成功法則 by 神田昌典](https://www.books.com.tw/products/0010427180)
+2. [非常識成功法則：創造財富與自由的 8 個習慣 by 神田昌典](https://www.taaze.tw/goods/11311394949.html) ✔
 3. [你工作快樂嗎 (The Max Strategy) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100021404) ✔
 4. [天才老板與偉大員工 (The Gifted Boss) by Dale Dauten](https://www.taaze.tw/usedList.html?oid=11100396187)
 5. [活得聰明活得好：智慧生活策略 (Life Strategies: Doing What Works, Doing What Matters) by Phillip C. McGraw](https://www.taaze.tw/goods/11310043989.html) ✔
