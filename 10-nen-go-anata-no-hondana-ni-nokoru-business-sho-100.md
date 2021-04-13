@@ -41,7 +41,7 @@
 ### 10 年後會留在書架上的 40 本書
 
 1. 增加 19 倍銷售的廣告創意法
-2. [作家之路](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg) ✔
+2. [作家之路：從英雄的旅程學習說一個好故事 (The Writer's Journey: Mythic Structure for Writers, 3/e) by Christopher Vogler](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg) ✔
 3. [公司留不住錢的真正理由：94% 的公司經營者不知道的經營訣竅 by 岡本吏郎](https://www.taaze.tw/goods/11310338637.html) ✔
 4. [變動法則](https://www.taaze.tw/usedList.html?oid=11100249573)
 5. [修練的軌跡：引動潛能的 U 型理論 by Peter M. Senge](https://www.taaze.tw/usedList.html?oid=11100033132)
