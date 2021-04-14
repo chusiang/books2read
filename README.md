@@ -15,16 +15,16 @@
 ## 待讀書單
 
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 1%
+1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
 1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
 1. [ANTARCTICA．南極地圖與簡介 by 企鵝先生](https://www.taaze.tw/goods/11100709284.html) / 1%
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 1%
 1. [健康吃．營養瘦：400 卡減醣餐＋營養知識打造不復胖體質 by 呂孟凡](https://www.taaze.tw/products/11100905697.html) / 1%
 1. [GameBoy 終極聖經](https://www.pcstore.com.tw/digiforce/M72350606.htm) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
 1. [原則：生活和工作 (Principles: Life and Work) by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
-1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
+1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 71.6%
-1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 21.8%
 1. [哈佛醫學院的 SMART 壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案 by 王芳](https://www.kobo.com/tw/zh/ebook/smart-18) / 1%
 1. [高品質軟體文件：持續分享技術與知識 (Living Documentation: Continuous Knowledge Sharing by Design) by Cyrille Martraire](https://www.tenlong.com.tw/products/9789865024871) / 1%
 1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
@@ -45,7 +45,6 @@
 1. [人生實驗室：職涯難題的邏輯圖解說明書 by 蕭俊傑](https://play.google.com/store/books/details/%E8%95%AD%E4%BF%8A%E5%82%91_%E4%BA%BA%E7%94%9F%E5%AF%A6%E9%A9%97%E5%AE%A4_%E8%81%B7%E6%B6%AF%E9%9B%A3%E9%A1%8C%E7%9A%84%E9%82%8F%E8%BC%AF%E5%9C%96%E8%A7%A3%E8%AA%AA%E6%98%8E%E6%9B%B8?id=exi3DwAAQBAJ) / 59%
 1. [零規則：高人才密度 x 完全透明 x 最低管控，首度完整直擊 Netflix 圈粉全球的關鍵祕密 by Reed Hastings, Erin Meyer](https://www.kobo.com/tw/zh/ebook/xx-netflix) / 1%
 1. [Instagram 崛起的內幕與代價：以及它如何改變了文化、商業、科技、媒體，與我們每一個人 by Sarah Frier](https://www.kobo.com/tw/zh/ebook/instagram-10) / 1%
-1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (12)：Alicization rising by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_12?id=nEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (13)：Alicization dividing by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_13?id=qEM1DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (14)：Alicization uniting by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_14?id=zEM1DwAAQBAJ) / 1%
@@ -298,7 +297,6 @@
 1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
 1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
 1. [怦然心動的人生整理魔法２：實踐篇、解惑篇 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/3241f933-1cff-4563-a2ee-68912445fb0d) / 1%
-1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
 1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by Jane B. Burka、Lenora M. Yuen](https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
 1. [與成功有約 by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
 1. [大師的刻意練習：20 世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法 by James Francis Cooke](https://readmoo.com/book/210116244000101) / 1%
@@ -753,6 +751,7 @@
 1. [倚天屠龍記合集: 八冊合一 by 金庸](https://play.google.com/store/books/details?id=cnhVDwAAQBAJ) / 1%
 1. [第 8 號當舖 (復刻版) by 深雪](https://www.kobo.com/tw/zh/ebook/w1RikVCtEz-15CCd_FPWmw) / 1%
 1. [幼女戰記 (01) by カルロ・ゼン](https://www.kobo.com/tw/zh/ebook/aWfA8xUhvz2X-mBw7SMMyw) / 0%
+1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 
 ## 已讀書單
 
