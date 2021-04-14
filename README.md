@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 67.8%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
 1. [ANTARCTICA．南極地圖與簡介 by 企鵝先生](https://www.taaze.tw/goods/11100709284.html) / 1%
@@ -768,6 +767,7 @@
 1. [用超輕黏土製作可愛的大小企鵝：捏一捏、搓一搓，讓企鵝大軍包圍你的房間！](https://www.taaze.tw/goods/11100927232.html) / 100%
 1. [成功的原則 (Principles for Success) by Ray Dailo](https://www.kobo.com/tw/zh/ebook/vyc0rHrk2DCmckQts1_vFQ) / 100%
 1. [兩輪誌 2 Wheels 3 月號 / 2021 第 144 期](https://www.books.com.tw/products/R030081612?sloc=main) / 100%
+1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 100%
 
 ### 2020
 
