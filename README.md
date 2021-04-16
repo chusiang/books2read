@@ -58,7 +58,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (22): Kiss and fly by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_22?id=g2L4DwAAQBAJ) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (23): Unital ring Ⅱ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_23?id=oXsXEAAAQBAJ) / 1%
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) / 1%
-1. [我的人生思考 by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) / 1%
+1. [我的人生思考 (As a man thinketh) by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) / 1%
 1. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
 1. [引爆趨勢：小改變如何引發大流行 (The Tipping Point: How Little Things Can Make a Big Difference) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) / 1%
 1. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) / 1%
