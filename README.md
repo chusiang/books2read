@@ -91,7 +91,7 @@
 1. [下一個社會 (Managing in the Next Society) by Peter F. Drucker](https://www.taaze.tw/goods/11309666391.html) / 1%
 1. [十倍勝，絕不單靠運氣：如何在不確定、動盪不安環境中，依舊表現卓越？(Great by Choice: Uncertainty，Chaos，and Luck-Why Some Thrive Despite Them All) by Jim Collins, Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/pePwYxsriTWsmoXLMydUCA) / 1%
 1. [為什麼 A+ 巨人也會倒下 (How the Mighty Fall—and why some companies never give in) by Jim Collins](https://www.kobo.com/tw/zh/ebook/a-202) / 1%
-1. [競爭策略](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) / 1%
+1. [競爭策略：產業環境及競爭者分析 (Competitive Strategy：Techniques for Analyzing and Competitors) by Michael E. Porter](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) / 1%
 1. [首先，打破成規](https://www.books.com.tw/products/0010120349) / 0%
 1. [快樂，從心開始](https://www.books.com.tw/products/0010036164) / 0%
 1. [未來在等待的人才：知識不再是力量，感性才是力量。今後全世界渴望的人才，需要六種感性能力。(2/e) 》by Daniel Pink](https://www.books.com.tw/products/0010876496) / 1%
