@@ -15,7 +15,6 @@
 ## 待讀書單
 
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
 1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
 1. [ANTARCTICA．南極地圖與簡介 by 企鵝先生](https://www.taaze.tw/goods/11100709284.html) / 1%
@@ -769,6 +768,7 @@
 1. [侏羅紀公園 (Jurassic Park) by Michael Crichton](https://www.books.com.tw/products/0010754256) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 100%
 1. [Gogoro 2 Smartscooter 智慧雙輪車主手冊](https://support.gogoro.com/tw/manual/collections/6870208234787282/articles/3910102541515424/) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 100%
 
 ### 2020
 
