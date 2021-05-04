@@ -18,6 +18,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
 1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
 1. [ANTARCTICA．南極地圖與簡介 by 企鵝先生](https://www.taaze.tw/goods/11100709284.html) / 1%
+1. [為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學 (Why We Sleep: The New Science of Sleep and Dreams) by Matthew Walker](https://www.kobo.com/tw/zh/ebook/quFxMiMzKz6ey4Tp5UcGbw) / 1%
 1. [健康吃．營養瘦：400 卡減醣餐＋營養知識打造不復胖體質 by 呂孟凡](https://www.taaze.tw/products/11100905697.html) / 1%
 1. [GameBoy 終極聖經](https://www.pcstore.com.tw/digiforce/M72350606.htm) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
@@ -363,7 +364,7 @@
 1. [高橋流簡報 by 高橋征義 (Masayoshi Takahashi)](http://www.books.com.tw/products/0010457745) / 1%
 1. [孫正義一次 OK 的社內簡報術：3 分鐘一舉過關！日本最強簡報術，各大企業競相採用 by 前田鎌利](https://www.kobo.com/tw/zh/ebook/ok-189) / 1%
 1. [如何有效閱讀 by 藤原和博](https://www.amazon.cn/dp/B07R6R4WY5) / 1%
-1. [如何閱讀一本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) / 1%
+1. [讀懂一本書：3300 萬會員、22 億次收聽「樊登讀書」創始人知識變能力的祕密完整公開 by 樊登](https://www.kobo.com/tw/zh/ebook/cbKfFukqAj2KL5aHii7Dag) / 1%
 1. [Google 模式：智慧創做者世代來臨，挑戰瘋狂變化世界的經營思維與工作邏輯 by Eric Schmidt](https://www.kobo.com/tw/en/ebook/google-14/78ya7rYYEEq7qJgPLC7nMA) / 1%
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [打造圖像腦：學會擊敗 90% 職場競爭者的視覺思考工作術 by Dan Roam](https://www.kobo.com/tw/zh/ebook/64a0876d-972a-400e-a12d-5f0415fdb66a) / 1%
@@ -373,6 +374,7 @@
 1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
 1. [窮查理的智慧語錄 by David Clark](https://play.google.com/store/books/details?id=Ch9iDwAAQBAJ) / 1%
 1. [不當行為：行為經濟學之父教你更聰明的思考、理財、看世界 by Richard H. Thaler](https://www.kobo.com/tw/zh/ebook/0b43aedf-0eab-4af4-81f6-76632e944e05) / 1%
+1. [富爸爸，窮爸爸 (Rich Dad, Poor Dad) by Robert T. Kiyosaki](https://www.kobo.com/tw/zh/ebook/wq69VgKE6ziuMLAXnkPsog) / 1%
 1. [金錢心理學：打破你對金錢的迷思，學會聰明花費 by Dan Ariely, Jeff Kreisler](https://www.kobo.com/tw/zh/ebook/6875ede0-f00a-4466-bf50-6ec0055e5e62) / 1%
 1. [花掉的錢都會自己流回來 by Mentalist DaiGo](https://www.kobo.com/tw/zh/ebook/08945ac4-c69b-4b62-a6d3-e0359a29fc52) / 1%
 1. [管好你的錢： 一生受用的理財計畫 by 王志鈞](https://www.kobo.com/tw/zh/ebook/1f224378-d1bf-48db-aaa8-1842753674f0) / 1%
