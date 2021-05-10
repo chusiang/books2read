@@ -131,6 +131,7 @@
 1. 鬼滅之刃 (21) by 吾峠呼世晴 / 100%
 1. [鬼滅之刃 (22) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/YQl32wefTzm2m7gG4oepVg/fFBKcy_Wfk6OPGphO1gT5w) / 100%
 1. [【說神：拜拜】 台灣神廟全彩漫畫本 by PAPARAYA](https://shopee.tw/%E3%80%90%E8%AA%AA%E7%A5%9E%EF%BC%9A%E6%8B%9C%E6%8B%9C%E3%80%91-%E5%8F%B0%E7%81%A3%E7%A5%9E%E5%BB%9F%E5%85%A8%E5%BD%A9%E6%BC%AB%E7%95%AB%E6%9C%AC%EF%BC%8DPAPARAYA-i.40199294.7034897906) / 100%
+1. [鬼滅之刃 (23) by 吾峠呼世晴 (完 / 首刷限定版)](https://www.eslite.com/product/1001129222681991981004) / 100%
 
 ### 2020
 
