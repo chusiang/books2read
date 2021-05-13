@@ -15,6 +15,7 @@
 ## 待讀書單
 
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
+1. [危難求生手冊：緊急時刻，專家教你怎麼做！(The Worst-Case Scenario Survival Handbook: Expert Advice for Extreme Situations) by Joshua Piven, David Borgenicht](https://www.kobo.com/tw/zh/ebook/3kk0VdteuT6ULmoWWHyM1g) / 1%
 1. [日本刀：全面剖析日本刀的鍛造與鑑賞藝術 by Yoshindo Yoshihara, Leon Kapp, Hiroko Kapp](https://www.eslite.com/product/1001261432681950260003) / 1%
 1. [自行車保養維修圖解聖經 (The Complete Bike Owner's Manual) by DK](https://www.eslite.com/product/1001113882735399) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
