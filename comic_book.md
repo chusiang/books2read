@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [吾峠呼世晴短篇集 (全) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/c7b903a9-9a63-4164-bb38-02c6c18909b7) / 1%
 1. [為什麼老師會在這裡!? (6) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/j46LT1KDFzqOE4utWef65g) / 1%
 1. [為什麼老師會在這裡!? (7) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/iwUPdn3n0TW59OTlLhOuZA) / 1%
 1. 鬼滅之刃 - 富岡義勇外傳 by 吾峠呼世晴 / 1%

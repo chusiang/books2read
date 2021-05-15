@@ -14,11 +14,16 @@
 
 ## 待讀書單
 
+1. [ROBOT 魂大全：機器人模型不滅的本質 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100904939.html) / 10.3%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [危難求生手冊：緊急時刻，專家教你怎麼做！(The Worst-Case Scenario Survival Handbook: Expert Advice for Extreme Situations) by Joshua Piven, David Borgenicht](https://www.kobo.com/tw/zh/ebook/3kk0VdteuT6ULmoWWHyM1g) / 1%
+1. [美軍野外生存手冊：集結美軍百年經驗，最權威的美軍特種部隊絕境求生祕技 (The U.S. Army Survival Manual: Department of the Army Field Manual21-76) by 美國國防部 (United States Department of Defense)](https://www.kobo.com/tw/zh/ebook/3yI7tybbeTe3dhjf4uGRXg) / 1%
+1. [美國海豹特種部隊教你災難求生密技 100 招【18 禁】：如何在遇難時刻化險為夷、順利逃脫、保全性命 by Clint Emerson](https://www.kobo.com/tw/en/ebook/nLeig0Mv3jaGmLwi8QATvQ) / 1%
 1. [日本刀：全面剖析日本刀的鍛造與鑑賞藝術 by Yoshindo Yoshihara, Leon Kapp, Hiroko Kapp](https://www.eslite.com/product/1001261432681950260003) / 1%
-1. [自行車保養維修圖解聖經 (The Complete Bike Owner's Manual) by DK](https://www.eslite.com/product/1001113882735399) / 1%
+1. [[輕小說] 鬼滅之刃：幸福之花 (全) by 矢島綾, 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/bb4c7465-1229-4705-892d-13ae9628fedb) / 1%
+1. [[輕小說] 鬼滅之刃：單翅之蝶 (全) by 矢島綾, 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/219030c1-d284-450d-9018-0cfb24354ce9) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
+1. [自行車保養維修圖解聖經 (The Complete Bike Owner's Manual) by DK](https://www.eslite.com/product/1001113882735399) / 1%
 1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
 1. [ANTARCTICA．南極地圖與簡介 by 企鵝先生](https://www.taaze.tw/goods/11100709284.html) / 1%
 1. [為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學 (Why We Sleep: The New Science of Sleep and Dreams) by Matthew Walker](https://www.kobo.com/tw/zh/ebook/quFxMiMzKz6ey4Tp5UcGbw) / 1%
