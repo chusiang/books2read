@@ -39,9 +39,12 @@
 1. [Harbor 權威指南：容器鏡像、Helm Chart 等雲原生製品的管理與實踐 by 張海寧](https://www.tenlong.com.tw/products/9787121396854) / 3.4%
 1. [突破困境：資安開源工具應用 by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864345465) / 4.1%
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 3%
+1. [矽谷工程師教你 Kubernetes：史上最全 CI/CD 中文應用指南 by 邱宏瑋](https://www.tenlong.com.tw/products/9789864347551) / 1%
+1. [改變歷史的加密訊息 by 彭偉皓](https://www.tenlong.com.tw/products/9789864347469) / 1%
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [Python功力提升的樂趣：寫出乾淨程式碼的最佳實務 by Al Sweigart](https://www.taaze.tw/goods/11100932910.html) / 1%
+1. [Python 設計模式深入解析 (Mastering Python Design Patterns) by Sakis Kasampalis](https://www.tenlong.com.tw/products/9789864340415) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [基礎架構即程式碼：管理雲端伺服器 (Infrastructure as Code: Managing Servers in the Cloud) by Kief Morris](https://www.tenlong.com.tw/products/9789864763382) / 1%
 1. [軟體架構原理：工程方法 (Fundamentals of Software Architecture: A Comprehensive Guide to Patterns, Characteristics, and Best Practices) by Mark Richards, Neal Ford](https://www.tenlong.com.tw/products/9789865026615?list_name=srh) / 1%
