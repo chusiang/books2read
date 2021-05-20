@@ -15,7 +15,6 @@
 ## 待讀書單
 
 1. [吾峠呼世晴短篇集 (全) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/c7b903a9-9a63-4164-bb38-02c6c18909b7) / 1%
-1. [為什麼老師會在這裡!? (6) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/j46LT1KDFzqOE4utWef65g) / 1%
 1. [為什麼老師會在這裡!? (7) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/iwUPdn3n0TW59OTlLhOuZA) / 1%
 1. 鬼滅之刃 - 富岡義勇外傳 by 吾峠呼世晴 / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
@@ -134,6 +133,7 @@
 1. [【說神：拜拜】 台灣神廟全彩漫畫本 by PAPARAYA](https://shopee.tw/%E3%80%90%E8%AA%AA%E7%A5%9E%EF%BC%9A%E6%8B%9C%E6%8B%9C%E3%80%91-%E5%8F%B0%E7%81%A3%E7%A5%9E%E5%BB%9F%E5%85%A8%E5%BD%A9%E6%BC%AB%E7%95%AB%E6%9C%AC%EF%BC%8DPAPARAYA-i.40199294.7034897906) / 100%
 1. [鬼滅之刃 (23) by 吾峠呼世晴 (完 / 首刷限定版)](https://www.eslite.com/product/1001129222681991981004) / 100%
 1. [我的英雄學院 (28) by 堀越耕平](https://www.kobo.com/tw/en/ebook/i7z494iLKTmtf6X6ZBDNuw) / 100%
+1. [為什麼老師會在這裡!? (6) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/j46LT1KDFzqOE4utWef65g) / 100%
 
 ### 2020
 
