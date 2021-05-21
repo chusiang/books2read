@@ -134,6 +134,8 @@
 1. [鬼滅之刃 (23) by 吾峠呼世晴 (完 / 首刷限定版)](https://www.eslite.com/product/1001129222681991981004) / 100%
 1. [我的英雄學院 (28) by 堀越耕平](https://www.kobo.com/tw/en/ebook/i7z494iLKTmtf6X6ZBDNuw) / 100%
 1. [為什麼老師會在這裡!? (6) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/j46LT1KDFzqOE4utWef65g) / 100%
+1. 機動戰士 V 鋼彈 (1) by 富野由悠季 / 100%
+1. 機動戰士 V 鋼彈 (2) by 富野由悠季 / 100%
 
 ### 2020
 
