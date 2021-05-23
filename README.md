@@ -783,6 +783,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (10)：Alicization running by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_10?id=WEM1DwAAQBAJ) / 100%
 1. [Gogoro 2 Smartscooter 智慧雙輪車主手冊](https://support.gogoro.com/tw/manual/collections/6870208234787282/articles/3910102541515424/) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 100%
+1. [野本憲一模型技術研究所特別篇：鋼彈模型入門 by 野本憲一](https://www.taaze.tw/goods/11100185793.html) / 100%
 
 ### 2020
 
