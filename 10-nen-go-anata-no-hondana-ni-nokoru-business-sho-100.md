@@ -90,7 +90,7 @@
 17. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) ✔
 18. [下一個社會 (Managing in the Next Society) by Peter F. Drucker](https://www.taaze.tw/goods/11309666391.html) ✔
 19. [競爭策略：產業環境及競爭者分析 (Competitive Strategy：Techniques for Analyzing and Competitors) by Michael E. Porter](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) ✔
-20. [首先，打破成規](https://www.books.com.tw/products/0010120349)
+20. [首先，打破成規：八萬名傑出經理人的共通特質 (First, break all the ruler : what the world’s greatest managers do differently) by Marcus Buckingham, Curt Coffman](https://www.taaze.tw/goods/11311592228.html) ✔
 21. [快樂，從心開始](https://www.books.com.tw/products/0010036164)
 22. [未來在等待的人才：知識不再是力量，感性才是力量。今後全世界渴望的人才，需要六種感性能力。(2/e) 》by Daniel Pink](https://www.books.com.tw/products/0010876496) ✔
 23. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) ✔

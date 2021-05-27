@@ -16,6 +16,7 @@
 
 1. [ROBOT 魂大全：機器人模型不滅的本質 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100904939.html) / 47.8%
 1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 1%
+1. [鋼彈軍武大全機動戰士鋼彈 UC 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11310854448.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [危難求生手冊：緊急時刻，專家教你怎麼做！(The Worst-Case Scenario Survival Handbook: Expert Advice for Extreme Situations) by Joshua Piven, David Borgenicht](https://www.kobo.com/tw/zh/ebook/3kk0VdteuT6ULmoWWHyM1g) / 1%
 1. [經理人之道：技術領袖航向成長與改變的參考指南 (The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change) by Camille Fournier](https://www.tenlong.com.tw/products/9789865027896) / 1%
@@ -105,7 +106,7 @@
 1. [十倍勝，絕不單靠運氣：如何在不確定、動盪不安環境中，依舊表現卓越？(Great by Choice: Uncertainty，Chaos，and Luck-Why Some Thrive Despite Them All) by Jim Collins, Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/pePwYxsriTWsmoXLMydUCA) / 1%
 1. [為什麼 A+ 巨人也會倒下 (How the Mighty Fall—and why some companies never give in) by Jim Collins](https://www.kobo.com/tw/zh/ebook/a-202) / 1%
 1. [競爭策略：產業環境及競爭者分析 (Competitive Strategy：Techniques for Analyzing and Competitors) by Michael E. Porter](https://www.kobo.com/tw/zh/ebook/-aQDg3pYST2t5WrfXbAJLQ) / 1%
-1. [首先，打破成規](https://www.books.com.tw/products/0010120349) / 0%
+1. [首先，打破成規：八萬名傑出經理人的共通特質 (First, break all the ruler : what the world’s greatest managers do differently) by Marcus Buckingham, Curt Coffman](https://www.taaze.tw/goods/11311592228.html) / 1%
 1. [快樂，從心開始](https://www.books.com.tw/products/0010036164) / 0%
 1. [未來在等待的人才：知識不再是力量，感性才是力量。今後全世界渴望的人才，需要六種感性能力。(2/e) 》by Daniel Pink](https://www.books.com.tw/products/0010876496) / 1%
 1. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) / 1%
