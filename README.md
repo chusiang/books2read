@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [鋼彈模型完美組裝妙招集 by 林哲平](https://www.taaze.tw/goods/11100925217.html) / 1%
 1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 1%
 1. [鋼彈軍武大全機動戰士鋼彈 UC 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11310854448.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
