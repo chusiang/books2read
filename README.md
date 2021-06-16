@@ -337,6 +337,7 @@
 1. [Python for DevOps：學習精準有效的自動化 (Python for Devops: Learn Ruthlessly Effective Automation) by Gift, Noah, Behrman, Kennedy, Deza, Alfredo](https://www.tenlong.com.tw/products/9789865026073) / 1%
 1. [架構模式：使用 Python (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices) by Harry Percival, Bob Gregory](https://www.tenlong.com.tw/products/9789865025960) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
+1. [敏捷管理生存指南：不是快，而是適者生存》by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 0.1%
 1. [敏捷大師精選 by Michael de la Maza, Cherie Silas](https://www.tenlong.com.tw/products/9789864344604) / 1%
 1. [你不能不懂的統計常識 by 鄭惟厚](https://www.kobo.com/tw/zh/ebook/UtUtBzEYGTCJEh4GFIxx4w#%208226%20%20%2000004) / 1%
 1. [德國一流大學教你數學家的 22 個思考工具 by Christian Hesse](https://www.kobo.com/tw/en/ebook/I41_BHy5XTufwF5C-C6SMA) / 1%
