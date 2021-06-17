@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 1%
+1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 21.9%
 1. [鋼彈軍武大全機動戰士鋼彈 UC 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11310854448.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
 1. [危難求生手冊：緊急時刻，專家教你怎麼做！(The Worst-Case Scenario Survival Handbook: Expert Advice for Extreme Situations) by Joshua Piven, David Borgenicht](https://www.kobo.com/tw/zh/ebook/3kk0VdteuT6ULmoWWHyM1g) / 1%
