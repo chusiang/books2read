@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [鋼彈模型完美組裝妙招集 by 林哲平](https://www.taaze.tw/goods/11100925217.html) / 1%
 1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 1%
 1. [鋼彈軍武大全機動戰士鋼彈 UC 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11310854448.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 1%
@@ -788,6 +787,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 100%
 1. [野本憲一模型技術研究所特別篇：鋼彈模型入門 by 野本憲一](https://www.taaze.tw/goods/11100185793.html) / 100%
 1. [ROBOT 魂大全：機器人模型不滅的本質 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100904939.html) / 100%
+1. [鋼彈模型完美組裝妙招集 by 林哲平](https://www.taaze.tw/goods/11100925217.html) / 100%
 
 ### 2020
 
