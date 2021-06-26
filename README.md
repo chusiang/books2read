@@ -14,8 +14,11 @@
 
 ## 待讀書單
 
+1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 78.4%
+1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 10.8%
 1. [鋼彈軍武大全機動戰士鋼彈 UC 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11310854448.html) / 1%
+1. [鋼彈軍武大全鋼彈 SEED DESTINY 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11311546424.html) / 1%
 1. [危難求生手冊：緊急時刻，專家教你怎麼做！(The Worst-Case Scenario Survival Handbook: Expert Advice for Extreme Situations) by Joshua Piven, David Borgenicht](https://www.kobo.com/tw/zh/ebook/3kk0VdteuT6ULmoWWHyM1g) / 1%
 1. [經理人之道：技術領袖航向成長與改變的參考指南 (The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change) by Camille Fournier](https://www.tenlong.com.tw/products/9789865027896) / 1%
 1. [美軍野外生存手冊：集結美軍百年經驗，最權威的美軍特種部隊絕境求生祕技 (The U.S. Army Survival Manual: Department of the Army Field Manual21-76) by 美國國防部 (United States Department of Defense)](https://www.kobo.com/tw/zh/ebook/3yI7tybbeTe3dhjf4uGRXg) / 1%
@@ -33,7 +36,6 @@
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
 1. [原則：生活和工作 (Principles: Life and Work) by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
-1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 71.6%
 1. [哈佛醫學院的 SMART 壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案 by 王芳](https://www.kobo.com/tw/zh/ebook/smart-18) / 1%
 1. [高品質軟體文件：持續分享技術與知識 (Living Documentation: Continuous Knowledge Sharing by Design) by Cyrille Martraire](https://www.tenlong.com.tw/products/9789865024871) / 1%
 1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
