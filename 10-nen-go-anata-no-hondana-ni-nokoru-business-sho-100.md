@@ -94,7 +94,7 @@
 21. [快樂，從心開始](https://www.books.com.tw/products/0010036164)
 22. [未來在等待的人才：知識不再是力量，感性才是力量。今後全世界渴望的人才，需要六種感性能力。(2/e) 》by Daniel Pink](https://www.books.com.tw/products/0010876496) ✔
 23. [賣命工作的誘惑 (The Future of Success) by Robert B. Reich](https://www.taaze.tw/goods/11311174966.html) ✔
-24. [超極資本主義](https://www.books.com.tw/products/0010408084)
+24. [超極資本主義 (Supercapitalism: The Transformation of Business, Democracy, and Everyday Life) by Robert B. Reich](https://www.taaze.tw/goods/11311726226.html) ✔
 25. [槍炮、病菌與鋼鐵：人類社會的命運 (Guns, Germs, and Steel: The Fates of Human Societies) by Jared Diamond](https://www.kobo.com/tw/zh/ebook/SeNBxxR2hzCZdTAAXrWvzw) ✔
 26. [雀喙之謎：從芬雀喙看達爾文的物種源起 (The Beak of the Finch: A Story of Evolution in Our Time) by Jonathan Weiner](https://www.taaze.tw/usedList.html?oid=11100554124) ✔
 27. [群眾的智慧：如何讓整個世界成為你的智囊團 (The Wisdom of Crowds：why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations) by James Surowiecki](https://www.books.com.tw/products/0010610343) ✔
