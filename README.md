@@ -622,7 +622,8 @@
 1. [無職轉生～到了異世界就拿出真本事～ (17) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/rDngbWaJUDy8IGQLJvRGyQ) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (18) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/P5rKvJdpGDq6dk3qSto73Q) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (19) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/gOlmRcDmWzaC6KBGJ-KdJQ) / 1%
-1. [無職轉生～到了異世界就拿出真本事～ (20) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/Z32Qq8BeRzih0_WC-sVOcA) / 0%
+1. [無職轉生～到了異世界就拿出真本事～ (20) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/Z32Qq8BeRzih0_WC-sVOcA) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (21) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/fw6ghOmDRzWGp7GelgBKtg) / 0%
 1. [輕小說] Slayers！秀逗魔導士 01 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 02：亞特拉斯的魔導士 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 03：賽拉格的妖魔 by 神坂一
