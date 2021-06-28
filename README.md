@@ -317,6 +317,7 @@
 1. [師父：那些我在課堂外學會的本事 (The Knack: How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up) by Norm Brodsky, Bo Burlingham](https://www.books.com.tw/products/0010705054) / 1%
 1. [日本腦力錦標賽五冠王「超高效記憶術」：3 循環反覆速習法╳1 分鐘速寫，無關天分與年齡，記憶大量資訊隨時開始！ by 池田義博](https://www.kobo.com/tw/en/ebook/-QWyGmFefz2yiPTz00DOdw) / 1%
 1. [Deep Work 深度工作力: 淺薄時代，個人成功的關鍵能力 (Deep Work: Rules for Focused Success in a Distracted World) by Cal Newport](https://play.google.com/store/books/details/%E5%8D%A1%E7%88%BE_%E7%B4%90%E6%B3%A2%E7%89%B9_Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B?id=c_sxDwAAQBAJ) / 1%
+1. [深度洞察力：克服認知偏見，喚醒自我覺察，看清內在的自己，也了解別人如何看待你 (Insight: Why We’re Not As Self-Aware As We Think, and How Seeing Ourselves Clearly Helps Us Succeed at Work and in Life) by Tasha Eurich](https://www.kobo.com/tw/zh/ebook/c1bc_4usIDKk3UxDWB1qpg) / 1%
 1. [極度專注 | 大師輕鬆讀 NO.703](https://www.kobo.com/tw/zh/ebook/no-703) / 2%
 1. [極度專注力：打造高績效的聰明工作法 by Chris Bailey](https://www.kobo.com/tw/zh/ebook/6320b93e-419b-4404-8338-895c5a081e5c) / 1%
 1. [專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵 (Focus: The Hidden Driver of Excellence) by Daniel Goleman](http://www.books.com.tw/products/0010631218) / 1%
@@ -433,6 +434,7 @@
 1. [一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術 by 土井英司](http://www.books.com.tw/products/0010762830) / 1%
 1. [赋能：打造应对不确定性的敏捷团队](https://read.douban.com/ebook/43738282/) / 1%
 1. [有錢人想的和你不一樣 by T. Harv Eker](https://www.kobo.com/tw/zh/book/81dc70e8-2983-45c2-acf9-8a76bcc4e295) / 1%
+1. [彼得原理：揭露公司充滿無能人物的理由 (The Peter Principle: Why Things Always Go Wrong) by Laurence J. Peter, Raymond Hull](https://www.kobo.com/tw/zh/ebook/01wgS9L_BjeMTjBMSe7W8w/Wy_zg9lN_EKFFwWWUB6tzw) / 1%
 1. [高績效教練：有效帶人、激發潛力的教練原理與實務 (25 週年紀念增訂版) by Sir John Whitmore](https://www.kobo.com/tw/zh/ebook/dWdwfC_O0DO2EXZvuCckBg) / 1%
 1. [團隊，從傳球開始：五百年都難以超越的 UCLA 傳奇教練伍登培養優越人才和團隊的領導心法 by John Wooden](https://www.kobo.com/tw/zh/book/02fb8311-bc7c-4514-8069-7be05e6a1df0) / 1%
 1. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) / 1%
