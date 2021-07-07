@@ -331,6 +331,7 @@
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 4 卷：擁抱變革 (Quality Software Management, Volume 4：Anticipating Change) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
+1. [領導者，該想什麼？：成為一個真正解決問題的領導者 (Becoming a Technical Leader: an Organic Problem-Solving Approach) by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100222059#r2) / 1%
 1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
 1. [Effective DevOps 中文版 by Jennifer Davis, Ryn Daniels](https://www.tenlong.com.tw/products/9789864767793) / 1%
