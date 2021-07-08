@@ -100,7 +100,7 @@
 1. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/goods/11310629202.html) / 1%
 1. [請你跟我這樣做：洞悉業務員，廣告，政治人物的六大心理戰術 (Influence：Scienceand Practice) by Robert B. Cialdini](https://www.taaze.tw/goods/11310903818.html) / 1%
 1. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401) / 0%
-1. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) / 1%
+1. [目標：簡單有效的常識管理 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) / 1%
 1. [利潤的故事：23 場來自獲利大師的機密對話錄 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) / 1%
 1. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) / 1%
 1. [下一個社會 (Managing in the Next Society) by Peter F. Drucker](https://www.taaze.tw/goods/11309666391.html) / 1%
@@ -217,7 +217,7 @@
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [五項修練的故事 (合訂版) by David Hutchens](https://www.kobo.com/tw/zh/ebook/hP0NVtITtjC990b1eQdRdg) / 1%
-1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://play.google.com/store/books/details?id=MN8tDwAAQBAJ) / 25%
+1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://www.taaze.tw/products/11100854840.html) / 25%
 1. [第五項修練 II 實踐篇 (上)：思考、演練與超越 by Peter M. Senge](https://www.taaze.tw/goods/11100654023.html) / 1%
 1. [第五項修練 II 實踐篇 (下)：共創學習新經驗 by Peter M. Senge](https://www.taaze.tw/goods/11100654024.html) / 1%
 1. [第五項修練 III：變革之舞 (上) by Peter M. Senge](https://www.taaze.tw/goods/11100033060.html) / 1%
@@ -300,7 +300,7 @@
 1. [拒絕生病：無病生活從 65 件日常小事開始 (A SHORT GUIDE TO A LONG LIFE) by Dr. David B. Agus](https://play.google.com/store/books/details?id=7UEyDwAAQBAJ) / 1%
 1. [80/20 法則 by Richard Koch](https://www.kobo.com/tw/zh/ebook/F68QdmIU3zmEfLEnIZT4Aw) / 1%
 1. [如何衡量萬事萬物：大數據時代，做好量化決策、分析的有效方法 by Douglas W. Hubbard](https://www.kobo.com/tw/zh/ebook/b5534cae-7266-4b82-ab2a-afbeea379a18) / 1%
- . [為什麼我們這樣生活，那樣工作？by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/1a02fff2-81e3-4032-bf83-57849dcca8b0) / 1%
+1. [為什麼我們這樣生活，那樣工作？by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/1a02fff2-81e3-4032-bf83-57849dcca8b0) / 1%
 1. [為什麼這樣工作會快、準、好 by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/dd9c0ac2-e8ad-4062-8f85-19c0cc015996) / 1%
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
