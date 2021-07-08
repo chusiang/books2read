@@ -646,6 +646,19 @@
 1. [[奇幻小說] 飢餓遊戲 Ⅱ：星火燎原 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/Dx4Wlm2ucD-mIhOJAO3swg) / 1%
 1. [[奇幻小說] 飢餓遊戲 Ⅲ：自由幻夢 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/W9FT8wYG8zql38GW48wHrg) / 1%
 1. [[奇幻小說] 飢餓遊戲前傳：鳴鳥與游蛇之歌 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/2ix3TLjUvzSoS6qxTBnAbw) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(01 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_1?id=s_ViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(02 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_2?id=t_ViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(03 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_3?id=v_ViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(04 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_4?id=yfViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(05 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_5?id=_vRiDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(06 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_6?id=puR1DwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(07 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_7?id=ruyPDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(08 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_8?id=86asDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(09 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_9?id=PbvNDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(10 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_10?id=BFbjDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(11 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_11?id=an_7DwAAQBAJ) / 0%
+1. [輕小說] [轉生成蜘蛛又怎樣！(12 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4_%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_12?id=AQUWEAAAQBAJ) / 0%
+1. [輕小說] [轉生成蜘蛛又怎樣！(13 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_13?id=2pgoEAAAQBAJ) / 0%
 1. [[奇幻小說] 魔戒首部曲：魔戒現身 (The Lord of The Rings: The Fellowship of The Ring) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/FFUD1y38nTa7TcJWayWCGA) / 1%
 1. [[奇幻小說] 魔戒二部曲：雙城奇謀 (The Lord of The Rings: The Two Towers) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/NabPTYC6JDiefbG35Dsrcw) / 1%
 1. [[奇幻小說] 魔戒三部曲：王者再臨 (The Lord of The Rings: The Return of The King) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/DKCLnN7lED6UQ_pR1E__yA) / 1%
