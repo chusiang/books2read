@@ -74,7 +74,10 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (23): Unital ring Ⅱ by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F_%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_23?id=oXsXEAAAQBAJ) / 1%
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) / 1%
 1. [我的人生思考 (As a man thinketh) by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) / 1%
-1. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal)》by Stephen R. Covey](http://www.books.com.tw/products/0010753548) / 1%
+1. [與成功有約：高效能人士的七個習慣 (The 7 Habits of Highly Effective People: Powerful Lessons in Personal) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
+1. [與幸福有約：美滿家庭 7 習慣 (The 7 Habits of Highly Effective Families) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/4930c854-933c-4f57-adb0-3fdc19efe6a9) / 1%
+1. [與生活有約 (Living the 7 habits: stories of courage and inspiration) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/2547c66e-03c6-4e72-a35d-cb2acc01203c) / 1%
+1. [與領導有約：原則致勝 (Principle-Centered Leadership) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/740fc209-1aae-4795-8cd6-436f1be8f0c9) / 1%
 1. [引爆趨勢：小改變如何引發大流行 (The Tipping Point: How Little Things Can Make a Big Difference) by Malcolm Gladwell](https://www.kobo.com/tw/zh/ebook/0RwQnQ59WTSo8A3HVmEoUw) / 1%
 1. [從 A 到 A+：企業從優秀到卓越的奧祕 by Jim Collins](https://www.kobo.com/tw/zh/ebook/aa-4) / 1%
 1. [發現我的天才：打開 34 個天賦的禮物 (Now, Discover Your Strengths) by Marcus Buckingham, Donald O. Clifton](https://www.taaze.tw/goods/11310970267.html) / 1%
@@ -313,7 +316,6 @@
 1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
 1. [怦然心動的人生整理魔法２：實踐篇、解惑篇 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/3241f933-1cff-4563-a2ee-68912445fb0d) / 1%
 1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by Jane B. Burka、Lenora M. Yuen](https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
-1. [與成功有約 by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/mSu64ou4LTWSoWliU0oBUw/l7da6by07U2qjLzMQ7JIjA) / 1%
 1. [大師的刻意練習：20 世紀傳奇鋼琴家訪談錄，教你比天賦更關鍵的學習心法 by James Francis Cooke](https://readmoo.com/book/210116244000101) / 1%
 1. [師父：那些我在課堂外學會的本事 (The Knack: How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up) by Norm Brodsky, Bo Burlingham](https://www.books.com.tw/products/0010705054) / 1%
 1. [日本腦力錦標賽五冠王「超高效記憶術」：3 循環反覆速習法╳1 分鐘速寫，無關天分與年齡，記憶大量資訊隨時開始！ by 池田義博](https://www.kobo.com/tw/en/ebook/-QWyGmFefz2yiPTz00DOdw) / 1%
