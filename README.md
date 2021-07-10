@@ -554,6 +554,7 @@
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
 1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
 1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 5%
+1. [Elasticsearch 實戰與原理解析 by 牛冬](https://www.amazon.cn/dp/B087BJRKGF) / 3%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e by 鳥哥](https://share.readmoo.com/book/538753) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](https://www.tenlong.com.tw/products/9789862015506) / 1%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
