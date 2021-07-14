@@ -25,6 +25,7 @@
 1. [美軍野外生存手冊：集結美軍百年經驗，最權威的美軍特種部隊絕境求生祕技 (The U.S. Army Survival Manual: Department of the Army Field Manual21-76) by 美國國防部 (United States Department of Defense)](https://www.kobo.com/tw/zh/ebook/3yI7tybbeTe3dhjf4uGRXg) / 1%
 1. [美國海豹特種部隊教你災難求生密技 100 招【18 禁】：如何在遇難時刻化險為夷、順利逃脫、保全性命 by Clint Emerson](https://www.kobo.com/tw/en/ebook/nLeig0Mv3jaGmLwi8QATvQ) / 1%
 1. [日本刀：全面剖析日本刀的鍛造與鑑賞藝術 by Yoshindo Yoshihara, Leon Kapp, Hiroko Kapp](https://www.eslite.com/product/1001261432681950260003) / 1%
+1. [節稅的布局 (2021～2022 年版)：搞懂所得稅、遺產稅、贈與稅與房地合一稅，你可以合法的少繳稅，甚至一輩子不繳稅。 by 胡碩勻](https://www.kobo.com/tw/en/ebook/c4-_tntTfTSDl-ktFq0KAQ) / 1%
 1. [[輕小說] 鬼滅之刃：幸福之花 (全) by 矢島綾, 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/bb4c7465-1229-4705-892d-13ae9628fedb) / 1%
 1. [[輕小說] 鬼滅之刃：單翅之蝶 (全) by 矢島綾, 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/219030c1-d284-450d-9018-0cfb24354ce9) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
@@ -141,6 +142,7 @@
 1. [誰說企鵝不可以飛：打破框架，遠離成人乏味症 by Jason Kotecki](https://www.kobo.com/tw/zh/ebook/GlLb6uleSzOFRIitBqopow) / 1%
 1. [路是無限寬廣 by 松下幸之助](https://www.taaze.tw/goods/11309861609.html) / 1%
 1. [思考的技術：培養具有競爭力的思考途徑 by 大前研一](https://www.taaze.tw/goods/11310903051.html) / 1%
+1. [假說思考：培養邊做邊學的能力，讓你迅速解決問題 (The BCG Way—The Art of Hypothesis-driven Management) by 內田和成](https://www.kobo.com/tw/en/ebook/Zc6kWHNjxDKLgxBHeMw53w) / 1%
 1. [企鵝公路 by 森見登美彥](https://www.taaze.tw/usedList.html?oid=11100867094) / 1%
 1. [企鵝鐵道失物招領課 by 名取佐和子](https://www.kobo.com/my/en/ebook/g9z8nqozitw9dtukuiq7fw) / 1%
 1. [雲圖 (3/e)](https://www.kobo.com/tw/zh/ebook/O97VjXDMxDKw8dp5WW4IZQ) / 1%
@@ -169,7 +171,8 @@
 1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [高績效心智：全新聰明工作學，讓你成為最厲害的 1% by Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/7c6dd02d-b6f4-415b-a686-1ad40773ad9d) / 1%
-1. [最高學以致用法：讓學習發揮最大成果的輸出大全 (The power of output) by 樺澤紫苑](https://www.kobo.com/tw/zh/ebook/aRT610crqjG_peVWQdGNEw) / 1%
+1. [最高學習法：激發最大學習效率的輸入大全 (The Power of Input: How to maximize Learning) by 樺澤紫苑](https://www.kobo.com/tw/en/ebook/Imm7IsplijOKhUWI2k9ajw/f6UA6BtwB0y1Nr4EjhoEjw) / 1%
+1. [最高學以致用法：讓學習發揮最大成果的輸出大全 (The power of output: How to Change Learning to Outcome) by 樺澤紫苑](https://www.kobo.com/tw/zh/ebook/aRT610crqjG_peVWQdGNEw) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
 1. [我要準時下班 by 朱野歸子](https://www.kobo.com/tw/zh/ebook/LCfCAoDlPDilvC9d_QU0gg) / 1%
@@ -649,19 +652,19 @@
 1. [[奇幻小說] 飢餓遊戲 Ⅱ：星火燎原 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/Dx4Wlm2ucD-mIhOJAO3swg) / 1%
 1. [[奇幻小說] 飢餓遊戲 Ⅲ：自由幻夢 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/W9FT8wYG8zql38GW48wHrg) / 1%
 1. [[奇幻小說] 飢餓遊戲前傳：鳴鳥與游蛇之歌 by by Suzanne Collins](https://www.kobo.com/tw/zh/ebook/2ix3TLjUvzSoS6qxTBnAbw) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(01 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_1?id=s_ViDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(02 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_2?id=t_ViDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(03 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_3?id=v_ViDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(04 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_4?id=yfViDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(05 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_5?id=_vRiDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(06 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_6?id=puR1DwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(07 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_7?id=ruyPDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(08 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_8?id=86asDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(09 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_9?id=PbvNDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(10 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_10?id=BFbjDwAAQBAJ) / 1%
-1. [輕小說] [轉生成蜘蛛又怎樣！(11 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_11?id=an_7DwAAQBAJ) / 0%
-1. [輕小說] [轉生成蜘蛛又怎樣！(12 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4_%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_12?id=AQUWEAAAQBAJ) / 0%
-1. [輕小說] [轉生成蜘蛛又怎樣！(13 by 馬場翁)](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_13?id=2pgoEAAAQBAJ) / 0%
+1. [輕小說] [轉生成蜘蛛又怎樣！(01) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_1?id=s_ViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(02) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_2?id=t_ViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(03) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_3?id=v_ViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(04) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_4?id=yfViDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(05) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_5?id=_vRiDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(06) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_6?id=puR1DwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(07) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_7?id=ruyPDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(08) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_8?id=86asDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(09) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_9?id=PbvNDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(10) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_10?id=BFbjDwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(11) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_11?id=an_7DwAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(12) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4_%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_12?id=AQUWEAAAQBAJ) / 1%
+1. [輕小說] [轉生成蜘蛛又怎樣！(13) by 馬場翁](https://play.google.com/store/books/details/%E9%A6%AC%E5%A0%B4%E7%BF%81_%E8%BD%89%E7%94%9F%E6%88%90%E8%9C%98%E8%9B%9B%E5%8F%88%E6%80%8E%E6%A8%A3_13?id=2pgoEAAAQBAJ) / 1%
 1. [[奇幻小說] 魔戒首部曲：魔戒現身 (The Lord of The Rings: The Fellowship of The Ring) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/FFUD1y38nTa7TcJWayWCGA) / 1%
 1. [[奇幻小說] 魔戒二部曲：雙城奇謀 (The Lord of The Rings: The Two Towers) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/NabPTYC6JDiefbG35Dsrcw) / 1%
 1. [[奇幻小說] 魔戒三部曲：王者再臨 (The Lord of The Rings: The Return of The King) by J.R.R. Tolkien](https://www.kobo.com/tw/zh/ebook/DKCLnN7lED6UQ_pR1E__yA) / 1%
