@@ -491,6 +491,7 @@
 1. [Docker 錦囊妙計 (Docker Cookbook) by Sébastien Goasguen](http://www.tenlong.com.tw/items/9864760807) / 21%
 1. [Kubernetes 錦囊妙計 (Kubernetes Cookbook : Building Cloud Native Applications) by Sébastien Goasguen , Michael Hausenblas](https://www.tenlong.com.tw/products/9789864769216) / 1%
 1. [Kubernetes in Action (簡體中文版) by 七牛容器雲團隊](https://www.tenlong.com.tw/products/9787121349959) / 1%
+1. [學問：100 種提問力創造 200 倍企業力 by Brian Stanfield](https://www.taaze.tw/goods/11100243770.html) / 1%
 1. [引導反思的第一本書, 2/e by 吳兆田](https://www.kingstone.com.tw/basic/2015214072567/) / 1%
 1. [遊戲人生：有效有趣的破冰遊戲 by 楊田林](http://www.books.com.tw/products/0010651863) / 1%
 1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？ by Gillian Tett](http://www.books.com.tw/products/0010703860) / 1%
