@@ -413,6 +413,7 @@
 1. [好日子革新手冊：充分利用行為科學的力量，把雨天變晴天，週一症候群退散 (How to Have a Good Day: Harness the Power of Behavioral Science to Transform Your Working Life) by Caroline Webb](https://www.taaze.tw/goods/11310725031.html) / 1%
 1. [反脆弱 by Nassim Nicholas Taleb](https://www.kobo.com/tw/zh/ebook/1c388bc8-e428-4501-bdae-c3f478899356) / 1%
 1. [電腦玩物站長的筆記思考術 by Esor 異塵行者](https://play.google.com/store/books/details?id=1TJFDwAAQBAJ&rdid=book-1TJFDwAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) / 1%
+1. [大腦減壓的子彈筆記術：用 Evernote 打造快狠準任務整理系統 by 電腦玩物站長 (Esor)](https://readmoo.com/book/210105283000101) / 1%
 1. [精準提問的力量: 問對問題, 就解決一半的問題! 風靡美國政商學界的 11 種提問思考教你挖掘真相 × 扭轉逆勢 × 創造全新格局 by Frank Sesno](https://www.kobo.com/tw/zh/book/58aea75b-fff9-4156-97fc-3073f02fdc82) / 1%
 1. [向阿德勒提問 | 今周刊](https://www.books.com.tw/products/R030063891) / 1%
 1. [下個十年，你在哪？時時檢視目標，無懼打掉重練，10 年 10 倍薪不是夢 by 黃珮婷 Betty](https://www.kobo.com/tw/zh/ebook/e2PGdJ9vuTywdvhRWTSwiw) / 1%
