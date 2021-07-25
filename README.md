@@ -17,6 +17,7 @@
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 78.4%
 1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
+1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 10.8%
 1. [鋼彈軍武大全機動戰士鋼彈 UC 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11310854448.html) / 1%
 1. [鋼彈軍武大全鋼彈 SEED DESTINY 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11311546424.html) / 1%
@@ -339,6 +340,7 @@
 1. [領導者，該想什麼？：成為一個真正解決問題的領導者 (Becoming a Technical Leader: an Organic Problem-Solving Approach) by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100222059#r2) / 1%
 1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
+1. [User-Centered Design 使用者導向設計 by Travis Lowdermilk](https://www.taaze.tw/goods/11311852650.html) / 1%
 1. [Effective DevOps 中文版 by Jennifer Davis, Ryn Daniels](https://www.tenlong.com.tw/products/9789864767793) / 1%
 1. [Effective DevOps by Jennifer Davis, Ryn Daniels](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [Effective DevOps：使用 AWS 快速入門 by Nathaniel Felsen](https://www.books.com.tw/products/0010814249) / 1%
