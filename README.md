@@ -817,6 +817,7 @@
 1. [ROBOT 魂大全：機器人模型不滅的本質 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100904939.html) / 100%
 1. [鋼彈模型完美組裝妙招集 by 林哲平](https://www.taaze.tw/goods/11100925217.html) / 100%
 1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (17) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/neg7DkrPlDmKbr44Dl6PDw) / 100%
 
 ### 2020
 
