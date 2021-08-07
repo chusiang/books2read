@@ -14,6 +14,8 @@
 
 ## 待讀書單
 
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 4%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 78.4%
 1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
@@ -678,7 +680,6 @@
 1. [[奇幻小說] 冰與火之歌 Ⅲ：劍刃風暴 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/QBmBWxoiFzOd94ZiQrHwUQ) / 1%
 1. [[奇幻小說] 冰與火之歌 Ⅳ：群鴉盛宴 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/sxnWc3drSj6tjIUHujqu8Q) / 1%
 1. [[奇幻小說] 冰與火之歌 Ⅴ：與龍共舞 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/xBMBsxOqxjaO--y8N6s8tw) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
 1. [[輕小說] 前進吧！！高捷少女：日常 by 啞鳴](http://www.bookwalker.com.tw/product/8953) / 1%
