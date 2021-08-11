@@ -271,6 +271,7 @@
 1. [商業思維 BUSINESS THINKING：職涯躍進的唯一解！一次搞懂企業如何高效運轉！by 游舒帆 Gipi](https://www.taaze.tw/goods/11100866768.html) / 3%
 1. [Pepper 開發者從 0 到 1 的創新工作法：重要的不是才能，而是練習！我在 Toyota 和 SoftBank 突破組織框架的 22 個關鍵 by 林要](https://www.books.com.tw/products/0010789923) / 1%
 1. [從 0 到 1：打開世界運作的未知祕密，在意想不到之處發現價值 by Peter Thiel, Blake Masters](https://www.kobo.com/tw/zh/ebook/6b75e7c0-2796-4229-b975-abf2f23a7fcf) / 1%
+1. [你的商業知識都是錯的：不懂思考，再努力也是做白工！ by Alastair Dryburgh](https://www.taaze.tw/goods/11311376877.html) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
@@ -314,6 +315,7 @@
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
+1. [讓你荷包失血的思考謬誤 (Denkfehler, Die Uns Geld Kosten) by Patrick Bernau, Winand von Petersdorff](https://www.taaze.tw/goods/11311351688.html) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
 1. [2030 轉職地圖：成為未來 10 年不被淘汰的國際人才 by Sandy Su (蘇盈如)](https://www.kobo.com/tw/zh/ebook/09237ef1-8e30-452b-87a7-310c0456914d) / 1%
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
@@ -340,6 +342,7 @@
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 4 卷：擁抱變革 (Quality Software Management, Volume 4：Anticipating Change) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [領導者，該想什麼？：成為一個真正解決問題的領導者 (Becoming a Technical Leader: an Organic Problem-Solving Approach) by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100222059#r2) / 1%
+1. [不服從的領導學：不聽話的員工，反而有機會成為將才 (The Art of Action：How Leaders Close the Gaps between Plans, Actions and Results) by Stephen Bungay](https://www.taaze.tw/goods/11311022140.html) / 1%
 1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
 1. [User-Centered Design 使用者導向設計 by Travis Lowdermilk](https://www.taaze.tw/goods/11311852650.html) / 1%
@@ -497,6 +500,7 @@
 1. [Kubernetes 錦囊妙計 (Kubernetes Cookbook : Building Cloud Native Applications) by Sébastien Goasguen , Michael Hausenblas](https://www.tenlong.com.tw/products/9789864769216) / 1%
 1. [Kubernetes in Action (簡體中文版) by 七牛容器雲團隊](https://www.tenlong.com.tw/products/9787121349959) / 1%
 1. [學問：100 種提問力創造 200 倍企業力 by Brian Stanfield](https://www.taaze.tw/goods/11100243770.html) / 1%
+1. [Facilitation 引導學：創造場域、高效溝通、討論架構化、形成共識，21 世紀最重要的專業能力！](https://www.taaze.tw/goods/11100640681.html) / 1%
 1. [引導反思的第一本書, 2/e by 吳兆田](https://www.kingstone.com.tw/basic/2015214072567/) / 1%
 1. [遊戲人生：有效有趣的破冰遊戲 by 楊田林](http://www.books.com.tw/products/0010651863) / 1%
 1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？ by Gillian Tett](http://www.books.com.tw/products/0010703860) / 1%
