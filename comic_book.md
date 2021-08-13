@@ -16,7 +16,7 @@
 
 1. [制服至上 (1)：臺灣女高中生制服選](https://www.taaze.tw/goods/11310990023.html) / 1%
 1. [制服至上 (2)：臺灣女高中生制服選](https://www.taaze.tw/goods/11311344334.html) / 2%
-1. [制服至上 (3)：臺灣女高中生制服選](https://www.taaze.tw/products/11100786646.html) / 0%
+1. [制服至上 (3)：臺灣女高中生制服選](https://www.taaze.tw/goods/11311883894.html) / 2%
 1. [吾峠呼世晴短篇集 (全) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/c7b903a9-9a63-4164-bb38-02c6c18909b7) / 1%
 1. 鬼滅之刃 - 富岡義勇外傳 by 吾峠呼世晴 / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%

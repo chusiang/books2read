@@ -178,6 +178,7 @@
 1. [最高學以致用法：讓學習發揮最大成果的輸出大全 (The power of output: How to Change Learning to Outcome) by 樺澤紫苑](https://www.kobo.com/tw/zh/ebook/aRT610crqjG_peVWQdGNEw) / 1%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
+1. [火神的眼淚：職人影視原創劇本∕影像寫真書 by 蔡銀娟, 李志薔, 曾群芳, 公共電視, 台灣大哥大 myVideo](https://www.taaze.tw/goods/11100937338.html) / 1%
 1. [我要準時下班 by 朱野歸子](https://www.kobo.com/tw/zh/ebook/LCfCAoDlPDilvC9d_QU0gg) / 1%
 1. [解憂雜貨店 by 東野圭吾](https://www.kobo.com/tw/zh/ebook/lEENoE8QrzaIkcnT2CxI4Q) / 1%
 1. [[奇幻小說] 龍族 (02)：五十個小孩與大法師費雷爾 by 李榮道](https://share.readmoo.com/book/478563) / 200%
@@ -485,7 +486,8 @@
 1. [三個月交不出成果，就等於失敗！告別無效努力的 Google 三個月循環工作術 by 佐佐木大輔](https://www.kobo.com/tw/zh/ebook/google-35) / 1%
 1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
 1. [管理就像一齣戲：皇家莎士比亞劇團導演教你，完美扮演領導者，激發團隊創造力 by Piers Ibbotson](https://www.kobo.com/tw/zh/ebook/efkR8GT9tDOEUkLF_BrmsA) / 1%
-1. [約耳續談軟體：探究軟體經營的根本實學](https://www.taaze.tw/goods/11311037230.html) / 1%
+1. [約耳續談軟體：探究軟體經營的根本實學 by JoelSpo](https://www.taaze.tw/goods/11311037230.html) / 1%
+1. [軟體專案管理的 7 道難題：新創時代下的策略思維 by 施政源](https://www.taaze.tw/goods/11100874139.html) / 0%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用, 2/e by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
