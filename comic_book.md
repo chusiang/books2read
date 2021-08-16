@@ -18,7 +18,6 @@
 1. [制服至上 (2)：臺灣女高中生制服選](https://www.taaze.tw/goods/11311344334.html) / 2%
 1. [制服至上 (3)：臺灣女高中生制服選](https://www.taaze.tw/goods/11311883894.html) / 2%
 1. [吾峠呼世晴短篇集 (全) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/c7b903a9-9a63-4164-bb38-02c6c18909b7) / 1%
-1. 鬼滅之刃 - 富岡義勇外傳 by 吾峠呼世晴 / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
 1. [食戟之靈 (31) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/56207) / 0%
 1. [食戟之靈 (32) by 佐伯俊、附田佑鬥](https://www.bookwalker.com.tw/product/61845) / 0%
@@ -139,6 +138,7 @@
 1. 機動戰士 V 鋼彈 (1) by 富野由悠季 / 100%
 1. 機動戰士 V 鋼彈 (2) by 富野由悠季 / 100%
 1. [為什麼老師會在這裡!? (7) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/iwUPdn3n0TW59OTlLhOuZA) / 100%
+1. 鬼滅之刃 - 富岡義勇外傳 by 吾峠呼世晴 / 100%
 
 ### 2020
 
