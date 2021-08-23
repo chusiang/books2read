@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 4%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 78.4%
@@ -825,6 +825,7 @@
 1. [鋼彈模型完美組裝妙招集 by 林哲平](https://www.taaze.tw/goods/11100925217.html) / 100%
 1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (17) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/neg7DkrPlDmKbr44Dl6PDw) / 100%
+1. [鋼彈模型技術講座 (初級篇) by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11311085833.html) / 100%
 
 ### 2020
 
