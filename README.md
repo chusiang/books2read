@@ -100,6 +100,7 @@
 1. [【圖解】10 倍速影像閱讀法 by 神田昌典](https://www.taaze.tw/goods/11310648828.html) / 1%
 1. [超圖解 10 倍速影像閱讀法：心智圖天后速讀祕技大公 by 胡雅茹](https://www.kobo.com/tw/zh/ebook/d5d1572a-3f74-4460-af21-4ea709298f84) / 1%
 1. [10 倍速影像閱讀法 (The PhotoReading Whole Mind System) by Paul R. Scheele](https://www.books.com.tw/products/0010560460) / 1%
+1. [10 倍速成功：你的努力都用對地方了嗎？移除干擾，表現出乎意料！by Alan Fine, Rebecca R. Merrill](https://www.taaze.tw/goods/11311559530.html) ✔
 1. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) / 1%
 1. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.taaze.tw/goods/11311236051.html) / 1%
 1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
