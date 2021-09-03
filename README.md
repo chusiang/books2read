@@ -38,6 +38,7 @@
 1. [為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學 (Why We Sleep: The New Science of Sleep and Dreams) by Matthew Walker](https://www.kobo.com/tw/zh/ebook/quFxMiMzKz6ey4Tp5UcGbw) / 1%
 1. [健康吃．營養瘦：400 卡減醣餐＋營養知識打造不復胖體質 by 呂孟凡](https://www.taaze.tw/products/11100905697.html) / 1%
 1. [GameBoy 終極聖經](https://www.pcstore.com.tw/digiforce/M72350606.htm) / 1%
+1. [PlayStation 終極聖經 (上 + 下冊) by 前田尋之](https://www.pcstore.com.tw/digiforce/M79085421.htm) / 1%
 1. [原則 | 大師輕鬆讀 NO.665](https://www.kobo.com/tw/zh/ebook/no-665) / 1%
 1. [原則：生活和工作 (Principles: Life and Work) by Ray Dalio](https://www.books.com.tw/products/0010782941) / 1%
 1. [機車防禦駕駛手冊 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details?id=B5ySCwAAQBAJ) / 2%
