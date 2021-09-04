@@ -489,7 +489,7 @@
 1. [生時間：高績效時間管理術 by Jake Knapp, John Zeratsky](https://www.kobo.com/tw/zh/ebook/t2uMH8nVADyv6zSja-uHNw) / 1%
 1. [管理就像一齣戲：皇家莎士比亞劇團導演教你，完美扮演領導者，激發團隊創造力 by Piers Ibbotson](https://www.kobo.com/tw/zh/ebook/efkR8GT9tDOEUkLF_BrmsA) / 1%
 1. [約耳續談軟體：探究軟體經營的根本實學 by JoelSpo](https://www.taaze.tw/goods/11311037230.html) / 1%
-1. [軟體專案管理的 7 道難題：新創時代下的策略思維 by 施政源](https://www.taaze.tw/goods/11100874139.html) / 0%
+1. [軟體專案管理的 7 道難題：新創時代下的策略思維 by 施政源](https://www.taaze.tw/goods/11312040097.html) / 1%
 1. [人月神話：軟體專案管理之道 (The Mythical Man-Month: Essays on Software Engineering) by Frederick P. Brooks Jr.](https://www.tenlong.com.tw/products/9789867889188) / 1%
 1. [學會專案管理的 11 堂課 (增修版) by 鍾文武](https://www.tenlong.com.tw/products/9789862019740) / 14%
 1. [PostgreSQL 即學即用, 2/e by Regina Obe, Leo Hsu](https://www.tenlong.com.tw/products/9787115411280) / 1%
@@ -506,6 +506,7 @@
 1. [學問：100 種提問力創造 200 倍企業力 by Brian Stanfield](https://www.taaze.tw/goods/11100243770.html) / 1%
 1. [Facilitation 引導學：創造場域、高效溝通、討論架構化、形成共識，21 世紀最重要的專業能力！](https://www.taaze.tw/goods/11100640681.html) / 1%
 1. [引導反思的第一本書, 2/e by 吳兆田](https://www.kingstone.com.tw/basic/2015214072567/) / 1%
+1. [覺察力：哈佛商學院教你察覺別人遺漏的訊息，掌握行動先機！by Max H. Bazerman](https://www.taaze.tw/goods/11311579831.html) / 1%
 1. [遊戲人生：有效有趣的破冰遊戲 by 楊田林](http://www.books.com.tw/products/0010651863) / 1%
 1. [穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？ by Gillian Tett](http://www.books.com.tw/products/0010703860) / 1%
 1. [獨角獸與牠的產地：矽谷新創公司歷險記 by Dan Lyons](http://www.books.com.tw/products/0010757639) / 1%
