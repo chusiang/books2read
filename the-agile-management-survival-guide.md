@@ -21,7 +21,7 @@
 1. 9789862419250 [克服團隊領導的 5 大障礙：洞悉人性、解決衝突的白金法則 by Patrick Lencioni](https://www.tenlong.com.tw/products/9789862419250) ✔
    * 9789867561220 (*) 團隊領導的五大障礙
 1. 9789861341224 (*) [引導者的工具箱：帶動會議、小組、讀書會，不怯場更不冷場！ by 陳美瑛](https://www.books.com.tw/products/0010420449) ✔
-1. 9789868177116 (*) [開放空間科技引導者手冊 by 哈里森・歐文](http://www.open-quest.com/publication/detail.asp?BookId=B200704180001)
+1. 9789868177116 (*) [開放空間科技引導者手冊 by 哈里森・歐文](http://www.open-quest.com/publication/detail.asp?BookId=B200704180001) ✔
 1. 9789862764206 (*) [革新遊戲 (Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers) by Dave Gray, Sunni Brown, James Macanufo](https://www.oreilly.com/library/view/gamestorming/9789862764206/)
 1. 9789866031243 [Facilitation 引導學：創造場域、高效溝通、討論架構化、形成共識，21 世紀最重要的專業能力！](https://www.taaze.tw/goods/11100640681.html) ✔
 1. 9789861772882 (*) [一分鐘經理 (The One Minute Manager) by Ken Blanchard, Spencer Johnson](https://www.books.com.tw/products/0010729818) ✔
@@ -49,7 +49,7 @@
    * [零基礎也不怕，史丹佛給你最好懂的經濟學：個體經濟篇 by Timothy Taylor](https://www.kobo.com/tw/zh/ebook/WJNk2ejeVzivKwHVUacN3A)
    * [零基礎也不怕，史丹佛給你最好懂的經濟學：總體經濟篇 by Timothy Taylor](https://www.kobo.com/tw/zh/ebook/IJOp7Nk6wTyu_UqAwPIUsg)
 1. 9789863200611 [快思慢想 - Thinking, Fast and Slow by Daniel Kahneman](https://www.kobo.com/tw/zh/ebook/0699a594-6684-4500-8648-92794a33477c) ✔
-1. 9789863581093 [30 分鐘破解性格密碼：超越 MBTI 的萬用識人術](https://www.taaze.tw/goods/11311412376.html) ✔
+1. 9789863581093 [30 分鐘破解性格密碼：超越 MBTI 的萬用識人術](https://www.taaze.tw//goods/11311412376.html) ✔
 1. 9789576936715 [跟薩提爾學溝通 by The Satir Approach to Communication：A Workshop Manual](https://www.books.com.tw/products/0010343056) ✔
 1. 9789864179244 (*) [隱藏的邏輯：掌握群眾行為的不敗公式](https://www.kobo.com/tw/zh/ebook/z5xRU-7PQTeGOqLdMrb7TA) ✔
 1. 9789862133736 [為什麼我們這樣生活，那樣工作？by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/1a02fff2-81e3-4032-bf83-57849dcca8b0) ✔

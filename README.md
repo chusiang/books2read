@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [30 分鐘破解性格密碼：超越 MBTI 的萬用識人術 by 王凱琳](https://www.taaze.tw//goods/11311412376.html) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
