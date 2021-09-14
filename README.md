@@ -14,6 +14,8 @@
 
 ## 待讀書單
 
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (16) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/54wqGtoiTD2_p6jdXwM9pA) / 25%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (12) by 大森藤ノ](https://www.kobo.com/zh/Book/zupfMEWIjjaJApApjNB2Ug) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
@@ -648,6 +650,8 @@
 1. [無職轉生～到了異世界就拿出真本事～ (19) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/gOlmRcDmWzaC6KBGJ-KdJQ) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (20) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/Z32Qq8BeRzih0_WC-sVOcA) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (21) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/fw6ghOmDRzWGp7GelgBKtg) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (22) by 理不尽な孫の手](https://www.kobo.com/tw/zh/ebook/xLg2TvBerDC8kiy7jGXa0g) / 1%
+1. [無職轉生～到了異世界就拿出真本事～ (23) by 理不尽な孫の手](https://www.kobo.com/tw/zh/ebook/EmxGI91KbzGAW5_Pe58q6w) / 1%
 1. [輕小說] Slayers！秀逗魔導士 01 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 02：亞特拉斯的魔導士 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 03：賽拉格的妖魔 by 神坂一
