@@ -203,7 +203,7 @@
 1. [我工作，我沒有不開心 by Liz Fosslien, Mollie West Duffy](https://www.kobo.com/tw/zh/ebook/_vfG9T2Tmjq8aXaADF4pGQ) / 1%
 1. [這不是我們做事的方法！：組織的興起、殞落，再崛起 by John Kotter, Holger Rathgeber](https://www.kobo.com/tw/zh/ebook/cy5S2XGscjav9wINg-rPZQ) / 1%
 1. [Warnings！：AI、基因編輯、瘟疫、駭客、暖化…… 全球災難警告，用科學方法洞悉真相 by Richard A. Clarke, R. P. Eddy](https://www.kobo.com/tw/zh/ebook/warnings-ai) / 34%
-1. [資訊戰爭：入侵政府網站、竊取國家機密、假造新聞影響選局，網路已成為繼原子彈發明後最危險的完美武器 by David E. Sanger](https://www.kobo.com/tw/zh/ebook/0zZ93SY2lDyCLnu3ScQRKQ) / 0%
+1. [資訊戰爭：入侵政府網站、竊取國家機密、假造新聞影響選局，網路已成為繼原子彈發明後最危險的完美武器 by David E. Sanger](https://www.kobo.com/tw/zh/ebook/0zZ93SY2lDyCLnu3ScQRKQ) / 1%
 1. [疫苗：兩種恐懼的拔河 by Eula Biss](https://www.kobo.com/tw/zh/ebook/qXejG-JOcTWOdeEJGDskGg) / 1%
 1. [獨家揭密：那些大型企業確保 IT 系統正常運作的奧密 by 陳紹英, 周志龍, 金成姬](https://www.tenlong.com.tw/products/9789863797128) / 1%
 1. [全棧性能測試修煉寶典：JMeter 實戰 by 陳志勇, 馬利偉,萬龍](https://www.tenlong.com.tw/products/9787115437228) / 1%
@@ -554,7 +554,7 @@
 1. [Python 初學特訓班：從快速入門到主流應用全面實戰，4/e by 鄧文淵](https://www.tenlong.com.tw/products/9789865025533) / 1%
 1. [Python 好好玩：趣學電玩遊戲程式設計 by Al Sweigart](https://www.books.com.tw/products/0010765722) / 1%
 1. [Python 駭客密碼：加密、解密與破解實例應用 by Al Sweigart](https://www.tenlong.com.tw/products/9789865020804) / 1%
-1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作, 2/e (Automate the Boring Stuff with Python: Practical Programming for Total Beginners, 2/e) by Al Sweigart](https://www.tenlong.com.tw/products/9789865025977) / 0%
+1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作, 2/e (Automate the Boring Stuff with Python: Practical Programming for Total Beginners, 2/e) by Al Sweigart](https://www.tenlong.com.tw/products/9789865025977) / 1%
 1. [Selenium 2 自動化測試實戰—基於 Python 語言 by 蟲師](https://www.tenlong.com.tw/products/9787121278532) / 2%
 1. [Python 專家實踐指南｜搭乘專業開發者的學習便車 (The Hitchhiker's Guide to Python: Best Practices for Development) by Kenneth Reitz, Tanya Schlusser](https://www.tenlong.com.tw/products/9789864762859) / 1%
 1. [Python 網絡爬蟲權威指南, 2/e by Ryan Mitchell](https://www.amazon.cn/gp/product/B07VBL72CB) / 1%
@@ -648,7 +648,7 @@
 1. [無職轉生～到了異世界就拿出真本事～ (18) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/P5rKvJdpGDq6dk3qSto73Q) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (19) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/gOlmRcDmWzaC6KBGJ-KdJQ) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (20) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/Z32Qq8BeRzih0_WC-sVOcA) / 1%
-1. [無職轉生～到了異世界就拿出真本事～ (21) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/fw6ghOmDRzWGp7GelgBKtg) / 0%
+1. [無職轉生～到了異世界就拿出真本事～ (21) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/fw6ghOmDRzWGp7GelgBKtg) / 1%
 1. [輕小說] Slayers！秀逗魔導士 01 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 02：亞特拉斯的魔導士 by 神坂一
 1. [輕小說] Slayers！秀逗魔導士 03：賽拉格的妖魔 by 神坂一
