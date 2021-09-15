@@ -139,6 +139,11 @@
 1. 機動戰士 V 鋼彈 (2) by 富野由悠季 / 100%
 1. [為什麼老師會在這裡!? (7) by 蘇募ロウ](https://www.kobo.com/tw/zh/ebook/iwUPdn3n0TW59OTlLhOuZA) / 100%
 1. 鬼滅之刃 - 富岡義勇外傳 by 吾峠呼世晴 / 100%
+1. [三隻眼：鬼籍之闇的契約者 (01)](https://www.kobo.com/tw/zh/ebook/vbVQH1SK_zCUzjH2ktHFjA) / 100%
+1. [三隻眼：鬼籍之闇的契約者 (02)](https://www.kobo.com/tw/zh/ebook/qVE2Uv54SzGgZx5uGEUcxQ) / 100%
+1. [三隻眼：鬼籍之闇的契約者 (03)](https://www.kobo.com/tw/zh/ebook/ueBmsf9bTTywKc5hd-GixA) / 100%
+1. [三隻眼：鬼籍之闇的契約者 (04)](https://www.kobo.com/tw/zh/ebook/NPdHDcED-DyKV-W3FrUj4g) / 100%
+1. [三隻眼：鬼籍之闇的契約者 (05)](https://www.kobo.com/tw/zh/ebook/zsC1in2IQDSS9Vm3a6QMJA) / 100%
 
 ### 2020
 
