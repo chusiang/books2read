@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (16) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/54wqGtoiTD2_p6jdXwM9pA) / 25%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (12) by 大森藤ノ](https://www.kobo.com/zh/Book/zupfMEWIjjaJApApjNB2Ug) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
@@ -834,6 +833,7 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (17) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/neg7DkrPlDmKbr44Dl6PDw) / 100%
 1. [鋼彈模型技術講座 (初級篇) by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11311085833.html) / 100%
 1. [30 分鐘破解性格密碼：超越 MBTI 的萬用識人術 by 王凱琳](https://www.taaze.tw//goods/11311412376.html) / 99%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (16) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/54wqGtoiTD2_p6jdXwM9pA) / 100%
 
 ### 2020
 
