@@ -33,7 +33,7 @@
 1. 9789574496488 (*) [遊戲人生：有效有趣的破冰遊戲 by 楊田林](http://www.books.com.tw/products/0010651863) ✔
 1. 9789579164733 (*) [訂價背後的心理學：為什麼我要的是這個，最後卻買了那個？](https://www.taaze.tw/goods/11311000600.html) ✔
 1. 9789862769164 (*) [User-Centered Design 使用者導向設計 by Travis Lowdermilk](https://www.taaze.tw/goods/11311852650.html) ✔
-1. 9789862726327 (*) [讓你荷包失血的思考謬誤](https://www.taaze.tw/goods/11311351688.html) ✔
+1. 9789862726327 (*) [讓你荷包失血的思考謬誤 (Denkfehler, Die Uns Geld Kosten) by Patrick Bernau, Winand von Petersdorff](https://www.taaze.tw/goods/11311351688.html) ✔
 1. 9789861753294 (*) [粉紅色牢房效應：綁架想法、感受和行為的 9 種潛在力量 (DRUNK TANK PINK : And Other Unexpected Forces That Shape How We Think, Feel and Behave) by Adam Alter](https://www.taaze.tw/goods/11310779701.html) ✔
 1. 9789865956356 (*) [躲在我腦中的陌生人：誰在幫我們選擇、決策？誰操縱我們愛戀、生氣，甚至抓狂？(Incognito The Secret Lives of the Brain) by David Eagleman](https://www.books.com.tw/products/0010577155)
 1. 9789570845068 [覺察力：哈佛商學院教你察覺別人遺漏的訊息，掌握行動先機！ by Max H. Bazerman](https://www.taaze.tw/goods/11311579831.html) ✔
@@ -42,14 +42,14 @@
 1. 9789868177130 [學問：100 種提問力創造 200 倍企業力 by Brian Stanfield](https://www.taaze.tw/goods/11100243770.html) ✔
 1. 9789869916226 [領導者，該想什麼？：運用 MOI（動機、組織、創新），成為真正解決問題的領導者](https://www.taaze.tw/products/11100914756.html) ✔
    * [領導者，該想什麼？：成為一個真正解決問題的領導者 (Becoming a Technical Leader: an Organic Problem-Solving Approach) by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100222059#r2) ✔
-1. 9789866316432 [帕金森法則：管理課上教不到的人性工作學](https://www.taaze.tw/goods/11311441774.html) ✔
+1. 9789866316432 [帕金森法則：管理課上教不到的人性工作學 (Parkinson's Law, and Other Studies in Administration) by Robert C. Osborn Cyril Northcote Parkinson](https://www.taaze.tw/goods/11311441774.html) ✔
 1. 9789864795307 [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://www.taaze.tw/products/11100854840.html) ✔
 1. 9789867291936 [蘋果橘子經濟學【擴充．修訂紀念版】](https://www.kobo.com/tw/zh/ebook/vcPzJHWiSzmujFlfe6j_Vw) ✔
 1. 9789866032561 (*) [史丹佛給你讀得懂的經濟學：給零基礎的你， 36 個經濟法則關鍵詞 (The Instant Economist3： Everything you need to know about how the economy works) by Timothy Taylor](https://www.books.com.tw/products/0010634640)
    * [零基礎也不怕，史丹佛給你最好懂的經濟學：個體經濟篇 by Timothy Taylor](https://www.kobo.com/tw/zh/ebook/WJNk2ejeVzivKwHVUacN3A)
    * [零基礎也不怕，史丹佛給你最好懂的經濟學：總體經濟篇 by Timothy Taylor](https://www.kobo.com/tw/zh/ebook/IJOp7Nk6wTyu_UqAwPIUsg)
 1. 9789863200611 [快思慢想 - Thinking, Fast and Slow by Daniel Kahneman](https://www.kobo.com/tw/zh/ebook/0699a594-6684-4500-8648-92794a33477c) ✔
-1. 9789863581093 [30 分鐘破解性格密碼：超越 MBTI 的萬用識人術](https://www.taaze.tw//goods/11311412376.html) ✔
+1. 9789863581093 [30 分鐘破解性格密碼：超越 MBTI 的萬用識人術 by 王凱琳](https://www.taaze.tw//goods/11311412376.html) ✔
 1. 9789576936715 [跟薩提爾學溝通 by The Satir Approach to Communication：A Workshop Manual](https://www.books.com.tw/products/0010343056) ✔
 1. 9789864179244 (*) [隱藏的邏輯：掌握群眾行為的不敗公式](https://www.kobo.com/tw/zh/ebook/z5xRU-7PQTeGOqLdMrb7TA) ✔
 1. 9789862133736 [為什麼我們這樣生活，那樣工作？by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/1a02fff2-81e3-4032-bf83-57849dcca8b0) ✔
