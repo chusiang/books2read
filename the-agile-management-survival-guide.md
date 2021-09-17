@@ -34,7 +34,7 @@
 1. 9789579164733 (*) [訂價背後的心理學：為什麼我要的是這個，最後卻買了那個？](https://www.taaze.tw/goods/11311000600.html) ✔
 1. 9789862769164 (*) [User-Centered Design 使用者導向設計 by Travis Lowdermilk](https://www.taaze.tw/goods/11311852650.html) ✔
 1. 9789862726327 (*) [讓你荷包失血的思考謬誤](https://www.taaze.tw/goods/11311351688.html) ✔
-1. 9789861753294 (*) [粉紅色牢房效應：綁架想法、感受和行為的 9 種潛在力量](https://www.taaze.tw/goods/11310779701.html) ✔
+1. 9789861753294 (*) [粉紅色牢房效應：綁架想法、感受和行為的 9 種潛在力量 (DRUNK TANK PINK : And Other Unexpected Forces That Shape How We Think, Feel and Behave) by Adam Alter](https://www.taaze.tw/goods/11310779701.html) ✔
 1. 9789865956356 (*) [躲在我腦中的陌生人：誰在幫我們選擇、決策？誰操縱我們愛戀、生氣，甚至抓狂？(Incognito The Secret Lives of the Brain) by David Eagleman](https://www.books.com.tw/products/0010577155)
 1. 9789570845068 [覺察力：哈佛商學院教你察覺別人遺漏的訊息，掌握行動先機！ by Max H. Bazerman](https://www.taaze.tw/goods/11311579831.html) ✔
 1. 9789573282129 [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) ✔
