@@ -228,6 +228,7 @@
 1. [圖像溝通的的法則 (The Visual Communications Book: Using Words, Drawings and Whiteboards to Sell Big Ideas) by Mark Edwards](https://www.kobo.com/tw/zh/ebook/qFSe4_6cAjuPauX2RCfUiw)
 1. [極簡溝通：世界一流菁英都在用的最強說話術！只要 1 分鐘，提案、簡報、開會、主持、洽商，統統搞定！by 伊藤羊一](https://www.kobo.com/tw/zh/ebook/eiiaua_JqT-PBfwoNpwpRw) / 1%
 1. [先問，為什麼？顛覆慣性思考的黃金圈理論，啟動你的感召領導力 by Simon Sinek](https://www.kobo.com/tw/zh/ebook/1iKY1ahEwzeXetqPe6mRaw) / 1%
+1. [帕金森法則：管理課上教不到的人性工作學 (Parkinson's Law, and Other Studies in Administration) by Robert C. Osborn Cyril Northcote Parkinson](https://www.taaze.tw/goods/11311441774.html) / 1%
 1. [系統思考 | 經理人 No.156](https://www.kobo.com/tw/zh/book/40f69c87-73ee-4fac-8a5b-1f15042a4e3c) / 2%
 1. [五項修練的故事 (合訂版) by David Hutchens](https://www.kobo.com/tw/zh/ebook/hP0NVtITtjC990b1eQdRdg) / 1%
 1. [第五項修練：學習型組織的藝術與實務 by Peter M. Senge](https://www.taaze.tw/products/11100854840.html) / 25%
