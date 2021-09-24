@@ -321,6 +321,7 @@
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [讓你荷包失血的思考謬誤 (Denkfehler, Die Uns Geld Kosten) by Patrick Bernau, Winand von Petersdorff](https://www.taaze.tw/goods/11311351688.html) / 1%
+1. [訂價背後的心理學：為什麼我要的是這個，最後卻買了那個？ (The Psychology of Price: How to use price to increase demand, profit and customer satisfaction) by Leigh Caldwell](https://www.taaze.tw/goods/11311000600.html) / 1%
 1. [粉紅色牢房效應：綁架想法、感受和行為的 9 種潛在力量 (DRUNK TANK PINK : And Other Unexpected Forces That Shape How We Think, Feel and Behave) by Adam Alter](https://www.taaze.tw/goods/11310779701.html) / 1%
 1. [未來地圖：對工作、商業、經濟全新樣貌，正確的理解與該有的行動 by Tim O'Reilly](https://www.kobo.com/tw/en/ebook/NpEILBsPDjyh_PzutogFkA/dN09h-Ekz0WArGbVKyZYlg) / 1%
 1. [2030 轉職地圖：成為未來 10 年不被淘汰的國際人才 by Sandy Su (蘇盈如)](https://www.kobo.com/tw/zh/ebook/09237ef1-8e30-452b-87a7-310c0456914d) / 1%
