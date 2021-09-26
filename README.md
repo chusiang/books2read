@@ -18,7 +18,6 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
-1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 78.4%
 1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
 1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 10.8%
@@ -890,6 +889,7 @@
 1. [獨角獸專案：看 IT 部門如何引領百年企業振衰起敝，重返榮耀 (The Unicorn Project) by Gene Kim](https://www.tenlong.com.tw/products/9789865026653) / 100%
 1. [如果人生有地圖：走過 1000 位人生專家的生命軌跡，帶你找到更好的自己 by Karl Pillemer Ph.D.](https://gitlab.com/snippets/1732152) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (15) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/da5e3ec2-d2e0-4014-88e8-e75896415b0d) / 100%
+1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 110%
 
 ### 2019
 
