@@ -11,7 +11,7 @@
 1. 9789863426158 (*) [無主管公司：Google、Twitter、Zappos…… 都在用的新型管理制度，人人是領導，零管理反而更有競爭力、創造高績效](https://www.kobo.com/tw/zh/ebook/bv5_Y2DOaT6H9F9JIxijMw) ✔
 1. 9789866526978 (*) [不服從的領導學：不聽話的員工，反而有機會成為將才](https://www.taaze.tw/goods/11311022140.html) ✔
 1. 9789863206262 (*) [MIT 最打動人心的溝通課：組織心理學大師教你謙遜提問的藝術](https://www.kobo.com/tw/zh/ebook/mit-3)
-1. 9789869546232 [精實創業：用小實驗玩出大事業 (The Lean Startup)](https://www.kobo.com/tw/zh/ebook/TDNrvQTrUTinygKiNTcPgA) ✔
+1. 9789869546232 [精實創業：用小實驗玩出大事業 (The Lean Startup) by Eric Ries](https://www.kobo.com/tw/zh/ebook/TDNrvQTrUTinygKiNTcPgA) ✔
 1. 9789869733946 (*) [軟體專案管理的 7 道難題：新創時代下的策略思維 by 施政源](https://www.taaze.tw/goods/11312040097.html) ✔
 1. 9789862726709 [上台的技術 by 王永福](https://play.google.com/store/books/details/%E7%8E%8B%E6%B0%B8%E7%A6%8F_%E4%B8%8A%E5%8F%B0%E7%9A%84%E6%8A%80%E8%A1%93?id=_uHiCQAAQBAJ) ✔
 1. 9789864776030 [教學的技術 by 王永福](https://www.kobo.com/tw/zh/ebook/26de6983-d1f9-4ed3-a3f2-5199b94c150d) ✔
