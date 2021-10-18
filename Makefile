@@ -14,4 +14,4 @@ pull:
 
 push:
 	git push origin master
-	git push gh master
+	git push gl master
