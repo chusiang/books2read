@@ -14,6 +14,12 @@
 
 ## 待讀書單
 
+1. [機動戰士終極檔案 MSZ-006 Z 鋼彈 (マスターアーカイブ モビルスーツ MSZ-006 Z ガンダム) by GA Graphic](https://www.taaze.tw/products/11100919672.html) / 10%
+1. [機動戰士終極檔案 RX-78 鋼彈 (マスターアーカイブ モビルスーツ RX-78 ガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 1%
+1. [機動戰士終極檔案Ｖ鋼彈 (マスターアーカイブモビルスーツヴィクトリーガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100882958#) / 1%
+1. [機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯 (マスターアーカイブ モビルスーツ RX-78GP01 ゼフィランサス) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
+1. [機動戰士終極檔案：RX-0 獨角獸鋼彈 (モビルスーツアーカイブ RX-0 ユニコーンガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100888106) / 1%
+1. [機動戰士終極檔案 MSN-06S 新安州 (モビルスーツアーカイブ MSN-06S シナンジュ) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100885307#) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (12) by 大森藤ノ](https://www.kobo.com/zh/Book/zupfMEWIjjaJApApjNB2Ug) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
