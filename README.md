@@ -14,7 +14,7 @@
 
 ## 待讀書單
 
-1. [機動戰士終極檔案 MSZ-006 Z 鋼彈 (マスターアーカイブ モビルスーツ MSZ-006 Z ガンダム) by GA Graphic](https://www.taaze.tw/products/11100919672.html) / 10%
+1. [機動戰士終極檔案 MSZ-006 Z 鋼彈 (マスターアーカイブ モビルスーツ MSZ-006 Z ガンダム) by GA Graphic](https://www.taaze.tw/products/11100919672.html) / 56.7%
 1. [機動戰士終極檔案 RX-78 鋼彈 (マスターアーカイブ モビルスーツ RX-78 ガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 1%
 1. [機動戰士終極檔案Ｖ鋼彈 (マスターアーカイブモビルスーツヴィクトリーガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100882958#) / 1%
 1. [機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯 (マスターアーカイブ モビルスーツ RX-78GP01 ゼフィランサス) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
