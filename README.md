@@ -639,6 +639,10 @@
 1. [魔法科高中的劣等生 (27) - 急轉篇 by 佐島勤](https://store.kobobooks.com/en-tw/book//2943301a-1974-4298-bba6-a0ca09d9fb5f) / 1%
 1. [魔法科高中的劣等生 (28) - 追蹤篇〈上〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//ef206514-db15-4921-b629-3e665d3b25b7) / 1%
 1. [魔法科高中的劣等生 (29) - 追蹤篇〈下〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//3e68248d-c2f6-4821-9425-cb05d2b252fe) / 1%
+1. [魔法科高中的劣等生 (30) - 奪還篇 by 佐島勤](https://www.kobo.com/tw/zh/ebook/leQBGcuCuDKDPb33FLIdzQ) / 1%
+1. [魔法科高中的劣等生：司波達也暗殺計畫 (01) by 佐島勤](https://www.kobo.com/tw/zh/ebook/uQLBGAQZaDmeAKXU4dn3QQ) / 1%
+1. [魔法科高中的劣等生：司波達也暗殺計畫 (02) by 佐島勤](https://www.kobo.com/tw/zh/ebook/otD1JdMItjquk9HvNNA8Tg) / 1%
+1. [魔法科高中的劣等生：司波達也暗殺計畫 (03) by 佐島勤](https://www.kobo.com/tw/zh/ebook/JPSgoH24Pzym6Qr3Ki1P9Q) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (01) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/c152eff5-83b6-49c4-af7a-7d14d2529941) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (02) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/xiD2EmuwHze7MACJCZKlvA) / 1%
 1. [無職轉生～到了異世界就拿出真本事～ (03) by 理不尽な孫の手](https://www.kobo.com/tw/en/ebook/0rwK9JIE7zK23IpW-yTxuQ) / 1%
