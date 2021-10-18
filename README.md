@@ -397,6 +397,7 @@
 1. [精實創業：用小實驗玩出大事業 (The Lean Startup) by Eric Ries](https://www.kobo.com/tw/zh/ebook/TDNrvQTrUTinygKiNTcPgA) / 1%
 1. [精實企業：高績效組織如何達成創新規模化 by Jez Humble](https://www.tenlong.com.tw/products/9789864762682) / 1%
 1. [精實執行－精實創業指南, 2/e (Running Lean: Iterate from Plan A to a Plan That Works, 2/e) by Ash Maurya](https://www.tenlong.com.tw/products/9789862767184) / 0%
+1. [精實創業：用小實驗玩出大事業 (The Lean Startup) by Eric Ries](https://www.kobo.com/tw/zh/ebook/TDNrvQTrUTinygKiNTcPgA) / 1%
 1. [Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 (Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation) by Jez Humble, David Farley](http://www.tenlong.com.tw/items/986201962X?item_id=999062) / 32%
 1. [一人公司：為什麼小而美是未來企業發展的趨勢 by Paul Jarvis](https://www.kobo.com/tw/zh/ebook/46eb7cc8-f469-416a-97a0-248ac8142b37) / 1%
 1. [這一生，你想留下什麼？：史丹佛的 10 堂領導課 by John L. Hennessy](https://www.kobo.com/tw/zh/ebook/dcf4f90d-2713-4764-80e8-df426f69a1b9) / 1%
