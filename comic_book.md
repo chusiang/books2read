@@ -1,6 +1,6 @@
 # 凍仁的待讀清單 (漫畫區)
 
-看了《學徒模式》一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/master) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。[^1]
+看了《學徒模式》一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/main) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/main) 找到編修記錄。[^1]
 
 目錄：
 
@@ -14,8 +14,6 @@
 
 ## 待讀書單
 
-1. 機動戰士鋼彈 THE ORIGIN (05) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 73%
-1. 機動戰士鋼彈 THE ORIGIN (06) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 1%
 1. 機動戰士鋼彈 THE ORIGIN (07) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 1%
 1. 機動戰士鋼彈 THE ORIGIN (08) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 1%
 1. 機動戰士鋼彈 THE ORIGIN (09) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 1%
@@ -170,6 +168,8 @@
 1. 機動戰士鋼彈 THE ORIGIN (02) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
 1. 機動戰士鋼彈 THE ORIGIN (03) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
 1. 機動戰士鋼彈 THE ORIGIN (04) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
+1. 機動戰士鋼彈 THE ORIGIN (05) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
+1. 機動戰士鋼彈 THE ORIGIN (06) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
 
 ### 2020
 
