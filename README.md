@@ -1,6 +1,6 @@
 # 凍仁的待讀清單
 
-看了[《學徒模式》](https://www.tenlong.com.tw/products/9789862762561)一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/master) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/master) 找到編修記錄。[^1]
+看了[《學徒模式》](https://www.tenlong.com.tw/products/9789862762561)一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/main) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/main) 找到編修記錄。[^1]
 
 目錄：
 
