@@ -14,12 +14,14 @@
 
 ## 待讀書單
 
-1. [機動戰士終極檔案 MSZ-006 Z 鋼彈 (マスターアーカイブ モビルスーツ MSZ-006 Z ガンダム) by GA Graphic](https://www.taaze.tw/products/11100919672.html) / 56.7%
-1. [機動戰士終極檔案 RX-78 鋼彈 (マスターアーカイブ モビルスーツ RX-78 ガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 1%
-1. [機動戰士終極檔案Ｖ鋼彈 (マスターアーカイブモビルスーツヴィクトリーガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100882958#) / 1%
-1. [機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯 (マスターアーカイブ モビルスーツ RX-78GP01 ゼフィランサス) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
-1. [機動戰士終極檔案：RX-0 獨角獸鋼彈 (モビルスーツアーカイブ RX-0 ユニコーンガンダム) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100888106) / 1%
-1. [機動戰士終極檔案 MSN-06S 新安州 (モビルスーツアーカイブ MSN-06S シナンジュ) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100885307#) / 1%
+1. [Project File Z Gundam (機動戰士終級檔案 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010825706) / 56.7%
+1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 1%
+1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
+1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
+1. [Master Archive Mobile Suit - MSZ-006 Z Gundam (機動戰士終極檔案 MSZ-006 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010867558) / 1%
+1. [Master Archive Mobile Suit - Victory Gundam (機動戰士終極檔案Ｖ鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100882958#) / 1%
+1. [Mobile Suit Archive - RX-0 Unicorn Gundam (機動戰士終極檔案：RX-0 獨角獸鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100888106) / 1%
+1. [Mobile Suit Archive - MSN-06S Sinanju (機動戰士終極檔案 MSN-06S 新安州) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100885307#) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (12) by 大森藤ノ](https://www.kobo.com/zh/Book/zupfMEWIjjaJApApjNB2Ug) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
@@ -313,6 +315,7 @@
 1. [廁所裡的哲學課：每天 14 分鐘，跟著蘇格拉底、笛卡兒、尼采等 13 位世界哲人，秒懂 100 個最經典的哲學思維 by Adam Fletcher, Lukas N.P. Egger, Konrad Clever](https://www.kobo.com/tw/zh/ebook/nji1EmSQ2jiaBeHsRB9c9w) / 1%
 1. [江湖在走，法律要懂：法律白話文小學堂 by 法律白話文運動](https://www.kobo.com/tw/zh/ebook/0be5d1cb-b3d7-4a97-89e0-6481432a7209) / 1%
 1. [有錢人才知道的「精準閒聊」by 田口智隆](https://www.kobo.com/tw/zh/ebook/dba1a351-9d21-4c71-8193-886f5f75466a) / 1%
+1. [精準成長：打造高價值的你！發揮潛能、事業及領導力的高效成長法則 (The 15 Invaluable Laws of Growth: Live Them and Reach Your Potential) by John C. Maxwell](https://www.kobo.com/tw/zh/ebook/XjqKg1geyTyW-VCGSaQt3w) / 1%
 1. [精準學習：「羅輯思維」最受歡迎的個人知識管理精進指南 by 成甲](https://www.kobo.com/tw/zh/book/dc24912f-0a55-4165-b266-6f7a1a76f3ef) / 1%
 1. [躍遷：「羅輯思維」最受歡迎的知識大神教你在迷茫時代翻轉人生的 5 大生存法則！by 古典](https://www.taaze.tw/goods/11100842197.html) / 1%
 1. [見識：吳軍博士的矽谷來信，教你掌握商業與人生的本質 by 吳軍](https://www.taaze.tw/goods/11100845116.html) / 1%
@@ -334,6 +337,7 @@
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
 1. [因果革命：人工智慧的大未來 by Judea Pearl, Dana Mackenzie](https://www.kobo.com/tw/zh/ebook/ReLr-70c5DiU4fJBPvTPFg) / 1%
 1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
+1. [麻理惠的整理魔法：108 項技巧全圖解 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/374c2cfc-67d4-4c68-a802-f3819ef565fe) / 1%
 1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
 1. [怦然心動的人生整理魔法２：實踐篇、解惑篇 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/3241f933-1cff-4563-a2ee-68912445fb0d) / 1%
 1. [拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？by Jane B. Burka、Lenora M. Yuen](https://www.kobo.com/tw/zh/ebook/cRfjt415iTefgSmETom1dg) / 1%
