@@ -350,6 +350,7 @@
 1. [極度專注力：打造高績效的聰明工作法 by Chris Bailey](https://www.kobo.com/tw/zh/ebook/6320b93e-419b-4404-8338-895c5a081e5c) / 1%
 1. [專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵 (Focus: The Hidden Driver of Excellence) by Daniel Goleman](http://www.books.com.tw/products/0010631218) / 1%
 1. [專注力，就是你的超能力：掌控自我、提升成績的 18 個學習武器 (自分を操る超集中力) by DaiGo](http://www.books.com.tw/products/0010755805) / 1%
+1. [為什麼一流人才的專注力能持續一整天？：日本外科權威南雲醫師教你強化專注力的 60 個習慣 by 南雲吉則](https://www.kobo.com/tw/zh/ebook/YeDrM0h3uTmvtTmju0X4pg) / 1%
 1. [五秒法則 by Mel Robbins](https://www.kobo.com/tw/zh/ebook/e81d8522-f414-430c-9652-fd5017dcb672) / 1%
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [管理學一定要懂的 10 個經典理論 | 經理人月刊 No.153](https://www.kobo.com/tw/zh/ebook/qfz9TkYDoDydIoaEUYzgYA) / 1%
@@ -359,7 +360,7 @@
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 4 卷：擁抱變革 (Quality Software Management, Volume 4：Anticipating Change) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [領導者，該想什麼？：成為一個真正解決問題的領導者 (Becoming a Technical Leader: an Organic Problem-Solving Approach) by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100222059#r2) / 1%
-1. [無主管公司：Google、Twitter、Zappos…… 都在用的新型管理制度，人人是領導，零管理反而更有競爭力、創造高績效](https://www.kobo.com/tw/zh/ebook/bv5_Y2DOaT6H9F9JIxijMw) / 1%
+1. [無主管公司：Google、Twitter、Zappos…… 都在用的新型管理制度，人人是領導，零管理反而更有競爭力、創造高績效 (Holacracy: The New Management System for a Rapidly Changing World) by Brian J. Robertson](https://www.kobo.com/tw/zh/ebook/bv5_Y2DOaT6H9F9JIxijMw) / 1%
 1. [不服從的領導學：不聽話的員工，反而有機會成為將才 (The Art of Action：How Leaders Close the Gaps between Plans, Actions and Results) by Stephen Bungay](https://www.taaze.tw/goods/11311022140.html) / 1%
 1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
