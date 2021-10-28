@@ -8,7 +8,7 @@
 > 有 (*) 代表絕版或市面上難以尋求。
 
 1. 9789864343140 [原來你才是絆腳石：企業敏捷轉型失敗都是因為領導者，你做對了嗎？ by Jutta Eckstein, John Buck](https://www.tenlong.com.tw/products/9789864343140) ✔
-1. 9789863426158 (*) [無主管公司：Google、Twitter、Zappos…… 都在用的新型管理制度，人人是領導，零管理反而更有競爭力、創造高績效](https://www.kobo.com/tw/zh/ebook/bv5_Y2DOaT6H9F9JIxijMw) ✔
+1. 9789863426158 (*) [無主管公司：Google、Twitter、Zappos…… 都在用的新型管理制度，人人是領導，零管理反而更有競爭力、創造高績效 (Holacracy: The New Management System for a Rapidly Changing World) by Brian J. Robertson](https://www.kobo.com/tw/zh/ebook/bv5_Y2DOaT6H9F9JIxijMw) ✔
 1. 9789866526978 (*) [不服從的領導學：不聽話的員工，反而有機會成為將才](https://www.taaze.tw/goods/11311022140.html) ✔
 1. 9789863206262 (*) [MIT 最打動人心的溝通課：組織心理學大師教你謙遜提問的藝術](https://www.kobo.com/tw/zh/ebook/mit-3)
 1. 9789869546232 [精實創業：用小實驗玩出大事業 (The Lean Startup) by Eric Ries](https://www.kobo.com/tw/zh/ebook/TDNrvQTrUTinygKiNTcPgA) ✔

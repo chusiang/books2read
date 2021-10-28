@@ -359,6 +359,7 @@
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 4 卷：擁抱變革 (Quality Software Management, Volume 4：Anticipating Change) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [領導者，該想什麼？：成為一個真正解決問題的領導者 (Becoming a Technical Leader: an Organic Problem-Solving Approach) by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100222059#r2) / 1%
+1. [無主管公司：Google、Twitter、Zappos…… 都在用的新型管理制度，人人是領導，零管理反而更有競爭力、創造高績效](https://www.kobo.com/tw/zh/ebook/bv5_Y2DOaT6H9F9JIxijMw) / 1%
 1. [不服從的領導學：不聽話的員工，反而有機會成為將才 (The Art of Action：How Leaders Close the Gaps between Plans, Actions and Results) by Stephen Bungay](https://www.taaze.tw/goods/11311022140.html) / 1%
 1. [從需求到設計：如何設計出客戶想要的產品 by Gerald M. Weinberg](https://www.taaze.tw/sing.html?pid=11100828171) / 1%
 1. [顧問成功的祕密：有效建議、促成改變的工作智慧 by Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100779689) / 1%
