@@ -14,8 +14,7 @@
 
 ## 待讀書單
 
-1. [Project File Z Gundam (機動戰士終級檔案 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010825706) / 56.7%
-1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 1%
+1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
 1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
 1. [Master Archive Mobile Suit - MSZ-006 Z Gundam (機動戰士終極檔案 MSZ-006 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010867558) / 1%
@@ -855,6 +854,7 @@
 1. [鋼彈模型技術講座 (初級篇) by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11311085833.html) / 100%
 1. [30 分鐘破解性格密碼：超越 MBTI 的萬用識人術 by 王凱琳](https://www.taaze.tw//goods/11311412376.html) / 99%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (16) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/54wqGtoiTD2_p6jdXwM9pA) / 100%
+1. [Project File Z Gundam (機動戰士終級檔案 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010825706) / 100%
 
 ### 2020
 
