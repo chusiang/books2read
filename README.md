@@ -21,6 +21,11 @@
 1. [Master Archive Mobile Suit - Victory Gundam (機動戰士終極檔案Ｖ鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100882958#) / 1%
 1. [Mobile Suit Archive - RX-0 Unicorn Gundam (機動戰士終極檔案：RX-0 獨角獸鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100888106) / 1%
 1. [Mobile Suit Archive - MSN-06S Sinanju (機動戰士終極檔案 MSN-06S 新安州) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100885307#) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: The Origin by Hobby Japan](https://www.books.com.tw/products/0010837537) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: Unicorn by Hobby Japan](https://www.taaze.tw/goods/11310854448.html) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: Unicorn Episode3 - Episode5 by Hobby Japan](https://www.taaze.tw/sing.html?pid=11100778155) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: NT by Hobby Japan](https://www.taaze.tw/sing.html?pid=11312264486) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: Seed Destiny by Hobby Japan](https://www.taaze.tw/goods/11311546424.html) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (12) by 大森藤ノ](https://www.kobo.com/zh/Book/zupfMEWIjjaJApApjNB2Ug) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
@@ -848,7 +853,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (11) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/KmfbXJwgpTmJdBd_4Sx4Ow) / 100%
 1. [野本憲一模型技術研究所特別篇：鋼彈模型入門 by 野本憲一](https://www.taaze.tw/goods/11100185793.html) / 100%
 1. [ROBOT 魂大全：機器人模型不滅的本質 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100904939.html) / 100%
-1. [鋼彈模型完美組裝妙招集 by 林哲平](https://www.taaze.tw/goods/11100925217.html) / 100%
+1. [鋼彈模型完美組裝妙招集 (Gunpla Great Technique to Make on the Weekend -Recommendation of Gunpla Easy Finish-) by 林哲平](https://www.taaze.tw/goods/11100925217.html) / 100%
 1. [鋼彈模型大全型錄 2018 HG 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100848274.html) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (17) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/neg7DkrPlDmKbr44Dl6PDw) / 100%
 1. [鋼彈模型技術講座 (初級篇) by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11311085833.html) / 100%
