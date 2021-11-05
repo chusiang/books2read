@@ -333,6 +333,7 @@
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
 1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
+1. [精確的力量：從工業革命到奈米科技，追求完美的人類改變了世界 (The Perfectionists: How Precision Engineers Created the Modern World) by Simon Winchester](https://www.kobo.com/tw/zh/ebook/4Egn0RIy7jaRYZFsGM6iEg) / 1%
 1. [讓你荷包失血的思考謬誤 (Denkfehler, Die Uns Geld Kosten) by Patrick Bernau, Winand von Petersdorff](https://www.taaze.tw/goods/11311351688.html) / 1%
 1. [訂價背後的心理學：為什麼我要的是這個，最後卻買了那個？ (The Psychology of Price: How to use price to increase demand, profit and customer satisfaction) by Leigh Caldwell](https://www.taaze.tw/goods/11311000600.html) / 1%
 1. [粉紅色牢房效應：綁架想法、感受和行為的 9 種潛在力量 (DRUNK TANK PINK : And Other Unexpected Forces That Shape How We Think, Feel and Behave) by Adam Alter](https://www.taaze.tw/goods/11310779701.html) / 1%
