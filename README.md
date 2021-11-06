@@ -33,8 +33,6 @@
 1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
 1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 10.8%
-1. [鋼彈軍武大全機動戰士鋼彈 UC 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11310854448.html) / 1%
-1. [鋼彈軍武大全鋼彈 SEED DESTINY 篇 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11311546424.html) / 1%
 1. [危難求生手冊：緊急時刻，專家教你怎麼做！(The Worst-Case Scenario Survival Handbook: Expert Advice for Extreme Situations) by Joshua Piven, David Borgenicht](https://www.kobo.com/tw/zh/ebook/3kk0VdteuT6ULmoWWHyM1g) / 1%
 1. [經理人之道：技術領袖航向成長與改變的參考指南 (The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change) by Camille Fournier](https://www.tenlong.com.tw/products/9789865027896) / 1%
 1. [美軍野外生存手冊：集結美軍百年經驗，最權威的美軍特種部隊絕境求生祕技 (The U.S. Army Survival Manual: Department of the Army Field Manual21-76) by 美國國防部 (United States Department of Defense)](https://www.kobo.com/tw/zh/ebook/3yI7tybbeTe3dhjf4uGRXg) / 1%
