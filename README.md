@@ -14,6 +14,7 @@
 
 ## 待讀書單
 
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (18) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/24e360e1-2920-4b11-bdf5-14da9da65185) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
 1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
@@ -184,6 +185,7 @@
 1. [異數：超凡與平凡的界線在哪裡？(Outliers: The Story of Success) by Malcolm Gladwell](http://www.books.com.tw/products/0010668300) / 1%
 1. [刻意練習的力量 | 大師輕鬆讀 NO.644](https://www.kobo.com/tw/zh/ebook/no-644) / 1%
 1. [刻意練習：原創者全面解析，比天賦更關你拿什麼衡量自己的人生鍵的學習法 by Anders Ericsson, Robert Pool](http://www.books.com.tw/products/0010752714) / 1%
+1. [如何閱讀ㄧ本書 (How to Read a Book) by Mortimer J. Adler, Charles Van Doren](https://www.kobo.com/tw/zh/ebook/4K-5DZLilDK9XjSyddEyxQ) / 1%
 1. [練習的力量：努力可以超越天賦，每個人都能站上巔峰 (Bounce： Mozart， Federer， Picasso， Beckham， and the Science of Success) by Matthew Syed](http://www.books.com.tw/products/0010768149) / 1%
 1. [恆毅力：人生成功的究極能力 by Angela Duckworth](https://play.google.com/store/books/details/%E5%AE%89%E7%90%AA%E6%8B%89_%E9%81%94%E5%85%8B%E6%B2%83%E6%96%AF_%E6%81%86%E6%AF%85%E5%8A%9B?id=8OwQDgAAQBAJ) / 1%
 1. [高績效心智：全新聰明工作學，讓你成為最厲害的 1% by Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/7c6dd02d-b6f4-415b-a686-1ad40773ad9d) / 1%
@@ -649,6 +651,8 @@
 1. [魔法科高中的劣等生 (28) - 追蹤篇〈上〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//ef206514-db15-4921-b629-3e665d3b25b7) / 1%
 1. [魔法科高中的劣等生 (29) - 追蹤篇〈下〉 by 佐島勤](https://store.kobobooks.com/en-tw/book//3e68248d-c2f6-4821-9425-cb05d2b252fe) / 1%
 1. [魔法科高中的劣等生 (30) - 奪還篇 by 佐島勤](https://www.kobo.com/tw/zh/ebook/leQBGcuCuDKDPb33FLIdzQ) / 1%
+1. [魔法科高中的劣等生 (31) - 未來篇 by 佐島勤](https://www.kobo.com/tw/zh/ebook/59a78ad0-a7e4-42f6-9370-9b0b6c62f669) / 1%
+1. [魔法科高中的劣等生 (32) - 自我犧牲篇／畢業篇 by 佐島勤](https://www.kobo.com/tw/zh/ebook/98b47975-1b14-4251-ba49-90c25c59bbf0) / 1%
 1. [魔法科高中的劣等生：司波達也暗殺計畫 (01) by 佐島勤](https://www.kobo.com/tw/zh/ebook/uQLBGAQZaDmeAKXU4dn3QQ) / 1%
 1. [魔法科高中的劣等生：司波達也暗殺計畫 (02) by 佐島勤](https://www.kobo.com/tw/zh/ebook/otD1JdMItjquk9HvNNA8Tg) / 1%
 1. [魔法科高中的劣等生：司波達也暗殺計畫 (03) by 佐島勤](https://www.kobo.com/tw/zh/ebook/JPSgoH24Pzym6Qr3Ki1P9Q) / 1%
