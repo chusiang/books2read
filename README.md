@@ -863,6 +863,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (16) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/54wqGtoiTD2_p6jdXwM9pA) / 100%
 1. [Project File Z Gundam (機動戰士終級檔案 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010825706) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (12) by 大森藤ノ](https://www.kobo.com/zh/Book/zupfMEWIjjaJApApjNB2Ug) / 100%
+1. [Model Graphix Gundam Archives [Gundam Technology U.C.0093-0153] Ver.》by 大日本繪畫](https://www.amazon.co.jp/-/en/gp/product/4499233070/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8) / 20%
 
 ### 2020
 
