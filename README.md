@@ -428,6 +428,7 @@
 1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
 1. [窮查理的智慧語錄 by David Clark](https://play.google.com/store/books/details?id=Ch9iDwAAQBAJ) / 1%
 1. [不當行為：行為經濟學之父教你更聰明的思考、理財、看世界 by Richard H. Thaler](https://www.kobo.com/tw/zh/ebook/0b43aedf-0eab-4af4-81f6-76632e944e05) / 1%
+1. [蘋果橘子經濟學 (Freakonomics:A Rogue Economist Explores the Hidden Side of Everything) by Steven D. Levitt, Stephen J. Dubner](https://www.kobo.com/tw/zh/ebook/vcPzJHWiSzmujFlfe6j_Vw) / 1%
 1. [富爸爸，窮爸爸 (Rich Dad, Poor Dad) by Robert T. Kiyosaki](https://www.kobo.com/tw/zh/ebook/wq69VgKE6ziuMLAXnkPsog) / 1%
 1. [金錢心理學：打破你對金錢的迷思，學會聰明花費 by Dan Ariely, Jeff Kreisler](https://www.kobo.com/tw/zh/ebook/6875ede0-f00a-4466-bf50-6ec0055e5e62) / 1%
 1. [花掉的錢都會自己流回來 by Mentalist DaiGo](https://www.kobo.com/tw/zh/ebook/08945ac4-c69b-4b62-a6d3-e0359a29fc52) / 1%
@@ -492,6 +493,7 @@
 1. [使用者故事對照 (User Story Mapping: Discover the Whole Story, Build the Right Product)](https://www.tenlong.com.tw/products/9789863479468) / 1%
 1. [蘋果官方訓練教材：iMovie by Dion Scoppettuolo](https://www.tenlong.com.tw/products/9789863756781) / 1%
 1. [薩提爾的對話練習：以好奇的姿態，理解你的內在冰山，探索自己，連結他人 by 李崇建](http://www.books.com.tw/products/0010770522) / 1%
+1. [對話的力量：以一致性的溝通，化解內在冰山 by 李崇建, 甘耀明](https://www.kobo.com/tw/zh/ebook/Iaa2iD4UKTCBnusvrHbS8A) / 1%
 1. [激發員工潛力的薩提爾教練模式：學會了，你的部屬就會自己找答案！ by 陳茂雄, 林文琇](http://www.books.com.tw/products/0010694726) / 1%
 1. [脆弱的力量 by Brené Brown](https://play.google.com/store/books/details?id=-RiUDwAAQBAJ) / 1%
 1. [一擊必中的狙擊手法則 by David Amerland](https://www.kobo.com/tw/zh/ebook/f9f3c975-3ceb-4034-b59f-bbbd9a31912d) / 1%
