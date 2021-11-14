@@ -24,7 +24,6 @@
 1. 機動戰士鋼彈 THE ORIGIN (22) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 1%
 1. 機動戰士鋼彈 THE ORIGIN (23) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 1%
 1. 機動戰士鋼彈 THE ORIGIN (24) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 1%
-1. [Sword Art Online 刀劍神域 ─虛空幻界─ (5) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/sword-art-online-5-2) / 1%
 1. [Sword Art Online 刀劍神域 abec 畫集 by abec](https://www.taaze.tw/sing.html?pid=11312261012) / 1%
 1. [吾峠呼世晴短篇集 (全) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/c7b903a9-9a63-4164-bb38-02c6c18909b7) / 1%
 1. [關於我轉生變成史萊姆這檔事 (9) by 伏瀬](https://www.bookwalker.com.tw/product/61878) / 0%
@@ -170,6 +169,7 @@
 1. [制服至上 (2)：臺灣女高中生制服選](https://www.taaze.tw/goods/11311344334.html) / 100%
 1. [制服至上 (3)：臺灣女高中生制服選](https://www.taaze.tw/goods/11311883894.html) / 100%
 1. 機動戰士鋼彈 THE ORIGIN (14) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
+1. [Sword Art Online 刀劍神域 ─虛空幻界─ (5) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/sword-art-online-5-2) / 100%
 
 ### 2020
 
