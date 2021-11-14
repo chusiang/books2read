@@ -14,7 +14,6 @@
 
 ## 待讀書單
 
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (18) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/24e360e1-2920-4b11-bdf5-14da9da65185) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
 1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
@@ -865,6 +864,7 @@
 1. [Project File Z Gundam (機動戰士終級檔案 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010825706) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (12) by 大森藤ノ](https://www.kobo.com/zh/Book/zupfMEWIjjaJApApjNB2Ug) / 100%
 1. [Model Graphix Gundam Archives [Gundam Technology U.C.0093-0153] Ver.》by 大日本繪畫](https://www.amazon.co.jp/-/en/gp/product/4499233070/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8) / 20%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (18) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/24e360e1-2920-4b11-bdf5-14da9da65185) / 100%
 
 ### 2020
 
