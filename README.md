@@ -14,17 +14,25 @@
 
 ## 待讀書單
 
+1. [鯨游藍海：鈦坦科技的敏捷之路 by 新加坡商鈦坦科技](https://www.taaze.tw/products/11100967370.html) / 1%
+1. [Kunio Okawara Art Works Mobile Suit Gundam MSV Standard (大河原邦男畫集：機動戰士鋼彈 MSV 設定集) 大河原邦男](https://www.taaze.tw/sing.html?pid=11100867274) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
 1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
 1. [Master Archive Mobile Suit - MSZ-006 Z Gundam (機動戰士終極檔案 MSZ-006 Z 鋼彈) by GA Graphic](https://www.books.com.tw/products/0010867558) / 1%
 1. [Master Archive Mobile Suit - Victory Gundam (機動戰士終極檔案Ｖ鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100882958#) / 1%
+1. [Master Archive Mobile Suit - RGM-79 GM (機動戰士終極檔案 RGM-79 吉姆) by GA Graphic](https://www.books.com.tw/products/0010855786) / 1%
+1. [Master Archive Mobile Suit - RGM-79 GM Vol.2 (機動戰士終極檔案 RGM-79 吉姆 Vol.2) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100912675) / 1%
 1. [Mobile Suit Archive - RX-0 Unicorn Gundam (機動戰士終極檔案：RX-0 獨角獸鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100888106) / 1%
 1. [Mobile Suit Archive - MSN-06S Sinanju (機動戰士終極檔案 MSN-06S 新安州) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100885307#) / 1%
+1. [Gundam Weapons - Modeling Masters by Hobby Japan](https://www.books.com.tw/products/0010669305) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: The Origin by Hobby Japan](https://www.books.com.tw/products/0010837537) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: Unicorn by Hobby Japan](https://www.taaze.tw/goods/11310854448.html) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: Unicorn Episode1 & Episode2 by Hobby Japan](https://www.taaze.tw/products/11100591576.html) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: Unicorn Episode3 - Episode5 by Hobby Japan](https://www.taaze.tw/sing.html?pid=11100778155) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: Unicorn Episode6 - Episode7 by Hobby Japan](https://www.taaze.tw/products/11100780696.html) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: NT by Hobby Japan](https://www.taaze.tw/sing.html?pid=11312264486) / 1%
+1. [Gundam Weapons - Mobile Suit Gundam: F91 by Hobby Japan](https://www.books.com.tw/products/0010840264) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: Seed Destiny by Hobby Japan](https://www.taaze.tw/goods/11311546424.html) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
@@ -38,8 +46,12 @@
 1. [美國海豹特種部隊教你災難求生密技 100 招【18 禁】：如何在遇難時刻化險為夷、順利逃脫、保全性命 by Clint Emerson](https://www.kobo.com/tw/en/ebook/nLeig0Mv3jaGmLwi8QATvQ) / 1%
 1. [日本刀：全面剖析日本刀的鍛造與鑑賞藝術 by Yoshindo Yoshihara, Leon Kapp, Hiroko Kapp](https://www.eslite.com/product/1001261432681950260003) / 1%
 1. [節稅的布局 (2021～2022 年版)：搞懂所得稅、遺產稅、贈與稅與房地合一稅，你可以合法的少繳稅，甚至一輩子不繳稅。 by 胡碩勻](https://www.kobo.com/tw/en/ebook/c4-_tntTfTSDl-ktFq0KAQ) / 1%
-1. [[輕小說] 鬼滅之刃：幸福之花 (全) by 矢島綾, 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/bb4c7465-1229-4705-892d-13ae9628fedb) / 1%
-1. [[輕小說] 鬼滅之刃：單翅之蝶 (全) by 矢島綾, 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/219030c1-d284-450d-9018-0cfb24354ce9) / 1%
+1. [[輕小說] 鬼滅之刃：幸福之花 (全) by 吾峠呼世晴, 矢島綾](https://www.kobo.com/tw/zh/ebook/bb4c7465-1229-4705-892d-13ae9628fedb) / 1% ---- 2019.12.16
+1. [[輕小說] 鬼滅之刃：單翅之蝶 (全) by 吾峠呼世晴, 矢島綾](https://www.kobo.com/tw/zh/ebook/219030c1-d284-450d-9018-0cfb24354ce9) / 1% ---- 2020.01.31
+1. [[輕小說] 鬼滅之刃：風之道標 (全) by 吾峠呼世晴, 矢島綾](https://www.books.com.tw/products/0010871760?loc=series_P_E210927000001102_img_003) / 0% ---- 2020.10.23
+1. [[輕小說] 鬼滅之刃：炭治郎與禰豆子，命運初始篇 by 吾峠呼世晴, 松田朱夏](https://www.books.com.tw/products/0010879158?loc=series_P_E210927000001102_img_002) / 0% ---- 2020.12.31
+1. [[輕小說] 鬼滅之刃：兄妹之絆與鬼殺隊篇 (全) by 吾峠呼世晴, 松田朱夏](https://www.books.com.tw/products/0010888120?loc=series_P_E210927000001102_img_001) / 0% ---- 2021.04.19
+1. [[輕小說] 鬼滅之刃：無限列車篇 (全) by 吾峠呼世晴, 矢島綾](https://www.books.com.tw/products/0010880764) / 1% ---- 2021.01.21
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
 1. [自行車保養維修圖解聖經 (The Complete Bike Owner's Manual) by DK](https://www.eslite.com/product/1001113882735399) / 1%
 1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
