@@ -1075,5 +1075,4 @@
 * [每位認真的程式設計師都要讀的 10 本經典書 | Soft & Share](https://softnshare.wordpress.com/2016/02/24/%e6%af%8f%e4%bd%8d%e8%aa%8d%e7%9c%9f%e7%9a%84%e7%a8%8b%e5%bc%8f%e8%a8%ad%e8%a8%88%e5%b8%ab%e9%83%bd%e8%a6%81%e8%ae%80%e7%9a%8410%e6%9c%ac%e7%b6%93%e5%85%b8%e6%9b%b8/)
 * [鳳凰專案 (The Phoenix Project) by Gene Kim, Kevin Behr, George Spafford](the-phoenix-project.md)
 
-
 [^1]: 此專案始於 [Gist](https://gist.github.com/chusiang/7b8a1db696ef31ab5192a88573a97765)，其建置日期為 Sat Apr 9 00:53:51 2016 +0800。

@@ -4,7 +4,7 @@
 
 ## 25 歲前，一定要讀的 6 本書：一次提升學習力、思考力、金錢觀
 
-> https://www.instagram.com/p/CF3HLaHHbwK/
+> <https://www.instagram.com/p/CF3HLaHHbwK/>
 
 ### 思辨力
 
@@ -21,10 +21,9 @@
 1. [原子習慣 by James Clear](https://www.kobo.com/tw/en/ebook/pGo8y2e4ET6pdObwFQDfkg) ✔
 1. [富爸爸，窮爸爸 by Robert T. Kiyosaki](https://www.kobo.com/tw/zh/ebook/wq69VgKE6ziuMLAXnkPsog)
 
-
 ## 35 歲必看的 6 本書：拚命擴大職場影響力，也要學會為人生排序
 
-> https://www.instagram.com/p/CF0nFyFn2w8/
+> <https://www.instagram.com/p/CF0nFyFn2w8/>
 
 ### 溝通力
 

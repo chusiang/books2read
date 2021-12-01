@@ -2,9 +2,9 @@
 
 沒時間看完過多書籍的凍仁，決定在 2018 年換種學習方式。先付點小錢讓他人進行導讀，再依自己的學習階段調整學習方向。
 
-* 活動頁面：http://www.knack.com.tw/Event/CelebBookClub
-* 線上課程：http://www.knack.com.tw/Detail/Online/50
-* Facebook Group: https://www.facebook.com/groups/smartm.readingclub/
+* 活動頁面：<http://www.knack.com.tw/Event/CelebBookClub>
+* 線上課程：<http://www.knack.com.tw/Detail/Online/50>
+* Facebook Group: <https://www.facebook.com/groups/smartm.readingclub/>
 
 ## 100 本商戰書目
 

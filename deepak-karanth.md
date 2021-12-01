@@ -1,4 +1,4 @@
-# 每位認真的程式設計師都要讀的 10 本經典書 | Deepak Karanth 
+# 每位認真的程式設計師都要讀的 10 本經典書 | Deepak Karanth
 
 [Deepak Karanth](http://softwareyoga.com/author/deepak-karanth/) 是有 12 年經驗的 Averda / Citybin / Ericsson / IBM 等知名公司的首席架構師、顧問與軟體開發的輔導。在這篇文章，建議程式設計師需要讀的不只是 code 或網路上找的答案，有些程式開發過程會遇到的問題多年來都類似，且也有很棒的解決智慧。這些多年來的智慧經典，身為認真的程式設計師都不可錯過。
 

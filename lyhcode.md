@@ -53,4 +53,3 @@
 - [27 電腦如何思考](http://webpac2.csu.edu.tw/bookDetail.do?id=66089)
 - [29 The Art of Computer Programming](http://webpac2.csu.edu.tw/bookDetail.do?id=147821&resid=189005877&nowid=7)
 - [30 如何閱讀一本書](http://webpac2.csu.edu.tw/bookDetail.do?id=212366&resid=189005867&nowid=6)
-

@@ -6,7 +6,6 @@
 
 [5 must to-read books on DevOps | SlideShare](http://www.slideshare.net/CodeOps/5-must-toread-books-on-devops)
 
-
 1. [Implementing Lean Software Development: From Concept to Cash](http://www.tenlong.com.tw/items/0321437381?item_id=32783)
 1. [Effective Devops: Building a Culture of Collaboration, Affinity, and Tooling at Scale](http://www.tenlong.com.tw/items/1491926309?item_id=1021759) ✔
 1. [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](http://www.tenlong.com.tw/items/0321601912?item_id=57372)
@@ -16,11 +15,9 @@
     - [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事](https://www.tenlong.com.tw/products/9789864765867) / 繁體中文 ✔
 1. [DevOps: A Software Architect's Perspective](http://www.tenlong.com.tw/items/0134049845?item_id=1005244)
 
-
 ## 五本 Docker 必讀書籍
 
 [5 must to-read books on docker | SlideShare](http://www.slideshare.net/CodeOps/5-must-toread-books-on-docker-63290187)
-
 
 1. [Docker: Up & Running](http://www.tenlong.com.tw/items/1491917571?item_id=1005886) ✔
     - [Docker 即學即用](http://www.tenlong.com.tw/items/7512383398?item_id=1010339) / 簡體中文 ✔
@@ -33,5 +30,4 @@
 
 ## Reference
 
-* [五本 DevOps 必讀書目 ...... | DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/permalink/1040640342689678/)
-
+- [五本 DevOps 必讀書目 ...... | DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/permalink/1040640342689678/)

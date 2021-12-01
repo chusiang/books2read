@@ -2,7 +2,6 @@
 
 [《The Agile Management Survival Guide》](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c)
 
-
 ## 相關書籍
 
 > 有 (*) 代表絕版或市面上難以尋求。
