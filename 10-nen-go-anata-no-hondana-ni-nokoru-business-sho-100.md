@@ -30,7 +30,7 @@
 
 ## 神田昌典
 
-### 終極的 10 本書
+### 終極的 10 本書 - 神田昌典
 
 1. 浪花金融道
 2. [送到家門口的經營學：宅急便之父小倉昌男「服務先於利益」的經營DNA by 小倉昌男](https://www.taaze.tw/goods/11311194645.html) ✔
@@ -38,7 +38,7 @@
 4. [一念之轉：四句話改變你的人生 (Loving What Is) by Byron Katie, Stephen Mitchell](https://www.books.com.tw/products/0010369065) ✔
 5. [第 8 個習慣：從成功到卓越 (The 8th Habit: From Effectiveness to Greatness) by Stephen R. Covey](https://www.kobo.com/tw/zh/ebook/YwuV7M127zqsBd8SKSku9w) ✔
 
-### 10 年後會留在書架上的 40 本書
+### 10 年後會留在書架上的 40 本書 - 神田昌典
 
 1. 增加 19 倍銷售的廣告創意法
 2. [作家之路：從英雄的旅程學習說一個好故事 (The Writer's Journey: Mythic Structure for Writers, 3/e) by Christopher Vogler](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg) ✔
@@ -58,7 +58,7 @@
 
 ## 勝間和代
 
-### 最棒的 10 本書
+### 最棒的 10 本書 - 勝間和代
 
 1. [自己拯救自己 (Self-Help) by Samuel Smiles](https://www.taaze.tw/usedList.html?oid=11100702325) ✔
 2. [我的人生思考 (As a man thinketh) by James Allen](https://www.kobo.com/tw/zh/ebook/lQd7mWK79zqTd2rusVZtUg) ✔
@@ -69,7 +69,7 @@
 7. [藍海策略 (Blue Ocean Strategy) by W. Chan Kim, Renée Mauborgne](https://www.kobo.com/tw/zh/ebook/wUj8SLdpSDCMo57MwTrUwA) ✔
 8. [創新的兩難 (The Innovator's Dilemma) by Clayton M. Christensen](https://www.books.com.tw/products/0010367123) ✔
 
-### 10 年後會留在書架上的 40 本書
+### 10 年後會留在書架上的 40 本書 - 勝間和代
 
 1. [杜拉克精選：個人篇 (The Essential Drucker on Individual) by Peter F. Drucker](https://www.taaze.tw/goods/11311076084.html) ✔
     * [杜拉克談高效能的 5 個習慣 (The Effective Executive: The Definitive Guide to Getting the Right Things Done) by Peter Drucker](https://www.taaze.tw/sing.html?pid=11311961855) ✔

@@ -1,6 +1,9 @@
-# 凍仁的待讀清單
+# 凍仁的待讀清單 #
 
-看了[《學徒模式》](https://www.tenlong.com.tw/products/9789862762561)一書後，凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在 [GitHub](https://github.com/chusiang/books2read/commits/main) 和 [GitLab](https://gitlab.com/chusiang/books2read/commits/main) 找到編修記錄。[^1]
+看了[《學徒模式》](https://www.tenlong.com.tw/products/9789862762561)一書後，
+凍仁試著用 Git 管理自己的**待讀書單**，並不時修改其閱讀順序。大家可以在
+[GitHub](https://github.com/chusiang/books2read/commits/main) 和
+[GitLab](https://gitlab.com/chusiang/books2read/commits/main) 找到編修記錄。[^1]
 
 目錄：
 
@@ -12,10 +15,10 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-## 待讀書單
+## 待讀書單 ##
 
 1. [鯨游藍海：鈦坦科技的敏捷之路 by 新加坡商鈦坦科技](https://www.taaze.tw/products/11100967370.html) / 1%
-1. [Kunio Okawara Art Works Mobile Suit Gundam MSV Standard (大河原邦男畫集：機動戰士鋼彈 MSV 設定集) 大河原邦男](https://www.taaze.tw/sing.html?pid=11100867274) / 1%
+1. [Kunio Okawara Art Works Mobile Suit Gundam MSV Standard(大河原邦男畫集：機動戰士鋼彈 MSV 設定集) 大河原邦男](https://www.taaze.tw/sing.html?pid=11100867274) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
 1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
@@ -851,9 +854,9 @@
 1. [幼女戰記 (01) by カルロ・ゼン](https://www.kobo.com/tw/zh/ebook/aWfA8xUhvz2X-mBw7SMMyw) / 0%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
 
-## 已讀書單
+## 已讀書單 ##
 
-### 2021
+### 2021 ###
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (16) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/bwhuJf5TijWKqRR3SLdPhg) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 - 眷族編年史 (1)：琉 by 大森 藤ノ](https://www.kobo.com/tw/en/ebook/episode-17) / 100%
@@ -881,7 +884,7 @@
 1. [Model Graphix Gundam Archives [Gundam Technology U.C.0093-0153] Ver.》by 大日本繪畫](https://www.amazon.co.jp/-/en/gp/product/4499233070/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8) / 20%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (18) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/24e360e1-2920-4b11-bdf5-14da9da65185) / 100%
 
-### 2020
+### 2020 ###
 
 1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 200%
@@ -935,7 +938,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (15) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/da5e3ec2-d2e0-4014-88e8-e75896415b0d) / 100%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 110%
 
-### 2019
+### 2019 ###
 
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (13) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/ea2YxeKeczKxNJPMMC4lUQ) / 100%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 100%
@@ -984,7 +987,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (1)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 200%
 1. [系統動力學：理論與應用 by 屠益民、張良政](https://www.books.com.tw/products/0010467669) / 20%
 
-### 2018
+### 2018 ###
 
 1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (12) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/zOOuIbjWpTmOwgumHmxf9w) / 100%
@@ -1008,7 +1011,7 @@
 1. [系統思考 Systems One by Draper L. Kauffman. Jr.](https://www.taaze.tw/sing.html?pid=11307034596) / 100%
 1. [一隻企鵝教我的事 by Tom Michell](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018560215688) / 100%
 
-### 2017
+### 2017 ###
 
 1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780) / 100%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
@@ -1037,7 +1040,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (10) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/v4eovSi04D2RsvOYJY4cPA) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (11) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/t-lDo8ThjTiphXbXeo3u5Q) / 100%
 
-### 2016
+### 2016 ###
 
 1. [醫生哪有這麼萌：Nikumon 的實習生活全紀錄](https://www.books.com.tw/products/0010672605) / 100%
 1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](https://www.tenlong.com.tw/products/9789862762561) / 100%
@@ -1047,13 +1050,13 @@
 1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702) / 100%
 1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
 
-### 2015
+### 2015 ###
 
 1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
 1. [AWS 雲端企業實戰聖經](https://play.google.com/store/books/details/%E6%9E%97%E5%85%81%E6%BA%A5_AWS%E9%9B%B2%E7%AB%AF%E4%BC%81%E6%A5%AD%E5%AF%A6%E6%88%B0%E8%81%96%E7%B6%93?id=IpirAAAAQBAJ) / 100%
 1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587) / 100%
 
-### ~ 2014
+### ~ 2014 ###
 
 1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
 1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974) / 100%
@@ -1064,7 +1067,7 @@
 1. [輕小說] 異世界之富甲天下 by 小樓暮靄 (完結) / ??%
 1. [[輕小說] 異俠 by 自在 (WADE)](https://www.nch.com.tw/data.php?id=2065&ch=16) / ??%
 
-## 他人的讀書清單
+## 他人的讀書清單 ##
 
 * [10 年後會留在書架上的 100 本書 by 神田昌典, 勝間和代](10-nen-go-anata-no-hondana-ni-nokoru-business-sho-100.md)
 * [Chengwei Chen 的 DevOps 推薦書單](https://medium.com/@cheng.wei.chen/devops-book-recommendations-8d2407212d1f) [(Blogger)](http://blog.chengweichen.com/2016/11/devops.html)
