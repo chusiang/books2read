@@ -176,6 +176,7 @@
 1. [思考的技術：培養具有競爭力的思考途徑 by 大前研一](https://www.taaze.tw/goods/11310903051.html) / 1%
 1. [假說思考：培養邊做邊學的能力，讓你迅速解決問題 (The BCG Way—The Art of Hypothesis-driven Management) by 內田和成](https://www.kobo.com/tw/en/ebook/Zc6kWHNjxDKLgxBHeMw53w) / 1%
 1. [企鵝公路 by 森見登美彥](https://www.taaze.tw/usedList.html?oid=11100867094) / 1%
+1. [[輕小說] 天氣之子 (Weathering With You) by 新海誠](https://www.kobo.com/tw/zh/ebook/f3f19f09-7e57-4a63-aaa5-620df9f86b3d) / 1%
 1. [企鵝鐵道失物招領課 by 名取佐和子](https://www.kobo.com/my/en/ebook/g9z8nqozitw9dtukuiq7fw) / 1%
 1. [雲圖 (3/e)](https://www.kobo.com/tw/zh/ebook/O97VjXDMxDKw8dp5WW4IZQ) / 1%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
