@@ -17,6 +17,9 @@
 
 ## 待讀書單 ##
 
+1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
+1. [QBQ！的 5 項修練：實踐個人擔當，創造人生優勢 by John G. Miller](https://www.taaze.tw/sing.html?pid=11311863576) / 1%
+1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
 1. [鯨游藍海：鈦坦科技的敏捷之路 by 新加坡商鈦坦科技](https://www.taaze.tw/products/11100967370.html) / 1%
 1. [Kunio Okawara Art Works Mobile Suit Gundam MSV Standard(大河原邦男畫集：機動戰士鋼彈 MSV 設定集) 大河原邦男](https://www.taaze.tw/sing.html?pid=11100867274) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
@@ -76,7 +79,7 @@
 1. [改變歷史的加密訊息 by 彭偉皓](https://www.tenlong.com.tw/products/9789864347469) / 1%
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
-1. [Python功力提升的樂趣：寫出乾淨程式碼的最佳實務 by Al Sweigart](https://www.taaze.tw/goods/11100932910.html) / 1%
+1. [Python 功力提升的樂趣：寫出乾淨程式碼的最佳實務 by Al Sweigart](https://www.taaze.tw/goods/11100932910.html) / 1%
 1. [Python 設計模式深入解析 (Mastering Python Design Patterns) by Sakis Kasampalis](https://www.tenlong.com.tw/products/9789864340415) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [基礎架構即程式碼：管理雲端伺服器 (Infrastructure as Code: Managing Servers in the Cloud) by Kief Morris](https://www.tenlong.com.tw/products/9789864763382) / 1%
@@ -156,7 +159,7 @@
 1. [統計，改變了世界 (The lady tasting tea: how statistics revolutionized science in the twentieth century) by David Salsburg](https://www.taaze.tw/goods/11311189652.html) / 1%
 1. [漫步華爾街：超越股市漲跌的成功投資策略 (A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing) by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/af5b0407-d02b-4b32-b457-b3c1d84cb91c) / 1%
 1. [生活的經濟學](https://www.books.com.tw/products/0010035520) / 0%
-1. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) / 1%
+1. [決斷 2 秒間：擷取關鍵資訊，發揮不假思索的力量](https://www.books.com.tw/products/0010691640) / 1%
 1. 增加 19 倍銷售的廣告創意法 / 0%
 1. [作家之路：從英雄的旅程學習說一個好故事 (The Writer's Journey: Mythic Structure for Writers, 3/e) by Christopher Vogler](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg) / 1%
 1. [公司留不住錢的真正理由：94% 的公司經營者不知道的經營訣竅 by 岡本吏郎](https://www.taaze.tw/goods/11310338637.html) / 1%
@@ -373,9 +376,7 @@
 1. [專注力，就是你的超能力：掌控自我、提升成績的 18 個學習武器 (自分を操る超集中力) by DaiGo](http://www.books.com.tw/products/0010755805) / 1%
 1. [為什麼一流人才的專注力能持續一整天？：日本外科權威南雲醫師教你強化專注力的 60 個習慣 by 南雲吉則](https://www.kobo.com/tw/zh/ebook/YeDrM0h3uTmvtTmju0X4pg) / 1%
 1. [五秒法則 by Mel Robbins](https://www.kobo.com/tw/zh/ebook/e81d8522-f414-430c-9652-fd5017dcb672) / 1%
-1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [管理學一定要懂的 10 個經典理論 | 經理人月刊 No.153](https://www.kobo.com/tw/zh/ebook/qfz9TkYDoDydIoaEUYzgYA) / 1%
-1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
 1. [溫伯格的軟體管理學 - 第 1 卷：系統化思考 (Quality Software Management, Volume 1: Systems Thinking) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 2 卷：第一級評量 (Quality Software Management, Volume 2: First-Order Measurement) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
 1. [溫伯格的軟體管理學 - 第 3 卷：關照全局的管理作為 (Quality Software Management, Volume 3: Congruent Action) by Gerald M. Weinberg](http://www.books.com.tw/products/0010553999) / 1%
