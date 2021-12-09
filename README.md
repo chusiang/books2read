@@ -332,6 +332,7 @@
 1. [康乃爾最經典的思考邏輯課：大數據時代，你一定要避開的自以為是 by Thomas Gilovich](https://www.kobo.com/tw/en/ebook/49e64850-4345-4a4b-b713-da2d5e486e66) / 1%
 1. [X 計畫：打造人生黃金交叉線的轉機與關鍵 by 劉恭甫](https://www.kobo.com/tw/zh/book/8431814d-82d4-4cdb-bdc6-e347d62b6d4e) / 1%
 1. [從 1 到 100 用心求變：你我都需要的 63 個持續改進與提升策略 by Mary Lynn Manns, Linda Rising](https://www.books.com.tw/products/CN11421100) / 1%
+1. [誰說人是理性的！：消費高手與行銷達人都要懂的行為經濟學 (Predictably Irrational: The Hidden Forces That Shape Our Decisions)](https://www.kobo.com/tw/zh/ebook/dpIaNUTJHDuFZDWyDrDOaw) / 1%
 1. [快思慢想 - Thinking, Fast and Slow by Daniel Kahneman](https://www.kobo.com/tw/zh/ebook/0699a594-6684-4500-8648-92794a33477c) / 1%
 1. [窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
 1. [武士道 by 新渡戶稻造](https://www.kobo.com/tw/zh/ebook/QwuhSPmmRjGD6JF4nBD5CQ) / 1%
