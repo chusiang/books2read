@@ -391,6 +391,7 @@
 1. [Effective DevOps by Jennifer Davis, Ryn Daniels](https://play.google.com/store/books/details/Jennifer_Davis_Effective_DevOps?id=nO1FDAAAQBAJ) / 1%
 1. [Effective DevOps：使用 AWS 快速入門 by Nathaniel Felsen](https://www.books.com.tw/products/0010814249) / 1%
 1. [Python for DevOps：學習精準有效的自動化 (Python for Devops: Learn Ruthlessly Effective Automation) by Gift, Noah, Behrman, Kennedy, Deza, Alfredo](https://www.tenlong.com.tw/products/9789865026073) / 1%
+1. [流程自動化實務：微服務和雲端原生架構中的協調與整合 (Practical Process Automation: Orchestration and Integration in Microservices and Cloud Native Architectures) by Bernd Ruecker](https://www.tenlong.com.tw/products/9789865029968) / 1%
 1. [架構模式：使用 Python (Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices) by Harry Percival, Bob Gregory](https://www.tenlong.com.tw/products/9789865025960) / 1%
 1. [組建敏捷大軍 | 哈佛商業評論 No.142](http://www.books.com.tw/products/R030070084) / 3%
 1. [敏捷大師精選 by Michael de la Maza, Cherie Silas](https://www.tenlong.com.tw/products/9789864344604) / 1%
