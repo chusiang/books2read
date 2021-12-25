@@ -20,6 +20,8 @@
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [QBQ！的 5 項修練：實踐個人擔當，創造人生優勢 by John G. Miller](https://www.taaze.tw/sing.html?pid=11311863576) / 1%
 1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
+1. [突破困境！企業開源虛擬化管理平台：使用 Proxmox Virtual Environment by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864349616)
+1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
 1. [鯨游藍海：鈦坦科技的敏捷之路 by 新加坡商鈦坦科技](https://www.taaze.tw/products/11100967370.html) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
@@ -225,7 +227,6 @@
 1. [[奇幻小說] 龍族 (10)：大法師的輓歌 by 李榮道](https://share.readmoo.com/book/478561) / 200%
 1. [[奇幻小說] 龍族 (11)：沒有正確答案的選擇 by 李榮道](https://share.readmoo.com/book/478569) / 200%
 1. [[奇幻小說] 龍族 (12)：朝夕陽飛翔的龍 by 李榮道](https://share.readmoo.com/book/478570) / 200%
-1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
 1. [情緒寄生：與自我和解的 34 則情感教育 by 許皓宜](https://www.books.com.tw/products/0010799316) / 5%
 1. [情緒陰影：「心靈整合之父」榮格，帶你認識內在原型，享受情緒自由 by 許皓宜](https://play.google.com/store/books/details?id=V5lEDwAAQBAJ) / 1%
 1. [與父母和解，療癒每段關係裡的不完美 by 許皓宜](https://www.taaze.tw/goods/11100734550.html) / 13%
