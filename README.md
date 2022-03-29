@@ -17,12 +17,14 @@
 
 ## 待讀書單 ##
 
+1. [機動戰士 GUNDAM U.C. 0079 "The one year war" history by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [QBQ！的 5 項修練：實踐個人擔當，創造人生優勢 by John G. Miller](https://www.taaze.tw/sing.html?pid=11311863576) / 1%
 1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
 1. [突破困境！企業開源虛擬化管理平台：使用 Proxmox Virtual Environment by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864349616)
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
 1. [鯨游藍海：鈦坦科技的敏捷之路 by 新加坡商鈦坦科技](https://www.taaze.tw/products/11100967370.html) / 1%
+1. [新機動戰記 GUNDAM W by 神代創](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98-GUNDAM-W-%E5%85%A85%E5%86%8A-%E5%89%8D%E5%82%B3-%E5%85%B1%E5%85%AD%E5%86%8A%E5%90%88%E5%94%AE-%E7%A5%9E%E4%BB%A3%E5%89%B5-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.15256605821) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
 1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
