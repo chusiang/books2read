@@ -110,6 +110,10 @@
 
 ## 已讀書單
 
+### 2022
+
+1. [Sword Art Online 刀劍神域 ─虛空幻界─ (6) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/sword-art-online-6-2) / 100%
+
 ### 2021
 
 1. [我的英雄學院 (25) by 堀越耕平](https://www.kobo.com/tw/zh/ebook/dCfWSULW4DCKdcCn9wkuWg) / 100%
