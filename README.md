@@ -859,6 +859,11 @@
 1. [第 8 號當舖 (復刻版) by 深雪](https://www.kobo.com/tw/zh/ebook/w1RikVCtEz-15CCd_FPWmw) / 1%
 1. [幼女戰記 (01) by カルロ・ゼン](https://www.kobo.com/tw/zh/ebook/aWfA8xUhvz2X-mBw7SMMyw) / 0%
 1. [電動車安全入門: 來電, 不觸電 - 掌握電氣防護要訣 安心駕馭電動車 by 財團法人車輛研究測試中心](https://play.google.com/store/books/details/車輛中心工程師等著_電動車安全入門?id=0ofpBgAAQBAJ) / 1%
+1. [恐龍的啟示：為什麼了解恐龍，可以改變我們的未來？ (Why Dinosaurs Matter) by Kenneth Lacovara](https://www.kobo.com/tw/zh/ebook/ted-books-9) / 1%
+1. [天官賜福 (01) by 墨香銅臭](https://www.taaze.tw/sing.html?pid=11100927926) / 1%
+1. [天官賜福 (02) by 墨香銅臭](https://www.taaze.tw/sing.html?pid=11312035866) / 1%
+1. [天官賜福 (03) by 墨香銅臭](https://www.taaze.tw/sing.html?pid=11100937684) / 1%
+1. [天官賜福 (04) by 墨香銅臭](https://www.taaze.tw/sing.html?pid=11100937684) / 1%
 
 ## 已讀書單 ##
 
