@@ -61,6 +61,7 @@
 1. [[輕小說] 鬼滅之刃：炭治郎與禰豆子，命運初始篇 by 吾峠呼世晴, 松田朱夏](https://www.books.com.tw/products/0010879158?loc=series_P_E210927000001102_img_002) / 0% ---- 2020.12.31
 1. [[輕小說] 鬼滅之刃：兄妹之絆與鬼殺隊篇 (全) by 吾峠呼世晴, 松田朱夏](https://www.books.com.tw/products/0010888120?loc=series_P_E210927000001102_img_001) / 0% ---- 2021.04.19
 1. [[輕小說] 鬼滅之刃：無限列車篇 (全) by 吾峠呼世晴, 矢島綾](https://www.books.com.tw/products/0010880764) / 1% ---- 2021.01.21
+1. [[輕小說] 吾峠呼世晴短篇集 (全) by 吾峠呼世晴](https://www.kobo.com/tw/zh/ebook/c7b903a9-9a63-4164-bb38-02c6c18909b7) / 1%
 1. [[輕小說] Sword Art Online 刀劍神域 (11)：Alicization turning by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_11?id=hEM1DwAAQBAJ) / 2%
 1. [自行車保養維修圖解聖經 (The Complete Bike Owner's Manual) by DK](https://www.eslite.com/product/1001113882735399) / 1%
 1. [南極世界公園．從南極看台灣 by 企鵝先生](https://www.taaze.tw/goods/11100709283.html) / 1%
