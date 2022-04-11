@@ -1087,6 +1087,7 @@
 ## 他人的讀書清單 ##
 
 * [10 年後會留在書架上的 100 本書 by 神田昌典, 勝間和代](10-nen-go-anata-no-hondana-ni-nokoru-business-sho-100.md)
+* [10 本你應該閱讀的 DevOps 書籍 by Jeremy Morgan](the-top-10-books-on-devops-you-need-to-read.md)
 * [Chengwei Chen 的 DevOps 推薦書單](https://medium.com/@cheng.wei.chen/devops-book-recommendations-8d2407212d1f) [(Blogger)](http://blog.chengweichen.com/2016/11/devops.html)
 * [Martin Liu 的 DevOps 參考書單](https://www.douban.com/doulist/46341810/)
 * [Topper's booklist](https://gist.github.com/Topperchi/217ac16d27bf56fad52045aa2d6ed0df)
