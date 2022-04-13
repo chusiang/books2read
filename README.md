@@ -871,6 +871,7 @@
 ### 2022 ###
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (19) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/451fc693-5c42-4fb3-9e24-ded5a8840221) / 100%
+1. [[輕小說] Sword Art Online 刀劍神域 Progressive (7) by 川原礫](https://www.kobo.com/tw/zh/ebook/5b8fedfa-9e70-42d1-80cf-263d90d12eaf) / 100%
 
 ### 2021 ###
 
