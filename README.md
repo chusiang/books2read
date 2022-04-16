@@ -18,6 +18,8 @@
 ## 待讀書單 ##
 
 1. [機動戰士 GUNDAM U.C. 0079 "The one year war" history by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
+1. [一級玩家 by Ernest Cline](https://www.kobo.com/tw/zh/ebook/-qpzzGHz1DC7ps4gM0_H9g) / 1%
+1. [二級玩家 by Ernest Cline](https://www.kobo.com/tw/zh/ebook/NGhFzxzdxTWr7i8--hBveg) / 1%
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [QBQ！的 5 項修練：實踐個人擔當，創造人生優勢 by John G. Miller](https://www.taaze.tw/sing.html?pid=11311863576) / 1%
 1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
@@ -617,7 +619,6 @@
 1. [領域驅動設計：軟體核心複雜度的解決方法 by Eric Evans](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7801861) / 1%
 1. [顧爸媽，這樣做最安心：15 項迷思 ╳ 18 種常見老年病 ╳ 25 則日常伴老須知，台大老年醫學權威詹鼎正親自解惑 by 詹鼎正](https://www.kobo.com/tw/zh/ebook/5AuNAebKADOYt4aJ5QjZkg) / 1%
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
-1. [一級玩家 by Ernest Cline](http://www.books.com.tw/products/0010776419) / 1%
 1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 5%
 1. [Elasticsearch 實戰與原理解析 by 牛冬](https://www.amazon.cn/dp/B087BJRKGF) / 3%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e by 鳥哥](https://share.readmoo.com/book/538753) / ?%
