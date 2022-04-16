@@ -113,6 +113,8 @@
 1. 機動戰士鋼彈 THE ORIGIN (17) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
 1. 機動戰士鋼彈 THE ORIGIN (18) by 安彥良和 (漫畫), 矢立肇 (原作), 富野由悠季 (原作) / 100%
 1. [Sword Art Online 刀劍神域 ─虛空幻界─ (6) by 緋呂河とも、川原礫、abec](https://www.kobo.com/tw/zh/ebook/sword-art-online-6-2) / 100%
+1. [我的英雄學院 (29) by 堀越耕平](https://www.kobo.com/tw/en/ebook/LBLAl1TtkTawKo7dPkQ8Ag) / 100%
+1. [我的英雄學院 (30) by 堀越耕平](https://www.kobo.com/tw/en/ebook/3X8QN6VQETiVlhehHyTYsA) / 100%
 
 ### 2021
 
