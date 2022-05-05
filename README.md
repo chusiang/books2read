@@ -18,6 +18,8 @@
 ## 待讀書單 ##
 
 1. [機動戰士 GUNDAM U.C. 0079 "The one year war" history by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
+1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
+1. [減法的力量：全美最啟迪人心的跨領域教授，帶你發現｢少，才更好｣ (Subtract: The Untapped Science of Less)](https://www.kobo.com/tw/zh/ebook/535bac1b-6450-4a0d-97e3-54e18b47329d) / 1%
 1. [一級玩家 by Ernest Cline](https://www.kobo.com/tw/zh/ebook/-qpzzGHz1DC7ps4gM0_H9g) / 1%
 1. [二級玩家 by Ernest Cline](https://www.kobo.com/tw/zh/ebook/NGhFzxzdxTWr7i8--hBveg) / 1%
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
@@ -140,7 +142,6 @@
 1. [10 倍速成功：你的努力都用對地方了嗎？移除干擾，表現出乎意料！by Alan Fine, Rebecca R. Merrill](https://www.taaze.tw/goods/11311559530.html) ✔
 1. [如何閱讀ㄧ本書 by Mortimer J. Adler, Charles Van Doren](https://www.books.com.tw/products/0010736991) / 1%
 1. [心智圖聖經：心智圖法理論與實務篇 (The Mind Map Book) by Tony Bazun, Barry Bazun](https://www.taaze.tw/goods/11311236051.html) / 1%
-1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
 1. [深度智慧 (DEEP SMARTS) by Dorothy Leonard, Walter Swap](https://www.taaze.tw/usedList.html?oid=11100035814) / 1%
 1. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/goods/11310629202.html) / 1%
 1. [請你跟我這樣做：洞悉業務員，廣告，政治人物的六大心理戰術 (Influence：Scienceand Practice) by Robert B. Cialdini](https://www.taaze.tw/goods/11310903818.html) / 1%
