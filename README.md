@@ -368,6 +368,7 @@
 1. [失控的數據：數字管理的誤用與濫用，如何影響我們的生活與工作，甚至引發災難 by Jerry Z. Muller](https://play.google.com/store/books/details/%E5%82%91%E7%91%9E_%E7%A9%86%E5%8B%92_Jerry_Z_Muller_%E5%A4%B1%E6%8E%A7%E7%9A%84%E6%95%B8%E6%93%9A_%E6%95%B8%E5%AD%97%E7%AE%A1%E7%90%86%E7%9A%84%E8%AA%A4%E7%94%A8%E8%88%87%E6%BF%AB%E7%94%A8_%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B4%BB%E8%88%87%E5%B7%A5%E4%BD%9C?id=ATyeDwAAQBAJ) / 1%
 1. [因果革命：人工智慧的大未來 by Judea Pearl, Dana Mackenzie](https://www.kobo.com/tw/zh/ebook/ReLr-70c5DiU4fJBPvTPFg) / 1%
 1. [斜槓青年：全球職涯新趨勢，迎接更有價值的多職人生 by Susan Kuang](https://www.kobo.com/tw/zh/ebook/e4d135f8-9d84-4164-ac96-52665e26dd73) / 1%
+1. [麻理惠的怦然心動筆記：整理專家的第一本插畫問答整理魔法書 (The KonMari Companion) by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/787f5368-b42d-468a-9fa0-ec36aa99938b) / 1%
 1. [麻理惠的整理魔法：108 項技巧全圖解 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/374c2cfc-67d4-4c68-a802-f3819ef565fe) / 1%
 1. [怦然心動的人生整理魔法 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/ab2efa5b-304f-469d-a0a3-0411d8285230) / 1%
 1. [怦然心動的人生整理魔法２：實踐篇、解惑篇 by 近藤麻理惠](https://www.kobo.com/tw/zh/ebook/3241f933-1cff-4563-a2ee-68912445fb0d) / 1%
