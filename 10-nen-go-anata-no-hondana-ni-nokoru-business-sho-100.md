@@ -85,7 +85,7 @@
 11. [深度智慧 (DEEP SMARTS) by Dorothy Leonard, Walter Swap](https://www.taaze.tw/usedList.html?oid=11100035814) ✔
 12. [口碑行銷：如何引爆口耳相傳的神奇威力 (The anatomy of buzz : how to create word-of-mouth marketing) by Emanuel Rosen](https://www.taaze.tw/goods/11310629202.html) ✔
 13. [請你跟我這樣做：洞悉業務員，廣告，政治人物的六大心理戰術 (Influence：Scienceand Practice) by Robert B. Cialdini](https://www.taaze.tw/goods/11310903818.html) ✔
-14. [跨越鴻溝](https://www.taaze.tw/usedList.html?oid=11100156401)
+14. [跨越鴻溝 (Crossing the Chasm) by Geoffrey A. Moore](https://www.taaze.tw/usedList.html?oid=11100156401) ✔
 15. [目標 (The Goal) by Eliyahu M. Goldratt](https://www.books.com.tw/products/0010346055) ✔
 16. [利潤的故事：23 場來自獲利大師的機密對話錄 (The Art of Profitability) by Adrian Slywotzky](https://www.taaze.tw/goods/11311289915.html) ✔
 17. [基業長青：高瞻遠矚企業的永續之道 (Built to Last: Successful Habits of Visionary Companies) by Jim Collins, Jerry I. Porras](https://www.kobo.com/tw/zh/ebook/DrFdOAhW0TmNpyx1fSFKrA) ✔
