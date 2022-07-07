@@ -90,6 +90,7 @@
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
 1. [Python 自動化的樂趣：搞定重複瑣碎 & 單調無聊的工作 (Automate the Boring Stuff with Python: Practical Programming for Total Beginners) by Al Sweigart](https://www.tenlong.com.tw/products/9789864762729) / 20.3%
 1. [Python 功力提升的樂趣：寫出乾淨程式碼的最佳實務 by Al Sweigart](https://www.taaze.tw/goods/11100932910.html) / 1%
+1. [Python 小專案大集合：提升功力的 81 個簡單有趣小程式 by Al Sweigart](https://www.tenlong.com.tw/products/9786263331488) / 1%
 1. [Python 設計模式深入解析 (Mastering Python Design Patterns) by Sakis Kasampalis](https://www.tenlong.com.tw/products/9789864340415) / 1%
 1. [基礎設施即代碼：雲服務器管理 by Kief Morris](https://www.tenlong.com.tw/products/9787115490636) / 25%
 1. [基礎架構即程式碼：管理雲端伺服器 (Infrastructure as Code: Managing Servers in the Cloud) by Kief Morris](https://www.tenlong.com.tw/products/9789864763382) / 1%
