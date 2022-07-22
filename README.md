@@ -17,7 +17,6 @@
 
 ## 待讀書單 ##
 
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (20) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/iRVXva1D5zqtnbdng9Uvgw) / 1%
 1. [女性普拉模的塗裝教科書 by Hobby Japan](https://www.books.com.tw/products/0010909676) / 1%
 1. [機動戰士 GUNDAM U.C. 0079 "The one year war" history by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
 1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
@@ -882,6 +881,7 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (19) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/451fc693-5c42-4fb3-9e24-ded5a8840221) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (7) by 川原礫](https://www.kobo.com/tw/zh/ebook/5b8fedfa-9e70-42d1-80cf-263d90d12eaf) / 100%
 1. [ROBOT 魂〈SIDE MS〉機動戰士鋼彈 ver.A.N.I.M.E. 大全 by Hobby Japan](https://www.books.com.tw/products/0010893998) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (20) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/iRVXva1D5zqtnbdng9Uvgw) / 100%
 
 ### 2021 ###
 
