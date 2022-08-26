@@ -41,6 +41,7 @@
 1. [Master Archive Mobile Suit - RGM-79 GM Vol.2 (機動戰士終極檔案 RGM-79 吉姆 Vol.2) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100912675) / 1%
 1. [Mobile Suit Archive - RX-0 Unicorn Gundam (機動戰士終極檔案：RX-0 獨角獸鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100888106) / 1%
 1. [Mobile Suit Archive - MSN-06S Sinanju (機動戰士終極檔案 MSN-06S 新安州) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100885307#) / 1%
+1. Gundam Weapons - Modeling Masters -HG Edition- (鋼彈軍武大全 極致模型技術指南 HG 篇) by Hobby Japan / 1%
 1. [Gundam Weapons - Modeling Masters by Hobby Japan](https://www.books.com.tw/products/0010669305) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: The Origin by Hobby Japan](https://www.books.com.tw/products/0010837537) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: Unicorn by Hobby Japan](https://www.taaze.tw/goods/11310854448.html) / 1%
