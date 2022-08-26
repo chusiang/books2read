@@ -50,6 +50,7 @@
 1. [Gundam Weapons - Mobile Suit Gundam: NT by Hobby Japan](https://www.taaze.tw/sing.html?pid=11312264486) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: F91 by Hobby Japan](https://www.books.com.tw/products/0010840264) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: Seed Destiny by Hobby Japan](https://www.taaze.tw/goods/11311546424.html) / 1%
+1. [HJ Mechanics by Hobby Japan](https://shopee.tw/HJ%E7%A7%91%E5%B9%BB%E6%A8%A1%E5%9E%8B%E4%BD%9C%E5%93%81%E7%B2%BE%E9%81%B8%E9%8C%84-i.20570968.2402036531) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (15) by 伏瀬](https://www.kobo.com/tw/zh/ebook/gQubhr9L-DGvA1nUGEi5bw) / 1%
