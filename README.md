@@ -17,6 +17,7 @@
 
 ## 待讀書單 ##
 
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (21) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/tdwKkmY0BjGBiqKsch0x2A) / 1%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
 1. [女性普拉模的塗裝教科書 by Hobby Japan](https://www.books.com.tw/products/0010909676) / 1%
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0079 "The one year war" history (1) by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
@@ -25,6 +26,11 @@
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0093 逆襲的夏亞 by 矢立肇, 富野由悠季](https://shopee.tw/%E5%B0%8F%E8%AA%AA-%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB-GUNDAM-%E9%80%86%E8%A5%B2%E7%9A%84%E5%A4%8F%E4%BA%9E-%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88-%E5%85%A8%E4%B8%80%E5%8D%B7-i.419320108.18810652711) / 1%
 1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
 1. [減法的力量：全美最啟迪人心的跨領域教授，帶你發現｢少，才更好｣ (Subtract: The Untapped Science of Less)](https://www.kobo.com/tw/zh/ebook/535bac1b-6450-4a0d-97e3-54e18b47329d) / 1%
+1. [哈佛商業評論最有影響力的 30 篇文章 by Harvard Business Review](https://www.kobo.com/tw/zh/ebook/tImf89Hs2jOhJPkPp2Ls4A) / 1%
+1. [卡片盒筆記：最高效思考筆記術，德國教授超強秘技，促進寫作、學習與思考，使你洞見源源不斷，成為專家 by 申克．艾倫斯](https://www.kobo.com/tw/zh/ebook/Fv9wzoJWijqUsdeEs8ZduA) / 1%
+1. [5W1H 經典思考法 by 渡邊光太郎](https://www.kobo.com/tw/zh/ebook/5w1h) / 1%
+1. [多模型思維：天才的 32 個思考策略 by Scott E. Page](https://www.kobo.com/tw/zh/ebook/EDxGsUJkrT6UaPNRUeYWSA) / 1%
+1. [正念溝通：在衝突、委屈、情緒勒索場景下說出真心話 by Oren Jay Sofer](https://www.kobo.com/tw/zh/ebook/zGIIQ_rW4jyEfddQ2Z4fXg) / 1%
 1. [一級玩家 (Ready Player One) by Ernest Cline](https://www.kobo.com/tw/zh/ebook/-qpzzGHz1DC7ps4gM0_H9g) / 1%
 1. [二級玩家 (Ready Player Two) by Ernest Cline](https://www.kobo.com/tw/zh/ebook/NGhFzxzdxTWr7i8--hBveg) / 1%
 1. [一級艦隊 (Armada)](https://www.kobo.com/tw/zh/ebook/3_OPOLO-NjCBXS-qoHdJsQ) / 1%
@@ -40,6 +46,7 @@
 1. [新機動戰記 GUNDAM W (4) by 神代創](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98-GUNDAM-W-%E5%85%A85%E5%86%8A-%E5%89%8D%E5%82%B3-%E5%85%B1%E5%85%AD%E5%86%8A%E5%90%88%E5%94%AE-%E7%A5%9E%E4%BB%A3%E5%89%B5-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.15256605821) / 1%
 1. [新機動戰記 GUNDAM W (5) by 神代創](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98-GUNDAM-W-%E5%85%A85%E5%86%8A-%E5%89%8D%E5%82%B3-%E5%85%B1%E5%85%AD%E5%86%8A%E5%90%88%E5%94%AE-%E7%A5%9E%E4%BB%A3%E5%89%B5-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.15256605821) / 1%
 1. [新機動戰記 GUNDAM W 外傳 by 神代創](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98-GUNDAM-W-%E5%85%A85%E5%86%8A-%E5%89%8D%E5%82%B3-%E5%85%B1%E5%85%AD%E5%86%8A%E5%90%88%E5%94%AE-%E7%A5%9E%E4%BB%A3%E5%89%B5-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.15256605821) / 1%
+1. [日本製造，幻想浪潮：動漫、電玩、Hello Kitty、2Channel，超越世代的精緻創新與魔幻魅力 by Matt Alt](https://www.kobo.com/tw/zh/ebook/hello-kitty-2channel) / 1%
 1. [Master Archive Mobile Suit - RX-78 Gundam (機動戰士終極檔案 RX-78 鋼彈) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100895799) / 11%
 1. [Mobile Suit Archive - Gunpla Modeling Manual (RX-78-2 鋼彈機體模型改造指南) by 草刈健一, 瀧川虛至](https://www.books.com.tw/products/0010814834) / 1%
 1. [Master Archive Mobile Suit - RX-78GP01 Zephyranthes (機動戰士終極檔案 RX-78GP01 傑菲蘭沙斯) by GA Graphic](https://www.taaze.tw/sing.html?pid=11100901153#) / 1%
@@ -64,6 +71,7 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (15) by 伏瀬](https://www.kobo.com/tw/zh/ebook/gQubhr9L-DGvA1nUGEi5bw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (16) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Ar_v4t5TvTiUVCtipNm6Aw) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (17) by 伏瀬](https://www.kobo.com/tw/zh/ebook/JvizI8ThGz6LhRiRmBSwkg) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
 1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
 1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
