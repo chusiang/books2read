@@ -893,6 +893,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (7) by 川原礫](https://www.kobo.com/tw/zh/ebook/5b8fedfa-9e70-42d1-80cf-263d90d12eaf) / 100%
 1. [ROBOT 魂〈SIDE MS〉機動戰士鋼彈 ver.A.N.I.M.E. 大全 by Hobby Japan](https://www.books.com.tw/products/0010893998) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (20) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/iRVXva1D5zqtnbdng9Uvgw) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (17) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/mjsAsB70fjidYWmh2m38vA) / 100%
 
 ### 2021 ###
 
