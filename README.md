@@ -894,6 +894,10 @@
 
 ## 已讀書單 ##
 
+### 2023 ###
+
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (22) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/OAWHqdmQojWFL7YaqPPA3Q) / 100%
+
 ### 2022 ###
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (19) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/451fc693-5c42-4fb3-9e24-ded5a8840221) / 100%
