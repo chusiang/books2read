@@ -770,7 +770,6 @@
 1. [[奇幻小說] 冰與火之歌 Ⅲ：劍刃風暴 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/QBmBWxoiFzOd94ZiQrHwUQ) / 1%
 1. [[奇幻小說] 冰與火之歌 Ⅳ：群鴉盛宴 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/sxnWc3drSj6tjIUHujqu8Q) / 1%
 1. [[奇幻小說] 冰與火之歌 Ⅴ：與龍共舞 (上中下冊套書) by George R. R. Martin](https://www.kobo.com/tw/zh/ebook/xBMBsxOqxjaO--y8N6s8tw) / 1%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 1%
 1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
 1. [[輕小說] 前進吧！！高捷少女：日常 by 啞鳴](http://www.bookwalker.com.tw/product/8953) / 1%
 1. [[輕小說] 前進吧！！高捷少女：音躍 by 陽炎](http://www.bookwalker.com.tw/product/8954) / 1%
@@ -897,6 +896,7 @@
 ### 2023 ###
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (22) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/OAWHqdmQojWFL7YaqPPA3Q) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 100%
 
 ### 2022 ###
 
