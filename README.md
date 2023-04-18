@@ -71,6 +71,7 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (15) by 伏瀬](https://www.kobo.com/tw/zh/ebook/gQubhr9L-DGvA1nUGEi5bw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (16) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Ar_v4t5TvTiUVCtipNm6Aw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (17) by 伏瀬](https://www.kobo.com/tw/zh/ebook/JvizI8ThGz6LhRiRmBSwkg) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (18) by 伏瀬](https://www.kobo.com/tw/zh/ebook/rI-58HqecjqWqhef22oXpQ) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
 1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
 1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
@@ -671,6 +672,8 @@
 1. ~~ [學習 Chef：雲時代的配置管理與自動化運維技術 by Mischa Taylor, Seth Vargo](http://www.tenlong.com.tw/items/7302433909) / 38% ~~
 1. ~~ [入門 Chef Solo - Infrastructure as Code by 伊藤直也](http://tatsu-zine.com/books/chef-solo) / 1% ~~
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成 by 劉至浩, 孫以陶](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
+1. [你的名字。 by 新海誠](https://www.kobo.com/tw/zh/ebook/F3wV__bBczm7syvMAjlDRQ) / 1%
+1. [你的名字。 Another Side: Earthbound by 加納新太](https://www.kobo.com/tw/zh/ebook/another-side-earthbound) / 1%
 1. [魔法科高中的劣等生 (01) - 入學篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//07a06c3c-fcf2-4d58-8660-bbcf299b7861) / 1%
 1. [魔法科高中的劣等生 (02) - 入學篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//196499e7-aa04-43e3-bd37-a56b622e681d) / 1%
 1. [魔法科高中的劣等生 (03) - 九校戰篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//bd946005-1f83-4a94-b2e2-870e314b3e3d) / 1%
