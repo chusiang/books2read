@@ -17,16 +17,13 @@
 
 ## 待讀書單 ##
 
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 01 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 02 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 03 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 04 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 05 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 06 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 07 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 08 by 美紅]() / 1%
-1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 09 by 美紅]() / 1%
-
+1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 03 by 美紅](https://play.google.com/store/books/details?id=CeFUEAAAQBAJ) / 1%
+1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 04 by 美紅](https://play.google.com/store/books/details?id=GcFZEAAAQBAJ) / 1%
+1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 05 by 美紅](https://play.google.com/store/books/details?id=90ZwEAAAQBAJ) / 1%
+1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 06 by 美紅](https://play.google.com/store/books/details?id=1SeJEAAAQBAJ) / 1%
+1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 07 by 美紅](https://play.google.com/store/books/details?id=OWKZEAAAQBAJ) / 1%
+1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 08 by 美紅](https://play.google.com/store/books/details?id=7MOqEAAAQBAJ) / 1%
+1. [在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 09 by 美紅](https://play.google.com/store/books/details?id=GbOzEAAAQBAJ) / 1%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
 1. [女性普拉模的塗裝教科書 by Hobby Japan](https://www.books.com.tw/products/0010909676) / 1%
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0079 "The one year war" history (1) by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
@@ -912,6 +909,8 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (22) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/OAWHqdmQojWFL7YaqPPA3Q) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (8) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-8) / 100%
+1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 01 by 美紅](https://play.google.com/store/books/details?id=I-FCEAAAQBAJ) / 100%
+1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 02 by 美紅](https://play.google.com/store/books/details?id=J-FCEAAAQBAJ) / 100%
 
 ### 2022 ###
 
