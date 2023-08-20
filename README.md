@@ -244,7 +244,6 @@
 1. [高績效心智：全新聰明工作學，讓你成為最厲害的 1% by Morten T. Hansen](https://www.kobo.com/tw/zh/ebook/7c6dd02d-b6f4-415b-a686-1ad40773ad9d) / 1%
 1. [最高學習法：激發最大學習效率的輸入大全 (The Power of Input: How to maximize Learning) by 樺澤紫苑](https://www.kobo.com/tw/en/ebook/Imm7IsplijOKhUWI2k9ajw/f6UA6BtwB0y1Nr4EjhoEjw) / 1%
 1. [最高學以致用法：讓學習發揮最大成果的輸出大全 (The power of output: How to Change Learning to Outcome) by 樺澤紫苑](https://www.kobo.com/tw/zh/ebook/aRT610crqjG_peVWQdGNEw) / 1%
-1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [混沌工程：Netflix 系統穩定性之道 by Aaron Blohowiak, Nora Jones, Ali Basiri](https://www.tenlong.com.tw/products/9787121363511) / 1%
 1. [火神的眼淚：職人影視原創劇本∕影像寫真書 by 蔡銀娟, 李志薔, 曾群芳, 公共電視, 台灣大哥大 myVideo](https://www.taaze.tw/goods/11100937338.html) / 1%
 1. [我要準時下班 by 朱野歸子](https://www.kobo.com/tw/zh/ebook/LCfCAoDlPDilvC9d_QU0gg) / 1%
@@ -572,7 +571,6 @@
 1. [社群藝術, 2/e (The Art of Community: Building the New Age of Participation, 2/e) by Jono Bacon](https://www.tenlong.com.tw/products/9789862766194) / 1%
 1. [Ubuntu 你不懂的團隊力量 by Stephen C. Lundin Bob Nelson](https://www.taaze.tw/usedList.html?oid=11100246329) / 1%
 1. [王者歸來－UNIX 王者殿堂 by 張春曉](https://www.tenlong.com.tw/products/9789865836351) / 1%
-1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/) / 1%
 1. [為你自己學 Git by 高見龍](https://www.tenlong.com.tw/products/9789864342662) / 1%
 1. [Git 團隊使用手冊 by Emma Jane Hogbin Westby](https://www.tenlong.com.tw/items/9864762451?item_id=1026243) / 1%
 1. [Docker 即學即用 by Karl Matthias, Sean Kane](https://about.ac/books/docker-up-and-running/) / 23%
@@ -1115,7 +1113,9 @@
 1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](https://www.tenlong.com.tw/products/9789862762561) / 100%
 1. [奔跑吧 Ansible](http://www.tenlong.com.tw/items/7121275074) / 105%
 1. [Keynote 大師班：簡報滿分的關鍵 8 堂課](http://www.tenlong.com.tw/items/9864340387) / 106%
-1. [鳳凰項目：一個 IT 運維的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](http://www.tenlong.com.tw/items/7115403651) / 205%
+1. [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/) / 1%
+    1. [鳳凰項目：一個 IT 運維的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](http://www.tenlong.com.tw/items/7115403651) / 205%
+    1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 117%
 1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702) / 100%
 1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
 
