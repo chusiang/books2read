@@ -76,7 +76,6 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (17) by 伏瀬](https://www.kobo.com/tw/zh/ebook/JvizI8ThGz6LhRiRmBSwkg) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (18) by 伏瀬](https://www.kobo.com/tw/zh/ebook/rI-58HqecjqWqhef22oXpQ) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
-1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 1%
 1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
 1. [侏羅紀公園 2：失落的世界 (The Lost world) by Michael Crichton](https://www.books.com.tw/products/0010769357) / 10.8%
 1. [危難求生手冊：緊急時刻，專家教你怎麼做！(The Worst-Case Scenario Survival Handbook: Expert Advice for Extreme Situations) by Joshua Piven, David Borgenicht](https://www.kobo.com/tw/zh/ebook/3kk0VdteuT6ULmoWWHyM1g) / 1%
@@ -910,6 +909,7 @@
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 08 by 美紅](https://play.google.com/store/books/details?id=7MOqEAAAQBAJ) / 100%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 09 by 美紅](https://play.google.com/store/books/details?id=GbOzEAAAQBAJ) / 100%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 10 by 美紅](https://play.google.com/store/books/details?id=BPvEEAAAQBAJ) / 100%
+1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 100%
 
 ### 2022 ###
 
