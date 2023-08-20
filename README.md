@@ -26,6 +26,8 @@
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0093 逆襲的夏亞 by 矢立肇, 富野由悠季](https://shopee.tw/%E5%B0%8F%E8%AA%AA-%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB-GUNDAM-%E9%80%86%E8%A5%B2%E7%9A%84%E5%A4%8F%E4%BA%9E-%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88-%E5%85%A8%E4%B8%80%E5%8D%B7-i.419320108.18810652711) / 1%
 1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
 1. [減法的力量：全美最啟迪人心的跨領域教授，帶你發現｢少，才更好｣ (Subtract: The Untapped Science of Less)](https://www.kobo.com/tw/zh/ebook/535bac1b-6450-4a0d-97e3-54e18b47329d) / 1%
+1. [Linux OpenLDAP 實戰指南 by 郭大勇](https://www.tenlong.com.tw/products/9789864761395) / 1%
+    1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 5%
 1. [哈佛商業評論最有影響力的 30 篇文章 by Harvard Business Review](https://www.kobo.com/tw/zh/ebook/tImf89Hs2jOhJPkPp2Ls4A) / 1%
 1. [卡片盒筆記：最高效思考筆記術，德國教授超強秘技，促進寫作、學習與思考，使你洞見源源不斷，成為專家 by 申克．艾倫斯](https://www.kobo.com/tw/zh/ebook/Fv9wzoJWijqUsdeEs8ZduA) / 1%
 1. [5W1H 經典思考法 by 渡邊光太郎](https://www.kobo.com/tw/zh/ebook/5w1h) / 1%
@@ -644,7 +646,6 @@
 1. [領域驅動設計：軟體核心複雜度的解決方法 by Eric Evans](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=7801861) / 1%
 1. [顧爸媽，這樣做最安心：15 項迷思 ╳ 18 種常見老年病 ╳ 25 則日常伴老須知，台大老年醫學權威詹鼎正親自解惑 by 詹鼎正](https://www.kobo.com/tw/zh/ebook/5AuNAebKADOYt4aJ5QjZkg) / 1%
 1. [深度匯談 by William Issacs](http://www.books.com.tw/products/0010167210) / 1%
-1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 5%
 1. [Elasticsearch 實戰與原理解析 by 牛冬](https://www.amazon.cn/dp/B087BJRKGF) / 3%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e by 鳥哥](https://share.readmoo.com/book/538753) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](https://www.tenlong.com.tw/products/9789862015506) / 1%
