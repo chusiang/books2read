@@ -340,7 +340,6 @@
 1. [你的商業知識都是錯的：不懂思考，再努力也是做白工！ by Alastair Dryburgh](https://www.taaze.tw/goods/11311376877.html) / 1%
 1. [痠痛拉筋解剖書 by Brad Walker](https://www.books.com.tw/products/0010512420) / 1%
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
-1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /1%
 1. [DevOps 最佳實踐 by Bart de Best](https://www.amazon.cn/gp/product/B07KBZS1YN/) / 1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
 1. [不懂這些，別想加薪 by 劉恭甫](https://www.kobo.com/tw/en/ebook/3666e01a-53d9-419c-9ab6-7efbe7b054cc) / 1%
@@ -554,7 +553,6 @@
 1. [Ansible for Kubernetes by Jeff Geerling](https://www.ansibleforkubernetes.com/) / 1%
 1. [Ansible 權威指南 by 李松濤，魏巍，甘捷](https://www.tenlong.com.tw/items/7111553292?item_id=1025511) / 18%
 1. [Ansible: Up and Running, 2/e by Lorin Hochstein, Rene Moser](https://play.google.com/store/books/details/Lorin_Hochstein_Ansible_Up_and_Running?id=TZMtDwAAQBAJ) / 1%
-1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
 1. [Prometheus 學習手冊 by Brian Brazil](https://www.tenlong.com.tw/products/9787519843182) / 1%
 1. [Prometheus 監控實戰 by James Turnbull](https://www.amazon.cn/gp/product/B07WC8JCNY/) / 1%
 1. [動機，單純的力量：把工作做得像投入嗜好一樣有最單純的動機，才有最棒的表現 (https://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B0033TI4BW) by Daniel H. Pink](https://www.taaze.tw/goods/11311204620.html) / 1%
@@ -953,7 +951,9 @@
 
 ### 2020 ###
 
-1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 100%
+1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
+    1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 100%
+    1. [DevOps Handbook 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Patrick Debois , John Willis , Jez Humble](https://www.taaze.tw/goods/11100874355.html) /10%
 1. [[輕小說] Sword Art Online 刀劍神域 (2)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_2?id=zWorDwAAQBAJ) / 200%
 1. [峰與谷：超越逆境、享受順境的人生禮物 by Spencer Johnson, M.D.](https://www.taaze.tw/goods/11309332213.html) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 (3)：妖精之舞 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_3?id=22orDwAAQBAJ) / 200%
