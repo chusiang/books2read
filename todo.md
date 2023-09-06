@@ -6,6 +6,7 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 08 by 佐伯さん](https://www.taaze.tw/products/11101014760.html) / 1%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
 1. [SRE 實踐與開發平台指南：從團隊協作、原則、架構和趨勢掌握全局，做出精準決策 by 黃冠元 (Rick Hwang)](https://www.tenlong.com.tw/products/9786263334908) / 2%
 1. [DevOps Handbook, 2/e 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren](https://www.tenlong.com.tw/products/9786263245440?list_name=srh) /1%
