@@ -8,9 +8,9 @@
 
 ### 2023 ###
 
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (23) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/WsiAJqBb6Ti1g0nWHar2YA) / 100%
-1. [[輕小說] 爆肝工程師的異世界狂想曲 (22) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/OAWHqdmQojWFL7YaqPPA3Q) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (22) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/OAWHqdmQojWFL7YaqPPA3Q) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (23) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/WsiAJqBb6Ti1g0nWHar2YA) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (8) by 川原礫](https://www.kobo.com/tw/zh/ebook/sword-art-online-progressive-8) / 100%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 01 by 美紅](https://play.google.com/store/books/details?id=I-FCEAAAQBAJ) / 100%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 02 by 美紅](https://play.google.com/store/books/details?id=J-FCEAAAQBAJ) / 100%
@@ -23,8 +23,8 @@
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 09 by 美紅](https://play.google.com/store/books/details?id=GbOzEAAAQBAJ) / 100%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 10 by 美紅](https://play.google.com/store/books/details?id=BPvEEAAAQBAJ) / 100%
 1. [鋼彈模型大全型錄 2016 by HOBBY JAPAN 編輯部](https://www.taaze.tw/goods/11100783883.html#) / 100%
-1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 01 by 佐伯さん](https://play.google.com/store/books/details?id=8-YjEAAAQBAJ) / 110%
-1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 02 by 佐伯さん](https://play.google.com/store/books/details?id=_pVGEAAAQBAJ) / 100%
+1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 01 by 佐伯さん](https://play.google.com/store/books/details?id=8-YjEAAAQBAJ) / 200%
+1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 02 by 佐伯さん](https://play.google.com/store/books/details?id=_pVGEAAAQBAJ) / 200%
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 03 by 佐伯さん](https://play.google.com/store/books/details?id=C-FUEAAAQBAJ) / 100%
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 04 by 佐伯さん](https://play.google.com/store/books/details?id=IYFbEAAAQBAJ) / 100%
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 05 by 佐伯さん](https://play.google.com/store/books/details?id=ezpyEAAAQBAJ) / 100%
