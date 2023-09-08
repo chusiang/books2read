@@ -31,6 +31,7 @@
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 05.5 by 佐伯さん](https://play.google.com/store/books/details?id=gIWeEAAAQBAJ) / 100%
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 06 by 佐伯さん](https://play.google.com/store/books/details?id=ViClEAAAQBAJ) / 100%
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 07 by 佐伯さん](https://play.google.com/store/books/details?id=Tt68EAAAQBAJ) / 100%
+1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 08 by 佐伯さん](https://www.taaze.tw/products/11101014760.html) / 100%
 
 ### 2022 ###
 
