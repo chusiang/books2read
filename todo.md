@@ -297,6 +297,7 @@
 1. [U 型理論精要：從「我」到「我們」的系統思考，個人修練、組織轉型的學習之旅 by C. Otto Scharmer](https://www.kobo.com/tw/zh/ebook/318fe778-0d95-4fe0-b024-987afd53620d) / 1%
 1. [智取：TOC 系統思考 3 法寶 by 中華高德拉特協會](https://www.kobo.com/tw/zh/ebook/thinking-smart-you-are-how-you-think-applying-theory-of-constraints-in-developing-thinking-skills) / 1%
 1. [問題可以一次解決：跟著管理大師高德特拉的限制理論，學會解決所有工作難題的思考 by 岸良裕司](http://www.books.com.tw/products/0010728251) / 2%
+1. [問題應該這樣解決！正確提問 x 系統思考，行動學習教你找出對的答案 by Michael J. Marquardt](https://www.taaze.tw/products/11315115768.html) / 1%
 1. [目标 by Eliyahu Goldratt, Jeff Cox](https://www.tenlong.com.tw/products/9787121161483) / 1%
 1. [目标 Ⅱ：绝不是靠运气 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161476) / 1%
 1. [关键链 by Eliyahu Goldratt](https://www.tenlong.com.tw/products/9787121161469) / 1%
