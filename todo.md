@@ -33,6 +33,8 @@
 1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
 1. [突破困境！企業開源虛擬化管理平台：使用 Proxmox Virtual Environment by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864349616)
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
+1. [軟體架構師全方位提升指南：數位轉型企業中架構師角色的新定義 (The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise) by Gregor Hohpe](https://www.tenlong.com.tw/products/9786263241800) / 1%
+1. [Google 的軟體工程之道：程式設計經驗中吸取教訓 (Software Engineering at Google: Lessons Learned from Programming Over Time) by Titus Winters, Tom Manshreck, Hyrum Wright](https://www.tenlong.com.tw/products/9786263242630?list_name=srh) / 1%
 1. [鯨游藍海：鈦坦科技的敏捷之路 by 新加坡商鈦坦科技](https://www.taaze.tw/products/11100967370.html) / 1%
 1. [新機動戰記 GUNDAM W (1) by 神代創](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98-GUNDAM-W-%E5%85%A85%E5%86%8A-%E5%89%8D%E5%82%B3-%E5%85%B1%E5%85%AD%E5%86%8A%E5%90%88%E5%94%AE-%E7%A5%9E%E4%BB%A3%E5%89%B5-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.15256605821) / 1%
 1. [新機動戰記 GUNDAM W (2) by 神代創](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%96%B0%E6%A9%9F%E5%8B%95%E6%88%B0%E8%A8%98-GUNDAM-W-%E5%85%A85%E5%86%8A-%E5%89%8D%E5%82%B3-%E5%85%B1%E5%85%AD%E5%86%8A%E5%90%88%E5%94%AE-%E7%A5%9E%E4%BB%A3%E5%89%B5-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.15256605821) / 1%
