@@ -6,6 +6,7 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+1. [大人的筆世界：鉛筆、原子筆、鋼筆、沾水筆、工程筆、麥克筆、特殊筆，愛筆狂的蒐集帖 by 朴相權](http://redbook.com.tw/index.php?p=11&id=487) / 63%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (25) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/EaDlSeSmfTOZ52hzlMYfaQ) / 1%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 11 by 美紅](https://www.taaze.tw/products/11101008051.html) / 1%
