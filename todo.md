@@ -220,6 +220,7 @@
 1. [雲圖 (3/e)](https://www.kobo.com/tw/zh/ebook/O97VjXDMxDKw8dp5WW4IZQ) / 1%
 1. [發佈：軟體的設計與部署 by Michael T. Nygard](https://www.amazon.cn/gp/product/B0153178XM) / 1%
 1. [Agile 學習手冊：Scrum、XP、精實和看板方法 (Learning Agile: Understanding Scrum, XP, Lean, and Kanban) by Andrew Stellman, Jennifer Greene](https://www.tenlong.com.tw/products/9789863476733) / 3%
+1. [Google 創投認證！SPRINT 衝刺計畫：Google 最實用工作法，5 天 5 步驟迅速解決難題、測試新點子、完成更多工作！ (Sprint: How to Solve Big Problems and Test New Ideas in Just 5 Days) by Jake Knapp, John Zeratsky, Braden Kowitz](https://www.books.com.tw/products/0010722447) / 1%
 1. [Specification by Example：團隊如何交付正確的軟體 by Gojko Adzic](https://www.books.com.tw/products/0010644283) / 1%
 1. [Google 地圖革命：從 Google 地圖、地球、街景到「精靈寶可夢 GO」的科技傳奇內幕 by Bill Kilday](https://www.kobo.com/tw/zh/ebook/google-google-go) / 1%
 1. [人生勝利聖經：向 100 位世界強者學習健康、財富和人生智慧 by Timothy Ferriss](https://www.kobo.com/tw/zh/ebook/AxSGcvlwQDK0EL5t3f1Acg) / 1%
