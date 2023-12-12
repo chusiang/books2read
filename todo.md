@@ -6,6 +6,7 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (25) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/EaDlSeSmfTOZ52hzlMYfaQ) / 1%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 11 by 美紅](https://www.taaze.tw/products/11101008051.html) / 1%
