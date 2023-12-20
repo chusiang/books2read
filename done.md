@@ -33,6 +33,7 @@
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 07 by 佐伯さん](https://play.google.com/store/books/details?id=Tt68EAAAQBAJ) / 100%
 1. [[輕小說] 關於我在無意間被隔壁的天使變成廢柴這件事 08 by 佐伯さん](https://www.taaze.tw/products/11101014760.html) / 100%
 1. [大人的筆世界：鉛筆、原子筆、鋼筆、沾水筆、工程筆、麥克筆、特殊筆，愛筆狂的蒐集帖 by 朴相權](http://redbook.com.tw/index.php?p=11&id=487) / 100%
+1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 11 by 美紅](https://www.taaze.tw/products/11101008051.html) / 100%
 
 ### 2022 ###
 

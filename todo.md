@@ -9,7 +9,6 @@
 1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 1%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (25) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/EaDlSeSmfTOZ52hzlMYfaQ) / 1%
-1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 11 by 美紅](https://www.taaze.tw/products/11101008051.html) / 1%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
 1. [SRE 實踐與開發平台指南：從團隊協作、原則、架構和趨勢掌握全局，做出精準決策 by 黃冠元 (Rick Hwang)](https://www.tenlong.com.tw/products/9786263334908) / 2%
 1. [DevOps Handbook, 2/e 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren](https://www.tenlong.com.tw/products/9786263245440?list_name=srh) /1%
