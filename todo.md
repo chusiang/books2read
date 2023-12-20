@@ -651,6 +651,7 @@
 1. [Elasticsearch 實戰與原理解析 by 牛冬](https://www.amazon.cn/dp/B087BJRKGF) / 3%
 1. [鳥哥的 Linux 私房菜伺服器架設篇, 2/e by 鳥哥](https://share.readmoo.com/book/538753) / ?%
 1. [24 小時不打烊的雲端服務：專家教你用 CentOS 架設萬年不掛的伺服器 by 王偉任 (Weithenn)](https://www.tenlong.com.tw/products/9789862015506) / 1%
+1. [行動的力量 21，心想事成的密碼 (暢銷慶功版) by 謝文憲 (憲哥)](https://www.kobo.com/tw/zh/ebook/w8vAucmGtTOJpwgZtBcAHQ) / 0%
 1. [成長駭客行銷：引爆集客瘋潮的新實戰力 (Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising) by Ryan Holiday](https://www.tenlong.com.tw/products/9789863981503) / 1%
 1. [給網管人的 Postfix 建置與維護指南 by 臥龍小三](https://www.tenlong.com.tw/products/9789866348365) / 1%
 1. [OpenShift 助力 DevOps : 雲部署更簡單 (DevOps with OpenShift: Cloud Deployments Made Easy) by Stefano Picozzi, Mike Hepburn, Noel O'Connor](https://www.tenlong.com.tw/products/9787121361708) / 1%
