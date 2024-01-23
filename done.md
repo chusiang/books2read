@@ -6,6 +6,10 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+### 2024 ###
+
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 100%
+
 ### 2023 ###
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 100%
