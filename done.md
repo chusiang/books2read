@@ -10,6 +10,7 @@
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (25) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/EaDlSeSmfTOZ52hzlMYfaQ) / 100%
+1. [[輕小說] 爆肝工程師的異世界狂想曲 (26) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/6kOdpB12czGniMREW5wIjw) / 100%
 
 ### 2023 ###
 
