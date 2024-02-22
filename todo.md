@@ -6,6 +6,7 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 80%
 1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
 1. [SRE 實踐與開發平台指南：從團隊協作、原則、架構和趨勢掌握全局，做出精準決策 by 黃冠元 (Rick Hwang)](https://www.tenlong.com.tw/products/9786263334908) / 2%
@@ -110,7 +111,6 @@
 1. [幸福照相館：教你用手機也能拍出日系唯美的夢幻人像 by 千紅](http://www.eslite.com/product.aspx?pgid=1001125622659820) / 6%
 1. [Harbor 權威指南：容器鏡像、Helm Chart 等雲原生製品的管理與實踐 by 張海寧](https://www.tenlong.com.tw/products/9787121396854) / 3.4%
 1. [突破困境：資安開源工具應用 by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864345465) / 4.1%
-1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 3%
 1. [矽谷工程師教你 Kubernetes：史上最全 CI/CD 中文應用指南 by 邱宏瑋](https://www.tenlong.com.tw/products/9789864347551) / 1%
 1. [改變歷史的加密訊息 by 彭偉皓](https://www.tenlong.com.tw/products/9789864347469) / 1%
 1. [ThinkPad 使用大全：商用筆電王者完全解析 by Galaxy Lee](http://www.tpuser.idv.tw/wp/?p=3681) / 27.7%
