@@ -6,6 +6,9 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (1) by 昼熊](https://www.kobo.com/tw/zh/ebook/bqeCLVsQNjOzXGMQ2g0ZHw) /1%
+1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (2) by 昼熊](https://www.kobo.com/tw/zh/ebook/WkWhFCQKQzGn_olqGis6Mg) /1%
+1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (3) by 昼熊](https://www.kobo.com/tw/zh/ebook/CZsKvzppTjaEn2FxK4ZkuQ) /1%
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 80%
 1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
