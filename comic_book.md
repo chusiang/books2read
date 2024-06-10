@@ -6,7 +6,6 @@
 
 1. [待讀書單](#待讀書單)
 1. [已讀書單](#已讀書單)
-1. [他人的讀書清單](#他人的讀書清單)
 
 ----
 
@@ -388,7 +387,7 @@
 1. [爆肝工程師的異世界狂想曲 (1) by あやめぐむ、愛七ひろ](http://www.bookwalker.com.tw/product/11135) / 100%
 1. [爆肝工程師的異世界狂想曲 (2) by あやめぐむ、愛七ひろ](http://www.bookwalker.com.tw/product/12148) / 100%
 1. [爆肝工程師的異世界狂想曲 (3) by あやめぐむ、愛七ひろ](http://www.bookwalker.com.tw/product/14871) / 100%
-1. [[[爆肝工程師的異世界狂想曲]] (4) by あやめぐむ、愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 100%
+1. [[爆肝工程師的異世界狂想曲 (4) by あやめぐむ、愛七ひろ](http://www.bookwalker.com.tw/product/19195) / 100%
 1. [關於我轉生變成史萊姆這檔事 (1) by 伏瀬](https://www.books.com.tw/products/0010720429) / 100%
 1. [關於我轉生變成史萊姆這檔事 (2) by 伏瀬](https://www.books.com.tw/products/0010734995) / 100%
 1. [關於我轉生變成史萊姆這檔事 (3) by 伏瀬](https://www.books.com.tw/products/0010747640) / 100%
