@@ -6,14 +6,14 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-### 2024 ###
+## 2024 ##
 
 1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (1) by 昼熊](https://www.kobo.com/tw/zh/ebook/bqeCLVsQNjOzXGMQ2g0ZHw) /100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (25) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/EaDlSeSmfTOZ52hzlMYfaQ) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (26) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/6kOdpB12czGniMREW5wIjw) / 100%
 
-### 2023 ###
+## 2023 ##
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (Ex) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/ex-25) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (22) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/OAWHqdmQojWFL7YaqPPA3Q) / 100%
@@ -42,7 +42,7 @@
 1. [大人的筆世界：鉛筆、原子筆、鋼筆、沾水筆、工程筆、麥克筆、特殊筆，愛筆狂的蒐集帖 by 朴相權](http://redbook.com.tw/index.php?p=11&id=487) / 100%
 1. [[輕小說] 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～ 11 by 美紅](https://www.taaze.tw/products/11101008051.html) / 100%
 
-### 2022 ###
+## 2022 ##
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (19) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/451fc693-5c42-4fb3-9e24-ded5a8840221) / 100%
 1. [[輕小說] Sword Art Online 刀劍神域 Progressive (7) by 川原礫](https://www.kobo.com/tw/zh/ebook/5b8fedfa-9e70-42d1-80cf-263d90d12eaf) / 100%
@@ -51,7 +51,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (17) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/mjsAsB70fjidYWmh2m38vA) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (21) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/tdwKkmY0BjGBiqKsch0x2A) / 100%
 
-### 2021 ###
+## 2021 ##
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (16) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/bwhuJf5TijWKqRR3SLdPhg) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 - 眷族編年史 (1)：琉 by 大森 藤ノ](https://www.kobo.com/tw/en/ebook/episode-17) / 100%
@@ -81,7 +81,7 @@
 1. [Kunio Okawara Art Works Mobile Suit Gundam MSV Standard (大河原邦男畫集：機動戰士鋼彈 MSV 設定集) 大河原邦男](https://www.taaze.tw/sing.html?pid=11100867274) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (18) by 愛七ひろ](https://www.kobo.com/tw/zh/ebook/24e360e1-2920-4b11-bdf5-14da9da65185) / 100%
 
-### 2020 ###
+## 2020 ##
 
 1. [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, John Willis](https://play.google.com/store/books/details?id=ui8hDgAAQBAJ) / 1%
     1. [DevOps 实践指南 by Gene Kim, Patrick Debois, John Willis, Jez Humble](https://www.tenlong.com.tw/products/9787115480170) / 100%
@@ -137,7 +137,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (15) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/da5e3ec2-d2e0-4014-88e8-e75896415b0d) / 100%
 1. [The Great ScrumMaster 中文版: #ScrumMasterWay by Zuzana Šochová](https://www.tenlong.com.tw/products/9789864343263) / 110%
 
-### 2019 ###
+## 2019 ##
 
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (13) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/ea2YxeKeczKxNJPMMC4lUQ) / 100%
 1. [鳳凰專案：看 IT 部門如何讓公司從谷底翻身的傳奇故事 by Gene Kim, Kevin Behr, George Spafford](https://www.tenlong.com.tw/products/9789864765867) / 100%
@@ -186,7 +186,7 @@
 1. [[輕小說] Sword Art Online 刀劍神域 (1)：艾恩葛朗特 by 川原礫](https://play.google.com/store/books/details/%E5%B7%9D%E5%8E%9F%E7%A4%AB_Sword_Art_Online_%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_1?id=y2orDwAAQBAJ) / 200%
 1. [系統動力學：理論與應用 by 屠益民、張良政](https://www.books.com.tw/products/0010467669) / 20%
 
-### 2018 ###
+## 2018 ##
 
 1. [番茄工作法图解 by Staffan Noteberg](http://www.books.com.tw/products/CN10735313) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (12) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/zOOuIbjWpTmOwgumHmxf9w) / 100%
@@ -210,7 +210,7 @@
 1. [系統思考 Systems One by Draper L. Kauffman. Jr.](https://www.taaze.tw/sing.html?pid=11307034596) / 100%
 1. [一隻企鵝教我的事 by Tom Michell](http://www.kingstone.com.tw/book/book_page.asp?kmcode=2018560215688) / 100%
 
-### 2017 ###
+## 2017 ##
 
 1. [DevOps 實戰：VMware 管理員運維方法、工具及最佳實踐](http://www.tenlong.com.tw/items/7111524780) / 100%
 1. [目標：簡單有效的常識管理 (The Goal : A Process of Ongoing Improvement)](https://www.tenlong.com.tw/products/9780002161312) / 100%
@@ -239,7 +239,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (10) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/v4eovSi04D2RsvOYJY4cPA) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (11) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/t-lDo8ThjTiphXbXeo3u5Q) / 100%
 
-### 2016 ###
+## 2016 ##
 
 1. [醫生哪有這麼萌：Nikumon 的實習生活全紀錄](https://www.books.com.tw/products/0010672605) / 100%
 1. [學徒模式－優秀軟體開發者的養成之路 (Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman)](https://www.tenlong.com.tw/products/9789862762561) / 100%
@@ -251,13 +251,13 @@
 1. [玩 Mac、話 Apple：IT人的 MacTalk](http://www.tenlong.com.tw/items/9862100702) / 100%
 1. [王者歸來-進擊的伺服器 - 用 Nginx 取代 Apache 建立全語言種類的雲端網站](https://www.tenlong.com.tw/products/9789865764319) / 100%
 
-### 2015 ###
+## 2015 ##
 
 1. [完全用 GNU/Linux 工作](https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details) / 100%
 1. [AWS 雲端企業實戰聖經](https://play.google.com/store/books/details/%E6%9E%97%E5%85%81%E6%BA%A5_AWS%E9%9B%B2%E7%AB%AF%E4%BC%81%E6%A5%AD%E5%AF%A6%E6%88%B0%E8%81%96%E7%B6%93?id=IpirAAAAQBAJ) / 100%
 1. [Docker 入門與實戰](http://www.tenlong.com.tw/items/9863476587) / 100%
 
-### 2014 & Before ###
+## 2014 & Before ##
 
 1. [LPI Linux 第一級資格檢定 (第二版)](http://www.oreilly.com.tw/product_linux.php?id=a175) / 100%
 1. [隨意搜尋 (Ambient Findability)](http://www.tenlong.com.tw/items/9867794974) / 100%
