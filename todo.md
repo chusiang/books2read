@@ -6,7 +6,6 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (1) by 昼熊](https://www.kobo.com/tw/zh/ebook/bqeCLVsQNjOzXGMQ2g0ZHw) /1%
 1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (2) by 昼熊](https://www.kobo.com/tw/zh/ebook/WkWhFCQKQzGn_olqGis6Mg) /1%
 1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (3) by 昼熊](https://www.kobo.com/tw/zh/ebook/CZsKvzppTjaEn2FxK4ZkuQ) /1%
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 80%
