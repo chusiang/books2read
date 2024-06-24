@@ -8,6 +8,7 @@
 
 ## 2024 ##
 
+1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (3) by 昼熊](https://www.kobo.com/tw/zh/ebook/CZsKvzppTjaEn2FxK4ZkuQ) / 100%
 1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (2) by 昼熊](https://www.kobo.com/tw/zh/ebook/WkWhFCQKQzGn_olqGis6Mg) / 100%
 1. [[輕小說] 轉生成自動販賣機的我今天也在迷宮徘徊 (1) by 昼熊](https://www.kobo.com/tw/zh/ebook/bqeCLVsQNjOzXGMQ2g0ZHw) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 100%
