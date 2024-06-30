@@ -1,4 +1,4 @@
-# 待讀書單 #
+# 待讀書單
 
 > 1. [README](README.md)
 > 1. [待讀書單](todo.md)
@@ -353,6 +353,7 @@
 1. [痠痛拉筋解剖書 2：運動傷害復健書 by Brad Walker](https://www.kobo.com/tw/zh/ebook/4190303a-fb99-4b4e-ac74-f4b84e26700f) / 1%
 1. [DevOps 最佳實踐 by Bart de Best](https://www.amazon.cn/gp/product/B07KBZS1YN/) / 1%
 1. [持续交付 2.0：业务引领的 DevOps 精要 (Continuous Delivery 2.0: Business-leading DevOps Essentiols) by 喬梁](https://www.tenlong.com.tw/products/9787115500014) / 4%
+1. [CI/CD 安全防護大揭密：DevSecOps 最佳實踐指南 by 高于凱](https://www.tenlong.com.tw/products/9786263337718) / 10%
 1. [不懂這些，別想加薪 by 劉恭甫](https://www.kobo.com/tw/en/ebook/3666e01a-53d9-419c-9ab6-7efbe7b054cc) / 1%
 1. [Amazon 的人為什麼這麼厲害？：日本亞馬遜創始成員告訴你，他在貝佐斯身旁學到的高成長工作法。by 佐藤將之](https://www.taaze.tw/goods/11100867192.html) / 1%
 1. [破解問題的技術：日本思考研究所耗時２０年鉅著，99% 問題都可快速解決的四種思考秘技 by 今井繁之](https://www.taaze.tw/goods/11307898127.html) / 1%
@@ -391,7 +392,7 @@
 1. [為什麼我們這樣生活，那樣工作？by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/1a02fff2-81e3-4032-bf83-57849dcca8b0) / 1%
 1. [為什麼這樣工作會快、準、好 by Charles Duhigg](https://www.kobo.com/tw/zh/ebook/dd9c0ac2-e8ad-4062-8f85-19c0cc015996) / 1%
 1. [史丹佛大學心理學講義，人生順利的簡單法則 by Kelly McGonigal](https://www.kobo.com/tw/zh/ebook/c43c2bbe-94f7-49f1-ada3-07587dbf7240) / 1%
-1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7)  / 1%
+1. [做自己的生命設計師：史丹佛最夯的生涯規畫課，用「設計思考」重擬問題，打造全新生命藍圖 by Bill Burnett, Dave Evans](https://www.kobo.com/tw/zh/book/e44cafcc-8e89-42e8-8968-620ff85f5de7) / 1%
 1. [真確：扭轉十大直覺偏誤，發現事情比你想的美好 by Hans Rosling, Ola Rosling, Anna Rosling Rönnlund](https://www.kobo.com/tw/zh/ebook/tG1aCXbY1zG4OkF74QbGYQ) / 1%
 1. [精確的力量：從工業革命到奈米科技，追求完美的人類改變了世界 (The Perfectionists: How Precision Engineers Created the Modern World) by Simon Winchester](https://www.kobo.com/tw/zh/ebook/4Egn0RIy7jaRYZFsGM6iEg) / 1%
 1. [讓你荷包失血的思考謬誤 (Denkfehler, Die Uns Geld Kosten) by Patrick Bernau, Winand von Petersdorff](https://www.taaze.tw/goods/11311351688.html) / 1%
@@ -483,7 +484,7 @@
 1. [Google 模式：智慧創做者世代來臨，挑戰瘋狂變化世界的經營思維與工作邏輯 by Eric Schmidt](https://www.kobo.com/tw/en/ebook/google-14/78ya7rYYEEq7qJgPLC7nMA) / 1%
 1. [Google 必修的圖表簡報術：Google 總監首度公開絕活，教你做對圖表、說對話，所有人都聽你的！ by Cole Nussbaumer Knaflic](http://www.books.com.tw/products/0010710103) / 1%
 1. [打造圖像腦：學會擊敗 90% 職場競爭者的視覺思考工作術 by Dan Roam](https://www.kobo.com/tw/zh/ebook/64a0876d-972a-400e-a12d-5f0415fdb66a) / 1%
-1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by  謝文憲](http://www.books.com.tw/products/0010752512) / 1%
+1. [人生準備 40% 就衝了！：超乎常人的目標執行力 by 謝文憲](http://www.books.com.tw/products/0010752512) / 1%
 1. [危機就是轉機：化危機為轉機的 55 條應變策略 by 盧文平](https://www.kobo.com/tw/zh/ebook/icz-ZFJL-jGzLQJ0w1DZRg/xshDbzQOuESDcHDU4mv0Cw) / 1%
 1. [但願你因工作而閃亮：「獵頭的日常」給你的求職真心提醒，盤點自身技能，放大個人優勢，擁抱那些令你不安的變化！ by 林沂萱](https://play.google.com/store/books/details?id=LWdNDwAAQBAJ) / 1%
 1. [全球頂尖領袖親授的 17 堂課：站在 17 位巨人肩上看見世界轉動趨勢 by 朱楚文](https://play.google.com/store/books/details?id=_JhXDwAAQBAJ) / 1%
