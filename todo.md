@@ -686,8 +686,9 @@
 1. [我獨自升級 (02) by Chugong](https://www.kobo.com/tw/zh/ebook/gtvEObgGyDmc94vfHVYFhw) / 1%
 1. [我獨自升級 (03) by Chugong](https://www.kobo.com/tw/zh/ebook/q3X9NiAwMTq9OUCEqUFk1Q) / 1%
 1. [我獨自升級 (04) by Chugong](https://www.kobo.com/tw/zh/ebook/M-7xWkYCXDCvrXQGd97M6w) / 1%
-1. [我獨自升級 (05) by Chugong](https://www.kobo.com/tw/zh/ebook/caDpQKmRVTGJ3x7YqsW5Lg) / 0%
-1. [我獨自升級 (06) by Chugong](https://www.kobo.com/tw/zh/ebook/95Oz44C8cjCPfQQW0Mhq0A) / 0%
+1. [我獨自升級 (05) by Chugong](https://www.kobo.com/tw/zh/ebook/caDpQKmRVTGJ3x7YqsW5Lg) / 1%
+1. [我獨自升級 (06) by Chugong](https://www.kobo.com/tw/zh/ebook/95Oz44C8cjCPfQQW0Mhq0A) / 1%
+1. [我獨自升級 (07) by Chugong](https://www.kobo.com/tw/zh/ebook/43zoqVHrHzmq5U-BeNseDg) / 1%
 1. [你的名字。 by 新海誠](https://www.kobo.com/tw/zh/ebook/F3wV__bBczm7syvMAjlDRQ) / 1%
 1. [你的名字。 Another Side: Earthbound by 加納新太](https://www.kobo.com/tw/zh/ebook/another-side-earthbound) / 1%
 1. [魔法科高中的劣等生 (01) - 入學篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//07a06c3c-fcf2-4d58-8660-bbcf299b7861) / 1%
