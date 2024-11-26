@@ -622,6 +622,7 @@
 1. [雲端資安與隱私－企業風險應對之道 (Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance) by Tim Mather, Shahed Latif, Subra Kumaraswam](https://www.tenlong.com.tw/products/9789862764763) / 1%
 1. [安全之美－深入探索卓越安全專家的思維 (Beautiful Security: Leading Security Experts Explain How They Think) by Andy Oram, John Viega](https://www.tenlong.com.tw/products/9789862764213) / 1%
 1. [測試之美－領略頂尖專家改善軟體的測試法則 (Beautiful Testing: Leading Professionals Reveal How They Improve Software) by Tim Riley, Adam Goucher](https://www.tenlong.com.tw/products/9789862763445) / 1%
+1. [開放空間科技：引導者手冊 (Open Space Technolog: A User's Guide, 2nd Ed.) by Harrison Owen](https://www.taaze.tw/products/11311966366.html) / 1%
 1. [Infrastructure as Code: Managing Servers in the Cloud by Kief Morris](https://www.tenlong.com.tw/products/9781491924358) / 1%
 1. [DevOps in Practice by Danilo Sato](https://pragprog.com/book/d-devops/devops-in-practice) / 2%
 1. [The Art of Business Value by Mark Schwartz](https://play.google.com/store/books/details/Mark_Schwartz_The_Art_of_Business_Value?id=gykhDgAAQBAJ) / 1%
