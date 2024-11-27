@@ -93,6 +93,7 @@
 1. [美國海豹特種部隊教你災難求生密技 100 招【18 禁】：如何在遇難時刻化險為夷、順利逃脫、保全性命 by Clint Emerson](https://www.kobo.com/tw/en/ebook/nLeig0Mv3jaGmLwi8QATvQ) / 1%
 1. [日本刀：全面剖析日本刀的鍛造與鑑賞藝術 by Yoshindo Yoshihara, Leon Kapp, Hiroko Kapp](https://www.eslite.com/product/1001261432681950260003) / 1%
 1. [武士道：讓日本人成為今日的日本人的思想集 (Bushido：The Soul of Japan) by 新渡戶稻造](https://www.kobo.com/tw/zh/ebook/Mk0d0fDUTT27XreAKJzAWQ) / 1%
+    1. [~~武士道 by 新渡戶稻造~~](https://www.kobo.com/tw/zh/ebook/QwuhSPmmRjGD6JF4nBD5CQ) / 1%
 1. [節稅的布局 (2021～2022 年版)：搞懂所得稅、遺產稅、贈與稅與房地合一稅，你可以合法的少繳稅，甚至一輩子不繳稅。 by 胡碩勻](https://www.kobo.com/tw/en/ebook/c4-_tntTfTSDl-ktFq0KAQ) / 1%
 1. [[輕小說] 鬼滅之刃：幸福之花 (全) by 吾峠呼世晴, 矢島綾](https://www.kobo.com/tw/zh/ebook/bb4c7465-1229-4705-892d-13ae9628fedb) / 1% ---- 2019.12.16
 1. [[輕小說] 鬼滅之刃：單翅之蝶 (全) by 吾峠呼世晴, 矢島綾](https://www.kobo.com/tw/zh/ebook/219030c1-d284-450d-9018-0cfb24354ce9) / 1% ---- 2020.01.31
@@ -377,7 +378,6 @@
 1. [誰說人是理性的！：消費高手與行銷達人都要懂的行為經濟學 (Predictably Irrational: The Hidden Forces That Shape Our Decisions)](https://www.kobo.com/tw/zh/ebook/dpIaNUTJHDuFZDWyDrDOaw) / 1%
 1. [快思慢想 - Thinking, Fast and Slow by Daniel Kahneman](https://www.kobo.com/tw/zh/ebook/0699a594-6684-4500-8648-92794a33477c) / 1%
 1. [窮查理的普通常識：巴菲特 50 年智慧合夥人 查理．蒙格的人生哲學 by 查理‧蒙格](https://www.books.com.tw/products/0010643983) / 1%
-1. [武士道 by 新渡戶稻造](https://www.kobo.com/tw/zh/ebook/QwuhSPmmRjGD6JF4nBD5CQ) / 1%
 1. [廁所裡的哲學課：每天 14 分鐘，跟著蘇格拉底、笛卡兒、尼采等 13 位世界哲人，秒懂 100 個最經典的哲學思維 by Adam Fletcher, Lukas N.P. Egger, Konrad Clever](https://www.kobo.com/tw/zh/ebook/nji1EmSQ2jiaBeHsRB9c9w) / 1%
 1. [江湖在走，法律要懂：法律白話文小學堂 by 法律白話文運動](https://www.kobo.com/tw/zh/ebook/0be5d1cb-b3d7-4a97-89e0-6481432a7209) / 1%
 1. [有錢人才知道的「精準閒聊」by 田口智隆](https://www.kobo.com/tw/zh/ebook/dba1a351-9d21-4c71-8193-886f5f75466a) / 1%
