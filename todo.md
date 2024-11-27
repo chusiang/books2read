@@ -92,6 +92,7 @@
 1. [美軍野外生存手冊：集結美軍百年經驗，最權威的美軍特種部隊絕境求生祕技 (The U.S. Army Survival Manual: Department of the Army Field Manual21-76) by 美國國防部 (United States Department of Defense)](https://www.kobo.com/tw/zh/ebook/3yI7tybbeTe3dhjf4uGRXg) / 1%
 1. [美國海豹特種部隊教你災難求生密技 100 招【18 禁】：如何在遇難時刻化險為夷、順利逃脫、保全性命 by Clint Emerson](https://www.kobo.com/tw/en/ebook/nLeig0Mv3jaGmLwi8QATvQ) / 1%
 1. [日本刀：全面剖析日本刀的鍛造與鑑賞藝術 by Yoshindo Yoshihara, Leon Kapp, Hiroko Kapp](https://www.eslite.com/product/1001261432681950260003) / 1%
+1. [武士道：讓日本人成為今日的日本人的思想集 (Bushido：The Soul of Japan) by 新渡戶稻造](https://www.kobo.com/tw/zh/ebook/Mk0d0fDUTT27XreAKJzAWQ) / 1%
 1. [節稅的布局 (2021～2022 年版)：搞懂所得稅、遺產稅、贈與稅與房地合一稅，你可以合法的少繳稅，甚至一輩子不繳稅。 by 胡碩勻](https://www.kobo.com/tw/en/ebook/c4-_tntTfTSDl-ktFq0KAQ) / 1%
 1. [[輕小說] 鬼滅之刃：幸福之花 (全) by 吾峠呼世晴, 矢島綾](https://www.kobo.com/tw/zh/ebook/bb4c7465-1229-4705-892d-13ae9628fedb) / 1% ---- 2019.12.16
 1. [[輕小說] 鬼滅之刃：單翅之蝶 (全) by 吾峠呼世晴, 矢島綾](https://www.kobo.com/tw/zh/ebook/219030c1-d284-450d-9018-0cfb24354ce9) / 1% ---- 2020.01.31
