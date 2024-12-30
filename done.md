@@ -15,6 +15,8 @@
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (24) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/y2GqC4P_ij67flpA12ApMA) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (25) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/EaDlSeSmfTOZ52hzlMYfaQ) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (26) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/6kOdpB12czGniMREW5wIjw) / 100%
+1. [Linux OpenLDAP 實戰指南 by 郭大勇](https://www.tenlong.com.tw/products/9789864761395) / 100%
+    1. [Linux/UNIX OpenLDAP 實戰指南 by 郭大勇](https://www.amazon.cn/dp/B01CCLUEUU) / 5%
 
 ## 2023
 
