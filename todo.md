@@ -16,6 +16,7 @@
 1. [實戰 Linux 系統數位鑑識 (Practical Linux Forensics: A Guide for Digital Investigators) by Bruce Nikkel](https://www.tenlong.com.tw/products/9786263242876) / 1%
 1. [CYBERSEC 2024 臺灣資安年鑑─AI 資安 2024 徹底剖析生成式 AI 資安攻防態勢 by iThome](https://www.tenlong.com.tw/products/9789860654332) / 1%
 1. [DevOps Handbook, 2/e 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren](https://www.tenlong.com.tw/products/9786263245440?list_name=srh) / 1%
+1. [OpenTelemetry 入門指南：建立全面可觀測性架構 by 雷 N](https://www.tenlong.com.tw/products/9786263338739) / 1%
 1. [圖解現代色彩學, 2/e by 陳鴻興, 蕭琇霙](https://www.taaze.tw/products/11100968471.html) / 1%
 1. [水性塗料筆塗教科書 by HOBBY JAPAN](https://www.taaze.tw/products/11101005537.html) / 1%
 1. [變形機器人の描繪技法：帥氣可愛的 3 種基本款 Q 版人物！ by 倉持恐龍](https://www.taaze.tw/products/11101011411.html) / 1%
