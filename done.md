@@ -6,6 +6,10 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+## 2025
+
+1. [柴友必備！跟柴柴心意相通的「柴犬使用手冊」：從相處與飼養知識、柴柴怪癖到有趣日常，最療癒的萌犬指南 by 影山直美](https://www.kobo.com/tw/zh/ebook/9VrqzAvDrziXDOGE0bWuyw) / 100%
+
 ## 2024
 
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (27) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/Croj_FzcbTG15dTcYlDIAQ) / 100%
