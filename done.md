@@ -9,6 +9,14 @@
 ## 2025
 
 1. [柴友必備！跟柴柴心意相通的「柴犬使用手冊」：從相處與飼養知識、柴柴怪癖到有趣日常，最療癒的萌犬指南 by 影山直美](https://www.kobo.com/tw/zh/ebook/9VrqzAvDrziXDOGE0bWuyw) / 100%
+1. [[輕小說] 我獨自升級 (01) by Chugong](https://www.kobo.com/tw/zh/ebook/zHF7eulscjqevER5oQPbgw) / 100%
+1. [[輕小說] 我獨自升級 (02) by Chugong](https://www.kobo.com/tw/zh/ebook/gtvEObgGyDmc94vfHVYFhw) / 100%
+1. [[輕小說] 我獨自升級 (03) by Chugong](https://www.kobo.com/tw/zh/ebook/q3X9NiAwMTq9OUCEqUFk1Q) / 100%
+1. [[輕小說] 我獨自升級 (04) by Chugong](https://www.kobo.com/tw/zh/ebook/M-7xWkYCXDCvrXQGd97M6w) / 100%
+1. [[輕小說] 我獨自升級 (05) by Chugong](https://www.kobo.com/tw/zh/ebook/caDpQKmRVTGJ3x7YqsW5Lg) / 100%
+1. [[輕小說] 我獨自升級 (06) by Chugong](https://www.kobo.com/tw/zh/ebook/95Oz44C8cjCPfQQW0Mhq0A) / 100%
+1. [[輕小說] 我獨自升級 (07) by Chugong](https://www.kobo.com/tw/zh/ebook/43zoqVHrHzmq5U-BeNseDg) / 100%
+1. [[輕小說] 我獨自升級 (08) by Chugong](https://www.kobo.com/tw/zh/ebook/oLjg2M1kpzaH4kYCmzfS5g) / 100%
 
 ## 2024
 
