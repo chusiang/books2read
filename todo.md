@@ -6,6 +6,7 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 80%
 1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
@@ -18,6 +19,7 @@
 1. [DevOps Handbook, 2/e 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren](https://www.tenlong.com.tw/products/9786263245440?list_name=srh) / 1%
 1. [OpenTelemetry 入門指南：建立全面可觀測性架構 by 雷 N](https://www.tenlong.com.tw/products/9786263338739) / 1%
 1. [圖解現代色彩學, 2/e by 陳鴻興, 蕭琇霙](https://www.taaze.tw/products/11100968471.html) / 1%
+1. [配色的魔法：能夠召喚幸運與感動的創意色彩學 (スピリチュアルカラーBook: 色の魔法で幸運を呼ぶ) by CR & LF 研究所](https://www.eslite.com/product/1001120321766473?srsltid=AfmBOopW0tlYMgdypLb0dCrhTeQ_9oh-qNk3NASPwBfg8fFED0frXC8_) / 1%
 1. [水性塗料筆塗教科書 by HOBBY JAPAN](https://www.taaze.tw/products/11101005537.html) / 1%
 1. [變形機器人の描繪技法：帥氣可愛的 3 種基本款 Q 版人物！ by 倉持恐龍](https://www.taaze.tw/products/11101011411.html) / 1%
 1. [場景模型製作與塗裝技術指南 1：地台、地貌與植被 by Ruben Gonzalez](https://www.taaze.tw/products/11101008731.html) / 1%
@@ -31,6 +33,9 @@
 1. [輕小說] 機動戰士 GUNDAM U.C. 0083 星塵回憶 (2) by 山口宏 / 1%
 1. [輕小說] 機動戰士 GUNDAM U.C. 0083 星塵回憶 (3) by 山口宏 / 1%
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0093 逆襲的夏亞 by 矢立肇, 富野由悠季](https://shopee.tw/%E5%B0%8F%E8%AA%AA-%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB-GUNDAM-%E9%80%86%E8%A5%B2%E7%9A%84%E5%A4%8F%E4%BA%9E-%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88-%E5%85%A8%E4%B8%80%E5%8D%B7-i.419320108.18810652711) / 1%
+1. 環太平洋 (Pacific Rim) by Alexander C. Irvine / 1%
+1. 環太平洋 2：電霆再起 (Pacific Rim Uprising) by Alexander C. Irvine / 1%
+1. 環太平洋前傳：破曉之光 (Pacific Rim Uprising: Ascension) by Greg Keyes / 1%
 1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
 1. [減法的力量：全美最啟迪人心的跨領域教授，帶你發現｢少，才更好｣ (Subtract: The Untapped Science of Less)](https://www.kobo.com/tw/zh/ebook/535bac1b-6450-4a0d-97e3-54e18b47329d) / 1%
 1. [哈佛商業評論最有影響力的 30 篇文章 by Harvard Business Review](https://www.kobo.com/tw/zh/ebook/tImf89Hs2jOhJPkPp2Ls4A) / 1%
