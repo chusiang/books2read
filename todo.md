@@ -50,6 +50,7 @@
 1. [QBQ！的 5 項修練：實踐個人擔當，創造人生優勢 by John G. Miller](https://www.taaze.tw/sing.html?pid=11311863576) / 1%
 1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
 1. [突破困境！企業開源虛擬化管理平台：使用 Proxmox Virtual Environment by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864349616)
+1. [我往哪裡去：再度單身者的幸福派對 (Where do i go from here: Bold living after unwanted change) by Miriam Neff](https://www.taaze.tw/products/11316206888.html) / 1%
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
 1. [軟體架構師全方位提升指南：數位轉型企業中架構師角色的新定義 (The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise) by Gregor Hohpe](https://www.tenlong.com.tw/products/9786263241800) / 1%
 1. [Google 的軟體工程之道：程式設計經驗中吸取教訓 (Software Engineering at Google: Lessons Learned from Programming Over Time) by Titus Winters, Tom Manshreck, Hyrum Wright](https://www.tenlong.com.tw/products/9786263242630?list_name=srh) / 1%
