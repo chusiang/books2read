@@ -104,7 +104,7 @@
     * 《反脆弱》一書作者。
 30. [統計，改變了世界 (The lady tasting tea: how statistics revolutionized science in the twentieth century) by David Salsburg](https://www.taaze.tw/goods/11311189652.html) ✔
 31. [漫步華爾街：超越股市漲跌的成功投資策略 (A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing) by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/af5b0407-d02b-4b32-b457-b3c1d84cb91c) ✔
-32. [生活的經濟學](https://www.books.com.tw/products/0010035520)
+32. [生活的經濟學](https://www.books.com.tw/products/0010035520) ✔
 33. [決斷 2 秒間](https://www.books.com.tw/products/0010691640) ✔
 
 ## 附錄 ①：9 位日本書店專業店員談：「讓我深思的 1 本書」

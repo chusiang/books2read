@@ -205,7 +205,7 @@
 1. [隨機的致富陷阱：解開生活中的機率之謎 by Nassim Nicholas Taleb](https://www.books.com.tw/products/0010190362) / 0%
 1. [統計，改變了世界 (The lady tasting tea: how statistics revolutionized science in the twentieth century) by David Salsburg](https://www.taaze.tw/goods/11311189652.html) / 1%
 1. [漫步華爾街：超越股市漲跌的成功投資策略 (A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing) by Burton G. Malkiel](https://www.kobo.com/tw/zh/ebook/af5b0407-d02b-4b32-b457-b3c1d84cb91c) / 1%
-1. [生活的經濟學](https://www.books.com.tw/products/0010035520) / 0%
+1. [生活的經濟學](https://www.taaze.tw/products/11316704377.html) / 1%
 1. [決斷 2 秒間：擷取關鍵資訊，發揮不假思索的力量](https://www.books.com.tw/products/0010691640) / 1%
 1. 增加 19 倍銷售的廣告創意法 / 0%
 1. [作家之路：從英雄的旅程學習說一個好故事 (The Writer's Journey: Mythic Structure for Writers, 3/e) by Christopher Vogler](https://www.kobo.com/tw/zh/ebook/SRlZcYPAKDCRsOWUb9evNg) / 1%
