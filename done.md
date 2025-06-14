@@ -18,6 +18,7 @@
 1. [[輕小說] 我獨自升級 (07) by Chugong](https://www.kobo.com/tw/zh/ebook/43zoqVHrHzmq5U-BeNseDg) / 100%
 1. [[輕小說] 我獨自升級 (08) by Chugong](https://www.kobo.com/tw/zh/ebook/oLjg2M1kpzaH4kYCmzfS5g) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (28) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/53-F8838UzG4SfY7gqcdHw?sId=58e6e9bb7e75db0450d0ef5e624bc861) / 100%
+1. 鋼彈模型改造講座 by 青文 / 100%
 
 ## 2024
 
