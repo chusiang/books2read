@@ -19,6 +19,7 @@
 1. [[輕小說] 我獨自升級 (08) by Chugong](https://www.kobo.com/tw/zh/ebook/oLjg2M1kpzaH4kYCmzfS5g) / 100%
 1. [[輕小說] 爆肝工程師的異世界狂想曲 (28) by 愛七 ひろ](https://www.kobo.com/tw/zh/ebook/53-F8838UzG4SfY7gqcdHw?sId=58e6e9bb7e75db0450d0ef5e624bc861) / 100%
 1. 鋼彈模型改造講座 by 青文 / 100%
+1. [Gunpla Great Technique to Make on the Weekend -Recommendation of Gunpla Easy Finish- Mixing Ver. by 林哲平](https://www.books.com.tw/products/0010987680?sloc=main) / 100%
 
 ## 2024
 
