@@ -6,6 +6,11 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+## 2026
+
+1. [[輕小說] 安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～ (01) by 赤池宗](https://play.google.com/store/books/details?id=6Y9UEQAAQBAJ) / 100%
+1. [[輕小說] 安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～ (02) by 赤池宗](https://play.google.com/store/books/details?id=xY1oEQAAQBAJ) / 100%
+
 ## 2025
 
 1. [柴友必備！跟柴柴心意相通的「柴犬使用手冊」：從相處與飼養知識、柴柴怪癖到有趣日常，最療癒的萌犬指南 by 影山直美](https://www.kobo.com/tw/zh/ebook/9VrqzAvDrziXDOGE0bWuyw) / 100%
