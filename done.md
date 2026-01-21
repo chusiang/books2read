@@ -10,6 +10,7 @@
 
 1. [[輕小說] 安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～ (01) by 赤池宗](https://play.google.com/store/books/details?id=6Y9UEQAAQBAJ) / 100%
 1. [[輕小說] 安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～ (02) by 赤池宗](https://play.google.com/store/books/details?id=xY1oEQAAQBAJ) / 100%
+1. [[輕小說] 安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～ (03) by 赤池宗](https://www.kobo.com/tw/zh/ebook/msGeUUiunDKTBfo7NtVjeA) / 100%
 
 ## 2025
 
