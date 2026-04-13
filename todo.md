@@ -6,7 +6,6 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 80%
 1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
@@ -22,6 +21,9 @@
 1. [輕小說] 機動戰士 GUNDAM U.C. 0083 星塵回憶 (2) by 山口宏 / 1%
 1. [輕小說] 機動戰士 GUNDAM U.C. 0083 星塵回憶 (3) by 山口宏 / 1%
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0093 逆襲的夏亞 by 矢立肇, 富野由悠季](https://shopee.tw/%E5%B0%8F%E8%AA%AA-%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB-GUNDAM-%E9%80%86%E8%A5%B2%E7%9A%84%E5%A4%8F%E4%BA%9E-%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88-%E5%85%A8%E4%B8%80%E5%8D%B7-i.419320108.18810652711) / 1%
+1. [[輕小說] 機動戰士鋼彈 閃光的哈薩威 (上) by 富野由悠季](https://www.books.com.tw/products/0010990812?sloc=main) / 1%
+1. [[輕小說] 機動戰士鋼彈 閃光的哈薩威 (中) by 富野由悠季](https://www.books.com.tw/products/0011007387?sloc=main) / 1%
+1. [[輕小說] 機動戰士鋼彈 閃光的哈薩威 (下) by 富野由悠季](https://www.books.com.tw/products/0011024645?sloc=main) / 1%
 1. [突破困境！企業開源虛擬化管理平台：使用 Proxmox Virtual Environment by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864349616) / 20.3%
 1. [吃透 Ansible：核心源碼剖析與項目實戰 by 沈聰](https://www.tenlong.com.tw/products/9787111685807) / 1%
 1. [水性塗料筆塗教科書 by HOBBY JAPAN](https://www.taaze.tw/products/11101005537.html) / 1%
