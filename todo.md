@@ -11,32 +11,33 @@
 1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
 1. [SRE 實踐與開發平台指南：從團隊協作、原則、架構和趨勢掌握全局，做出精準決策 by 黃冠元 (Rick Hwang)](https://www.tenlong.com.tw/products/9786263334908) / 2%
-1. [駕馭組織 DevOps 六面向：變革、改善與規模化的全局策略 by Augustin Lu](https://www.tenlong.com.tw/products/9786263338432) / 1%
-1. [吃透 Ansible：核心源碼剖析與項目實戰 by 沈聰](https://www.tenlong.com.tw/products/9787111685807) / 1%
 1. [Staff 工程師之路：獻給個人貢獻者成長與改變的導航指南 (The Staff Engineer's Path) by Tanya Reilly](https://www.tenlong.com.tw/products/9786263246966) / 1%
-1. [實戰 Linux 系統數位鑑識 (Practical Linux Forensics: A Guide for Digital Investigators) by Bruce Nikkel](https://www.tenlong.com.tw/products/9786263242876) / 1%
-1. [CYBERSEC 2024 臺灣資安年鑑─AI 資安 2024 徹底剖析生成式 AI 資安攻防態勢 by iThome](https://www.tenlong.com.tw/products/9789860654332) / 1%
 1. [DevOps Handbook, 2/e 中文版：打造世界級技術組織的實踐指南 by Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren](https://www.tenlong.com.tw/products/9786263245440?list_name=srh) / 1%
-1. [OpenTelemetry 入門指南：建立全面可觀測性架構 by 雷 N](https://www.tenlong.com.tw/products/9786263338739) / 1%
 1. [圖解現代色彩學, 2/e by 陳鴻興, 蕭琇霙](https://www.taaze.tw/products/11100968471.html) / 1%
 1. [配色的魔法：能夠召喚幸運與感動的創意色彩學 (スピリチュアルカラーBook: 色の魔法で幸運を呼ぶ) by CR & LF 研究所](https://www.eslite.com/product/1001120321766473?srsltid=AfmBOopW0tlYMgdypLb0dCrhTeQ_9oh-qNk3NASPwBfg8fFED0frXC8_) / 1%
-1. [水性塗料筆塗教科書 by HOBBY JAPAN](https://www.taaze.tw/products/11101005537.html) / 1%
-1. [變形機器人の描繪技法：帥氣可愛的 3 種基本款 Q 版人物！ by 倉持恐龍](https://www.taaze.tw/products/11101011411.html) / 1%
-1. [場景模型製作與塗裝技術指南 1：地台、地貌與植被 by Ruben Gonzalez](https://www.taaze.tw/products/11101008731.html) / 1%
-1. [場景模型製作與塗裝技術指南 2：建築物與輔助配飾 by Ruben Gonzalez](https://www.taaze.tw/products/11101012434.html) / 1%
-1. [場景模型製作與塗裝技術指南 3：水、雪與冰 by Ruben Gonzalez](https://www.taaze.tw/products/11101018317.html) / 1%
-1. [女性普拉模的塗裝教科書 by Hobby Japan](https://www.books.com.tw/products/0010909676) / 1%
-1. [[輕小說] 機動戰士 GUNDAM U.C. 0079 "The one year war" history (1) by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
+1. [[輕小說] 機動戰士 GUNDAM U.C. 0079 "The one year war" history (1) by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 51.5%
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0079 "The one year war" history (2) by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0079 "The one year war" history (3) by 矢立肇, 富野由悠季](https://shopee.tw/%E3%80%90%E9%8B%BC%E5%BD%88-%E5%B0%8F%E8%AA%AA%E3%80%91%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM-U.C.0079-%E5%85%A83%E5%86%8A-%E5%AF%8C%E9%87%8E%E7%94%B1%E6%82%A0%E5%AD%A3-%E8%91%89%E5%BD%A2%E6%9B%B8%E5%BA%97%E5%90%8C%E6%AD%A5%E8%B2%A9%E5%94%AE%E4%B8%8B%E6%A8%99%E8%AB%8B%E5%85%88%E8%A9%A2%E5%95%8F%E5%BA%AB%E5%AD%98--i.7123931.16311080351) / 1%
 1. [輕小說] 機動戰士 GUNDAM U.C. 0083 星塵回憶 (1) by 山口宏 / 1%
 1. [輕小說] 機動戰士 GUNDAM U.C. 0083 星塵回憶 (2) by 山口宏 / 1%
 1. [輕小說] 機動戰士 GUNDAM U.C. 0083 星塵回憶 (3) by 山口宏 / 1%
 1. [[輕小說] 機動戰士 GUNDAM U.C. 0093 逆襲的夏亞 by 矢立肇, 富野由悠季](https://shopee.tw/%E5%B0%8F%E8%AA%AA-%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB-GUNDAM-%E9%80%86%E8%A5%B2%E7%9A%84%E5%A4%8F%E4%BA%9E-%E5%B0%96%E7%AB%AF%E5%87%BA%E7%89%88-%E5%85%A8%E4%B8%80%E5%8D%B7-i.419320108.18810652711) / 1%
+1. [突破困境！企業開源虛擬化管理平台：使用 Proxmox Virtual Environment by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864349616) / 20.3%
+1. [吃透 Ansible：核心源碼剖析與項目實戰 by 沈聰](https://www.tenlong.com.tw/products/9787111685807) / 1%
+1. [水性塗料筆塗教科書 by HOBBY JAPAN](https://www.taaze.tw/products/11101005537.html) / 1%
+1. [變形機器人の描繪技法：帥氣可愛的 3 種基本款 Q 版人物！ by 倉持恐龍](https://www.taaze.tw/products/11101011411.html) / 1%
+1. [場景模型製作與塗裝技術指南 1：地台、地貌與植被 by Ruben Gonzalez](https://www.taaze.tw/products/11101008731.html) / 1%
+1. [場景模型製作與塗裝技術指南 2：建築物與輔助配飾 by Ruben Gonzalez](https://www.taaze.tw/products/11101012434.html) / 1%
+1. [場景模型製作與塗裝技術指南 3：水、雪與冰 by Ruben Gonzalez](https://www.taaze.tw/products/11101018317.html) / 1%
+1. [女性普拉模的塗裝教科書 by Hobby Japan](https://www.books.com.tw/products/0010909676) / 1%
 1. 環太平洋 (Pacific Rim) by Alexander C. Irvine / 1%
 1. 環太平洋 2：電霆再起 (Pacific Rim Uprising) by Alexander C. Irvine / 1%
 1. 環太平洋前傳：破曉之光 (Pacific Rim Uprising: Ascension) by Greg Keyes / 1%
 1. [EQ：決定一生幸福與成就的永恆力量 (Emotional Intelligence: Why It Can Matter More Than IQ) by Daniel Goleman](https://www.books.com.tw/products/0010702291) / 1%
+1. [駕馭組織 DevOps 六面向：變革、改善與規模化的全局策略 by Augustin Lu](https://www.tenlong.com.tw/products/9786263338432) / 1%
+1. [實戰 Linux 系統數位鑑識 (Practical Linux Forensics: A Guide for Digital Investigators) by Bruce Nikkel](https://www.tenlong.com.tw/products/9786263242876) / 1%
+1. [CYBERSEC 2024 臺灣資安年鑑─AI 資安 2024 徹底剖析生成式 AI 資安攻防態勢 by iThome](https://www.tenlong.com.tw/products/9789860654332) / 1%
+1. [OpenTelemetry 入門指南：建立全面可觀測性架構 by 雷 N](https://www.tenlong.com.tw/products/9786263338739) / 1%
 1. [減法的力量：全美最啟迪人心的跨領域教授，帶你發現｢少，才更好｣ (Subtract: The Untapped Science of Less)](https://www.kobo.com/tw/zh/ebook/535bac1b-6450-4a0d-97e3-54e18b47329d) / 1%
 1. [哈佛商業評論最有影響力的 30 篇文章 by Harvard Business Review](https://www.kobo.com/tw/zh/ebook/tImf89Hs2jOhJPkPp2Ls4A) / 1%
 1. [卡片盒筆記：最高效思考筆記術，德國教授超強秘技，促進寫作、學習與思考，使你洞見源源不斷，成為專家 by 申克．艾倫斯](https://www.kobo.com/tw/zh/ebook/Fv9wzoJWijqUsdeEs8ZduA) / 1%
@@ -49,7 +50,6 @@
 1. [QBQ！問題背後的問題 by John G. Miller](https://www.tenlong.com.tw/products/9789573282129) / 2%
 1. [QBQ！的 5 項修練：實踐個人擔當，創造人生優勢 by John G. Miller](https://www.taaze.tw/sing.html?pid=11311863576) / 1%
 1. [你想通了嗎？解決問題之前，你該思考的 6 件事 by Donald C. Gause,  Gerald M. Weinberg](https://www.taaze.tw/usedList.html?oid=11100817043) / 1.1%
-1. [突破困境！企業開源虛擬化管理平台：使用 Proxmox Virtual Environment by 鄭郁霖 (Jason Cheng)](https://www.tenlong.com.tw/products/9789864349616)
 1. [我往哪裡去：再度單身者的幸福派對 (Where do i go from here: Bold living after unwanted change) by Miriam Neff](https://www.taaze.tw/products/11316206888.html) / 1%
 1. [Proxmox Cookbook by Wasim Ahmed](https://www.amazon.cn/dp/B012B1H8H8) / 5%
 1. [軟體架構師全方位提升指南：數位轉型企業中架構師角色的新定義 (The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise) by Gregor Hohpe](https://www.tenlong.com.tw/products/9786263241800) / 1%
