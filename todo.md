@@ -7,6 +7,15 @@
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (20) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/R92jliZwazi4_8vgYh7ZeA) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 眷族編年史 episode 琉 (02) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/episode-02) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (13) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/3ySJJsBu9j6QIU_xjPis9w) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (14) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/aDKelkwouza46cMxuCKo2Q) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿爾戈 前章 小丑行進 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/LoO5IjgwlDCTHmYbQDjoTw) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿爾戈 後章 英雄命運 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/lQaH85fuATWKm9ldazrfZg) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿斯特莉亞回憶錄 (01) 邪惡胎動 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/g8I4PA71UTWzb78n4gqHAQ) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿斯特莉亞回憶錄 (02) 正義失墜 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/H1hKb3LfrT-PJRum_NlZ9A) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿斯特莉亞回憶錄 (03) 正邪決戰 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/03-end-185) / 1%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 掌篇集 (01) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/ljDdi2sPPjWYVHMs-K62rQ) / 1%
 1. [和艦長一起 30 天玩轉 GitLab by 陳正瑋](https://www.tenlong.com.tw/products/9789864345311) / 80%
 1. [聽她講 ── 日本企業的經營祕密：東京頂尖行銷人的產業觀察 by 她講](https://www.kobo.com/tw/zh/ebook/_pyuLJrQMziFAMBOUf9_4A) / 5%
 1. [駭客思維：抓出生活中的不合理，優化你的人生 (Hacking Life: Systematized Living and Its Discontents) by Joseph M. Reagle Jr.](https://www.kobo.com/tw/zh/ebook/RP6FtH7K-Tmxio8-h_-Ufw) / 26%
@@ -91,6 +100,10 @@
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (16) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Ar_v4t5TvTiUVCtipNm6Aw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (17) by 伏瀬](https://www.kobo.com/tw/zh/ebook/JvizI8ThGz6LhRiRmBSwkg) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (18) by 伏瀬](https://www.kobo.com/tw/zh/ebook/rI-58HqecjqWqhef22oXpQ) / 1%
+1. [關於我轉生變成史萊姆這檔事 (19) by 伏瀬](https://www.kobo.com/tw/zh/ebook/6t0BQjkeYzqLMT9tzmWOhw) / 1%
+1. [關於我轉生變成史萊姆這檔事 (20) by 伏瀬](https://www.kobo.com/tw/zh/ebook/QkNR756h6DWfrlyURM7RJQ) / 1%
+1. [關於我轉生變成史萊姆這檔事 (21) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YYw69_xCtTamAB-FvwcNjA) / 1%
+1. [關於我轉生變成史萊姆這檔事 (22) by 伏瀬](https://www.kobo.com/tw/zh/ebook/PG2WrgDa7juotdTQjBTDdA) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
 1. [革新遊戲 Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers) by Dave Gray, Sunni Brown, James Macanufo](https://www.taaze.tw/products/11315877616.html) / 1%
 1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
@@ -693,6 +706,65 @@
 1. ~~ [10 天學會 Ruby on Rails：Web 2.0 網站架設速成 by 劉至浩, 孫以陶](https://www.tenlong.com.tw/products/9789864341351) / 1% ~~
 1. [你的名字。 by 新海誠](https://www.kobo.com/tw/zh/ebook/F3wV__bBczm7syvMAjlDRQ) / 1%
 1. [你的名字。 Another Side: Earthbound by 加納新太](https://www.kobo.com/tw/zh/ebook/another-side-earthbound) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (1) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/mMzIW32A5DydeHYgD8r_PQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (2) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/DUPz01MtlTWwMnPgmXkRtQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (3) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/LF_QSX_PMj-k5rNp55mjKQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (4) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/JLsf5BKaHTeIqhIa2ihCnQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (5) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/_2buurobWzCSalNc94MLtQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (6) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/0dGEqMzKdTKteQPYaaYaaQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (7) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/O3ZkSWfpfDO585pfx44vmQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (8) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/xGPn9yd6Zza6m5PJtBj2ow) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (9) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/AE0jLiIxEzatmsxMaJvQTQ) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (10) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/f-DMmkudoTKOUy3bzPkI_Q) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (11) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/GtshyruKJDuFNrM8qM3-nw) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (12) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/cYMN4ecU6zWNY8pHVt0aNA) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (13) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/VJyqX0ibfzWk3ZvRej3KWw) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (14) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/6hYVHwNVqzymlPbUnzWrBg) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (15) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/HdVGM4GFtjOlLJOOxDeSmw) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (16) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/iHsngbDEjz2H7NDoSHySlA) / 1%
+1. [怕痛的我，把防禦力點滿就對了 (17) by 夕蜜柑](https://www.kobo.com/tw/zh/ebook/6nwVQHGOxDinw2c0j-VruQ) / 1%
+1. [我是星際國家的惡德領主！(1) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/uH622zuipD-85XxN5_luUw) / 1%
+1. [我是星際國家的惡德領主！(2) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/y09nBMXVPDSRHznDHSwtCw) / 1%
+1. [我是星際國家的惡德領主！(3) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/HcXEqCVR4TS6Y1fhdvDW2Q) / 1%
+1. [我是星際國家的惡德領主！(4) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/NpFn-waEKj-WAr8b2eMeYA) / 1%
+1. [我是星際國家的惡德領主！(5) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/F1HULbpdPDSDqx5niYEVyw) / 1%
+1. [我是星際國家的惡德領主！(6) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/uTzJLCYbsTe01o-D_QG3LQ) / 1%
+1. [我是星際國家的惡德領主！(7) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/taJs6QhdvzylFz-aZ_DVwA) / 1%
+1. [我是星際國家的惡德領主！(8) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/UiucL756HD-zmKw3YtwNMw) / 1%
+1. [我是星際國家的惡德領主！(9) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/QcoBrD2qMziHrSAXr42nng) / 1%
+1. [我是星際國家的英雄騎士！(1) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/6XCg8N0c-DmyjsQnEWRW2w) / 1%
+1. [我是星際國家的英雄騎士！(2) by 三嶋与夢](https://www.kobo.com/tw/zh/ebook/-XmpxeNitj29JxGcSgW_wg) / 1%
+1. [86 - 不存在的戰區 - (1)](https://www.kobo.com/tw/zh/ebook/5-TkHQWY6DquKW68qMAtrQ) / 1%
+1. [86 - 不存在的戰區 - (2)](https://www.kobo.com/tw/zh/ebook/qwRhBsqN7TW6W4cSCsBWNQ) / 1%
+1. [86 - 不存在的戰區 - (3)](https://www.kobo.com/tw/zh/ebook/a07521blojazk1Cy2cmSzQ) / 1%
+1. [86 - 不存在的戰區 - (4)](https://www.kobo.com/tw/zh/ebook/4bzoRlRWpjO8ptinNQkUhA) / 1%
+1. [86 - 不存在的戰區 - (5)](https://www.kobo.com/tw/zh/ebook/4LvhoCWmCD60Mc6RuAbpqA) / 1%
+1. [86 - 不存在的戰區 - (6)](https://www.kobo.com/tw/zh/ebook/HYNiLxTuszydwLTPo07U8Q) / 1%
+1. [86 - 不存在的戰區 - (7)](https://www.kobo.com/tw/zh/ebook/dBSalzO3GDWeg9CJ-2294Q) / 1%
+1. [86 - 不存在的戰區 - (8)](https://www.kobo.com/tw/zh/ebook/JPdKD8TuXDuFbeNb7ACSQA) / 1%
+1. [86 - 不存在的戰區 - (9)](https://www.kobo.com/tw/zh/ebook/xH2mHspX8TedbIIz6qCr6w) / 1%
+1. [86 - 不存在的戰區 - (10)](https://www.kobo.com/tw/zh/ebook/z90choz0FTSRSPDXl4nbGg) / 1%
+1. [86 - 不存在的戰區 - (11)](https://www.kobo.com/tw/zh/ebook/-vpw0Hy-Ojy0RJl9bsU-GQ) / 1%
+1. [86 - 不存在的戰區 - (12)](https://www.kobo.com/tw/zh/ebook/wNiCOYGfvTShrKG304f7KA) / 1%
+1. [86 - 不存在的戰區 - (13)](https://www.kobo.com/tw/zh/ebook/d1yUoUdgrjS1DpoG8X1Pyw) / 1%
+1. [86 - 不存在的戰區 -(Alter.1)](https://www.kobo.com/tw/zh/ebook/86-alter-1) / 1%
+1. [86 - 不存在的戰區 -(Alter.2)](https://www.kobo.com/tw/zh/ebook/86-alter-2) / 1%
+1. [擁有超常技能的異世界流浪美食家 (1) by 江口 連](https://www.kobo.com/tw/zh/ebook/oHqxXBa-fzOzybYohMhfhg) / 1%
+1. [擁有超常技能的異世界流浪美食家 (2) by 江口 連](https://www.kobo.com/tw/zh/ebook/r__PXQ8UoDCh_AKZ3sdeAg) / 1%
+1. [擁有超常技能的異世界流浪美食家 (3) by 江口 連](https://www.kobo.com/tw/zh/ebook/8QUlaMLUMjCWUqxHJ-YD3g) / 1%
+1. [擁有超常技能的異世界流浪美食家 (4) by 江口 連](https://www.kobo.com/tw/zh/ebook/Vy8GRAZ4DTqYgyjESVnkqg) / 1%
+1. [擁有超常技能的異世界流浪美食家 (5) by 江口 連](https://www.kobo.com/tw/zh/ebook/0QrRGKqS7DunkHuvNzzYAg) / 1%
+1. [擁有超常技能的異世界流浪美食家 (6) by 江口 連](https://www.kobo.com/tw/zh/ebook/nV5UQq0z3TWpEgR96lDs_Q) / 1%
+1. [擁有超常技能的異世界流浪美食家 (7) by 江口 連](https://www.kobo.com/tw/zh/ebook/YNCJXxtCcjyUjF1XPLdfaw) / 1%
+1. [擁有超常技能的異世界流浪美食家 (8) by 江口 連](https://www.kobo.com/tw/zh/ebook/M5sUTrpu_j6axxL6L98v_A) / 1%
+1. [擁有超常技能的異世界流浪美食家 (9) by 江口 連](https://www.kobo.com/tw/zh/ebook/cuDmYUCZKDqkP-IPRAWefQ) / 1%
+1. [擁有超常技能的異世界流浪美食家 (10) by 江口 連](https://www.kobo.com/tw/zh/ebook/ymJGBst8zDOPbvozbqd_lw) / 1%
+1. [擁有超常技能的異世界流浪美食家 (11) by 江口 連](https://www.kobo.com/tw/zh/ebook/lANSXJj2JT-9m7bf5vx5FQ) / 1%
+1. [擁有超常技能的異世界流浪美食家 (12) by 江口 連](https://www.kobo.com/tw/zh/ebook/LbOMNMf8_jeBTc6xdFDgQQ) / 1%
+1. [擁有超常技能的異世界流浪美食家 (13) by 江口 連](https://www.kobo.com/tw/zh/ebook/6qRt0vGivzaQFudMe4HhQg) / 1%
+1. [擁有超常技能的異世界流浪美食家 (14) by 江口 連](https://www.kobo.com/tw/zh/ebook/gAHaIEzQFD26lEPnqPmuOg) / 1%
+1. [擁有超常技能的異世界流浪美食家 (15) by 江口 連](https://www.kobo.com/tw/zh/ebook/jyQhqacjdTK0ShnVLW3Aug) / 1%
+1. [擁有超常技能的異世界流浪美食家 (16) by 江口 連](https://www.kobo.com/tw/zh/ebook/hki5zSqJBzaHrvIPb2AVQA) / 1%
 1. [魔法科高中的劣等生 (01) - 入學篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//07a06c3c-fcf2-4d58-8660-bbcf299b7861) / 1%
 1. [魔法科高中的劣等生 (02) - 入學篇＜下＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//196499e7-aa04-43e3-bd37-a56b622e681d) / 1%
 1. [魔法科高中的劣等生 (03) - 九校戰篇＜上＞ by 佐島勤](https://store.kobobooks.com/en-tw/book//bd946005-1f83-4a94-b2e2-870e314b3e3d) / 1%
