@@ -13,6 +13,7 @@
 1. [[輕小說] 安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～ (03) by 赤池宗](https://www.kobo.com/tw/zh/ebook/msGeUUiunDKTBfo7NtVjeA) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (18) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/NExVT6t2CjCMALfPEU-_Ng) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (19) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/NYx8WcwLtz-NPJlwgujQDg) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (20) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/R92jliZwazi4_8vgYh7ZeA) / 100%
 
 ## 2025
 
