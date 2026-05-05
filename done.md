@@ -16,6 +16,7 @@
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 (20) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/R92jliZwazi4_8vgYh7ZeA) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (13) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/3ySJJsBu9j6QIU_xjPis9w) / 100%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚 (14) by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/aDKelkwouza46cMxuCKo2Q) / 100%
+1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 眷族編年史 episode 琉 (02) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/episode-02) / 100%
 
 ## 2025
 

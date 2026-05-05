@@ -6,7 +6,6 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 眷族編年史 episode 琉 (02) by 大森 藤ノ](https://www.kobo.com/tw/zh/ebook/episode-02) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿爾戈 前章 小丑行進 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/LoO5IjgwlDCTHmYbQDjoTw) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿爾戈 後章 英雄命運 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/lQaH85fuATWKm9ldazrfZg) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿斯特莉亞回憶錄 (01) 邪惡胎動 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/g8I4PA71UTWzb78n4gqHAQ) / 1%
