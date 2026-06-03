@@ -6,6 +6,22 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 56%
+1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (04) by 夏海公司](https://www.kobo.com/tw/zh/ebook/61GMMggjPDi-JrMmzZEETQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (05) by 夏海公司](https://www.kobo.com/tw/zh/ebook/l47q7ki7qDCpCNmoop4odQ) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (06) by 夏海公司](https://www.kobo.com/tw/zh/ebook/I30w0kV0aTOT0MQuFzUPRA) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (07) by 夏海公司](https://www.kobo.com/tw/zh/ebook/IcRqkL7TMz6XK7x-yg4cRw) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (08) by 夏海公司](https://www.kobo.com/tw/zh/ebook/fgQTIl9BxjSvpckA7D2Fzw) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (09) by 夏海公司](https://www.kobo.com/tw/zh/ebook/ttZR6qzWtz6jDVW3Gcdq1A) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (10) by 夏海公司](https://www.kobo.com/tw/zh/ebook/eeedebf8-14fe-41a7-bb8d-646be162a2f5) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (11) by 夏海公司](https://www.kobo.com/tw/zh/ebook/12a86026-a176-492a-a93a-71c004dcbf96) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (12) by 夏海公司](https://www.kobo.com/tw/zh/ebook/a25e4267-6b82-4b3b-921f-702f46b5d189) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (13) by 夏海公司](https://www.kobo.com/tw/zh/ebook/57499f3a-c9ab-476c-aae1-ff380ebac562) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (14) by 夏海公司](https://www.kobo.com/tw/zh/ebook/624d1ca5-939d-4cb8-bcd0-4b43ceeaf0e6) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (15) by 夏海公司](https://www.kobo.com/tw/zh/ebook/73a22fc5-93fe-44d9-90b3-08dcfe63ea0d) / 1%
+1. [[輕小說] 奮鬥吧！系統工程師 (16) by 夏海公司](https://www.kobo.com/tw/zh/ebook/0a329430-4d3a-49cb-b34b-cc88d98173b9) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿爾戈 前章 小丑行進 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/LoO5IjgwlDCTHmYbQDjoTw) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿爾戈 後章 英雄命運 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/lQaH85fuATWKm9ldazrfZg) / 1%
 1. [[輕小說] 在地下城尋求邂逅是否搞錯了什麼 阿斯特莉亞回憶錄 (01) 邪惡胎動 by 大森藤ノ](https://www.kobo.com/tw/zh/ebook/g8I4PA71UTWzb78n4gqHAQ) / 1%
@@ -863,22 +879,6 @@
 1. [[輕小說] 前進吧！！高捷少女：禮贈 by 桐真．青次方](http://www.bookwalker.com.tw/product/8550) / 1%
 1. [[輕小說] 前進吧！！高捷少女：日常 by 啞鳴](http://www.bookwalker.com.tw/product/8953) / 1%
 1. [[輕小說] 前進吧！！高捷少女：音躍 by 陽炎](http://www.bookwalker.com.tw/product/8954) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (04) by 夏海公司](https://www.kobo.com/tw/zh/ebook/61GMMggjPDi-JrMmzZEETQ) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (05) by 夏海公司](https://www.kobo.com/tw/zh/ebook/l47q7ki7qDCpCNmoop4odQ) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (06) by 夏海公司](https://www.kobo.com/tw/zh/ebook/I30w0kV0aTOT0MQuFzUPRA) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (07) by 夏海公司](https://www.kobo.com/tw/zh/ebook/IcRqkL7TMz6XK7x-yg4cRw) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (08) by 夏海公司](https://www.kobo.com/tw/zh/ebook/fgQTIl9BxjSvpckA7D2Fzw) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (09) by 夏海公司](https://www.kobo.com/tw/zh/ebook/ttZR6qzWtz6jDVW3Gcdq1A) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (10) by 夏海公司](https://www.kobo.com/tw/zh/ebook/eeedebf8-14fe-41a7-bb8d-646be162a2f5) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (11) by 夏海公司](https://www.kobo.com/tw/zh/ebook/12a86026-a176-492a-a93a-71c004dcbf96) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (12) by 夏海公司](https://www.kobo.com/tw/zh/ebook/a25e4267-6b82-4b3b-921f-702f46b5d189) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (13) by 夏海公司](https://www.kobo.com/tw/zh/ebook/57499f3a-c9ab-476c-aae1-ff380ebac562) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (14) by 夏海公司](https://www.kobo.com/tw/zh/ebook/624d1ca5-939d-4cb8-bcd0-4b43ceeaf0e6) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (15) by 夏海公司](https://www.kobo.com/tw/zh/ebook/73a22fc5-93fe-44d9-90b3-08dcfe63ea0d) / 1%
-1. [[輕小說] 奮鬥吧！系統工程師 (16) by 夏海公司](https://www.kobo.com/tw/zh/ebook/0a329430-4d3a-49cb-b34b-cc88d98173b9) / 1%
 1. [[輕小說] 將夜 (01) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 2%
 1. [[輕小說] 將夜 (02) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
 1. [[輕小說] 將夜 (03) by 貓膩](https://www.amazon.cn/product-reviews/B079HPQQFF) / 1%
