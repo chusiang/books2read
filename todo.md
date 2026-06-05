@@ -6,7 +6,6 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-1. [[輕小說] 奮鬥吧！系統工程師 (01) by 夏海公司](https://www.kobo.com/tw/zh/ebook/CrwFj63t6TW1EcifibJb8A) / 56%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (04) by 夏海公司](https://www.kobo.com/tw/zh/ebook/61GMMggjPDi-JrMmzZEETQ) / 1%
