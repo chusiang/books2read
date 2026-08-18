@@ -6,6 +6,17 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 10%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (15) by 伏瀬](https://www.kobo.com/tw/zh/ebook/gQubhr9L-DGvA1nUGEi5bw) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (16) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Ar_v4t5TvTiUVCtipNm6Aw) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (17) by 伏瀬](https://www.kobo.com/tw/zh/ebook/JvizI8ThGz6LhRiRmBSwkg) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (18) by 伏瀬](https://www.kobo.com/tw/zh/ebook/rI-58HqecjqWqhef22oXpQ) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (19) by 伏瀬](https://www.kobo.com/tw/zh/ebook/6t0BQjkeYzqLMT9tzmWOhw) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (20) by 伏瀬](https://www.kobo.com/tw/zh/ebook/QkNR756h6DWfrlyURM7RJQ) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (21) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YYw69_xCtTamAB-FvwcNjA) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (22) by 伏瀬](https://www.kobo.com/tw/zh/ebook/PG2WrgDa7juotdTQjBTDdA) / 1%
+1. [[輕小說] 關於我轉生變成史萊姆這檔事 (23) by 伏瀬](https://www.kobo.com/tw/zh/ebook/RJLYTCMK8DCToDPBUjyCYg) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (02) by 夏海公司](https://www.kobo.com/tw/zh/ebook/YVWWnZlrhjChenRcoPvoeQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (03) by 夏海公司](https://www.kobo.com/tw/zh/ebook/739-aQvyVTuB9syMR298xQ) / 1%
 1. [[輕小說] 奮鬥吧！系統工程師 (04) by 夏海公司](https://www.kobo.com/tw/zh/ebook/61GMMggjPDi-JrMmzZEETQ) / 1%
@@ -105,16 +116,6 @@
 1. [Gundam Weapons - Mobile Suit Gundam: F91 by Hobby Japan](https://www.books.com.tw/products/0010840264) / 1%
 1. [Gundam Weapons - Mobile Suit Gundam: Seed Destiny by Hobby Japan](https://www.taaze.tw/goods/11311546424.html) / 1%
 1. [HJ Mechanics by Hobby Japan](https://shopee.tw/HJ%E7%A7%91%E5%B9%BB%E6%A8%A1%E5%9E%8B%E4%BD%9C%E5%93%81%E7%B2%BE%E9%81%B8%E9%8C%84-i.20570968.2402036531) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 8%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (15) by 伏瀬](https://www.kobo.com/tw/zh/ebook/gQubhr9L-DGvA1nUGEi5bw) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (16) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Ar_v4t5TvTiUVCtipNm6Aw) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (17) by 伏瀬](https://www.kobo.com/tw/zh/ebook/JvizI8ThGz6LhRiRmBSwkg) / 1%
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (18) by 伏瀬](https://www.kobo.com/tw/zh/ebook/rI-58HqecjqWqhef22oXpQ) / 1%
-1. [關於我轉生變成史萊姆這檔事 (19) by 伏瀬](https://www.kobo.com/tw/zh/ebook/6t0BQjkeYzqLMT9tzmWOhw) / 1%
-1. [關於我轉生變成史萊姆這檔事 (20) by 伏瀬](https://www.kobo.com/tw/zh/ebook/QkNR756h6DWfrlyURM7RJQ) / 1%
-1. [關於我轉生變成史萊姆這檔事 (21) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YYw69_xCtTamAB-FvwcNjA) / 1%
-1. [關於我轉生變成史萊姆這檔事 (22) by 伏瀬](https://www.kobo.com/tw/zh/ebook/PG2WrgDa7juotdTQjBTDdA) / 1%
 1. [敏捷管理生存指南：不是快，而是適者生存 (The Agile Management Survival Guide) by 林裕丞 (Yves Lin)](https://www.acrossbeavers.com/merchandises/bc099011-9c6c-4afb-b733-aafb6e0f2e3c) 25%
 1. [革新遊戲 Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers) by Dave Gray, Sunni Brown, James Macanufo](https://www.taaze.tw/products/11315877616.html) / 1%
 1. [nanoblock 迷你積木作品公式手冊 by グラフィック社](https://www.taaze.tw/goods/24300008969.html) / 1%
