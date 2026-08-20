@@ -6,7 +6,6 @@
 
 以下分別為 `閱讀順序.` `書名` / `進度`。
 
-1. [[輕小說] 關於我轉生變成史萊姆這檔事 (13.5) by 伏瀬](https://www.kobo.com/tw/zh/ebook/YOylwW_Z6jKJP7HpcEr0Ig) / 10%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (14) by 伏瀬](https://www.kobo.com/tw/zh/ebook/98dbbd0b-b583-410d-81f9-a6fd1df3c973) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (15) by 伏瀬](https://www.kobo.com/tw/zh/ebook/gQubhr9L-DGvA1nUGEi5bw) / 1%
 1. [[輕小說] 關於我轉生變成史萊姆這檔事 (16) by 伏瀬](https://www.kobo.com/tw/zh/ebook/Ar_v4t5TvTiUVCtipNm6Aw) / 1%
